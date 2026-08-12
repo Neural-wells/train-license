@@ -1,0 +1,816 @@
+[
+  {
+    "nl": "aanhangwagen",
+    "fr": "remorque",
+    "en": "trailer",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.24", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "aanwijzingsbord",
+    "fr": "signal d'indication",
+    "en": "information sign",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 71", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "achteruitrijden",
+    "fr": "marche arrière",
+    "en": "reversing",
+    "note": { "en": "Reversing is a manoeuvre: the driver performing it must give way to other road users." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 12.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "ademanalyse",
+    "fr": "analyse de l'haleine",
+    "en": "breath analysis",
+    "note": { "en": "The evidential measurement of alcohol concentration, as opposed to the preliminary breath test." },
+    "citation": { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 59", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+  },
+  {
+    "nl": "ademtest",
+    "fr": "test de l'haleine",
+    "en": "breath test",
+    "citation": { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 59", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+  },
+  {
+    "nl": "alcoholopname",
+    "fr": "imprégnation alcoolique",
+    "en": "alcohol intoxication",
+    "note": { "en": "Statutory term for driving with a measured alcohol concentration (colloquially 'alcoholintoxicatie'); distinct from the state of drunkenness." },
+    "citation": { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 34", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+  },
+  {
+    "nl": "auto",
+    "fr": "véhicule automobile",
+    "en": "motor car",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.21", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "autobus",
+    "fr": "autobus",
+    "en": "bus",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.65", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "autocar",
+    "fr": "autocar",
+    "en": "coach",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.66", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "autosnelweg",
+    "fr": "autoroute",
+    "en": "motorway",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "autoweg",
+    "fr": "route pour automobiles",
+    "en": "motor road",
+    "note": { "en": "A road reserved for motor traffic (signs F9/F11) that is not a motorway; different speed and access rules apply." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "bebouwde kom",
+    "fr": "agglomération",
+    "en": "built-up area",
+    "note": { "en": "Delimited by signs F1/F3; default limit 50 km/h, but 30 km/h region-wide in Brussels-Capital since 2021." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.12", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "bestuurder",
+    "fr": "conducteur",
+    "en": "driver",
+    "note": { "en": "Anyone who drives a vehicle or guides animals on the public road, including cyclists and horse riders." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.13", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "betalend parkeren",
+    "fr": "stationnement payant",
+    "en": "paid parking",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.33", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "bevoegd persoon",
+    "fr": "agent qualifié",
+    "en": "authorised official",
+    "note": { "en": "An official empowered to direct traffic; their instructions override traffic lights, signs and rules." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "bewonerskaart",
+    "fr": "carte de riverain",
+    "en": "resident parking card",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.52", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "bijzondere overrijdbare bedding",
+    "fr": "site spécial franchissable",
+    "en": "special crossable lane",
+    "note": { "en": "A lane reserved for public transport (trams/buses) that other vehicles may cross only where permitted." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 72.6", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "blauwe zone",
+    "fr": "zone bleue",
+    "en": "blue zone",
+    "note": { "en": "Common name for a limited-time parking zone where the parking disc is mandatory." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 27.1 (parkeren met beperkte parkeertijd)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "bromfiets",
+    "fr": "cyclomoteur",
+    "en": "moped",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.17", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "bromfiets klasse A",
+    "fr": "cyclomoteur classe A",
+    "en": "class A moped",
+    "note": { "en": "Moped limited to 25 km/h by design." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.17", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "bromfiets klasse B",
+    "fr": "cyclomoteur classe B",
+    "en": "class B moped",
+    "note": { "en": "Moped limited to 45 km/h by design; includes speed pedelecs as a subcategory." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.17", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "busstrook",
+    "fr": "bande bus",
+    "en": "bus lane",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 72.5", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "dimlicht",
+    "fr": "feu de croisement",
+    "en": "dipped-beam headlight",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 30", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "doorlopende streep",
+    "fr": "ligne continue",
+    "en": "solid line",
+    "note": { "en": "A solid white longitudinal line may not be crossed or straddled." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 72.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "dronkenschap",
+    "fr": "ivresse",
+    "en": "drunkenness",
+    "note": { "en": "The observed state of being drunk (or in a similar state from drugs or medication), distinct from a measured alcohol concentration." },
+    "citation": { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 35", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+  },
+  {
+    "nl": "erf",
+    "fr": "zone de rencontre",
+    "en": "meeting zone (erf)",
+    "note": { "en": "Same 20 km/h shared-space rules as a woonerf, but not primarily residential (e.g. shopping or historic areas)." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.32", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "fietser",
+    "fr": "cycliste",
+    "en": "cyclist",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.15.1 (rijwiel)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "fietspad",
+    "fr": "piste cyclable",
+    "en": "cycle path",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.7", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "fietszone",
+    "fr": "zone cyclable",
+    "en": "cycle zone",
+    "note": { "en": "Formerly 'fietsstraat/rue cyclable': cyclists may use the full lane, motor vehicles may not overtake them and are limited to 30 km/h." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.61", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "gebodsbord",
+    "fr": "signal d'obligation",
+    "en": "mandatory sign",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 69", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "gelijkgrondse berm",
+    "fr": "accotement de plain-pied",
+    "en": "level verge",
+    "note": { "en": "Verge at the same level as the carriageway, as opposed to a raised verge." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.41", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "gemotoriseerd rijwiel",
+    "fr": "cycle motorisé",
+    "en": "motorised cycle",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.15.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "geparkeerd voertuig",
+    "fr": "véhicule en stationnement",
+    "en": "parked vehicle",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.23", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "gevaarsbord",
+    "fr": "signal de danger",
+    "en": "danger warning sign",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 66", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "grootlicht",
+    "fr": "feu de route",
+    "en": "main-beam headlight",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 30", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "haaientanden",
+    "fr": "dents de requin",
+    "en": "shark's teeth (give-way markings)",
+    "note": { "en": "Statutory wording: a transverse line formed by white triangles, marking where drivers must give way." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 76.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "inhalen",
+    "fr": "dépassement",
+    "en": "overtaking",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 16", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "inschrijvingsbewijs",
+    "fr": "certificat d'immatriculation",
+    "en": "registration certificate",
+    "citation": { "source": "KB 20/07/2001 betreffende de inschrijving van voertuigen" }
+  },
+  {
+    "nl": "keren",
+    "fr": "demi-tour",
+    "en": "U-turn",
+    "note": { "en": "Making a U-turn is a manoeuvre: the driver must give way to other road users." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 12.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "keuringsbewijs",
+    "fr": "certificat de visite",
+    "en": "inspection certificate",
+    "note": { "en": "The document issued after the periodic roadworthiness test; the French statutory name 'certificat de visite' is non-obvious." },
+    "citation": { "source": "KB 15/03/1968 (technisch reglement van de auto's)" }
+  },
+  {
+    "nl": "kinderbeveiligingssysteem",
+    "fr": "dispositif de retenue pour enfants",
+    "en": "child restraint system",
+    "note": { "en": "Child seat or booster; mandatory in Belgium for children under 135 cm." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 35", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "kruisen",
+    "fr": "croisement",
+    "en": "passing oncoming traffic",
+    "note": { "en": "Meeting a road user coming from the opposite direction; done on the right in Belgium." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 15", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "kruispunt",
+    "fr": "carrefour",
+    "en": "intersection",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.9", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "kwetsbare weggebruiker",
+    "fr": "usager plus vulnérable",
+    "en": "vulnerable road user",
+    "note": { "en": "The code obliges drivers to take extra care towards more vulnerable road users, notably cyclists and pedestrians." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 7.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "lading",
+    "fr": "chargement",
+    "en": "load",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.54", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "lage emissiezone",
+    "fr": "zone de basses émissions",
+    "en": "low-emission zone (LEZ)",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.63", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "maneuver",
+    "fr": "manœuvre",
+    "en": "manoeuvre",
+    "note": { "en": "A driver performing a manoeuvre (e.g. changing lanes, reversing, pulling out) must give way to other road users." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 12.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "maximale toegelaten massa",
+    "fr": "masse maximale autorisée",
+    "en": "maximum authorised mass (MAM)",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.28", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "middenberm",
+    "fr": "terre-plein",
+    "en": "central reservation",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.44", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "middenrijbaan",
+    "fr": "chaussée à voie centrale",
+    "en": "central carriageway",
+    "note": { "en": "Road layout with one central lane for motor traffic and side strips on either side." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.71", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "motorfiets",
+    "fr": "motocyclette",
+    "en": "motorcycle",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.18", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "motorvoertuig",
+    "fr": "véhicule à moteur",
+    "en": "motor vehicle",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.16", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "onderbord",
+    "fr": "panneau additionnel",
+    "en": "supplementary panel",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 65", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "onderbroken streep",
+    "fr": "ligne discontinue",
+    "en": "broken line",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 72.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "onmiddellijke inning",
+    "fr": "perception immédiate",
+    "en": "immediate collection (on-the-spot fine)",
+    "citation": { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 65", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+  },
+  {
+    "nl": "onmiddellijke intrekking van het rijbewijs",
+    "fr": "retrait immédiat du permis de conduire",
+    "en": "immediate withdrawal of the driving licence",
+    "citation": { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 55", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+  },
+  {
+    "nl": "openbare weg",
+    "fr": "voie publique",
+    "en": "public road",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 1 (toepassingsgebied)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "oranjegeel knipperlicht",
+    "fr": "feu jaune-orange clignotant",
+    "en": "flashing amber light",
+    "note": { "en": "Signals danger and allows passing with extra caution; it does not remove the applicable priority rules." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 64 (verkeersknipperlichten)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "oversteekplaats voor fietsers en bestuurders van tweewielige bromfietsen",
+    "fr": "passage pour cyclistes et conducteurs de cyclomoteurs à deux roues",
+    "en": "cycle crossing",
+    "note": { "en": "Marked by two broken lines of white squares; crossing cyclists do not have priority unless the crossing is controlled." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 76.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "oversteekplaats voor voetgangers",
+    "fr": "passage pour piétons",
+    "en": "pedestrian crossing",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 76.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "overtreding van de derde graad",
+    "fr": "infraction du troisième degré",
+    "en": "third-degree offence",
+    "citation": { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 29 en KB 30/09/2005", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+  },
+  {
+    "nl": "overtreding van de eerste graad",
+    "fr": "infraction du premier degré",
+    "en": "first-degree offence",
+    "note": { "en": "Belgian traffic offences are classified in four degrees of increasing severity; the first degree is the least serious." },
+    "citation": { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 29 en KB 30/09/2005", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+  },
+  {
+    "nl": "overtreding van de tweede graad",
+    "fr": "infraction du deuxième degré",
+    "en": "second-degree offence",
+    "citation": { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 29 en KB 30/09/2005", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+  },
+  {
+    "nl": "overtreding van de vierde graad",
+    "fr": "infraction du quatrième degré",
+    "en": "fourth-degree offence",
+    "note": { "en": "The most serious degree, involving direct danger to persons; entails licence withdrawal and court referral." },
+    "citation": { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 29 en KB 30/09/2005", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+  },
+  {
+    "nl": "overweg",
+    "fr": "passage à niveau",
+    "en": "level crossing",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.11", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "pad",
+    "fr": "sentier",
+    "en": "path",
+    "note": { "en": "A narrow public way suitable only for pedestrians and two-wheelers." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.5", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "parkeerkaart voor personen met een handicap",
+    "fr": "carte de stationnement pour personnes handicapées",
+    "en": "disabled parking card",
+    "citation": { "source": "KB 07/05/1999 betreffende de parkeerkaart voor mensen met een handicap" }
+  },
+  {
+    "nl": "parkeerschijf",
+    "fr": "disque de stationnement",
+    "en": "parking disc",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 27.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "parkeerstrook",
+    "fr": "bande de stationnement",
+    "en": "parking strip",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.73", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "parkeren",
+    "fr": "stationnement",
+    "en": "parking",
+    "note": { "en": "Leaving a vehicle standing longer than needed to let people in or out or to load/unload." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.23", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "pechstrook",
+    "fr": "bande d'arrêt d'urgence",
+    "en": "hard shoulder",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.62", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "plaatselijk verkeer",
+    "fr": "circulation locale",
+    "en": "local traffic",
+    "note": { "en": "Access category used on 'excepté circulation locale' signs; includes residents, visitors and services of the street." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.47", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "plein",
+    "fr": "place",
+    "en": "square",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.10", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "praktisch examen",
+    "fr": "examen pratique",
+    "en": "practical driving exam",
+    "citation": { "source": "KB 23/03/1998 betreffende het rijbewijs" }
+  },
+  {
+    "nl": "prioritair voertuig",
+    "fr": "véhicule prioritaire",
+    "en": "priority vehicle (emergency vehicle)",
+    "note": { "en": "A vehicle fitted with blue flashing lights and a special siren, e.g. police, fire or ambulance." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 37", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "reddingsstrook",
+    "fr": "couloir de secours",
+    "en": "emergency corridor",
+    "note": { "en": "The free lane drivers must form between queues of stopped or slow traffic so emergency vehicles can pass." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.70", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "richtingaanwijzer",
+    "fr": "indicateur de direction",
+    "en": "direction indicator",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 19", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "richtingsverandering",
+    "fr": "changement de direction",
+    "en": "change of direction (turning)",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 19", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "rijbaan",
+    "fr": "chaussée",
+    "en": "carriageway",
+    "note": { "en": "The part of the public road arranged for vehicle traffic in general." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "rijbewijs",
+    "fr": "permis de conduire",
+    "en": "driving licence",
+    "citation": { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 21", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+  },
+  {
+    "nl": "rijstrook",
+    "fr": "bande de circulation",
+    "en": "traffic lane",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "rijwiel",
+    "fr": "cycle",
+    "en": "cycle",
+    "note": { "en": "Any vehicle with pedals propelled by its occupants; includes bicycles and electric bicycles." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.15.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "ritsen",
+    "fr": "tirette",
+    "en": "zipper merging",
+    "note": { "en": "When a lane ends in congested traffic, drivers merge alternately just before the narrowing; the merging driver has priority over one vehicle." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 12bis", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "rotonde",
+    "fr": "rond-point",
+    "en": "roundabout",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.39", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "schoolomgeving",
+    "fr": "abords d'école",
+    "en": "school environment",
+    "note": { "en": "The zone around a school entrance, signposted and usually limited to 30 km/h." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.37", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "schoolstraat",
+    "fr": "rue scolaire",
+    "en": "school street",
+    "note": { "en": "A street temporarily closed to motor vehicles at school start and end times." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.68", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "sleep",
+    "fr": "train de véhicules",
+    "en": "vehicle combination",
+    "note": { "en": "Vehicles coupled together and driven as one unit, e.g. car plus trailer." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.25", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "speed pedelec",
+    "fr": "speed pedelec",
+    "en": "speed pedelec",
+    "note": { "en": "Fast electric bicycle with pedal assistance up to 45 km/h; legally a subcategory of class B moped." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.17", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "speekseltest",
+    "fr": "test salivaire",
+    "en": "saliva test",
+    "note": { "en": "Roadside screening test for drug driving." },
+    "citation": { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 61bis", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+  },
+  {
+    "nl": "speelstraat",
+    "fr": "rue réservée au jeu",
+    "en": "play street",
+    "note": { "en": "A street temporarily reserved for playing; only residents and priority vehicles may drive in, at walking pace." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.36", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "spitsstrook",
+    "fr": "bande réservée aux heures de pointe",
+    "en": "peak-hour lane",
+    "note": { "en": "A hard shoulder or extra lane opened to traffic only during rush hour, indicated by lane signals." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.64", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "stilstaan",
+    "fr": "arrêt",
+    "en": "stopping",
+    "note": { "en": "Standing still no longer than needed to let people in or out or to load/unload; anything longer is parking." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.22", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "stilstaand voertuig",
+    "fr": "véhicule à l'arrêt",
+    "en": "stopped vehicle",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.22", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "stopstreep",
+    "fr": "ligne d'arrêt",
+    "en": "stop line",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 76.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "straat",
+    "fr": "rue",
+    "en": "street",
+    "note": { "en": "Defined in the code as a public road in a built-up area, bordered by buildings." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.38", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "technische keuring",
+    "fr": "contrôle technique",
+    "en": "periodic vehicle inspection",
+    "citation": { "source": "KB 15/03/1968 (technisch reglement van de auto's)" }
+  },
+  {
+    "nl": "theoretisch examen",
+    "fr": "examen théorique",
+    "en": "theory exam",
+    "citation": { "source": "KB 23/03/1998 betreffende het rijbewijs" }
+  },
+  {
+    "nl": "trottoir",
+    "fr": "trottoir",
+    "en": "sidewalk",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.40", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "veiligheidsgordel",
+    "fr": "ceinture de sécurité",
+    "en": "seat belt",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 35", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "verbodsbord",
+    "fr": "signal d'interdiction",
+    "en": "prohibitory sign",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 68", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "verdrijvingsvlak",
+    "fr": "zone d'évitement",
+    "en": "hatched area",
+    "note": { "en": "White-hatched marking on the road surface that drivers may not use." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 77", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "verhoogde berm",
+    "fr": "accotement en saillie",
+    "en": "raised verge",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.42", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "verhoogde inrichting",
+    "fr": "dispositif surélevé",
+    "en": "raised traffic-calming device",
+    "note": { "en": "Speed bumps and raised plateaus used to slow traffic." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.74", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "verkeersbord",
+    "fr": "signal routier",
+    "en": "road sign",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 65", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "verkeersbord betreffende de voorrang",
+    "fr": "signal relatif à la priorité",
+    "en": "priority sign",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 67", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "verkeersbord betreffende het stilstaan en het parkeren",
+    "fr": "signal relatif à l'arrêt et au stationnement",
+    "en": "stopping and parking sign",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 70", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "verkeersgeleider",
+    "fr": "îlot directionnel",
+    "en": "traffic island",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.43", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "verkeerslicht",
+    "fr": "signal lumineux de circulation",
+    "en": "traffic light",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 61 (driekleurige verkeerslichten)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "verval van het recht tot sturen",
+    "fr": "déchéance du droit de conduire",
+    "en": "disqualification from driving",
+    "note": { "en": "A court-imposed ban on driving, possibly with reinstatement exams; distinct from administrative licence withdrawal." },
+    "citation": { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 38", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+  },
+  {
+    "nl": "verzekeringsbewijs",
+    "fr": "certificat d'assurance",
+    "en": "insurance certificate",
+    "note": { "en": "Proof of the compulsory third-party motor liability insurance (the former 'green card')." },
+    "citation": { "source": "Wet 21/11/1989 betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen" }
+  },
+  {
+    "nl": "vluchtmisdrijf",
+    "fr": "délit de fuite",
+    "en": "hit-and-run (failure to stop)",
+    "note": { "en": "Fleeing the scene of an accident to escape identification; a serious criminal offence." },
+    "citation": { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 33", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+  },
+  {
+    "nl": "voertuig",
+    "fr": "véhicule",
+    "en": "vehicle",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.14", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "voetganger",
+    "fr": "piéton",
+    "en": "pedestrian",
+    "note": { "en": "Includes people pushing a bicycle or moped by hand or using a wheelchair at walking pace." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.46", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "voetgangerszone",
+    "fr": "zone piétonne",
+    "en": "pedestrian zone",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.35", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "voorlopig rijbewijs",
+    "fr": "permis de conduire provisoire",
+    "en": "provisional driving licence",
+    "note": { "en": "Learner's licence held between passing the theory exam and the practical exam; conditions differ by category and region." },
+    "citation": { "source": "KB 23/03/1998 betreffende het rijbewijs; KB 10/07/2006 (voorlopig rijbewijs categorie B)" }
+  },
+  {
+    "nl": "voorrang",
+    "fr": "priorité",
+    "en": "priority (right of way)",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 12", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "voorrang van rechts",
+    "fr": "priorité de droite",
+    "en": "priority to the right",
+    "note": { "en": "Default rule at uncontrolled intersections: the driver coming from the right has priority." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "voorrang verlenen",
+    "fr": "céder le passage",
+    "en": "to give way",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 12", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "voorrangsweg",
+    "fr": "route prioritaire",
+    "en": "priority road",
+    "note": { "en": "Road signposted B9 on which drivers have priority at every intersection until sign B11 ends it." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersbord B9)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "voortbewegingstoestel",
+    "fr": "engin de déplacement",
+    "en": "personal mobility device",
+    "note": { "en": "Covers e-scooters, hoverboards, mobility scooters and similar devices; specific age and speed rules apply." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.15.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "weg voorbehouden voor het verkeer van voetgangers, fietsers, ruiters en bestuurders van speed pedelecs",
+    "fr": "chemin réservé à la circulation des piétons, cyclistes, cavaliers et conducteurs de speed pedelecs",
+    "en": "path reserved for pedestrians, cyclists, horse riders and speed pedelecs",
+    "note": { "en": "Signposted F99a/F99b; motor vehicles are excluded except where an exception is signed." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.34", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "weggebruiker",
+    "fr": "usager",
+    "en": "road user",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.45", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "wegmarkering",
+    "fr": "marque routière",
+    "en": "road marking",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 72-77", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "woonerf",
+    "fr": "zone résidentielle",
+    "en": "residential zone (woonerf)",
+    "note": { "en": "Shared-space zone where pedestrians may use the full width of the road and vehicles are limited to 20 km/h." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.32", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "zijdelingse strook",
+    "fr": "bande latérale",
+    "en": "side strip",
+    "note": { "en": "The strip alongside the central carriageway of a 'middenrijbaan' road layout." },
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 2.72", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  },
+  {
+    "nl": "zone 30",
+    "fr": "zone 30",
+    "en": "30 km/h zone",
+    "citation": { "source": "Wegcode (KB 01/12/1975), Art. 22quater", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+  }
+]

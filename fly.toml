@@ -1,0 +1,26 @@
+# fly.toml — deploy with `fly deploy` (do NOT use `fly launch`)
+app = "train-license"
+primary_region = "ams"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  DB_PATH = "/data/train.db"
+  APP_URL = "https://train-license.fly.dev"
+  # CONTENT_BASE_URL = "https://<bucket>.fly.storage.tigris.dev"  # set after `fly storage create`
+
+[mounts]
+  source = "tl_data"
+  destination = "/data"
+
+[http_service]
+  internal_port = 3000
+  force_https = true
+  auto_stop_machines = "suspend"
+  auto_start_machines = true
+  min_machines_running = 0
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "512mb"
