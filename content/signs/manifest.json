@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "A1a",
+    "meaning": {
+      "nl": "Gevaarlijke bocht naar links",
+      "fr": "Virage dangereux à gauche",
+      "en": "Dangerous bend to the left"
+    },
+    "file": "signs/A1a.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A1a.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Belgian_road_sign_A1a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A1b",
+    "meaning": {
+      "nl": "Gevaarlijke bocht naar rechts",
+      "fr": "Virage dangereux à droite",
+      "en": "Dangerous bend to the right"
+    },
+    "file": "signs/A1b.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A1b.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Belgian_road_sign_A1b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A1c",
+    "meaning": {
+      "nl": "Dubbele bocht of opeenvolging van meer dan twee bochten, de eerste naar links",
+      "fr": "Double virage ou succession de plus de deux virages, le premier à gauche",
+      "en": "Double bend or series of bends, the first to the left"
+    },
+    "file": "signs/A1c.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A1c.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Belgian_road_sign_A1c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A1d",
+    "meaning": {
+      "nl": "Dubbele bocht of opeenvolging van meer dan twee bochten, de eerste naar rechts",
+      "fr": "Double virage ou succession de plus de deux virages, le premier à droite",
+      "en": "Double bend or series of bends, the first to the right"
+    },
+    "file": "signs/A1d.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A1d.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Belgian_road_sign_A1d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A3",
+    "meaning": {
+      "nl": "Gevaarlijke daling",
+      "fr": "Descente dangereuse",
+      "en": "Dangerous descent (steep downhill)"
+    },
+    "file": "signs/A3.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A3.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Belgian_road_sign_A3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A5",
+    "meaning": {
+      "nl": "Steile helling",
+      "fr": "Montée à forte inclinaison",
+      "en": "Steep ascent"
+    },
+    "file": "signs/A5.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A5.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Belgian_road_sign_A5.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A7a",
+    "meaning": {
+      "nl": "Rijbaanversmalling",
+      "fr": "Rétrécissement de la chaussée",
+      "en": "Road narrows (both sides)"
+    },
+    "file": "signs/A7a.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A7a.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Belgian_road_sign_A7a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A7b",
+    "meaning": {
+      "nl": "Rijbaanversmalling langs links",
+      "fr": "Rétrécissement de la chaussée par la gauche",
+      "en": "Road narrows on the left"
+    },
+    "file": "signs/A7b.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_A7b.svg",
+    "license": "Public domain",
+    "attribution": "Agentschap Wegen en Verkeer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Belgian_traffic_sign_A7b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A7c",
+    "meaning": {
+      "nl": "Rijbaanversmalling langs rechts",
+      "fr": "Rétrécissement de la chaussée par la droite",
+      "en": "Road narrows on the right"
+    },
+    "file": "signs/A7c.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A7c.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Belgian_road_sign_A7c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A9",
+    "meaning": {
+      "nl": "Beweegbare brug",
+      "fr": "Pont mobile",
+      "en": "Movable bridge"
+    },
+    "file": "signs/A9.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A9.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Belgian_road_sign_A9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A13",
+    "meaning": {
+      "nl": "Uitholling overdwars of ezelsrug",
+      "fr": "Cassis ou dos d'âne",
+      "en": "Dip or hump across the road"
+    },
+    "file": "signs/A13.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A13.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Belgian_road_sign_A13.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A14",
+    "meaning": {
+      "nl": "Verhoogde inrichting(en)",
+      "fr": "Dispositif(s) surélevé(s)",
+      "en": "Raised traffic calming device(s) ahead"
+    },
+    "file": "signs/A14.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A14.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Belgian_road_sign_A14.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A15",
+    "meaning": {
+      "nl": "Glibberige rijbaan",
+      "fr": "Chaussée glissante",
+      "en": "Slippery road"
+    },
+    "file": "signs/A15.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A15.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Belgian_road_sign_A15.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A21",
+    "meaning": {
+      "nl": "Oversteekplaats voor voetgangers",
+      "fr": "Passage pour piétons",
+      "en": "Pedestrian crossing ahead"
+    },
+    "file": "signs/A21.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A21.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Belgian_road_sign_A21.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A23",
+    "meaning": {
+      "nl": "Plaats waar speciaal veel kinderen komen",
+      "fr": "Endroit spécialement fréquenté par des enfants",
+      "en": "Area especially frequented by children"
+    },
+    "file": "signs/A23.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A23.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Belgian_road_sign_A23.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A25",
+    "meaning": {
+      "nl": "Oversteekplaats voor fietsers en bestuurders van tweewielige bromfietsen",
+      "fr": "Passage pour conducteurs de bicyclettes et de cyclomoteurs à deux roues",
+      "en": "Crossing for cyclists and moped riders ahead"
+    },
+    "file": "signs/A25.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A25.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Belgian_road_sign_A25.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A31",
+    "meaning": {
+      "nl": "Werken",
+      "fr": "Travaux",
+      "en": "Roadworks"
+    },
+    "file": "signs/A31.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A31.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Belgian_road_sign_A31.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A33",
+    "meaning": {
+      "nl": "Verkeerslichten",
+      "fr": "Signaux lumineux de circulation",
+      "en": "Traffic lights ahead"
+    },
+    "file": "signs/A33.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A33.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Belgian_road_sign_A33.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A41",
+    "meaning": {
+      "nl": "Overweg met slagbomen",
+      "fr": "Passage à niveau avec barrières",
+      "en": "Level crossing with barriers"
+    },
+    "file": "signs/A41.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A41.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Belgian_road_sign_A41.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A43",
+    "meaning": {
+      "nl": "Overweg zonder slagbomen",
+      "fr": "Passage à niveau sans barrières",
+      "en": "Level crossing without barriers"
+    },
+    "file": "signs/A43.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A43.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Belgian_road_sign_A43.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A45",
+    "meaning": {
+      "nl": "Overweg voor enkel spoor",
+      "fr": "Passage à niveau à voie unique",
+      "en": "Level crossing, single track (St Andrew's cross)"
+    },
+    "file": "signs/A45.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A45.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Belgian_road_sign_A45.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A47",
+    "meaning": {
+      "nl": "Overweg voor twee of meer sporen",
+      "fr": "Passage à niveau à deux ou plusieurs voies",
+      "en": "Level crossing, two or more tracks"
+    },
+    "file": "signs/A47.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A47.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Belgian_road_sign_A47.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A49",
+    "meaning": {
+      "nl": "Kruising van de openbare weg door een of meer in de rijbaan aangelegde sporen",
+      "fr": "Croisement de la voie publique par une ou plusieurs voies ferrées établies sur la chaussée",
+      "en": "Road crosses tram/rail tracks laid in the carriageway"
+    },
+    "file": "signs/A49.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A49.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Belgian_road_sign_A49.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A50",
+    "meaning": {
+      "nl": "File",
+      "fr": "File",
+      "en": "Traffic jam ahead"
+    },
+    "file": "signs/A50.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A50.svg",
+    "license": "Public domain",
+    "attribution": "FOD Mobiliteit, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Belgian_road_sign_A50.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "A51",
+    "meaning": {
+      "nl": "Gevaar dat niet door een speciaal symbool wordt bepaald (aard op onderbord)",
+      "fr": "Danger non défini par un symbole spécial (nature sur panneau additionnel)",
+      "en": "Other danger (nature shown on an additional panel)"
+    },
+    "file": "signs/A51.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A51.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Belgian_road_sign_A51.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "B1",
+    "meaning": {
+      "nl": "Voorrang verlenen",
+      "fr": "Céder le passage",
+      "en": "Give way"
+    },
+    "file": "signs/B1.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B1.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Belgian_road_sign_B1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "B3",
+    "meaning": {
+      "nl": "Verkeersbord dat het verkeersbord B1 aankondigt op de bij benadering aangeduide afstand",
+      "fr": "Signal annonçant le signal B1 à la distance approximativement indiquée",
+      "en": "Give way ahead (advance warning of B1, distance indicated)"
+    },
+    "file": "signs/B3.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B3.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Belgian_road_sign_B3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "B5",
+    "meaning": {
+      "nl": "Stoppen en voorrang verlenen",
+      "fr": "Marquer l'arrêt et céder le passage",
+      "en": "Stop and give way"
+    },
+    "file": "signs/B5.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B5.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Belgian_road_sign_B5.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "B7",
+    "meaning": {
+      "nl": "Verkeersbord dat het verkeersbord B5 aankondigt op de bij benadering aangeduide afstand",
+      "fr": "Signal annonçant le signal B5 à la distance approximativement indiquée",
+      "en": "Stop sign ahead (advance warning of B5, distance indicated)"
+    },
+    "file": "signs/B7.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B7.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Belgian_road_sign_B7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "B9",
+    "meaning": {
+      "nl": "Voorrangsweg",
+      "fr": "Voie prioritaire",
+      "en": "Priority road"
+    },
+    "file": "signs/B9.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B9.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Belgian_road_sign_B9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "B11",
+    "meaning": {
+      "nl": "Einde van voorrangsweg",
+      "fr": "Fin de voie prioritaire",
+      "en": "End of priority road"
+    },
+    "file": "signs/B11.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B11.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Belgian_road_sign_B11.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "B13",
+    "meaning": {
+      "nl": "Verkeersbord dat het verkeersbord B11 aankondigt op de bij benadering aangeduide afstand",
+      "fr": "Signal annonçant le signal B11 à la distance approximativement indiquée",
+      "en": "End of priority road ahead (advance warning of B11)"
+    },
+    "file": "signs/B13.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B13.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Belgian_road_sign_B13.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "B15",
+    "meaning": {
+      "nl": "Voorrang",
+      "fr": "Priorité de passage",
+      "en": "Priority at the next intersection"
+    },
+    "file": "signs/B15.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B15.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Belgian_road_sign_B15.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "B17",
+    "meaning": {
+      "nl": "Kruispunt waar de voorrang van rechts geldt",
+      "fr": "Carrefour où la priorité de droite est applicable",
+      "en": "Crossroads where priority to the right applies"
+    },
+    "file": "signs/B17.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B17.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Belgian_road_sign_B17.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "B19",
+    "meaning": {
+      "nl": "Smalle doorgang: gebod voorrang te verlenen aan de bestuurders die uit de tegenovergestelde richting komen",
+      "fr": "Passage étroit : obligation de céder le passage aux conducteurs venant en sens opposé",
+      "en": "Narrow passage: give way to oncoming traffic"
+    },
+    "file": "signs/B19.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B19.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Belgian_road_sign_B19.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "B21",
+    "meaning": {
+      "nl": "Smalle doorgang: voorrang ten opzichte van de bestuurders die uit de tegenovergestelde richting komen",
+      "fr": "Passage étroit : priorité de passage par rapport aux conducteurs venant en sens opposé",
+      "en": "Narrow passage: you have priority over oncoming traffic"
+    },
+    "file": "signs/B21.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B21.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Belgian_road_sign_B21.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "B22",
+    "meaning": {
+      "nl": "Fietsers en speed pedelecs mogen het rode of oranjegele verkeerslicht voorbijrijden om rechts af te slaan, mits voorrang te verlenen",
+      "fr": "Les cyclistes et speed pedelecs peuvent franchir le feu rouge ou jaune-orange pour tourner à droite, en cédant le passage",
+      "en": "Cyclists may turn right through a red or amber light, giving way to other road users"
+    },
+    "file": "signs/B22.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B22.svg",
+    "license": "Public domain",
+    "attribution": "Gigillo83, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Belgian_road_sign_B22.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "B23",
+    "meaning": {
+      "nl": "Fietsers en speed pedelecs mogen het rode of oranjegele verkeerslicht voorbijrijden om rechtdoor te rijden, mits voorrang te verlenen",
+      "fr": "Les cyclistes et speed pedelecs peuvent franchir le feu rouge ou jaune-orange pour continuer tout droit, en cédant le passage",
+      "en": "Cyclists may go straight ahead through a red or amber light, giving way to other road users"
+    },
+    "file": "signs/B23.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B23.svg",
+    "license": "Public domain",
+    "attribution": "Gigillo83, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Belgian_road_sign_B23.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C1",
+    "meaning": {
+      "nl": "Verboden richting voor iedere bestuurder",
+      "fr": "Sens interdit pour tout conducteur",
+      "en": "No entry for all drivers"
+    },
+    "file": "signs/C1.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C1.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Belgian_road_sign_C1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C3",
+    "meaning": {
+      "nl": "Verboden toegang, in beide richtingen, voor iedere bestuurder",
+      "fr": "Accès interdit, dans les deux sens, à tout conducteur",
+      "en": "Closed to all drivers in both directions"
+    },
+    "file": "signs/C3.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C3.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Belgian_road_sign_C3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C5",
+    "meaning": {
+      "nl": "Verboden toegang voor bestuurders van motorvoertuigen met meer dan twee wielen en van motorfietsen met zijspan",
+      "fr": "Accès interdit aux conducteurs de véhicules à moteur à plus de deux roues et de motocyclettes avec side-car",
+      "en": "No access for motor vehicles with more than two wheels (cars)"
+    },
+    "file": "signs/C5.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C5.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Belgian_road_sign_C5.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C7",
+    "meaning": {
+      "nl": "Verboden toegang voor bestuurders van motorfietsen",
+      "fr": "Accès interdit aux conducteurs de motocyclettes",
+      "en": "No access for motorcycles"
+    },
+    "file": "signs/C7.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C7.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Belgian_road_sign_C7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C9",
+    "meaning": {
+      "nl": "Verboden toegang voor bestuurders van bromfietsen",
+      "fr": "Accès interdit aux conducteurs de cyclomoteurs",
+      "en": "No access for mopeds"
+    },
+    "file": "signs/C9.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C9.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Belgian_road_sign_C9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C11",
+    "meaning": {
+      "nl": "Verboden toegang voor bestuurders van rijwielen",
+      "fr": "Accès interdit aux conducteurs de cycles",
+      "en": "No access for cycles"
+    },
+    "file": "signs/C11.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C11.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Belgian_road_sign_C11.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C19",
+    "meaning": {
+      "nl": "Verboden toegang voor voetgangers",
+      "fr": "Accès interdit aux piétons",
+      "en": "No access for pedestrians"
+    },
+    "file": "signs/C19.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C19.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Belgian_road_sign_C19.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C21",
+    "meaning": {
+      "nl": "Verboden toegang voor bestuurders van voertuigen waarvan de massa in beladen toestand hoger is dan de aangeduide massa",
+      "fr": "Accès interdit aux conducteurs de véhicules dont la masse en charge dépasse la masse indiquée",
+      "en": "No access for vehicles heavier than the indicated laden mass"
+    },
+    "file": "signs/C21.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C21.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Belgian_road_sign_C21.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C23",
+    "meaning": {
+      "nl": "Verboden toegang voor bestuurders van voertuigen gebouwd voor het vervoer van goederen",
+      "fr": "Accès interdit aux conducteurs de véhicules conçus et construits pour le transport de marchandises",
+      "en": "No access for goods vehicles"
+    },
+    "file": "signs/C23.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C23.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Belgian_road_sign_C23.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C29",
+    "meaning": {
+      "nl": "Verboden toegang voor bestuurders van voertuigen waarvan de hoogte, lading inbegrepen, groter is dan de aangeduide",
+      "fr": "Accès interdit aux conducteurs de véhicules ayant, chargement compris, une hauteur supérieure à celle indiquée",
+      "en": "No access for vehicles higher than indicated (load included)"
+    },
+    "file": "signs/C29.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C29.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Belgian_road_sign_C29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C31a",
+    "meaning": {
+      "nl": "Verbod aan het volgend kruispunt af te slaan naar links",
+      "fr": "Au prochain carrefour, interdiction de tourner à gauche",
+      "en": "No left turn at the next intersection"
+    },
+    "file": "signs/C31a.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_C31a.svg",
+    "license": "Public domain",
+    "attribution": "Userc11, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Belgian_traffic_sign_C31a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C31b",
+    "meaning": {
+      "nl": "Verbod aan het volgend kruispunt af te slaan naar rechts",
+      "fr": "Au prochain carrefour, interdiction de tourner à droite",
+      "en": "No right turn at the next intersection"
+    },
+    "file": "signs/C31b.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_C31b.svg",
+    "license": "Public domain",
+    "attribution": "Userc11, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Belgian_traffic_sign_C31b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C33",
+    "meaning": {
+      "nl": "Vanaf het verkeersbord tot en met het volgend kruispunt, verbod te keren",
+      "fr": "A partir du signal jusqu'au prochain carrefour inclus, interdiction de faire demi-tour",
+      "en": "No U-turn (from the sign up to and including the next intersection)"
+    },
+    "file": "signs/C33.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C33.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Belgian_road_sign_C33.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C35",
+    "meaning": {
+      "nl": "Verbod een gespan of een voertuig met meer dan twee wielen links in te halen, tot en met het volgend kruispunt",
+      "fr": "Interdiction de dépasser par la gauche un véhicule attelé ou un véhicule à plus de deux roues, jusqu'au prochain carrefour inclus",
+      "en": "No overtaking on the left of vehicles with more than two wheels"
+    },
+    "file": "signs/C35.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C35.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Belgian_road_sign_C35.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C37",
+    "meaning": {
+      "nl": "Einde van het verbod opgelegd door het verkeersbord C35",
+      "fr": "Fin de l'interdiction prévue par le signal C35",
+      "en": "End of the no-overtaking restriction (C35)"
+    },
+    "file": "signs/C37.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C37.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Belgian_road_sign_C37.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C43-30",
+    "meaning": {
+      "nl": "Verbod te rijden met een grotere snelheid dan 30 km per uur",
+      "fr": "Interdiction de circuler à une vitesse supérieure à 30 km à l'heure",
+      "en": "Maximum speed 30 km/h"
+    },
+    "file": "signs/C43-30.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C43_30.svg",
+    "license": "Public domain",
+    "attribution": "Jakka bouvier, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Belgian_road_sign_C43_30.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C43-50",
+    "meaning": {
+      "nl": "Verbod te rijden met een grotere snelheid dan 50 km per uur",
+      "fr": "Interdiction de circuler à une vitesse supérieure à 50 km à l'heure",
+      "en": "Maximum speed 50 km/h"
+    },
+    "file": "signs/C43-50.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C43_50.svg",
+    "license": "Public domain",
+    "attribution": "Jakka bouvier, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Belgian_road_sign_C43_50.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C43-70",
+    "meaning": {
+      "nl": "Verbod te rijden met een grotere snelheid dan 70 km per uur",
+      "fr": "Interdiction de circuler à une vitesse supérieure à 70 km à l'heure",
+      "en": "Maximum speed 70 km/h"
+    },
+    "file": "signs/C43-70.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C43_70.svg",
+    "license": "Public domain",
+    "attribution": "Jakka bouvier, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Belgian_road_sign_C43_70.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C43-90",
+    "meaning": {
+      "nl": "Verbod te rijden met een grotere snelheid dan 90 km per uur",
+      "fr": "Interdiction de circuler à une vitesse supérieure à 90 km à l'heure",
+      "en": "Maximum speed 90 km/h"
+    },
+    "file": "signs/C43-90.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C43_90.svg",
+    "license": "Public domain",
+    "attribution": "Jakka bouvier, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Belgian_road_sign_C43_90.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C43-120",
+    "meaning": {
+      "nl": "Verbod te rijden met een grotere snelheid dan 120 km per uur",
+      "fr": "Interdiction de circuler à une vitesse supérieure à 120 km à l'heure",
+      "en": "Maximum speed 120 km/h"
+    },
+    "file": "signs/C43-120.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C43_120.svg",
+    "license": "Public domain",
+    "attribution": "Jakka bouvier, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Belgian_road_sign_C43_120.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C45",
+    "meaning": {
+      "nl": "Einde van de snelheidsbeperking opgelegd door het verkeersbord C43",
+      "fr": "Fin de la limitation de vitesse imposée par le signal C43",
+      "en": "End of the C43 speed limit (shown here: end of 50 km/h)"
+    },
+    "file": "signs/C45.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_C45_50.svg",
+    "license": "Public domain",
+    "attribution": "Userc11, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Belgian_traffic_sign_C45_50.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "C46",
+    "meaning": {
+      "nl": "Einde van alle plaatselijke verbodsbepalingen opgelegd aan de voertuigen in beweging",
+      "fr": "Fin de toutes les interdictions locales imposées aux véhicules en mouvement",
+      "en": "End of all local prohibitions on moving vehicles"
+    },
+    "file": "signs/C46.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C46.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Belgian_road_sign_C46.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "D1",
+    "meaning": {
+      "nl": "Verplichting de door de pijl aangeduide richting te volgen",
+      "fr": "Obligation de suivre la direction indiquée par la flèche",
+      "en": "Mandatory direction (follow the arrow)"
+    },
+    "file": "signs/D1.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_D1a.svg",
+    "license": "Public domain",
+    "attribution": "Userc11, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Belgian_traffic_sign_D1a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "D3",
+    "meaning": {
+      "nl": "Verplichting één van de door de pijlen aangeduide richtingen te volgen",
+      "fr": "Obligation de suivre une des directions indiquées par les flèches",
+      "en": "Mandatory to follow one of the indicated directions"
+    },
+    "file": "signs/D3.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_D3a.svg",
+    "license": "Public domain",
+    "attribution": "Userc11, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Belgian_traffic_sign_D3a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "D5",
+    "meaning": {
+      "nl": "Verplicht rondgaand verkeer",
+      "fr": "Sens giratoire obligatoire",
+      "en": "Roundabout: mandatory direction of circulation"
+    },
+    "file": "signs/D5.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_D05.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Belgian_road_sign_D05.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "D7",
+    "meaning": {
+      "nl": "Verplicht fietspad",
+      "fr": "Piste cyclable obligatoire",
+      "en": "Compulsory cycle path"
+    },
+    "file": "signs/D7.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_D07.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Belgian_road_sign_D07.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "D9",
+    "meaning": {
+      "nl": "Deel van de openbare weg voorbehouden voor het verkeer van voetgangers, van fietsen en van tweewielige bromfietsen klasse A",
+      "fr": "Partie de la voie publique réservée à la circulation des piétons, des bicyclettes et des cyclomoteurs à deux roues classe A",
+      "en": "Segregated path reserved for pedestrians and cyclists (and class A mopeds)"
+    },
+    "file": "signs/D9.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_D9a.svg",
+    "license": "Public domain",
+    "attribution": "Userc11, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Belgian_traffic_sign_D9a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "D10",
+    "meaning": {
+      "nl": "Deel van de openbare weg voorbehouden voor het verkeer van voetgangers en fietsers",
+      "fr": "Partie de la voie publique réservée à la circulation des piétons et des cyclistes",
+      "en": "Shared path reserved for pedestrians and cyclists"
+    },
+    "file": "signs/D10.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_D10.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Belgian_road_sign_D10.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "D11",
+    "meaning": {
+      "nl": "Verplichte weg voor voetgangers",
+      "fr": "Chemin obligatoire pour les piétons",
+      "en": "Compulsory path for pedestrians"
+    },
+    "file": "signs/D11.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_D11.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Belgian_road_sign_D11.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "D13",
+    "meaning": {
+      "nl": "Verplichte weg voor ruiters",
+      "fr": "Chemin obligatoire pour les cavaliers",
+      "en": "Compulsory path for horse riders"
+    },
+    "file": "signs/D13.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_D13.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Belgian_road_sign_D13.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "E1",
+    "meaning": {
+      "nl": "Parkeerverbod",
+      "fr": "Stationnement interdit",
+      "en": "No parking"
+    },
+    "file": "signs/E1.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E1.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Belgian_road_sign_E1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "E3",
+    "meaning": {
+      "nl": "Stilstaan en parkeren verboden",
+      "fr": "Arrêt et stationnement interdits",
+      "en": "No stopping or parking"
+    },
+    "file": "signs/E3.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E3.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Belgian_road_sign_E3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "E5",
+    "meaning": {
+      "nl": "Parkeerverbod van de 1e tot de 15e van de maand",
+      "fr": "Stationnement interdit du 1er au 15 du mois",
+      "en": "No parking from the 1st to the 15th of the month"
+    },
+    "file": "signs/E5.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E5.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Belgian_road_sign_E5.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "E7",
+    "meaning": {
+      "nl": "Parkeerverbod van de 16e tot het einde van de maand",
+      "fr": "Stationnement interdit du 16 à la fin du mois",
+      "en": "No parking from the 16th to the end of the month"
+    },
+    "file": "signs/E7.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E7.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Belgian_road_sign_E7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "E9a",
+    "meaning": {
+      "nl": "Parkeren toegelaten",
+      "fr": "Stationnement autorisé",
+      "en": "Parking allowed"
+    },
+    "file": "signs/E9a.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_E9a.svg",
+    "license": "Public domain",
+    "attribution": "Userc11, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Belgian_traffic_sign_E9a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "E9b",
+    "meaning": {
+      "nl": "Parkeren uitsluitend voor motorfietsen, personenauto's, auto's voor dubbelgebruik en minibussen",
+      "fr": "Stationnement réservé aux motocyclettes, aux voitures, voitures mixtes et minibus",
+      "en": "Parking reserved for motorcycles, cars and minibuses"
+    },
+    "file": "signs/E9b.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E9b.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Belgian_road_sign_E9b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "E9e",
+    "meaning": {
+      "nl": "Verplicht parkeren op de berm of op het trottoir",
+      "fr": "Stationnement obligatoire sur l'accotement ou sur le trottoir",
+      "en": "Parking mandatory on the verge or pavement"
+    },
+    "file": "signs/E9e.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E9e.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Belgian_road_sign_E9e.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "E11",
+    "meaning": {
+      "nl": "Halfmaandelijks beurtelings parkeren in gans de bebouwde kom",
+      "fr": "Stationnement semi-mensuel dans toute l'agglomération",
+      "en": "Half-monthly alternate-side parking throughout the built-up area"
+    },
+    "file": "signs/E11.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E11.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Belgian_road_sign_E11.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "ZE1",
+    "meaning": {
+      "nl": "Begin van een zone met parkeerverbod (zonale geldigheid van E1)",
+      "fr": "Début d'une zone de stationnement interdit (validité zonale du signal E1)",
+      "en": "Start of a no-parking zone (zonal E1)"
+    },
+    "file": "signs/ZE1.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_ZE1.svg",
+    "license": "Public domain",
+    "attribution": "Agentschap Wegen en Verkeer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Belgian_traffic_sign_ZE1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F1",
+    "meaning": {
+      "nl": "Begin van een bebouwde kom (varianten F1a/F1b)",
+      "fr": "Commencement d'une agglomération (variantes F1a/F1b)",
+      "en": "Beginning of a built-up area"
+    },
+    "file": "signs/F1.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_F1a_verticaal.svg",
+    "license": "Public domain",
+    "attribution": "Userc11, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Belgian_traffic_sign_F1a_verticaal.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F3",
+    "meaning": {
+      "nl": "Einde van een bebouwde kom (varianten F3a/F3b)",
+      "fr": "Fin d'une agglomération (variantes F3a/F3b)",
+      "en": "End of a built-up area"
+    },
+    "file": "signs/F3.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_F3a_verticaal.svg",
+    "license": "Public domain",
+    "attribution": "Userc11, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Belgian_traffic_sign_F3a_verticaal.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F4a",
+    "meaning": {
+      "nl": "Begin van een zone met een snelheidsbeperking van 30 km per uur",
+      "fr": "Commencement d'une zone dans laquelle la vitesse est limitée à 30 km à l'heure",
+      "en": "Start of a 30 km/h zone"
+    },
+    "file": "signs/F4a.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F4a.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Belgian_road_sign_F4a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F4b",
+    "meaning": {
+      "nl": "Einde van een zone met een snelheidsbeperking van 30 km per uur",
+      "fr": "Fin d'une zone dans laquelle la vitesse est limitée à 30 km à l'heure",
+      "en": "End of a 30 km/h zone"
+    },
+    "file": "signs/F4b.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F4b.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Belgian_road_sign_F4b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F5",
+    "meaning": {
+      "nl": "Begin of oprit van een autosnelweg",
+      "fr": "Commencement d'une autoroute ou accès à une autoroute",
+      "en": "Beginning of a motorway"
+    },
+    "file": "signs/F5.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F5.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Belgian_road_sign_F5.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F7",
+    "meaning": {
+      "nl": "Einde van een autosnelweg",
+      "fr": "Fin d'autoroute",
+      "en": "End of motorway"
+    },
+    "file": "signs/F7.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F7.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Belgian_road_sign_F7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F8",
+    "meaning": {
+      "nl": "Tunnel (met een lengte van meer dan 500 meter)",
+      "fr": "Tunnel (d'une longueur de plus de 500 mètres)",
+      "en": "Tunnel (longer than 500 m)"
+    },
+    "file": "signs/F8.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F8.svg",
+    "license": "Public domain",
+    "attribution": "Gigillo83, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Belgian_road_sign_F8.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F9",
+    "meaning": {
+      "nl": "Autoweg",
+      "fr": "Route pour automobiles",
+      "en": "Beginning of an expressway (motor road)"
+    },
+    "file": "signs/F9.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F9.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Belgian_road_sign_F9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F11",
+    "meaning": {
+      "nl": "Einde van een autoweg",
+      "fr": "Fin de route pour automobiles",
+      "en": "End of expressway (motor road)"
+    },
+    "file": "signs/F11.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F11.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Belgian_road_sign_F11.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F12a",
+    "meaning": {
+      "nl": "Begin van een woonerf of van een erf",
+      "fr": "Commencement d'une zone résidentielle ou d'une zone de rencontre",
+      "en": "Start of a residential/living street area (woonerf)"
+    },
+    "file": "signs/F12a.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F12a.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Belgian_road_sign_F12a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F12b",
+    "meaning": {
+      "nl": "Einde van een woonerf of van een erf",
+      "fr": "Fin d'une zone résidentielle ou d'une zone de rencontre",
+      "en": "End of a residential/living street area"
+    },
+    "file": "signs/F12b.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F12b.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Belgian_road_sign_F12b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F17",
+    "meaning": {
+      "nl": "Aanduiding van de rijstroken van een rijbaan met een strook voorbehouden voor autobussen",
+      "fr": "Indication des bandes de circulation d'une chaussée parmi lesquelles une est réservée aux autobus",
+      "en": "Lane layout with a lane reserved for buses (bus lane)"
+    },
+    "file": "signs/F17.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F17.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Belgian_road_sign_F17.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F19",
+    "meaning": {
+      "nl": "Openbare weg met eenrichtingsverkeer",
+      "fr": "Voie publique à sens unique",
+      "en": "One-way road"
+    },
+    "file": "signs/F19.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F19.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Belgian_road_sign_F19.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F45",
+    "meaning": {
+      "nl": "Doodlopende weg",
+      "fr": "Voie sans issue",
+      "en": "Dead end (no through road)"
+    },
+    "file": "signs/F45.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F45.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Belgian_road_sign_F45.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F45b",
+    "meaning": {
+      "nl": "Doodlopende weg, uitgezonderd voor voetgangers en fietsers",
+      "fr": "Voie sans issue, excepté pour les piétons et les cyclistes",
+      "en": "Dead end, except for pedestrians and cyclists"
+    },
+    "file": "signs/F45b.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F45b.svg",
+    "license": "Public domain",
+    "attribution": "Gigillo83, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Belgian_road_sign_F45b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F49",
+    "meaning": {
+      "nl": "Oversteekplaats voor voetgangers",
+      "fr": "Passage pour piétons",
+      "en": "Pedestrian crossing (at the crossing itself)"
+    },
+    "file": "signs/F49.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F49.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Belgian_road_sign_F49.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F87",
+    "meaning": {
+      "nl": "Verhoogde inrichting(en)",
+      "fr": "Dispositif(s) surélevé(s)",
+      "en": "Raised traffic calming device (speed bump / raised platform)"
+    },
+    "file": "signs/F87.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F87.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Belgian_road_sign_F87.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F95",
+    "meaning": {
+      "nl": "Noodstopstrook",
+      "fr": "Piste de détresse",
+      "en": "Emergency escape lane"
+    },
+    "file": "signs/F95.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F95.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Belgian_road_sign_F95.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F99a",
+    "meaning": {
+      "nl": "Begin van de weg voorbehouden voor het verkeer van voetgangers, fietsers, ruiters en bestuurders van speed pedelecs",
+      "fr": "Début du chemin réservé à la circulation des piétons, cyclistes, cavaliers et conducteurs de speed pedelecs",
+      "en": "Road reserved for pedestrians, cyclists, horse riders and speed pedelecs"
+    },
+    "file": "signs/F99a.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F99a.svg",
+    "license": "Public domain",
+    "attribution": "Vascer, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Belgian_road_sign_F99a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F103",
+    "meaning": {
+      "nl": "Begin van een voetgangerszone",
+      "fr": "Commencement d'une zone piétonne",
+      "en": "Start of a pedestrian zone"
+    },
+    "file": "signs/F103.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_F103.svg",
+    "license": "Public domain",
+    "attribution": "Userc11, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Belgian_traffic_sign_F103.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F105",
+    "meaning": {
+      "nl": "Einde van een voetgangerszone",
+      "fr": "Fin d'une zone piétonne",
+      "en": "End of a pedestrian zone"
+    },
+    "file": "signs/F105.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_F105.svg",
+    "license": "Public domain",
+    "attribution": "Userc11, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Belgian_traffic_sign_F105.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F111",
+    "meaning": {
+      "nl": "Begin van de fietszone",
+      "fr": "Début d'une zone cyclable",
+      "en": "Start of a cycle zone"
+    },
+    "file": "signs/F111.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F111.svg",
+    "license": "Public domain",
+    "attribution": "Gigillo83, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Belgian_road_sign_F111.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "code": "F113",
+    "meaning": {
+      "nl": "Einde van een fietszone",
+      "fr": "Fin d'une zone cyclable",
+      "en": "End of a cycle zone"
+    },
+    "file": "signs/F113.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F113.svg",
+    "license": "Public domain",
+    "attribution": "Gigillo83, via Wikimedia Commons (Public domain)",
+    "uploadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Belgian_road_sign_F113.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  }
+]
