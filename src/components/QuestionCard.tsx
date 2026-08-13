@@ -83,9 +83,13 @@ export function Feedback({ q, locale, chosen }: { q: Question; locale: Locale; c
           {q.citations.map((c, i) => (
             <span key={i}>
               {i > 0 && "; "}
-              <a href={c.url} target="_blank" rel="noreferrer" className="underline">
-                {c.source}
-              </a>
+              {c.url ? (
+                <a href={c.url} target="_blank" rel="noreferrer" className="underline">
+                  {c.source}
+                </a>
+              ) : (
+                c.source
+              )}
             </span>
           ))}
         </p>

@@ -1,0 +1,1153 @@
+{
+  "category": "vulnerable-users",
+  "questions": [
+    {
+      "id": "vulnerable-users-001",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Je nadert een oversteekplaats voor voetgangers waar het verkeer niet geregeld wordt. Een voetganger staat op het punt zich op de oversteekplaats te begeven. Wat doe je?",
+        "fr": "Vous approchez d'un passage pour piétons où la circulation n'est pas réglée. Un piéton est sur le point de s'engager sur le passage. Que faites-vous ?",
+        "en": "You approach a pedestrian crossing where traffic is not controlled. A pedestrian is about to step onto the crossing. What do you do?"
+      },
+      "options": [
+        {
+          "nl": "Je nadert met matige snelheid en verleent voorrang aan de voetganger.",
+          "fr": "Vous approchez à allure modérée et cédez le passage au piéton.",
+          "en": "You approach at moderate speed and give way to the pedestrian."
+        },
+        {
+          "nl": "Je rijdt door: de voetganger is nog niet aan het oversteken.",
+          "fr": "Vous continuez : le piéton n'a pas encore commencé à traverser.",
+          "en": "You drive on: the pedestrian has not started crossing yet."
+        },
+        {
+          "nl": "Je claxonneert om de voetganger te waarschuwen en rijdt door.",
+          "fr": "Vous klaxonnez pour avertir le piéton et poursuivez votre route.",
+          "en": "You sound your horn to warn the pedestrian and drive on."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Aan een oversteekplaats waar het verkeer niet geregeld wordt, mag je slechts met matige snelheid naderen en moet je voorrang verlenen aan voetgangers die zich erop bevinden of op het punt staan zich erop te begeven. Voorrang van voetgangers negeren is een overtreding van de derde graad.",
+        "fr": "À un passage où la circulation n'est pas réglée, vous ne pouvez approcher qu'à allure modérée et vous devez céder le passage aux piétons qui s'y trouvent ou sont sur le point de s'y engager. Ignorer la priorité des piétons est une infraction du troisième degré.",
+        "en": "At a crossing where traffic is not controlled, you may only approach at moderate speed and must give way to pedestrians who are on it or about to step onto it. Ignoring pedestrian priority is a third-degree offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 40.4.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-002",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Binnen de bebouwde kom vertraagt de auto vóór je bij het naderen van een oversteekplaats voor voetgangers zonder verkeerslichten. Mag je die auto inhalen?",
+        "fr": "En agglomération, la voiture devant vous ralentit à l'approche d'un passage pour piétons sans signaux lumineux. Pouvez-vous dépasser cette voiture ?",
+        "en": "In a built-up area the car ahead of you slows down while approaching a pedestrian crossing without traffic lights. May you overtake that car?"
+      },
+      "options": [
+        {
+          "nl": "Nee, inhalen bij het naderen van een oversteekplaats waar het verkeer niet geregeld wordt, is verboden.",
+          "fr": "Non, il est interdit de dépasser à l'approche d'un passage où la circulation n'est pas réglée.",
+          "en": "No, overtaking while approaching a crossing where traffic is not controlled is prohibited."
+        },
+        {
+          "nl": "Ja, als je geen voetgangers op of naast de oversteekplaats ziet.",
+          "fr": "Oui, si vous ne voyez aucun piéton sur le passage ou à proximité.",
+          "en": "Yes, if you see no pedestrians on or near the crossing."
+        },
+        {
+          "nl": "Ja, als je snel genoeg voorbij de oversteekplaats kan zijn.",
+          "fr": "Oui, si vous pouvez franchir le passage assez rapidement.",
+          "en": "Yes, if you can clear the crossing quickly enough."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Je mag een voertuig niet inhalen wanneer het een oversteekplaats voor voetgangers of fietsers nadert waar het verkeer niet geregeld wordt: de ingehaalde auto kan je zicht op overstekende voetgangers volledig ontnemen. Dit is een overtreding van de derde graad.",
+        "fr": "Vous ne pouvez pas dépasser un véhicule qui s'approche d'un passage pour piétons ou pour cyclistes où la circulation n'est pas réglée : le véhicule dépassé peut masquer complètement les piétons qui traversent. C'est une infraction du troisième degré.",
+        "en": "You may not overtake a vehicle that is approaching a pedestrian or cycle crossing where traffic is not controlled: the overtaken car can completely block your view of crossing pedestrians. This is a third-degree offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 17.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-003",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Aan de rand van de rijbaan staat een persoon met een witte stok die te kennen geeft dat hij wil oversteken. Wat doe je?",
+        "fr": "Au bord de la chaussée, une personne tenant une canne blanche fait comprendre qu'elle veut traverser. Que faites-vous ?",
+        "en": "At the edge of the carriageway a person holding a white cane indicates that they want to cross. What do you do?"
+      },
+      "options": [
+        {
+          "nl": "Je vertraagt en stopt zo nodig: tegenover blinden met een witte stok moet je dubbel voorzichtig zijn.",
+          "fr": "Vous ralentissez et vous vous arrêtez au besoin : vous devez redoubler de prudence envers les aveugles munis d'une canne blanche.",
+          "en": "You slow down and stop if necessary: you must be doubly careful toward blind persons with a white cane."
+        },
+        {
+          "nl": "Je claxonneert kort zodat de persoon weet dat je eraan komt.",
+          "fr": "Vous klaxonnez brièvement pour que la personne sache que vous arrivez.",
+          "en": "You sound your horn briefly so the person knows you are coming."
+        },
+        {
+          "nl": "Je rijdt gewoon door: er is hier geen oversteekplaats voor voetgangers.",
+          "fr": "Vous continuez simplement : il n'y a pas de passage pour piétons à cet endroit.",
+          "en": "You simply drive on: there is no pedestrian crossing here."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De wegcode verplicht bestuurders dubbel voorzichtig te zijn tegenover kinderen, bejaarden en personen met een handicap, in het bijzonder blinden met een witte of gele stok. Vertraag en stop indien nodig, ook buiten een oversteekplaats.",
+        "fr": "Le code de la route oblige les conducteurs à redoubler de prudence envers les enfants, les personnes âgées et les personnes handicapées, en particulier les aveugles munis d'une canne blanche ou jaune. Ralentissez et arrêtez-vous au besoin, même en dehors d'un passage.",
+        "en": "The traffic code requires drivers to be doubly careful toward children, the elderly and persons with a disability, in particular blind persons with a white or yellow cane. Slow down and stop if necessary, even away from a crossing."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 40.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-004",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "A23" },
+      "text": {
+        "nl": "Je ziet dit verkeersbord. Wat betekent het en hoe pas je je rijgedrag aan?",
+        "fr": "Vous voyez ce signal routier. Que signifie-t-il et comment adaptez-vous votre conduite ?",
+        "en": "You see this road sign. What does it mean and how do you adapt your driving?"
+      },
+      "options": [
+        {
+          "nl": "Plaats waar speciaal veel kinderen komen: je vertraagt en bent dubbel voorzichtig.",
+          "fr": "Endroit spécialement fréquenté par des enfants : vous ralentissez et redoublez de prudence.",
+          "en": "Area especially frequented by children: you slow down and are doubly careful."
+        },
+        {
+          "nl": "Oversteekplaats voor voetgangers op korte afstand.",
+          "fr": "Passage pour piétons à courte distance.",
+          "en": "Pedestrian crossing a short distance ahead."
+        },
+        {
+          "nl": "Verboden toegang voor voetgangers.",
+          "fr": "Accès interdit aux piétons.",
+          "en": "No access for pedestrians."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het gevaarsbord A23 waarschuwt voor een plaats waar speciaal veel kinderen komen, zoals een school of speelplein. Kinderen zijn onvoorspelbaar: verlaag je snelheid en wees dubbel voorzichtig.",
+        "fr": "Le signal de danger A23 avertit d'un endroit spécialement fréquenté par des enfants, comme une école ou une plaine de jeux. Les enfants sont imprévisibles : réduisez votre vitesse et redoublez de prudence.",
+        "en": "Danger warning sign A23 warns of an area especially frequented by children, such as a school or playground. Children are unpredictable: reduce your speed and be doubly careful."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 40.2 en Art. 66 (verkeersbord A23)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-005",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je slaat op een kruispunt af. Voetgangers steken de rijbaan over die je wil oprijden. Wie heeft voorrang?",
+        "fr": "Vous tournez à un carrefour. Des piétons traversent la chaussée sur laquelle vous allez vous engager. Qui a la priorité ?",
+        "en": "You turn at an intersection. Pedestrians are crossing the carriageway you are about to enter. Who has priority?"
+      },
+      "options": [
+        {
+          "nl": "De voetgangers: wie van richting verandert, moet voorrang verlenen aan voetgangers die de rijbaan oversteken die hij gaat oprijden.",
+          "fr": "Les piétons : le conducteur qui change de direction doit céder le passage aux piétons qui traversent la chaussée sur laquelle il va s'engager.",
+          "en": "The pedestrians: a driver changing direction must give way to pedestrians crossing the carriageway they are about to enter."
+        },
+        {
+          "nl": "Jij: voetgangers moeten wachten tot de rijbaan volledig vrij is.",
+          "fr": "Vous : les piétons doivent attendre que la chaussée soit entièrement libre.",
+          "en": "You: pedestrians must wait until the carriageway is completely clear."
+        },
+        {
+          "nl": "Wie het kruispunt het eerst heeft bereikt.",
+          "fr": "Celui qui a atteint le carrefour en premier.",
+          "en": "Whoever reached the intersection first."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een bestuurder die van richting verandert, moet voorrang verlenen aan de voetgangers die de rijbaan oversteken die hij gaat oprijden. Deze regel geldt ongeacht of er een oversteekplaats is gemarkeerd.",
+        "fr": "Un conducteur qui change de direction doit céder le passage aux piétons qui traversent la chaussée sur laquelle il va s'engager. Cette règle s'applique qu'un passage pour piétons soit marqué ou non.",
+        "en": "A driver changing direction must give way to pedestrians crossing the carriageway they are about to enter. This rule applies whether or not a pedestrian crossing is marked."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 19.5", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-006",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Een tram staat stil aan een halte zonder vluchtheuvel. Reizigers stappen uit aan de kant waar jij rijdt. Wat moet je doen?",
+        "fr": "Un tram est à l'arrêt à un arrêt sans îlot pour les voyageurs. Des voyageurs descendent du côté où vous circulez. Que devez-vous faire ?",
+        "en": "A tram is stopped at a stop without a refuge island. Passengers are alighting on the side where you are driving. What must you do?"
+      },
+      "options": [
+        {
+          "nl": "Stoppen, zodat de reizigers in alle veiligheid het trottoir of de berm kunnen bereiken.",
+          "fr": "Vous arrêter, pour que les voyageurs puissent atteindre le trottoir ou l'accotement en toute sécurité.",
+          "en": "Stop, so the passengers can reach the sidewalk or verge in complete safety."
+        },
+        {
+          "nl": "Met matige snelheid voorbijrijden en extra afstand houden van de tram.",
+          "fr": "Passer à allure modérée en gardant une distance supplémentaire par rapport au tram.",
+          "en": "Pass at moderate speed while keeping extra distance from the tram."
+        },
+        {
+          "nl": "Claxonneren en stapvoets doorrijden.",
+          "fr": "Klaxonner et poursuivre à l'allure du pas.",
+          "en": "Sound your horn and continue at walking pace."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bij afwezigheid van een vluchtheuvel aan de halte moet de bestuurder die rijdt langs de kant waar de reizigers in- of uitstappen, stoppen zodat zij veilig het voertuig, het trottoir of de berm kunnen bereiken. Enkel vertragen volstaat niet.",
+        "fr": "En l'absence d'îlot à l'arrêt, le conducteur qui circule du côté où les voyageurs montent ou descendent doit s'arrêter pour qu'ils puissent atteindre en sécurité le véhicule, le trottoir ou l'accotement. Ralentir seulement ne suffit pas.",
+        "en": "Where there is no refuge island at the stop, the driver travelling on the side where passengers board or alight must stop so they can safely reach the vehicle, the sidewalk or the verge. Merely slowing down is not enough."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 40.3.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-007",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je haalt met de auto een fietser in. Welke zijdelingse afstand moet je minstens laten?",
+        "fr": "Vous dépassez un cycliste en voiture. Quelle distance latérale minimale devez-vous laisser ?",
+        "en": "You overtake a cyclist in your car. What minimum lateral distance must you leave?"
+      },
+      "options": [
+        {
+          "nl": "Minstens 1 meter binnen de bebouwde kom en minstens 1,5 meter buiten de bebouwde kom.",
+          "fr": "Au moins 1 mètre en agglomération et au moins 1,5 mètre hors agglomération.",
+          "en": "At least 1 metre in a built-up area and at least 1.5 metres outside a built-up area."
+        },
+        {
+          "nl": "Minstens 0,5 meter, zowel binnen als buiten de bebouwde kom.",
+          "fr": "Au moins 0,5 mètre, en agglomération comme hors agglomération.",
+          "en": "At least 0.5 metres, both inside and outside built-up areas."
+        },
+        {
+          "nl": "Minstens 1 meter, zowel binnen als buiten de bebouwde kom.",
+          "fr": "Au moins 1 mètre, en agglomération comme hors agglomération.",
+          "en": "At least 1 metre, both inside and outside built-up areas."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bij het inhalen van een fietser moet je een zijdelingse afstand van minstens 1 meter laten binnen de bebouwde kom en minstens 1,5 meter buiten de bebouwde kom. Kan dat niet, dan mag je niet inhalen.",
+        "fr": "En dépassant un cycliste, vous devez laisser une distance latérale d'au moins 1 mètre en agglomération et d'au moins 1,5 mètre hors agglomération. Si ce n'est pas possible, vous ne pouvez pas dépasser.",
+        "en": "When overtaking a cyclist you must leave a lateral distance of at least 1 metre in a built-up area and at least 1.5 metres outside a built-up area. If that is not possible, you may not overtake."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 40ter", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-008",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Twee fietsers rijden naast elkaar op de rijbaan. Mag dat?",
+        "fr": "Deux cyclistes roulent côte à côte sur la chaussée. Est-ce permis ?",
+        "en": "Two cyclists are riding two abreast on the carriageway. Is that allowed?"
+      },
+      "options": [
+        {
+          "nl": "Ja, maar ze moeten achter elkaar gaan rijden wanneer kruisen niet mogelijk is en, buiten de bebouwde kom, wanneer een achteropkomend voertuig nadert.",
+          "fr": "Oui, mais ils doivent se remettre en file lorsque le croisement n'est pas possible et, hors agglomération, à l'approche d'un véhicule venant de l'arrière.",
+          "en": "Yes, but they must ride single file when passing oncoming traffic is not possible and, outside built-up areas, when a vehicle approaches from behind."
+        },
+        {
+          "nl": "Nee, fietsers moeten op de rijbaan altijd achter elkaar rijden.",
+          "fr": "Non, sur la chaussée les cyclistes doivent toujours rouler en file indienne.",
+          "en": "No, on the carriageway cyclists must always ride single file."
+        },
+        {
+          "nl": "Ja, altijd en zonder enige beperking.",
+          "fr": "Oui, toujours et sans aucune restriction.",
+          "en": "Yes, always and without any restriction."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Fietsers op de rijbaan mogen met twee naast elkaar rijden. Ze moeten achter elkaar gaan rijden wanneer het kruisen met tegenliggers niet mogelijk is, en buiten de bebouwde kom ook wanneer een achteropkomend voertuig nadert.",
+        "fr": "Les cyclistes sur la chaussée peuvent rouler à deux de front. Ils doivent se remettre en file lorsque le croisement n'est pas possible et, hors agglomération, également à l'approche d'un véhicule venant de l'arrière.",
+        "en": "Cyclists on the carriageway may ride two abreast. They must ride single file when passing oncoming traffic is not possible and, outside built-up areas, also when a vehicle approaches from behind."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 43.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-009",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "D7" },
+      "text": {
+        "nl": "Langs de rijbaan ligt een berijdbaar fietspad, aangeduid met dit verkeersbord. Moet een fietser dat fietspad gebruiken?",
+        "fr": "Le long de la chaussée se trouve une piste cyclable praticable, indiquée par ce signal. Un cycliste doit-il utiliser cette piste cyclable ?",
+        "en": "Alongside the carriageway there is a passable cycle path, indicated by this sign. Must a cyclist use that cycle path?"
+      },
+      "options": [
+        {
+          "nl": "Ja, als het fietspad berijdbaar is, moet de fietser het volgen.",
+          "fr": "Oui, si la piste cyclable est praticable, le cycliste doit l'emprunter.",
+          "en": "Yes, if the cycle path is passable, the cyclist must use it."
+        },
+        {
+          "nl": "Nee, het fietspad is een aanbeveling; de fietser mag ook op de rijbaan rijden.",
+          "fr": "Non, la piste cyclable est une recommandation ; le cycliste peut aussi rouler sur la chaussée.",
+          "en": "No, the cycle path is a recommendation; the cyclist may also ride on the carriageway."
+        },
+        {
+          "nl": "Alleen buiten de bebouwde kom.",
+          "fr": "Uniquement hors agglomération.",
+          "en": "Only outside built-up areas."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord D7 duidt een verplicht fietspad aan: wanneer het fietspad berijdbaar is en in de gevolgde rijrichting is gesignaleerd, moeten fietsers het gebruiken. Houd hier als automobilist rekening mee bij het afslaan.",
+        "fr": "Le signal D7 indique une piste cyclable obligatoire : lorsque la piste est praticable et signalée dans le sens suivi, les cyclistes doivent l'emprunter. En tant qu'automobiliste, tenez-en compte en tournant.",
+        "en": "Sign D7 indicates a compulsory cycle path: when the path is passable and signed in the direction of travel, cyclists must use it. As a car driver, take this into account when turning."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 9.1.2, 1°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-010",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "A25" },
+      "text": {
+        "nl": "Na dit verkeersbord bereik je een oversteekplaats voor fietsers zonder verkeerslichten. Een fietser staat klaar om over te steken. Heeft die fietser voorrang, zoals een voetganger op een zebrapad?",
+        "fr": "Après ce signal, vous atteignez un passage pour cyclistes sans signaux lumineux. Un cycliste s'apprête à traverser. Ce cycliste a-t-il la priorité, comme un piéton sur un passage pour piétons ?",
+        "en": "After this sign you reach a cycle crossing without traffic lights. A cyclist is waiting to cross. Does that cyclist have priority, like a pedestrian on a zebra crossing?"
+      },
+      "options": [
+        {
+          "nl": "Nee, de fietser moet voorrang verlenen; jij moet de oversteekplaats wel met matige snelheid naderen en fietsers die al oversteken niet in gevaar brengen.",
+          "fr": "Non, le cycliste doit céder le passage ; vous devez toutefois approcher à allure modérée et ne pas mettre en danger les cyclistes déjà engagés.",
+          "en": "No, the cyclist must give way; you must however approach at moderate speed and not endanger cyclists already crossing."
+        },
+        {
+          "nl": "Ja, op een oversteekplaats voor fietsers hebben fietsers dezelfde voorrang als voetgangers op een zebrapad.",
+          "fr": "Oui, sur un passage pour cyclistes, les cyclistes ont la même priorité que les piétons sur un passage pour piétons.",
+          "en": "Yes, at a cycle crossing cyclists have the same priority as pedestrians on a zebra crossing."
+        },
+        {
+          "nl": "Ja, maar alleen binnen de bebouwde kom.",
+          "fr": "Oui, mais uniquement en agglomération.",
+          "en": "Yes, but only in built-up areas."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Anders dan bij een oversteekplaats voor voetgangers heeft een fietser die wil oversteken op een niet-geregelde oversteekplaats voor fietsers géén voorrang. Jij moet wel met matige snelheid naderen en wie al aan het oversteken is niet in gevaar brengen of hinderen.",
+        "fr": "Contrairement au passage pour piétons, un cycliste qui veut traverser sur un passage pour cyclistes non réglé n'a pas la priorité. Vous devez toutefois approcher à allure modérée et ne pas mettre en danger ni gêner ceux qui traversent déjà.",
+        "en": "Unlike at a pedestrian crossing, a cyclist wanting to cross at an uncontrolled cycle crossing does not have priority. You must still approach at moderate speed and not endanger or hinder those already crossing."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 40ter en Art. 76.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-011",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "B22" },
+      "text": {
+        "nl": "Dit bord hangt bij een verkeerslicht. Wat mag een fietser hier?",
+        "fr": "Ce signal est placé près d'un feu de circulation. Que peut faire un cycliste ici ?",
+        "en": "This sign is placed at a traffic light. What may a cyclist do here?"
+      },
+      "options": [
+        {
+          "nl": "Rechts afslaan terwijl het licht rood of oranjegeel is, mits voorrang te verlenen aan de andere weggebruikers.",
+          "fr": "Tourner à droite alors que le feu est rouge ou jaune-orange, à condition de céder le passage aux autres usagers.",
+          "en": "Turn right while the light is red or amber, provided they give way to other road users."
+        },
+        {
+          "nl": "Rechtdoor rijden terwijl het licht rood is.",
+          "fr": "Continuer tout droit alors que le feu est rouge.",
+          "en": "Go straight ahead while the light is red."
+        },
+        {
+          "nl": "Rechts afslaan door het rode licht en daarbij zelf voorrang krijgen van de andere weggebruikers.",
+          "fr": "Tourner à droite au feu rouge en ayant lui-même la priorité sur les autres usagers.",
+          "en": "Turn right through the red light while having priority over other road users."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord B22 laat fietsers en speed pedelecs toe om rechts af te slaan wanneer het verkeerslicht op rood of oranjegeel staat. Zij moeten daarbij voorrang verlenen aan de andere weggebruikers, ook aan voetgangers.",
+        "fr": "Le signal B22 permet aux cyclistes et aux speed pedelecs de tourner à droite lorsque le feu est rouge ou jaune-orange. Ils doivent alors céder le passage aux autres usagers, y compris aux piétons.",
+        "en": "Sign B22 allows cyclists and speed pedelec riders to turn right while the light is red or amber. They must give way to other road users, including pedestrians."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersbord B22)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-012",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "B23" },
+      "text": {
+        "nl": "Dit bord hangt bij een verkeerslicht. Wat betekent het voor fietsers?",
+        "fr": "Ce signal est placé près d'un feu de circulation. Que signifie-t-il pour les cyclistes ?",
+        "en": "This sign is placed at a traffic light. What does it mean for cyclists?"
+      },
+      "options": [
+        {
+          "nl": "Zij mogen rechtdoor rijden terwijl het licht rood of oranjegeel is, mits voorrang te verlenen aan de andere weggebruikers.",
+          "fr": "Ils peuvent continuer tout droit alors que le feu est rouge ou jaune-orange, à condition de céder le passage aux autres usagers.",
+          "en": "They may go straight ahead while the light is red or amber, provided they give way to other road users."
+        },
+        {
+          "nl": "Zij mogen in alle richtingen door het rode licht rijden.",
+          "fr": "Ils peuvent franchir le feu rouge dans toutes les directions.",
+          "en": "They may pass the red light in any direction."
+        },
+        {
+          "nl": "Zij moeten hier afstappen en te voet oversteken.",
+          "fr": "Ils doivent descendre de vélo et traverser à pied.",
+          "en": "They must dismount here and cross on foot."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord B23 laat fietsers en speed pedelecs toe om rechtdoor te rijden wanneer het licht rood of oranjegeel is, enkel in die richting en mits voorrang te verlenen aan de andere weggebruikers. Voor het afslaan naar rechts bestaat het aparte bord B22.",
+        "fr": "Le signal B23 permet aux cyclistes et aux speed pedelecs de continuer tout droit lorsque le feu est rouge ou jaune-orange, uniquement dans cette direction et en cédant le passage aux autres usagers. Pour tourner à droite, il existe le signal distinct B22.",
+        "en": "Sign B23 allows cyclists and speed pedelec riders to go straight ahead while the light is red or amber, only in that direction and giving way to other road users. For turning right there is the separate sign B22."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersbord B23)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-013",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": { "type": "sign", "code": "F111" },
+      "text": {
+        "nl": "Je rijdt met de auto een fietszone binnen, aangeduid met dit bord. Wat geldt voor jou?",
+        "fr": "Vous entrez en voiture dans une zone cyclable, indiquée par ce signal. Qu'est-ce qui s'applique à vous ?",
+        "en": "You drive your car into a cycle zone, indicated by this sign. What applies to you?"
+      },
+      "options": [
+        {
+          "nl": "Maximaal 30 km/u en je mag fietsers niet inhalen.",
+          "fr": "Maximum 30 km/h et vous ne pouvez pas dépasser les cyclistes.",
+          "en": "Maximum 30 km/h and you may not overtake cyclists."
+        },
+        {
+          "nl": "Maximaal 50 km/u en je mag fietsers voorzichtig inhalen.",
+          "fr": "Maximum 50 km/h et vous pouvez dépasser prudemment les cyclistes.",
+          "en": "Maximum 50 km/h and you may carefully overtake cyclists."
+        },
+        {
+          "nl": "Maximaal 30 km/u; fietsers inhalen mag als je minstens 1 meter afstand laat.",
+          "fr": "Maximum 30 km/h ; dépasser les cyclistes est permis si vous laissez au moins 1 mètre.",
+          "en": "Maximum 30 km/h; overtaking cyclists is allowed if you leave at least 1 metre."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "In een fietszone mogen fietsers de volledige breedte van hun rijstrook gebruiken. Motorvoertuigen mogen er nooit sneller rijden dan 30 km/u en mogen fietsers niet inhalen, ook niet met voldoende zijdelingse afstand.",
+        "fr": "Dans une zone cyclable, les cyclistes peuvent utiliser toute la largeur de leur bande. Les véhicules à moteur ne peuvent jamais y dépasser 30 km/h et ne peuvent pas dépasser les cyclistes, même avec une distance latérale suffisante.",
+        "en": "In a cycle zone cyclists may use the full width of their lane. Motor vehicles may never exceed 30 km/h there and may not overtake cyclists, not even with sufficient lateral distance."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22novies en Art. 2.61", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-014",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Wat is een speed pedelec (elektrische fiets met trapondersteuning tot 45 km/u) volgens de wegcode?",
+        "fr": "Qu'est-ce qu'un speed pedelec (vélo électrique avec assistance au pédalage jusqu'à 45 km/h) selon le code de la route ?",
+        "en": "What is a speed pedelec (electric bicycle with pedal assistance up to 45 km/h) according to the traffic code?"
+      },
+      "options": [
+        {
+          "nl": "Een bromfiets klasse B: op wegen waar meer dan 50 km/u geldt, moet de bestuurder het fietspad D7 volgen; waar 50 km/u of minder geldt, mag hij kiezen.",
+          "fr": "Un cyclomoteur classe B : sur les routes où plus de 50 km/h est autorisé, le conducteur doit suivre la piste cyclable D7 ; où 50 km/h ou moins s'applique, il a le choix.",
+          "en": "A class B moped: on roads where more than 50 km/h applies, the rider must use the D7 cycle path; where 50 km/h or less applies, they may choose."
+        },
+        {
+          "nl": "Een gewoon rijwiel: de bestuurder moet altijd het fietspad volgen.",
+          "fr": "Un cycle ordinaire : le conducteur doit toujours suivre la piste cyclable.",
+          "en": "An ordinary cycle: the rider must always use the cycle path."
+        },
+        {
+          "nl": "Een bromfiets klasse A: hij mag maximaal 25 km/u rijden.",
+          "fr": "Un cyclomoteur classe A : il peut rouler à 25 km/h maximum.",
+          "en": "A class A moped: it may ride at 25 km/h maximum."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De speed pedelec is juridisch een subcategorie van de bromfiets klasse B. Op wegen waar de toegelaten snelheid hoger is dan 50 km/u moet de bestuurder het gemarkeerde fietspad volgen; op wegen met 50 km/u of minder mag hij kiezen tussen fietspad en rijbaan, tenzij onderborden het anders regelen.",
+        "fr": "Le speed pedelec est juridiquement une sous-catégorie du cyclomoteur classe B. Sur les routes où la vitesse autorisée dépasse 50 km/h, le conducteur doit suivre la piste cyclable marquée ; à 50 km/h ou moins, il peut choisir entre la piste cyclable et la chaussée, sauf indication contraire par panneaux additionnels.",
+        "en": "The speed pedelec is legally a subcategory of the class B moped. On roads where the permitted speed exceeds 50 km/h the rider must use the marked cycle path; at 50 km/h or less they may choose between the cycle path and the carriageway, unless supplementary panels say otherwise."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 2.17 en Art. 9.1.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-015",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["D9", "D10"] },
+      "text": {
+        "nl": "Wat is het verschil tussen deze twee borden (links D9, rechts D10)?",
+        "fr": "Quelle est la différence entre ces deux signaux (D9 à gauche, D10 à droite) ?",
+        "en": "What is the difference between these two signs (D9 on the left, D10 on the right)?"
+      },
+      "options": [
+        {
+          "nl": "D9: deel van de weg voorbehouden voor voetgangers, fietsers en tweewielige bromfietsen klasse A, elk in een eigen vak; D10: voetgangers en fietsers delen samen hetzelfde deel.",
+          "fr": "D9 : partie de la voie réservée aux piétons, cyclistes et cyclomoteurs à deux roues classe A, chacun dans sa partie ; D10 : les piétons et les cyclistes partagent la même partie.",
+          "en": "D9: part of the road reserved for pedestrians, cyclists and two-wheeled class A mopeds, each in their own section; D10: pedestrians and cyclists share the same section."
+        },
+        {
+          "nl": "Beide borden laten ook bromfietsen klasse B toe, D10 alleen buiten de bebouwde kom.",
+          "fr": "Les deux signaux admettent aussi les cyclomoteurs classe B, le D10 uniquement hors agglomération.",
+          "en": "Both signs also allow class B mopeds, D10 only outside built-up areas."
+        },
+        {
+          "nl": "D10 is een verplicht fietspad waar voetgangers verboden zijn.",
+          "fr": "D10 est une piste cyclable obligatoire où les piétons sont interdits.",
+          "en": "D10 is a compulsory cycle path where pedestrians are prohibited."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "D9 duidt een deel van de openbare weg aan dat verdeeld is tussen voetgangers, fietsers en tweewielige bromfietsen klasse A. Bij D10 gebruiken voetgangers en fietsers hetzelfde deel samen; bromfietsen zijn er niet toegelaten.",
+        "fr": "Le D9 indique une partie de la voie publique répartie entre piétons, cyclistes et cyclomoteurs à deux roues classe A. Avec le D10, piétons et cyclistes utilisent ensemble la même partie ; les cyclomoteurs n'y sont pas admis.",
+        "en": "D9 indicates a part of the public road divided between pedestrians, cyclists and two-wheeled class A mopeds. With D10, pedestrians and cyclists share the same section; mopeds are not allowed there."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 69 (verkeersborden D9 en D10)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-016",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Wat is het verschil tussen een bromfiets klasse A en een bromfiets klasse B?",
+        "fr": "Quelle est la différence entre un cyclomoteur classe A et un cyclomoteur classe B ?",
+        "en": "What is the difference between a class A moped and a class B moped?"
+      },
+      "options": [
+        {
+          "nl": "Klasse A kan door de constructie maximaal 25 km/u rijden, klasse B maximaal 45 km/u.",
+          "fr": "La classe A ne peut, par construction, dépasser 25 km/h ; la classe B, 45 km/h.",
+          "en": "Class A is limited by design to 25 km/h, class B to 45 km/h."
+        },
+        {
+          "nl": "Klasse A kan maximaal 45 km/u rijden, klasse B maximaal 25 km/u.",
+          "fr": "La classe A peut rouler à 45 km/h maximum, la classe B à 25 km/h maximum.",
+          "en": "Class A can ride at 45 km/h maximum, class B at 25 km/h maximum."
+        },
+        {
+          "nl": "Klasse A heeft twee wielen, klasse B heeft er drie of vier.",
+          "fr": "La classe A a deux roues, la classe B en a trois ou quatre.",
+          "en": "Class A has two wheels, class B has three or four."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een bromfiets klasse A is door de constructie beperkt tot 25 km/u, een bromfiets klasse B tot 45 km/u. Dat verschil bepaalt onder meer waar zij mogen of moeten rijden.",
+        "fr": "Un cyclomoteur classe A est limité par construction à 25 km/h, un cyclomoteur classe B à 45 km/h. Cette différence détermine notamment où ils peuvent ou doivent circuler.",
+        "en": "A class A moped is limited by design to 25 km/h, a class B moped to 45 km/h. That difference determines, among other things, where they may or must ride."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 2.17", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-017",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Moet de bestuurder van een bromfiets een valhelm dragen?",
+        "fr": "Le conducteur d'un cyclomoteur doit-il porter un casque de protection ?",
+        "en": "Must the rider of a moped wear a protective helmet?"
+      },
+      "options": [
+        {
+          "nl": "Ja, bestuurder én passagier moeten een valhelm dragen, bij klasse A en klasse B.",
+          "fr": "Oui, le conducteur et le passager doivent porter un casque, pour la classe A comme pour la classe B.",
+          "en": "Yes, both rider and passenger must wear a helmet, for class A and class B."
+        },
+        {
+          "nl": "Alleen op een bromfiets klasse B is een helm verplicht.",
+          "fr": "Le casque n'est obligatoire que sur un cyclomoteur classe B.",
+          "en": "A helmet is only compulsory on a class B moped."
+        },
+        {
+          "nl": "Alleen buiten de bebouwde kom is een helm verplicht.",
+          "fr": "Le casque n'est obligatoire qu'en dehors des agglomérations.",
+          "en": "A helmet is only compulsory outside built-up areas."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bestuurders en passagiers van bromfietsen (klasse A en B) moeten een valhelm dragen. Ook speed pedelec-bestuurders dragen een helm; voor hen volstaat een geschikte fietshelm die de slapen en het achterhoofd beschermt.",
+        "fr": "Les conducteurs et passagers de cyclomoteurs (classes A et B) doivent porter un casque de protection. Les conducteurs de speed pedelecs portent aussi un casque ; pour eux, un casque de vélo adapté protégeant les tempes et l'arrière de la tête suffit.",
+        "en": "Riders and passengers of mopeds (class A and B) must wear a protective helmet. Speed pedelec riders also wear a helmet; for them a suitable bicycle helmet protecting the temples and back of the head suffices."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 36", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-018",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Binnen de bebouwde kom, op een weg waar maximaal 50 km/u geldt, ligt een berijdbaar fietspad aangeduid met het bord D7. Waar rijdt de bestuurder van een bromfiets klasse B?",
+        "fr": "En agglomération, sur une route limitée à 50 km/h, se trouve une piste cyclable praticable indiquée par le signal D7. Où circule le conducteur d'un cyclomoteur classe B ?",
+        "en": "In a built-up area, on a road limited to 50 km/h, there is a passable cycle path indicated by sign D7. Where does the rider of a class B moped ride?"
+      },
+      "options": [
+        {
+          "nl": "Hij mag kiezen tussen het fietspad en de rijbaan.",
+          "fr": "Il peut choisir entre la piste cyclable et la chaussée.",
+          "en": "They may choose between the cycle path and the carriageway."
+        },
+        {
+          "nl": "Hij moet altijd op het fietspad rijden.",
+          "fr": "Il doit toujours rouler sur la piste cyclable.",
+          "en": "They must always ride on the cycle path."
+        },
+        {
+          "nl": "Hij moet op de rijbaan rijden; het fietspad is voor hem verboden.",
+          "fr": "Il doit rouler sur la chaussée ; la piste cyclable lui est interdite.",
+          "en": "They must ride on the carriageway; the cycle path is prohibited for them."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bestuurders van tweewielige bromfietsen klasse B mogen het fietspad D7 volgen op wegen waar 50 km/u of minder geldt, en moeten het volgen waar een hogere snelheid geldt. Tweewielige bromfietsen klasse A moeten een berijdbaar fietspad D7 altijd volgen.",
+        "fr": "Les conducteurs de cyclomoteurs à deux roues classe B peuvent suivre la piste cyclable D7 sur les routes limitées à 50 km/h ou moins, et doivent la suivre où une vitesse supérieure s'applique. Les cyclomoteurs à deux roues classe A doivent toujours suivre une piste cyclable D7 praticable.",
+        "en": "Riders of two-wheeled class B mopeds may use the D7 cycle path on roads limited to 50 km/h or less, and must use it where a higher speed applies. Two-wheeled class A mopeds must always use a passable D7 cycle path."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 9.1.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-019",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": { "type": "signs", "codes": ["F4a", "A23"] },
+      "text": {
+        "nl": "Je rijdt een schoolomgeving binnen, aangeduid met deze borden. Hoe snel mag je rijden?",
+        "fr": "Vous entrez dans des abords d'école, indiqués par ces signaux. À quelle vitesse pouvez-vous rouler ?",
+        "en": "You enter a school environment, indicated by these signs. How fast may you drive?"
+      },
+      "options": [
+        {
+          "nl": "Maximaal 30 km/u, zolang je de zone niet hebt verlaten.",
+          "fr": "Maximum 30 km/h, tant que vous n'avez pas quitté la zone.",
+          "en": "Maximum 30 km/h, until you have left the zone."
+        },
+        {
+          "nl": "Maximaal 30 km/u, maar alleen tijdens de schooluren.",
+          "fr": "Maximum 30 km/h, mais uniquement pendant les heures de classe.",
+          "en": "Maximum 30 km/h, but only during school hours."
+        },
+        {
+          "nl": "Maximaal 50 km/u, zoals overal binnen de bebouwde kom.",
+          "fr": "Maximum 50 km/h, comme partout en agglomération.",
+          "en": "Maximum 50 km/h, as everywhere in a built-up area."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het zonebord F4a met het symbool A23 duidt een zone 30 in een schoolomgeving aan. De limiet van 30 km/u geldt permanent tot het eindebord, tenzij het bord zelf een tijdsbeperking vermeldt (bv. met variabele borden).",
+        "fr": "Le signal à validité zonale F4a avec le symbole A23 indique une zone 30 aux abords d'une école. La limite de 30 km/h vaut en permanence jusqu'au signal de fin, sauf si le signal lui-même mentionne une restriction horaire (p. ex. signaux variables).",
+        "en": "Zone sign F4a with the A23 symbol indicates a 30 km/h zone in a school environment. The 30 km/h limit applies permanently until the end sign, unless the sign itself states a time restriction (e.g. variable signs)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22quater en Art. 2.37", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-020",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Een straat is bij het begin en einde van de schooldag afgesloten met een hek met het opschrift 'schoolstraat'. Mag je er dan met de auto inrijden?",
+        "fr": "Une rue est fermée par une barrière portant la mention « rue scolaire » au début et à la fin de la journée d'école. Pouvez-vous y entrer en voiture à ce moment-là ?",
+        "en": "A street is closed off with a barrier marked 'school street' at the start and end of the school day. May you drive in at those times?"
+      },
+      "options": [
+        {
+          "nl": "Nee, alleen prioritaire voertuigen en houders van een vergunning mogen er dan in, en zij rijden stapvoets.",
+          "fr": "Non, seuls les véhicules prioritaires et les titulaires d'une autorisation peuvent alors y entrer, et ils roulent à l'allure du pas.",
+          "en": "No, only priority vehicles and permit holders may enter then, and they drive at walking pace."
+        },
+        {
+          "nl": "Ja, bewoners mogen er altijd gewoon in- en uitrijden.",
+          "fr": "Oui, les riverains peuvent toujours y entrer et en sortir librement.",
+          "en": "Yes, residents may always drive in and out freely."
+        },
+        {
+          "nl": "Ja, iedereen mag erin, op voorwaarde dat je stapvoets rijdt.",
+          "fr": "Oui, tout le monde peut y entrer, à condition de rouler à l'allure du pas.",
+          "en": "Yes, anyone may enter, provided they drive at walking pace."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Tijdens de aangegeven uren is een schoolstraat voorbehouden voor voetgangers, fietsers en speed pedelecs. Alleen prioritaire voertuigen (als hun opdracht het rechtvaardigt) en houders van een vergunning van de wegbeheerder mogen er dan rijden, stapvoets en met voorrang voor voetgangers en fietsers.",
+        "fr": "Pendant les heures indiquées, une rue scolaire est réservée aux piétons, aux cyclistes et aux speed pedelecs. Seuls les véhicules prioritaires (si la nature de leur mission le justifie) et les titulaires d'une autorisation du gestionnaire de voirie peuvent alors y circuler, à l'allure du pas et en cédant le passage aux piétons et cyclistes.",
+        "en": "During the indicated hours a school street is reserved for pedestrians, cyclists and speed pedelecs. Only priority vehicles (when their mission justifies it) and holders of a permit from the road authority may then drive there, at walking pace and giving way to pedestrians and cyclists."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22undecies en Art. 2.68", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-021",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": { "type": "sign", "code": "F12a" },
+      "text": {
+        "nl": "Je rijdt een woonerf binnen, aangeduid met dit bord. Wat is de maximumsnelheid?",
+        "fr": "Vous entrez dans une zone résidentielle, indiquée par ce signal. Quelle est la vitesse maximale ?",
+        "en": "You enter a residential zone (woonerf), indicated by this sign. What is the maximum speed?"
+      },
+      "options": [
+        {
+          "nl": "20 km/u.",
+          "fr": "20 km/h.",
+          "en": "20 km/h."
+        },
+        {
+          "nl": "30 km/u.",
+          "fr": "30 km/h.",
+          "en": "30 km/h."
+        },
+        {
+          "nl": "Stapvoets (ongeveer 5 km/u).",
+          "fr": "L'allure du pas (environ 5 km/h).",
+          "en": "Walking pace (about 5 km/h)."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "In een woonerf of erf (bord F12a) geldt voor alle bestuurders een maximumsnelheid van 20 km/u. Voetgangers mogen er de volledige breedte van de weg gebruiken, dus wees voorbereid om te stoppen.",
+        "fr": "Dans une zone résidentielle ou zone de rencontre (signal F12a), la vitesse est limitée à 20 km/h pour tous les conducteurs. Les piétons peuvent y utiliser toute la largeur de la voie : soyez prêt à vous arrêter.",
+        "en": "In a residential or meeting zone (sign F12a) the speed limit for all drivers is 20 km/h. Pedestrians may use the full width of the road there, so be prepared to stop."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22bis", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-022",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Welke regels gelden nog in een woonerf?",
+        "fr": "Quelles autres règles s'appliquent dans une zone résidentielle ?",
+        "en": "Which other rules apply in a residential zone (woonerf)?"
+      },
+      "options": [
+        {
+          "nl": "Voetgangers mogen de ganse breedte van de weg gebruiken, kinderen mogen er spelen en parkeren mag alleen op afgebakende of gemarkeerde plaatsen.",
+          "fr": "Les piétons peuvent utiliser toute la largeur de la voie, les jeux d'enfants y sont autorisés et le stationnement n'est permis qu'aux emplacements délimités ou marqués.",
+          "en": "Pedestrians may use the full width of the road, children may play there and parking is only allowed in delimited or marked spaces."
+        },
+        {
+          "nl": "Voetgangers moeten op het trottoir blijven en parkeren mag overal waar het niemand hindert.",
+          "fr": "Les piétons doivent rester sur le trottoir et le stationnement est permis partout où il ne gêne personne.",
+          "en": "Pedestrians must stay on the sidewalk and parking is allowed anywhere it does not hinder anyone."
+        },
+        {
+          "nl": "Spelen op de weg is verboden en parkeren is er volledig verboden.",
+          "fr": "Jouer sur la voie est interdit et le stationnement y est totalement interdit.",
+          "en": "Playing on the road is prohibited and parking is completely prohibited."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "In een woonerf mogen voetgangers de ganse breedte van de openbare weg gebruiken en zijn spelen toegelaten; bestuurders mogen hen niet in gevaar brengen en moeten zo nodig stoppen. Parkeren mag alleen op plaatsen die met markeringen of een 'P' zijn aangeduid.",
+        "fr": "Dans une zone résidentielle, les piétons peuvent utiliser toute la largeur de la voie publique et les jeux y sont autorisés ; les conducteurs ne peuvent pas les mettre en danger et doivent s'arrêter au besoin. Le stationnement n'est permis qu'aux emplacements indiqués par des marques ou la lettre « P ».",
+        "en": "In a residential zone pedestrians may use the full width of the public road and games are allowed; drivers may not endanger them and must stop if necessary. Parking is only allowed in spaces indicated by markings or the letter 'P'."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22bis", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-023",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F103" },
+      "text": {
+        "nl": "Mag je fietsen in een voetgangerszone, aangeduid met dit bord?",
+        "fr": "Pouvez-vous rouler à vélo dans une zone piétonne, indiquée par ce signal ?",
+        "en": "May you cycle in a pedestrian zone, indicated by this sign?"
+      },
+      "options": [
+        {
+          "nl": "Alleen als een fiets op het bord is afgebeeld; je rijdt dan stapvoets, verleent voorrang aan de voetgangers en stapt af bij grote drukte.",
+          "fr": "Uniquement si un vélo figure sur le signal ; vous roulez alors à l'allure du pas, cédez le passage aux piétons et mettez pied à terre en cas de forte affluence.",
+          "en": "Only if a bicycle is shown on the sign; you then ride at walking pace, give way to pedestrians and dismount when it is very crowded."
+        },
+        {
+          "nl": "Ja, fietsers hebben altijd toegang tot voetgangerszones.",
+          "fr": "Oui, les cyclistes ont toujours accès aux zones piétonnes.",
+          "en": "Yes, cyclists always have access to pedestrian zones."
+        },
+        {
+          "nl": "Nee, fietsen is in een voetgangerszone altijd verboden.",
+          "fr": "Non, rouler à vélo est toujours interdit dans une zone piétonne.",
+          "en": "No, cycling is always prohibited in a pedestrian zone."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Fietsers mogen een voetgangerszone alleen in als het bord F103 dat aangeeft, eventueel beperkt tot bepaalde uren. Zij rijden er stapvoets, mogen voetgangers niet in gevaar brengen of hinderen, verlenen hen voorrang en stappen af wanneer de drukte het fietsen bemoeilijkt.",
+        "fr": "Les cyclistes ne peuvent entrer dans une zone piétonne que si le signal F103 l'indique, éventuellement pendant certaines heures. Ils y roulent à l'allure du pas, ne peuvent pas mettre en danger ni gêner les piétons, leur cèdent le passage et mettent pied à terre lorsque l'affluence rend la circulation à vélo difficile.",
+        "en": "Cyclists may only enter a pedestrian zone if sign F103 indicates it, possibly limited to certain hours. They ride at walking pace, may not endanger or hinder pedestrians, give way to them and dismount when crowds make cycling difficult."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22sexies", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-024",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F99a" },
+      "text": {
+        "nl": "Wie mag rijden op een weg die met dit bord is aangeduid?",
+        "fr": "Qui peut circuler sur un chemin indiqué par ce signal ?",
+        "en": "Who may travel on a road indicated by this sign?"
+      },
+      "options": [
+        {
+          "nl": "Alleen de categorieën waarvan het symbool op het bord staat; daarnaast onder meer prioritaire voertuigen en voertuigen met een vergunning van de wegbeheerder (bv. onderhoud, aangelanden).",
+          "fr": "Uniquement les catégories dont le symbole figure sur le signal ; en outre, notamment les véhicules prioritaires et les véhicules munis d'une autorisation du gestionnaire de voirie (p. ex. entretien, riverains).",
+          "en": "Only the categories whose symbol appears on the sign; in addition, among others, priority vehicles and vehicles with a permit from the road authority (e.g. maintenance, adjacent residents)."
+        },
+        {
+          "nl": "Alle bestuurders, op voorwaarde dat ze stapvoets rijden.",
+          "fr": "Tous les conducteurs, à condition de rouler à l'allure du pas.",
+          "en": "All drivers, provided they drive at walking pace."
+        },
+        {
+          "nl": "Alleen voetgangers; alle voertuigen zijn er verboden.",
+          "fr": "Uniquement les piétons ; tous les véhicules y sont interdits.",
+          "en": "Only pedestrians; all vehicles are prohibited there."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord F99a duidt een weg aan die voorbehouden is voor de afgebeelde categorieën, zoals voetgangers, fietsers, ruiters en speed pedelecs. Daarnaast mogen onder meer prioritaire voertuigen (als hun opdracht het rechtvaardigt) en houders van een vergunning van de wegbeheerder er rijden; de gebruikers mogen elkaar niet in gevaar brengen of hinderen.",
+        "fr": "Le signal F99a indique un chemin réservé aux catégories représentées, comme les piétons, cyclistes, cavaliers et speed pedelecs. Peuvent en outre y circuler notamment les véhicules prioritaires (si la nature de leur mission le justifie) et les titulaires d'une autorisation du gestionnaire de voirie ; les usagers ne peuvent ni se mettre mutuellement en danger ni se gêner.",
+        "en": "Sign F99a indicates a road reserved for the depicted categories, such as pedestrians, cyclists, horse riders and speed pedelecs. In addition, priority vehicles (when their mission justifies it) and holders of a permit from the road authority may use it; users may not endanger or hinder each other."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22quinquies en Art. 2.34", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-025",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Binnen de bebouwde kom geeft een autobus aan de halte met zijn richtingsaanwijzers aan dat hij wil wegrijden. Wat moet je doen?",
+        "fr": "En agglomération, un autobus à l'arrêt indique avec ses indicateurs de direction qu'il veut repartir. Que devez-vous faire ?",
+        "en": "In a built-up area, a bus at a stop indicates with its direction indicators that it wants to pull out. What must you do?"
+      },
+      "options": [
+        {
+          "nl": "Vertragen en zo nodig stoppen, zodat de bus de halteplaats kan verlaten.",
+          "fr": "Ralentir et au besoin vous arrêter, pour que l'autobus puisse quitter son arrêt.",
+          "en": "Slow down and stop if necessary, so the bus can leave its stop."
+        },
+        {
+          "nl": "Doorrijden: de bus voert een maneuver uit en moet jou voorrang verlenen.",
+          "fr": "Continuer : l'autobus effectue une manœuvre et doit vous céder le passage.",
+          "en": "Drive on: the bus is performing a manoeuvre and must give way to you."
+        },
+        {
+          "nl": "Claxonneren en versnellen om vóór de bus voorbij te zijn.",
+          "fr": "Klaxonner et accélérer pour passer avant l'autobus.",
+          "en": "Sound your horn and accelerate to get past before the bus."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Binnen de bebouwde kom moet elke bestuurder die dezelfde richting volgt, een autobus of trolleybus de gelegenheid geven zijn halteplaats te verlaten zodra die zijn voornemen met de richtingsaanwijzers kenbaar maakt; vertraag en stop zo nodig. Buiten de bebouwde kom geldt deze regel niet.",
+        "fr": "En agglomération, tout conducteur qui suit la même direction doit permettre à un autobus ou trolleybus de quitter son arrêt dès qu'il manifeste son intention avec ses indicateurs de direction ; ralentissez et arrêtez-vous au besoin. Hors agglomération, cette règle ne s'applique pas.",
+        "en": "In a built-up area every driver travelling in the same direction must allow a bus or trolleybus to leave its stop as soon as it signals its intention with its direction indicators; slow down and stop if necessary. Outside built-up areas this rule does not apply."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 39", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-026",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Buiten de bebouwde kom volg je een trage landbouwtrekker. Hij nadert een oversteekplaats voor voetgangers zonder verkeerslichten. Mag je hem daar inhalen?",
+        "fr": "Hors agglomération, vous suivez un lent tracteur agricole. Il approche d'un passage pour piétons sans signaux lumineux. Pouvez-vous le dépasser à cet endroit ?",
+        "en": "Outside a built-up area you are following a slow agricultural tractor. It approaches a pedestrian crossing without traffic lights. May you overtake it there?"
+      },
+      "options": [
+        {
+          "nl": "Nee, je mag geen voertuig inhalen dat een oversteekplaats nadert waar het verkeer niet geregeld wordt.",
+          "fr": "Non, vous ne pouvez pas dépasser un véhicule qui approche d'un passage où la circulation n'est pas réglée.",
+          "en": "No, you may not overtake a vehicle approaching a crossing where traffic is not controlled."
+        },
+        {
+          "nl": "Ja, een landbouwvoertuig mag je altijd inhalen omdat het zo traag rijdt.",
+          "fr": "Oui, vous pouvez toujours dépasser un véhicule agricole parce qu'il roule très lentement.",
+          "en": "Yes, you may always overtake an agricultural vehicle because it travels so slowly."
+        },
+        {
+          "nl": "Ja, als er op dat ogenblik geen voetgangers op de oversteekplaats staan.",
+          "fr": "Oui, s'il n'y a pas de piétons sur le passage à ce moment-là.",
+          "en": "Yes, if there are no pedestrians on the crossing at that moment."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het inhaalverbod bij het naderen van een niet-geregelde oversteekplaats geldt voor het inhalen van elk voertuig, ook een traag landbouwvoertuig: de hoge trekker ontneemt je net het zicht op voetgangers. Wacht tot voorbij de oversteekplaats. Dit is een overtreding van de derde graad.",
+        "fr": "L'interdiction de dépasser à l'approche d'un passage non réglé vaut pour le dépassement de tout véhicule, même un véhicule agricole lent : le tracteur haut vous masque justement la vue sur les piétons. Attendez d'avoir franchi le passage. C'est une infraction du troisième degré.",
+        "en": "The ban on overtaking while approaching an uncontrolled crossing applies to overtaking any vehicle, even a slow agricultural vehicle: the tall tractor blocks precisely your view of pedestrians. Wait until past the crossing. This is a third-degree offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 17.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-027",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "e" },
+            { "label": "B", "from": "s", "to": "n" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "Je bent auto A en slaat rechts af. Fietser B rijdt rechtdoor op het fietspad langs jouw rijbaan. Wie heeft voorrang?",
+        "fr": "Vous êtes la voiture A et vous tournez à droite. Le cycliste B continue tout droit sur la piste cyclable le long de votre chaussée. Qui a la priorité ?",
+        "en": "You are car A and you turn right. Cyclist B continues straight ahead on the cycle path alongside your carriageway. Who has priority?"
+      },
+      "options": [
+        {
+          "nl": "Fietser B: wie van richting verandert, moet voorrang verlenen aan de weggebruikers die de andere delen van dezelfde openbare weg volgen.",
+          "fr": "Le cycliste B : le conducteur qui change de direction doit céder le passage aux usagers qui suivent les autres parties de la même voie publique.",
+          "en": "Cyclist B: a driver changing direction must give way to road users following the other parts of the same public road."
+        },
+        {
+          "nl": "Auto A: fietsers moeten afslaand verkeer altijd voor laten gaan.",
+          "fr": "La voiture A : les cyclistes doivent toujours laisser passer les véhicules qui tournent.",
+          "en": "Car A: cyclists must always let turning traffic go first."
+        },
+        {
+          "nl": "Niemand: wie het kruispunt het eerst oprijdt, gaat voor.",
+          "fr": "Personne : le premier arrivé sur le carrefour passe en premier.",
+          "en": "No one: whoever enters the intersection first goes first."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bij het rechts afslaan kruis je het fietspad. Als bestuurder die van richting verandert, moet je voorrang verlenen aan de fietser die rechtdoor rijdt op het fietspad van dezelfde openbare weg. Controleer je dode hoek voor je afslaat.",
+        "fr": "En tournant à droite, vous coupez la piste cyclable. En tant que conducteur qui change de direction, vous devez céder le passage au cycliste qui continue tout droit sur la piste cyclable de la même voie publique. Contrôlez votre angle mort avant de tourner.",
+        "en": "When turning right you cut across the cycle path. As a driver changing direction you must give way to the cyclist going straight ahead on the cycle path of the same public road. Check your blind spot before turning."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 19.4 en Art. 40ter", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-028",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "vehicles": [
+            { "label": "A", "from": "n", "to": "e" },
+            { "label": "B", "from": "s", "to": "n" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "Je bent auto A en slaat links af. Fietser B komt je tegemoet en rijdt rechtdoor. Wie heeft voorrang?",
+        "fr": "Vous êtes la voiture A et vous tournez à gauche. Le cycliste B vient en sens inverse et continue tout droit. Qui a la priorité ?",
+        "en": "You are car A and you turn left. Cyclist B is coming toward you and continues straight ahead. Who has priority?"
+      },
+      "options": [
+        {
+          "nl": "Fietser B: wie links afslaat, moet voorrang verlenen aan de tegemoetkomende bestuurders, dus ook aan fietsers.",
+          "fr": "Le cycliste B : le conducteur qui tourne à gauche doit céder le passage aux conducteurs venant en sens inverse, donc aussi aux cyclistes.",
+          "en": "Cyclist B: a driver turning left must give way to oncoming drivers, thus also to cyclists."
+        },
+        {
+          "nl": "Auto A: een auto gaat voor een fietser.",
+          "fr": "La voiture A : une voiture passe avant un cycliste.",
+          "en": "Car A: a car goes before a cyclist."
+        },
+        {
+          "nl": "Auto A: de fietser komt voor jou van links.",
+          "fr": "La voiture A : le cycliste vient de votre gauche.",
+          "en": "Car A: the cyclist comes from your left."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een bestuurder die naar links afslaat, moet voorrang verlenen aan de tegemoetkomende bestuurders op de rijbaan die hij gaat verlaten. Fietsers zijn ook bestuurders: wacht tot fietser B voorbij is en let op zijn werkelijke snelheid, zeker bij elektrische fietsen.",
+        "fr": "Un conducteur qui tourne à gauche doit céder le passage aux conducteurs venant en sens inverse sur la chaussée qu'il va quitter. Les cyclistes sont aussi des conducteurs : attendez que le cycliste B soit passé et faites attention à sa vitesse réelle, surtout pour les vélos électriques.",
+        "en": "A driver turning left must give way to oncoming drivers on the carriageway they are about to leave. Cyclists are drivers too: wait until cyclist B has passed and mind their actual speed, especially with electric bicycles."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 19.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-029",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "vehicles": [
+            { "label": "A", "from": "w", "to": "e" },
+            { "label": "B", "from": "s", "to": "n" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "Je bent auto A op een kruispunt zonder verkeersborden of verkeerslichten. Bromfietser B rijdt rechtdoor. Wie heeft voorrang?",
+        "fr": "Vous êtes la voiture A à un carrefour sans signaux routiers ni feux. Le cyclomotoriste B continue tout droit. Qui a la priorité ?",
+        "en": "You are car A at an intersection without road signs or traffic lights. Moped rider B continues straight ahead. Who has priority?"
+      },
+      "options": [
+        {
+          "nl": "Bromfietser B: hij komt voor jou van rechts en de voorrang van rechts geldt ook voor bromfietsers.",
+          "fr": "Le cyclomotoriste B : il vient de votre droite et la priorité de droite vaut aussi pour les cyclomotoristes.",
+          "en": "Moped rider B: he comes from your right and priority to the right also applies to moped riders."
+        },
+        {
+          "nl": "Auto A: auto's hebben voorrang op bromfietsen.",
+          "fr": "La voiture A : les voitures ont priorité sur les cyclomoteurs.",
+          "en": "Car A: cars have priority over mopeds."
+        },
+        {
+          "nl": "Auto A: wie het snelst rijdt, mag eerst het kruispunt over.",
+          "fr": "La voiture A : le plus rapide franchit le carrefour en premier.",
+          "en": "Car A: whoever is faster crosses the intersection first."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Op een kruispunt waar de voorrang niet geregeld is, geldt de voorrang van rechts. Bromfietsers en fietsers zijn bestuurders: bromfietser B komt van rechts en heeft dus voorrang op auto A.",
+        "fr": "À un carrefour où la priorité n'est pas réglée, la priorité de droite s'applique. Les cyclomotoristes et cyclistes sont des conducteurs : le cyclomotoriste B vient de droite et a donc priorité sur la voiture A.",
+        "en": "At an intersection where priority is not regulated, priority to the right applies. Moped riders and cyclists are drivers: moped rider B comes from the right and therefore has priority over car A."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-030",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "t-junction",
+          "stem": "s",
+          "signsFor": [ { "approach": "s", "code": "B1" } ],
+          "vehicles": [
+            { "label": "A", "from": "w", "to": "e" },
+            { "label": "B", "from": "s", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "Je bent auto A op de doorgaande weg. Fietser B komt uit de zijstraat, waar het bord B1 (omgekeerde driehoek) staat. Wie heeft voorrang?",
+        "fr": "Vous êtes la voiture A sur la voie principale. Le cycliste B débouche de la rue latérale, où est placé le signal B1 (triangle renversé). Qui a la priorité ?",
+        "en": "You are car A on the through road. Cyclist B comes out of the side street, where sign B1 (inverted triangle) is placed. Who has priority?"
+      },
+      "options": [
+        {
+          "nl": "Auto A: het bord B1 verplicht ook fietsers voorrang te verlenen; blijf toch voorzichtig en houd rekening met een fout van de fietser.",
+          "fr": "La voiture A : le signal B1 oblige aussi les cyclistes à céder le passage ; restez néanmoins prudent et anticipez une erreur du cycliste.",
+          "en": "Car A: sign B1 also obliges cyclists to give way; still remain careful and anticipate a mistake by the cyclist."
+        },
+        {
+          "nl": "Fietser B: fietsers hebben als kwetsbare weggebruikers altijd voorrang.",
+          "fr": "Le cycliste B : en tant qu'usagers plus vulnérables, les cyclistes ont toujours la priorité.",
+          "en": "Cyclist B: as vulnerable road users, cyclists always have priority."
+        },
+        {
+          "nl": "Fietser B: hij komt voor jou van rechts.",
+          "fr": "Le cycliste B : il vient de votre droite.",
+          "en": "Cyclist B: he comes from your right."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord B1 (voorrang verlenen) geldt voor alle bestuurders, dus ook voor fietsers: fietser B moet jou voorrang verlenen en de voorrang van rechts geldt hier niet. Kwetsbare weggebruikers hebben geen automatische voorrang, maar je moet wel extra voorzichtig blijven.",
+        "fr": "Le signal B1 (céder le passage) s'applique à tous les conducteurs, donc aussi aux cyclistes : le cycliste B doit vous céder le passage et la priorité de droite ne s'applique pas ici. Les usagers plus vulnérables n'ont pas de priorité automatique, mais vous devez rester particulièrement prudent.",
+        "en": "Sign B1 (give way) applies to all drivers, including cyclists: cyclist B must give way to you and priority to the right does not apply here. Vulnerable road users have no automatic priority, but you must still remain extra careful."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersbord B1) en Art. 7.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    }
+  ]
+}

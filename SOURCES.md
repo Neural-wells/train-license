@@ -57,3 +57,8 @@ license and author attribution are recorded in `content/signs/manifest.json` (re
 Content was authored and fact-checked in **August 2026**; traffic law changes regularly (e.g.
 indexed fines and the 1/7/2026 changes are included), so future updates should re-verify against
 the consolidated texts above.
+
+**Known upcoming change:** the new *Code van de openbare weg / Code de la voie publique*
+(KB 03/06/2024) is slated to replace the 1975 wegcode on **01/09/2026**. All citations here use
+the 1975 KB (in force at authoring time); article numbers will need remapping once the new code
+takes effect.

@@ -29,7 +29,7 @@ export type QuestionImage =
 
 export interface Citation {
   source: string;
-  url: string;
+  url?: string;
 }
 
 export interface Question {

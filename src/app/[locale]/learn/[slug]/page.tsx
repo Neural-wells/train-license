@@ -35,9 +35,13 @@ export default async function ChapterPage({
               {s.citations.map((c, j) => (
                 <span key={j}>
                   {j > 0 && "; "}
-                  <a href={c.url} target="_blank" rel="noreferrer" className="underline">
-                    {c.source}
-                  </a>
+                  {c.url ? (
+                    <a href={c.url} target="_blank" rel="noreferrer" className="underline">
+                      {c.source}
+                    </a>
+                  ) : (
+                    c.source
+                  )}
                 </span>
               ))}
             </p>

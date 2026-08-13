@@ -1,0 +1,706 @@
+{
+  "category": "parking",
+  "questions": [
+    {
+      "id": "parking-001",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je houdt je auto net lang genoeg stil om een passagier te laten uitstappen. Wat is je voertuig op dat moment volgens de Wegcode?",
+        "fr": "Vous immobilisez votre voiture juste le temps de laisser descendre un passager. Qu'est votre véhicule à ce moment selon le code de la route ?",
+        "en": "You bring your car to a standstill just long enough to let a passenger get out. What is your vehicle at that moment according to the traffic code?"
+      },
+      "options": [
+        { "nl": "Een stilstaand voertuig", "fr": "Un véhicule à l'arrêt", "en": "A stopped vehicle" },
+        { "nl": "Een geparkeerd voertuig", "fr": "Un véhicule en stationnement", "en": "A parked vehicle" },
+        { "nl": "Geen van beide, zolang de motor draait", "fr": "Ni l'un ni l'autre, tant que le moteur tourne", "en": "Neither, as long as the engine is running" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een voertuig dat niet langer stilstaat dan nodig voor het in- of uitstappen van personen of voor het laden of lossen van zaken, is een stilstaand voertuig (art. 2.22). Duurt het langer, dan is het geparkeerd (art. 2.23).",
+        "fr": "Un véhicule immobilisé pendant le temps requis pour l'embarquement ou le débarquement de personnes ou de choses est un véhicule à l'arrêt (art. 2.22). Au-delà de ce temps, il est en stationnement (art. 2.23).",
+        "en": "A vehicle standing still no longer than needed to let people in or out or to load or unload goods is a stopped vehicle (Art. 2.22). Anything longer counts as parking (Art. 2.23)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 2.22 en 2.23", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-002",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je wacht vijf minuten langs de rijbaan met draaiende motor. Niemand stapt in of uit en er wordt niet geladen of gelost. Wat is je voertuig volgens de Wegcode?",
+        "fr": "Vous attendez cinq minutes le long de la chaussée, moteur tournant. Personne n'embarque ni ne débarque et rien n'est chargé ni déchargé. Qu'est votre véhicule selon le code de la route ?",
+        "en": "You wait for five minutes at the side of the carriageway with the engine running. Nobody gets in or out and nothing is loaded or unloaded. What is your vehicle according to the traffic code?"
+      },
+      "options": [
+        { "nl": "Een stilstaand voertuig, want de motor draait", "fr": "Un véhicule à l'arrêt, puisque le moteur tourne", "en": "A stopped vehicle, because the engine is running" },
+        { "nl": "Een geparkeerd voertuig", "fr": "Un véhicule en stationnement", "en": "A parked vehicle" },
+        { "nl": "Een stilstaand voertuig, want het duurt minder dan een kwartier", "fr": "Un véhicule à l'arrêt, puisque cela dure moins d'un quart d'heure", "en": "A stopped vehicle, because it lasts less than fifteen minutes" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het criterium is het doel, niet de duur of de motor: zodra er niemand in- of uitstapt en er niet geladen of gelost wordt, sta je langer stil dan daarvoor nodig is en ben je dus geparkeerd (art. 2.23).",
+        "fr": "Le critère est le but, pas la durée ni le moteur : dès que personne n'embarque ou ne débarque et que rien n'est chargé ou déchargé, le véhicule est immobilisé au-delà du temps requis et il est donc en stationnement (art. 2.23).",
+        "en": "The test is the purpose, not the duration or the engine: as soon as nobody is getting in or out and nothing is being loaded or unloaded, the vehicle is standing longer than needed and is therefore parked (Art. 2.23)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 2.22 en 2.23", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-003",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je laadt de batterij van je elektrische auto op aan een laadpaal op de openbare weg. Waaronder valt dat volgens de Wegcode?",
+        "fr": "Vous chargez la batterie de votre voiture électrique à une borne sur la voie publique. De quoi s'agit-il selon le code de la route ?",
+        "en": "You are charging the battery of your electric car at a charging point on the public road. What does that count as under the traffic code?"
+      },
+      "options": [
+        { "nl": "Stilstaan", "fr": "Un arrêt", "en": "Stopping" },
+        { "nl": "Laden en lossen, dus stilstaan", "fr": "Un chargement, donc un arrêt", "en": "Loading, and therefore stopping" },
+        { "nl": "Parkeren", "fr": "Un stationnement", "en": "Parking" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "De definitie van een geparkeerd voertuig zegt uitdrukkelijk dat ook het tanken van brandstof en het opladen van de batterij van een elektrisch of hybride voertuig als parkeren wordt beschouwd (art. 2.23).",
+        "fr": "La définition du véhicule en stationnement précise expressément que faire le plein de carburant et charger la batterie d'un véhicule électrique ou hybride sont considérés comme du stationnement (art. 2.23).",
+        "en": "The definition of a parked vehicle expressly states that refuelling, and charging the battery of an electric or hybrid vehicle, count as parking (Art. 2.23)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 2.23", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-004",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E3" },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal routier ?",
+        "en": "What does this road sign mean?"
+      },
+      "options": [
+        { "nl": "Stilstaan en parkeren verboden aan de kant waar het bord staat", "fr": "Arrêt et stationnement interdits du côté où le signal est placé", "en": "No stopping and no parking on the side where the sign is placed" },
+        { "nl": "Enkel parkeren verboden; kort stilstaan mag", "fr": "Seul le stationnement est interdit ; un arrêt bref est permis", "en": "Only parking is forbidden; brief stopping is allowed" },
+        { "nl": "Verboden toegang voor iedere bestuurder", "fr": "Accès interdit à tout conducteur", "en": "No entry for any driver" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord E3 verbiedt zowel het stilstaan als het parkeren aan de kant van de weg waar het staat, eventueel beperkt tot de uren op het bord. Je mag er dus zelfs niet stoppen om iemand te laten uitstappen.",
+        "fr": "Le signal E3 interdit à la fois l'arrêt et le stationnement du côté de la voie où il est placé, le cas échéant pendant les heures indiquées. Vous ne pouvez donc même pas vous y arrêter pour laisser descendre un passager.",
+        "en": "Sign E3 forbids both stopping and parking on the side of the road where it stands, possibly limited to the hours shown. You may not even halt there to drop someone off."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 70.2.1 (verkeersbord E3)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-005",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E1" },
+      "text": {
+        "nl": "Je wil een passagier laten uitstappen op een plaats waar dit bord staat. Mag dat?",
+        "fr": "Vous voulez laisser descendre un passager à un endroit où ce signal est placé. Est-ce permis ?",
+        "en": "You want to let a passenger get out at a spot where this sign is placed. Is that allowed?"
+      },
+      "options": [
+        { "nl": "Neen, het bord verbiedt ook het stilstaan", "fr": "Non, le signal interdit aussi l'arrêt", "en": "No, the sign also forbids stopping" },
+        { "nl": "Ja, E1 verbiedt enkel het parkeren; kort stilstaan mag", "fr": "Oui, le signal E1 n'interdit que le stationnement ; un arrêt bref est permis", "en": "Yes, E1 forbids only parking; brief stopping is allowed" },
+        { "nl": "Ja, en je mag er ook parkeren zolang er iemand in de auto blijft zitten", "fr": "Oui, et vous pouvez même y stationner tant que quelqu'un reste dans la voiture", "en": "Yes, and you may even park there as long as someone stays in the car" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord E1 verbiedt enkel het parkeren aan de kant waar het staat. Stilstaan om iemand te laten in- of uitstappen of om te laden en lossen blijft toegelaten; iemand in de auto laten zitten maakt van parkeren geen stilstaan.",
+        "fr": "Le signal E1 n'interdit que le stationnement du côté où il est placé. L'arrêt pour l'embarquement ou le débarquement de personnes ou de choses reste permis ; laisser quelqu'un dans la voiture ne transforme pas un stationnement en arrêt.",
+        "en": "Sign E1 forbids only parking on the side where it stands. Stopping to let people in or out or to load and unload remains allowed; leaving someone in the car does not turn parking into stopping."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 70.2.1 (verkeersbord E1) en Art. 2.22", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-006",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op de rijbaan, op minder dan hoeveel meter vóór een oversteekplaats voor voetgangers zijn stilstaan én parkeren verboden?",
+        "fr": "Sur la chaussée, à moins de combien de mètres en deçà d'un passage pour piétons l'arrêt et le stationnement sont-ils interdits ?",
+        "en": "On the carriageway, within how many metres before a pedestrian crossing are both stopping and parking forbidden?"
+      },
+      "options": [
+        { "nl": "5 meter", "fr": "5 mètres", "en": "5 metres" },
+        { "nl": "15 meter", "fr": "15 mètres", "en": "15 metres" },
+        { "nl": "20 meter", "fr": "20 mètres", "en": "20 metres" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Stilstaan en parkeren zijn verboden op de oversteekplaatsen voor voetgangers en voor fietsers zelf én op de rijbaan op minder dan 5 meter vóór die oversteekplaatsen (art. 24). Zo blijft het zicht op overstekende voetgangers vrij.",
+        "fr": "L'arrêt et le stationnement sont interdits sur les passages pour piétons et pour cyclistes eux-mêmes et sur la chaussée à moins de 5 mètres en deçà de ces passages (art. 24). La visibilité sur les piétons qui traversent reste ainsi dégagée.",
+        "en": "Stopping and parking are forbidden on pedestrian and cyclist crossings themselves and on the carriageway within 5 metres before them (Art. 24). This keeps crossing pedestrians visible to approaching drivers."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 24", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-007",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je wil even op het fietspad stilstaan om dozen uit te laden en zet je vier richtingaanwijzers aan. Mag dat?",
+        "fr": "Vous voulez vous arrêter brièvement sur la piste cyclable pour décharger des cartons et vous allumez vos quatre indicateurs de direction. Est-ce permis ?",
+        "en": "You want to stop briefly on the cycle path to unload boxes and you switch on your hazard lights. Is that allowed?"
+      },
+      "options": [
+        { "nl": "Ja, laden en lossen is stilstaan en dat mag overal", "fr": "Oui, décharger est un arrêt et c'est permis partout", "en": "Yes, unloading counts as stopping and that is allowed everywhere" },
+        { "nl": "Ja, als er geen fietser in de buurt is", "fr": "Oui, s'il n'y a aucun cycliste à proximité", "en": "Yes, if no cyclist is nearby" },
+        { "nl": "Neen, op een fietspad is zelfs stilstaan verboden", "fr": "Non, sur une piste cyclable même l'arrêt est interdit", "en": "No, on a cycle path even stopping is forbidden" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Artikel 24 verbiedt stilstaan én parkeren op de fietspaden en op minder dan 5 meter van de plaats waar fietsers en bromfietsers het fietspad op- of afrijden. Vier richtingaanwijzers maken een verboden stilstand niet toegelaten.",
+        "fr": "L'article 24 interdit l'arrêt et le stationnement sur les pistes cyclables et à moins de 5 mètres de l'endroit où les cyclistes et cyclomotoristes accèdent à la piste ou la quittent. Les quatre indicateurs allumés ne rendent pas licite un arrêt interdit.",
+        "en": "Article 24 forbids both stopping and parking on cycle paths and within 5 metres of the point where cyclists and moped riders join or leave the path. Hazard lights do not make a forbidden stop lawful."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 24", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-008",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Mag je op een overweg stilstaan om snel een passagier te laten uitstappen?",
+        "fr": "Pouvez-vous vous arrêter sur un passage à niveau pour laisser descendre rapidement un passager ?",
+        "en": "May you stop on a level crossing to quickly let a passenger get out?"
+      },
+      "options": [
+        { "nl": "Ja, als er geen trein nadert", "fr": "Oui, si aucun train n'approche", "en": "Yes, if no train is approaching" },
+        { "nl": "Neen, op een overweg zijn stilstaan en parkeren verboden", "fr": "Non, sur un passage à niveau l'arrêt et le stationnement sont interdits", "en": "No, on a level crossing both stopping and parking are forbidden" },
+        { "nl": "Ja, maar hoogstens één minuut", "fr": "Oui, mais une minute au maximum", "en": "Yes, but for at most one minute" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Artikel 24 verbiedt uitdrukkelijk het stilstaan en parkeren op de overwegen. Een voertuig dat op de sporen stilstaat brengt zichzelf en het treinverkeer ernstig in gevaar.",
+        "fr": "L'article 24 interdit expressément l'arrêt et le stationnement sur les passages à niveau. Un véhicule immobilisé sur les voies se met gravement en danger et met en danger la circulation ferroviaire.",
+        "en": "Article 24 expressly forbids stopping and parking on level crossings. A vehicle standing on the tracks seriously endangers itself and rail traffic."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 24", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-009",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Een parkeerplaats is gemarkeerd met de letter \"P\" en het opschrift \"bewoners\". Wie mag daar parkeren?",
+        "fr": "Un emplacement de stationnement porte la lettre « P » et la mention « riverains ». Qui peut y stationner ?",
+        "en": "A parking space is marked with the letter \"P\" and the word \"residents\". Who may park there?"
+      },
+      "options": [
+        { "nl": "Enkel voertuigen met een geldige bewonerskaart leesbaar achter de voorruit", "fr": "Uniquement les véhicules munis d'une carte de riverain valable, apposée lisiblement derrière le pare-brise", "en": "Only vehicles displaying a valid resident parking card legibly behind the windscreen" },
+        { "nl": "Iedereen, maar hoogstens 30 minuten", "fr": "Tout le monde, mais 30 minutes au maximum", "en": "Anyone, but for at most 30 minutes" },
+        { "nl": "Iedereen die een parkeerschijf legt", "fr": "Quiconque appose un disque de stationnement", "en": "Anyone who displays a parking disc" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Plaatsen met de vermelding \"bewoners\" zijn voorbehouden voor voertuigen waarin de bewonerskaart leesbaar achter de voorruit is aangebracht (art. 27ter). Zonder die kaart mag je er niet parkeren, ook niet kort of met parkeerschijf.",
+        "fr": "Les emplacements portant la mention « riverains » sont réservés aux véhicules dans lesquels la carte de riverain est apposée lisiblement derrière le pare-brise (art. 27ter). Sans cette carte, vous ne pouvez pas y stationner, même brièvement ou avec un disque.",
+        "en": "Spaces marked \"residents\" are reserved for vehicles displaying the resident parking card legibly behind the windscreen (Art. 27ter). Without that card you may not park there, not even briefly or with a parking disc."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 27ter", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-010",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je auto is, lading inbegrepen, 1,50 m hoog. Mag je parkeren op minder dan 20 meter vóór een verkeerslicht waarvan de onderkant zich 2,20 m boven de rijbaan bevindt?",
+        "fr": "Votre voiture mesure 1,50 m de haut, chargement compris. Pouvez-vous stationner à moins de 20 mètres en deçà d'un signal lumineux dont le bord inférieur se trouve à 2,20 m au-dessus de la chaussée ?",
+        "en": "Your car is 1.50 m high including its load. May you park within 20 metres before a traffic light whose underside is 2.20 m above the carriageway?"
+      },
+      "options": [
+        { "nl": "Neen, de 20 meterregel geldt altijd", "fr": "Non, la règle des 20 mètres s'applique toujours", "en": "No, the 20-metre rule always applies" },
+        { "nl": "Ja, maar enkel buiten de bebouwde kom", "fr": "Oui, mais uniquement en dehors des agglomérations", "en": "Yes, but only outside built-up areas" },
+        { "nl": "Ja, want je voertuig is niet hoger dan 1,65 m en het licht hangt minstens 2 m hoog", "fr": "Oui, car votre véhicule ne dépasse pas 1,65 m et le signal se trouve à 2 m au moins de hauteur", "en": "Yes, because your vehicle is no higher than 1.65 m and the light is at least 2 m up" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Stilstaan en parkeren zijn verboden op minder dan 20 meter vóór verkeerslichten en verkeersborden, maar dat verbod geldt niet voor voertuigen van maximaal 1,65 m hoog (lading inbegrepen) wanneer de onderkant van het licht of bord zich minstens 2 m boven de rijbaan bevindt (art. 24). Een lage auto verstopt het licht dan immers niet.",
+        "fr": "L'arrêt et le stationnement sont interdits à moins de 20 mètres en deçà des signaux lumineux et des signaux routiers, mais cette interdiction ne s'applique pas aux véhicules d'une hauteur maximale de 1,65 m (chargement compris) lorsque le bord inférieur du signal se trouve à 2 m au moins au-dessus de la chaussée (art. 24). Une voiture basse ne masque alors pas le signal.",
+        "en": "Stopping and parking are forbidden within 20 metres before traffic lights and traffic signs, but the ban does not apply to vehicles no more than 1.65 m high (load included) when the underside of the light or sign is at least 2 m above the carriageway (Art. 24). A low car does not hide the signal in that case."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 24", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-011",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op minder dan hoeveel meter aan weerszijden van een bord dat een autobushalte aanduidt, is parkeren verboden?",
+        "fr": "À moins de combien de mètres de part et d'autre d'un panneau indiquant un arrêt d'autobus le stationnement est-il interdit ?",
+        "en": "Within how many metres on either side of a sign marking a bus stop is parking forbidden?"
+      },
+      "options": [
+        { "nl": "5 meter", "fr": "5 mètres", "en": "5 metres" },
+        { "nl": "15 meter", "fr": "15 mètres", "en": "15 metres" },
+        { "nl": "20 meter", "fr": "20 mètres", "en": "20 metres" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Parkeren is verboden op minder dan 15 meter aan weerszijden van een bord dat een autobus-, trolleybus- of tramhalte aanwijst (art. 25.1). Kort stilstaan om iemand te laten in- of uitstappen blijft er wel toegelaten.",
+        "fr": "Le stationnement est interdit à moins de 15 mètres de part et d'autre d'un panneau indiquant un arrêt d'autobus, de trolleybus ou de tram (art. 25.1). Un arrêt bref pour l'embarquement ou le débarquement y reste toutefois permis.",
+        "en": "Parking is forbidden within 15 metres on either side of a sign marking a bus, trolleybus or tram stop (Art. 25.1). Briefly stopping to let someone in or out remains allowed there."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 25.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-012",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je wil parkeren en laat 50 cm ruimte tot het geparkeerde voertuig achter je. Mag dat?",
+        "fr": "Vous voulez stationner en laissant 50 cm d'espace jusqu'au véhicule en stationnement derrière vous. Est-ce permis ?",
+        "en": "You want to park, leaving 50 cm of space to the parked vehicle behind you. Is that allowed?"
+      },
+      "options": [
+        { "nl": "Neen, je moet minstens 1 meter afstand laten", "fr": "Non, vous devez laisser au moins 1 mètre", "en": "No, you must leave at least 1 metre" },
+        { "nl": "Ja, er geldt geen minimumafstand", "fr": "Oui, aucune distance minimale n'est imposée", "en": "Yes, there is no minimum distance" },
+        { "nl": "Neen, je moet minstens 2 meter afstand laten", "fr": "Non, vous devez laisser au moins 2 mètres", "en": "No, you must leave at least 2 metres" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Parkeren is verboden op minder dan 1 meter zowel vóór als achter een ander stilstaand of geparkeerd voertuig, en overal waar je het instappen in of het wegrijden van een ander voertuig zou verhinderen (art. 25.1).",
+        "fr": "Le stationnement est interdit à moins de 1 mètre tant devant que derrière un autre véhicule à l'arrêt ou en stationnement, et à tout endroit où le véhicule empêcherait l'accès à un autre véhicule ou son dégagement (art. 25.1).",
+        "en": "Parking is forbidden within 1 metre both in front of and behind another stopped or parked vehicle, and anywhere it would prevent another vehicle from being entered or driven away (Art. 25.1)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 25.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-013",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Mag je parkeren voor de inrij van je eigen woning?",
+        "fr": "Pouvez-vous stationner devant l'accès carrossable de votre propre habitation ?",
+        "en": "May you park in front of the driveway of your own home?"
+      },
+      "options": [
+        { "nl": "Neen, parkeren voor een inrij is altijd verboden", "fr": "Non, le stationnement devant un accès carrossable est toujours interdit", "en": "No, parking in front of a driveway is always forbidden" },
+        { "nl": "Ja, iedereen mag voor een inrij parkeren als het maar kort is", "fr": "Oui, chacun peut stationner devant un accès carrossable pourvu que ce soit bref", "en": "Yes, anyone may park in front of a driveway as long as it is brief" },
+        { "nl": "Ja, als je nummerplaat leesbaar op die inrij is aangebracht", "fr": "Oui, si votre plaque d'immatriculation est reproduite lisiblement à cet accès", "en": "Yes, if your number plate is legibly displayed at that entrance" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Parkeren voor de inrij van eigendommen is verboden, behalve voor voertuigen waarvan de nummerplaat leesbaar op die inrij is aangebracht (art. 25.1). Zo mag de bewoner er zelf staan zonder anderen te misleiden.",
+        "fr": "Le stationnement devant les accès carrossables des propriétés est interdit, sauf pour les véhicules dont la plaque d'immatriculation est reproduite lisiblement à cet accès (art. 25.1). Le riverain peut ainsi y stationner lui-même.",
+        "en": "Parking in front of property entrances is forbidden, except for vehicles whose number plate is legibly displayed at that entrance (Art. 25.1). The resident may therefore park in front of their own driveway."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 25.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-014",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "In een smalle straat zou na het parkeren van je auto nog 2,50 m vrije doorgang op de rijbaan overblijven. Mag je daar parkeren?",
+        "fr": "Dans une rue étroite, il ne resterait que 2,50 m de passage libre sur la chaussée après le stationnement de votre voiture. Pouvez-vous y stationner ?",
+        "en": "In a narrow street, only 2.50 m of free passage on the carriageway would remain after you park your car. May you park there?"
+      },
+      "options": [
+        { "nl": "Neen, de vrije doorgang moet minstens 3 meter breed blijven", "fr": "Non, le passage libre doit rester d'au moins 3 mètres", "en": "No, the free passage must remain at least 3 metres wide" },
+        { "nl": "Ja, als je je vier richtingaanwijzers aanzet", "fr": "Oui, si vous allumez vos quatre indicateurs de direction", "en": "Yes, if you switch on your hazard lights" },
+        { "nl": "Ja, 2,50 meter volstaat voor één rijrichting", "fr": "Oui, 2,50 mètres suffisent pour un sens de circulation", "en": "Yes, 2.50 metres is enough for one direction of traffic" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Parkeren is verboden wanneer de vrije doorgang op de rijbaan daardoor minder dan 3 meter breed zou worden (art. 25.1). Ook hulpdiensten moeten er nog vlot door kunnen.",
+        "fr": "Le stationnement est interdit lorsque la largeur du passage libre sur la chaussée serait réduite à moins de 3 mètres (art. 25.1). Les services de secours doivent notamment pouvoir encore passer.",
+        "en": "Parking is forbidden where it would reduce the free passage on the carriageway to less than 3 metres (Art. 25.1). Emergency services, among others, must still be able to get through."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 25.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-015",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Aan welke kant van een rijbaan met tweerichtingsverkeer moet je je voertuig parkeren?",
+        "fr": "De quel côté d'une chaussée à deux sens devez-vous ranger votre véhicule en stationnement ?",
+        "en": "On which side of a two-way carriageway must you park your vehicle?"
+      },
+      "options": [
+        { "nl": "Links, zodat je de aankomende voertuigen ziet", "fr": "À gauche, pour voir les véhicules qui arrivent", "en": "On the left, so you can see oncoming vehicles" },
+        { "nl": "Rechts ten opzichte van je rijrichting", "fr": "À droite par rapport au sens de votre marche", "en": "On the right relative to your direction of travel" },
+        { "nl": "Om het even welke kant", "fr": "N'importe quel côté", "en": "Either side" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Een stilstaand of geparkeerd voertuig moet rechts ten opzichte van de rijrichting worden opgesteld (art. 23.1). Alleen op een rijbaan met eenrichtingsverkeer mag het links of rechts staan.",
+        "fr": "Un véhicule à l'arrêt ou en stationnement doit être rangé à droite par rapport au sens de la marche (art. 23.1). Ce n'est que sur une chaussée à sens unique qu'il peut être rangé de l'un ou de l'autre côté.",
+        "en": "A stopped or parked vehicle must be positioned on the right relative to the direction of travel (Art. 23.1). Only on a one-way carriageway may it stand on either side."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 23.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-016",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Buiten de bebouwde kom parkeer je op een berm die voetgangers moeten volgen. Wat moet je voor hen vrijlaten?",
+        "fr": "En dehors d'une agglomération, vous stationnez sur un accotement que les piétons doivent emprunter. Que devez-vous leur laisser ?",
+        "en": "Outside a built-up area you park on a verge that pedestrians have to use. What must you leave free for them?"
+      },
+      "options": [
+        { "nl": "Niets, voetgangers kunnen om het voertuig heen lopen", "fr": "Rien, les piétons peuvent contourner le véhicule", "en": "Nothing, pedestrians can walk around the vehicle" },
+        { "nl": "Een strook van 1 meter aan de kant van de rijbaan", "fr": "Une bande de 1 mètre du côté de la chaussée", "en": "A 1-metre strip on the carriageway side" },
+        { "nl": "Een begaanbare strook van minstens 1,50 meter aan de buitenkant van de berm", "fr": "Une bande praticable d'au moins 1,50 mètre du côté extérieur de l'accotement", "en": "A passable strip of at least 1.50 metres on the outer side of the verge" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Buiten de bebouwde kom mag je op eender welke berm stilstaan of parkeren, maar moeten voetgangers die berm volgen, dan laat je aan de buitenkant een begaanbare strook van minstens 1,50 meter vrij (art. 23.1).",
+        "fr": "En dehors des agglomérations, vous pouvez vous arrêter ou stationner sur tout accotement, mais si les piétons doivent l'emprunter, vous leur laissez du côté extérieur une bande praticable d'au moins 1,50 mètre (art. 23.1).",
+        "en": "Outside built-up areas you may stop or park on any verge, but if pedestrians have to use it, you must leave a passable strip of at least 1.50 metres on its outer side (Art. 23.1)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 23.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-017",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E9e" },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal routier ?",
+        "en": "What does this road sign mean?"
+      },
+      "options": [
+        { "nl": "Je moet verplicht op de berm of op het trottoir parkeren", "fr": "Le stationnement doit obligatoirement se faire sur l'accotement ou sur le trottoir", "en": "Parking must be on the verge or on the sidewalk" },
+        { "nl": "Parkeren op de berm of het trottoir is verboden", "fr": "Le stationnement sur l'accotement ou le trottoir est interdit", "en": "Parking on the verge or sidewalk is forbidden" },
+        { "nl": "Parkeren is enkel toegelaten voor autobussen", "fr": "Le stationnement n'est autorisé qu'aux autobus", "en": "Parking is allowed only for buses" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord E9e legt verplicht parkeren op de berm of op het trottoir op: je zet het voertuig zoals het pictogram aangeeft, buiten de rijbaan. Normaal is stilstaan en parkeren op het trottoir net verboden (art. 24), maar dit bord wijkt daar plaatselijk van af.",
+        "fr": "Le signal E9e impose le stationnement sur l'accotement ou sur le trottoir : le véhicule se range comme l'indique le pictogramme, hors de la chaussée. Normalement l'arrêt et le stationnement sur le trottoir sont interdits (art. 24), mais ce signal y déroge localement.",
+        "en": "Sign E9e makes parking on the verge or on the sidewalk compulsory: you position the vehicle as the pictogram shows, off the carriageway. Normally stopping and parking on the sidewalk are forbidden (Art. 24), but this sign creates a local exception."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 70.2.1 (verkeersbord E9e)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-018",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je komt om 13.40 u aan in een blauwe zone. Waarop zet je de pijl van je parkeerschijf?",
+        "fr": "Vous arrivez à 13 h 40 dans une zone bleue. Sur quoi placez-vous la flèche de votre disque de stationnement ?",
+        "en": "You arrive in a blue zone at 1.40 p.m. Where do you set the arrow of your parking disc?"
+      },
+      "options": [
+        { "nl": "Op 13.30 u", "fr": "Sur 13 h 30", "en": "At 1.30 p.m." },
+        { "nl": "Op 14 u", "fr": "Sur 14 h", "en": "At 2 p.m." },
+        { "nl": "Op exact 13.40 u", "fr": "Sur 13 h 40 exactement", "en": "At exactly 1.40 p.m." }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Je plaatst de pijl van de parkeerschijf op het streepje dat volgt op het tijdstip van aankomst (art. 27.1). Kom je om 13.40 u aan, dan is dat het streepje van 14 u.",
+        "fr": "Vous placez la flèche du disque sur le trait qui suit le moment de votre arrivée (art. 27.1). En arrivant à 13 h 40, c'est donc le trait de 14 h.",
+        "en": "You set the arrow of the parking disc on the mark that follows your time of arrival (Art. 27.1). Arriving at 1.40 p.m., that is the 2 p.m. mark."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 27.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-019",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "In een blauwe zone vermeldt de signalisatie geen bijzondere voorwaarden. Wanneer moet je de parkeerschijf gebruiken en hoelang mag je er parkeren?",
+        "fr": "Dans une zone bleue, la signalisation ne mentionne aucune condition particulière. Quand devez-vous utiliser le disque de stationnement et combien de temps pouvez-vous y stationner ?",
+        "en": "In a blue zone the signs mention no special conditions. When must you use the parking disc and how long may you park?"
+      },
+      "options": [
+        { "nl": "Op werkdagen van 9 tot 18 uur, maximum 2 uur", "fr": "Les jours ouvrables de 9 h à 18 h, deux heures au maximum", "en": "On working days from 9 a.m. to 6 p.m., for at most 2 hours" },
+        { "nl": "Elke dag van 8 tot 20 uur, maximum 1 uur", "fr": "Tous les jours de 8 h à 20 h, une heure au maximum", "en": "Every day from 8 a.m. to 8 p.m., for at most 1 hour" },
+        { "nl": "Enkel op zon- en feestdagen, maximum 2 uur", "fr": "Uniquement les dimanches et jours fériés, deux heures au maximum", "en": "Only on Sundays and public holidays, for at most 2 hours" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Behalve wanneer de signalisatie andere voorwaarden vermeldt, is het gebruik van de parkeerschijf in een blauwe zone voorgeschreven op werkdagen van 9 tot 18 uur en voor een maximumduur van twee uur (art. 27.1).",
+        "fr": "Sauf conditions particulières mentionnées par la signalisation, l'usage du disque en zone bleue est prescrit les jours ouvrables de 9 h à 18 h, pour une durée maximale de deux heures (art. 27.1).",
+        "en": "Unless the signs state otherwise, the parking disc in a blue zone is required on working days from 9 a.m. to 6 p.m., for a maximum of two hours (Art. 27.1)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 27.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-020",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je maximale parkeertijd in de blauwe zone loopt bijna af. Je loopt naar je auto en draait de parkeerschijf door naar een later uur, zonder weg te rijden. Mag dat?",
+        "fr": "Votre durée maximale de stationnement en zone bleue expire bientôt. Vous retournez à votre voiture et tournez le disque vers une heure ultérieure, sans quitter l'emplacement. Est-ce permis ?",
+        "en": "Your maximum parking time in the blue zone is almost up. You walk to your car and turn the disc forward to a later time without driving away. Is that allowed?"
+      },
+      "options": [
+        { "nl": "Ja, zolang je een correct nieuw uur instelt", "fr": "Oui, tant que vous réglez une nouvelle heure correcte", "en": "Yes, as long as you set a correct new time" },
+        { "nl": "Ja, als je bij het voertuig blijft staan", "fr": "Oui, si vous restez près du véhicule", "en": "Yes, if you stay next to the vehicle" },
+        { "nl": "Neen, je voertuig moet de parkeerplaats verlaten hebben bij het verstrijken van de toegelaten duur", "fr": "Non, votre véhicule doit avoir quitté l'emplacement à l'expiration de la durée autorisée", "en": "No, your vehicle must have left the space by the time the permitted period expires" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Het voertuig moet de parkeerplaats verlaten hebben uiterlijk bij het verstrijken van de vergunde parkeerduur; onjuiste aanduidingen op de schijf laten verschijnen is verboden (art. 27.1). De schijf \"doordraaien\" zonder weg te rijden is dus niet toegelaten.",
+        "fr": "Le véhicule doit avoir quitté l'emplacement au plus tard à l'expiration de la durée autorisée ; faire apparaître des indications inexactes sur le disque est interdit (art. 27.1). « Tourner » le disque sans partir n'est donc pas permis.",
+        "en": "The vehicle must have left the space by the time the permitted period expires; making the disc show inaccurate indications is forbidden (Art. 27.1). \"Turning the disc forward\" without leaving is therefore not allowed."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 27.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-021",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je wil parkeren op een plaats met betalend parkeren, maar de parkeerautomaat is buiten gebruik. Wat doe je?",
+        "fr": "Vous voulez stationner à un endroit à stationnement payant, mais l'horodateur est hors d'usage. Que faites-vous ?",
+        "en": "You want to park in a paid-parking area, but the ticket machine is out of order. What do you do?"
+      },
+      "options": [
+        { "nl": "Je parkeert gratis en zonder tijdsbeperking", "fr": "Vous stationnez gratuitement et sans limite de durée", "en": "You park for free without any time limit" },
+        { "nl": "Je gebruikt je parkeerschijf", "fr": "Vous utilisez votre disque de stationnement", "en": "You use your parking disc" },
+        { "nl": "Je mag daar dan niet parkeren", "fr": "Vous ne pouvez alors pas y stationner", "en": "You may not park there at all" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Bij parkeermeters en parkeerautomaten die buiten gebruik zijn, moet je de parkeerschijf gebruiken volgens de regels van de blauwe zone (art. 27.3). Gratis en onbeperkt parkeren is er dus niet bij.",
+        "fr": "Lorsque le parcmètre ou l'horodateur est hors d'usage, vous devez utiliser le disque de stationnement selon les règles de la zone bleue (art. 27.3). Il n'est donc pas question de stationner sans limite.",
+        "en": "When a parking meter or ticket machine is out of order, you must use the parking disc under the blue-zone rules (Art. 27.3). Unlimited free parking is not an option."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 27.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-022",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Wie mag parkeren op een parkeerplaats gemarkeerd met het symbool van een rolstoel?",
+        "fr": "Qui peut stationner sur un emplacement marqué du symbole d'une chaise roulante ?",
+        "en": "Who may park in a space marked with the wheelchair symbol?"
+      },
+      "options": [
+        { "nl": "Enkel voertuigen met de parkeerkaart voor personen met een handicap zichtbaar achter de voorruit", "fr": "Uniquement les véhicules avec la carte de stationnement pour personnes handicapées apposée visiblement derrière le pare-brise", "en": "Only vehicles displaying the disabled parking card visibly behind the windscreen" },
+        { "nl": "Iedereen, voor maximaal 15 minuten", "fr": "Tout le monde, pour 15 minutes au maximum", "en": "Anyone, for at most 15 minutes" },
+        { "nl": "Iedereen, zolang de vier richtingaanwijzers aan staan", "fr": "Tout le monde, tant que les quatre indicateurs de direction fonctionnent", "en": "Anyone, as long as the hazard lights are on" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Die plaatsen zijn voorbehouden voor voertuigen met de speciale parkeerkaart voor personen met een handicap, zichtbaar aangebracht achter de voorruit (art. 27bis). De kaart is persoonlijk: ze mag alleen gebruikt worden wanneer de houder zelf mee vervoerd wordt of het voertuig bestuurt (KB 07/05/1999).",
+        "fr": "Ces emplacements sont réservés aux véhicules munis de la carte spéciale de stationnement pour personnes handicapées, apposée visiblement derrière le pare-brise (art. 27bis). La carte est personnelle : elle ne peut servir que si son titulaire conduit le véhicule ou y est transporté (AR 07/05/1999).",
+        "en": "Those spaces are reserved for vehicles displaying the special parking card for persons with a disability visibly behind the windscreen (Art. 27bis). The card is personal: it may only be used when the holder drives the vehicle or is being transported in it (Royal Decree 07/05/1999)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 27bis", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "KB 07/05/1999 betreffende de parkeerkaart voor mensen met een handicap" }
+      ]
+    },
+    {
+      "id": "parking-023",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Een houder van de parkeerkaart voor personen met een handicap parkeert in een blauwe zone. Moet hij ook een parkeerschijf leggen?",
+        "fr": "Un titulaire de la carte de stationnement pour personnes handicapées stationne en zone bleue. Doit-il aussi apposer un disque de stationnement ?",
+        "en": "A holder of the disabled parking card parks in a blue zone. Must they also display a parking disc?"
+      },
+      "options": [
+        { "nl": "Ja, de parkeerschijf blijft altijd verplicht", "fr": "Oui, le disque de stationnement reste toujours obligatoire", "en": "Yes, the parking disc always remains compulsory" },
+        { "nl": "Neen, de zichtbaar aangebrachte parkeerkaart vervangt de parkeerschijf", "fr": "Non, la carte apposée visiblement remplace le disque de stationnement", "en": "No, the visibly displayed card replaces the parking disc" },
+        { "nl": "Neen, maar dan geldt een maximum van 30 minuten", "fr": "Non, mais un maximum de 30 minutes s'applique alors", "en": "No, but a 30-minute maximum then applies" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Houders van de parkeerkaart voor personen met een handicap zijn vrijgesteld van de beperkte parkeertijd; de kaart, zichtbaar achter de voorruit, vervangt de parkeerschijf (art. 27.4).",
+        "fr": "Les titulaires de la carte de stationnement pour personnes handicapées sont exemptés de la limitation de la durée de stationnement ; la carte, apposée visiblement derrière le pare-brise, remplace le disque (art. 27.4).",
+        "en": "Holders of the disabled parking card are exempt from the limited parking time; the card, displayed visibly behind the windscreen, replaces the parking disc (Art. 27.4)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 27.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-024",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E5" },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal routier ?",
+        "en": "What does this road sign mean?"
+      },
+      "options": [
+        { "nl": "Parkeerverbod van de 16e tot het einde van de maand", "fr": "Stationnement interdit du 16 à la fin du mois", "en": "No parking from the 16th to the end of the month" },
+        { "nl": "Parkeerverbod gedurende de hele maand", "fr": "Stationnement interdit pendant tout le mois", "en": "No parking during the whole month" },
+        { "nl": "Parkeerverbod van de 1e tot de 15e van de maand", "fr": "Stationnement interdit du 1er au 15 du mois", "en": "No parking from the 1st to the 15th of the month" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Het bord E5 (met Romeins cijfer I) verbiedt het parkeren van de 1e tot de 15e van de maand aan de kant waar het staat; het bord E7 (cijfer II) doet dat van de 16e tot het einde van de maand. Samen regelen ze het halfmaandelijks beurtelings parkeren.",
+        "fr": "Le signal E5 (chiffre romain I) interdit le stationnement du 1er au 15 du mois du côté où il est placé ; le signal E7 (chiffre II) l'interdit du 16 à la fin du mois. Ensemble, ils organisent le stationnement semi-mensuel alterné.",
+        "en": "Sign E5 (Roman numeral I) forbids parking from the 1st to the 15th of the month on the side where it stands; sign E7 (numeral II) does so from the 16th to the end of the month. Together they organise half-monthly alternate parking."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 70.2.1 (verkeersborden E5 en E7) en Art. 26", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-025",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E11" },
+      "text": {
+        "nl": "In een bebouwde kom geldt halfmaandelijks beurtelings parkeren (bord E11). Wanneer moet je van kant veranderen?",
+        "fr": "Dans une agglomération, le stationnement semi-mensuel alterné s'applique (signal E11). Quand devez-vous changer de côté ?",
+        "en": "In a built-up area half-monthly alternate parking applies (sign E11). When must you change sides?"
+      },
+      "options": [
+        { "nl": "Op de laatste dag van elke periode, tussen 19.30 u en 20 u", "fr": "Le dernier jour de chaque période, entre 19 h 30 et 20 h", "en": "On the last day of each period, between 7.30 p.m. and 8 p.m." },
+        { "nl": "Vóór middernacht op de laatste dag van de periode", "fr": "Avant minuit le dernier jour de la période", "en": "Before midnight on the last day of the period" },
+        { "nl": "Op de eerste dag van de nieuwe periode, vóór 8 u 's morgens", "fr": "Le premier jour de la nouvelle période, avant 8 h du matin", "en": "On the first day of the new period, before 8 a.m." }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bij halfmaandelijks beurtelings parkeren mag je van de 1e tot de 15e parkeren langs de kant van de gebouwen met onpare huisnummers en van de 16e tot het einde van de maand langs de pare kant; het veranderen van kant gebeurt op de laatste dag van elke periode tussen 19.30 u en 20 u (art. 26).",
+        "fr": "En cas de stationnement semi-mensuel alterné, le stationnement est autorisé du 1er au 15 du côté des immeubles portant des numéros impairs et du 16 à la fin du mois du côté pair ; le changement de côté s'opère le dernier jour de chaque période entre 19 h 30 et 20 h (art. 26).",
+        "en": "Under half-monthly alternate parking you may park from the 1st to the 15th on the side of buildings with odd numbers and from the 16th to the end of the month on the even side; the change of sides takes place on the last day of each period between 7.30 p.m. and 8 p.m. (Art. 26)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 26 en Art. 70.2.1 (verkeersbord E11)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-026",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je staat geparkeerd langs de rijbaan en wil je portier openen aan de kant van het verkeer. Wat moet je doen?",
+        "fr": "Vous êtes stationné le long de la chaussée et voulez ouvrir votre portière du côté de la circulation. Que devez-vous faire ?",
+        "en": "You are parked along the carriageway and want to open your door on the traffic side. What must you do?"
+      },
+      "options": [
+        { "nl": "Eerst je vier richtingaanwijzers aanzetten", "fr": "Allumer d'abord vos quatre indicateurs de direction", "en": "First switch on your hazard lights" },
+        { "nl": "Je ervan vergewissen dat je geen andere weggebruiker in gevaar brengt of hindert", "fr": "Vous assurer que vous ne mettez en danger ni ne gênez aucun autre usager", "en": "Make sure you do not endanger or hinder any other road user" },
+        { "nl": "Niets, aankomende fietsers moeten uitwijken voor een openslaand portier", "fr": "Rien, les cyclistes qui arrivent doivent éviter une portière qui s'ouvre", "en": "Nothing, approaching cyclists must swerve around an opening door" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het is verboden een portier te openen of open te laten zonder je ervan te vergewissen dat je geen andere weggebruiker in gevaar brengt of hindert (art. 28). Open het portier daarom met de hand die er het verst van zit: zo draai je je automatisch om en zie je aankomende fietsers.",
+        "fr": "Il est interdit d'ouvrir une portière ou de la laisser ouverte sans s'être assuré de ne pas mettre en danger ni gêner un autre usager (art. 28). Ouvrez donc la portière avec la main la plus éloignée : vous pivotez ainsi automatiquement et voyez les cyclistes qui arrivent.",
+        "en": "It is forbidden to open a door, or leave it open, without making sure you endanger or hinder no other road user (Art. 28). Open the door with the hand furthest from it: you automatically turn round and see approaching cyclists."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 28", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-027",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je parkeert je auto in een steile straat en stapt uit. Welke voorzorgen neem je?",
+        "fr": "Vous stationnez votre voiture dans une rue en forte pente et vous en sortez. Quelles précautions prenez-vous ?",
+        "en": "You park your car on a steep street and get out. What precautions do you take?"
+      },
+      "options": [
+        { "nl": "Je trekt de parkeerrem aan, schakelt een versnelling in en zet de motor af", "fr": "Vous serrez le frein de stationnement, engagez une vitesse et coupez le moteur", "en": "You apply the parking brake, engage a gear and switch off the engine" },
+        { "nl": "Je laat de auto in neutraal staan, zodat hij kan meegeven bij een lichte aanrijding", "fr": "Vous laissez la voiture au point mort, pour qu'elle puisse céder en cas de léger choc", "en": "You leave the car in neutral so it can give way if lightly bumped" },
+        { "nl": "Je zet enkel je vier richtingaanwijzers aan", "fr": "Vous allumez seulement vos quatre indicateurs de direction", "en": "You only switch on your hazard lights" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Je mag je voertuig niet verlaten zonder de nodige voorzorgen te nemen om elk ongeval of misbruik te voorkomen (art. 8.5): parkeerrem aan en een versnelling ingeschakeld, en op een helling draai je de voorwielen best naar de stoeprand toe. De motor laten draaien terwijl het voertuig stilstaat is bovendien verboden, behalve bij noodzaak (art. 8.6).",
+        "fr": "Vous ne pouvez quitter votre véhicule sans prendre les précautions nécessaires pour éviter tout accident ou usage abusif (art. 8.5) : frein de stationnement serré, vitesse engagée et, en pente, roues avant tournées vers la bordure. Laisser tourner le moteur à l'arrêt est en outre interdit, sauf nécessité (art. 8.6).",
+        "en": "You may not leave your vehicle without taking the precautions needed to prevent any accident or misuse (Art. 8.5): parking brake on, a gear engaged and, on a slope, front wheels turned towards the kerb. Leaving the engine running while the vehicle stands still is moreover forbidden except in case of necessity (Art. 8.6)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 8.5 en 8.6", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-028",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "ZE1" },
+      "text": {
+        "nl": "Je rijdt een zone binnen die met dit zonebord is aangeduid. Waar geldt het parkeerverbod?",
+        "fr": "Vous entrez dans une zone délimitée par ce signal à validité zonale. Où l'interdiction de stationner s'applique-t-elle ?",
+        "en": "You enter an area marked by this zonal sign. Where does the parking ban apply?"
+      },
+      "options": [
+        { "nl": "Enkel tot aan het volgende kruispunt", "fr": "Seulement jusqu'au prochain carrefour", "en": "Only until the next junction" },
+        { "nl": "Enkel in de straat waar het bord staat", "fr": "Seulement dans la rue où le signal est placé", "en": "Only in the street where the sign is placed" },
+        { "nl": "In de hele afgebakende zone, tot aan het eindezonebord", "fr": "Dans toute la zone délimitée, jusqu'au signal de fin de zone", "en": "Throughout the delimited zone, up to the end-of-zone sign" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Een bord met zonale geldigheid (opschrift \"ZONE\") geldt in alle straten van de afgebakende zone tot aan het bord dat het einde van de zone aanduidt (art. 65.5), en niet enkel tot het volgende kruispunt zoals een gewoon bord E1.",
+        "fr": "Un signal à validité zonale (mention « ZONE ») s'applique dans toutes les rues de la zone délimitée jusqu'au signal indiquant la fin de la zone (art. 65.5), et pas seulement jusqu'au carrefour suivant comme un signal E1 ordinaire.",
+        "en": "A sign with zonal validity (the word \"ZONE\") applies in every street of the delimited area up to the end-of-zone sign (Art. 65.5), not just until the next junction like an ordinary E1 sign."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 65.5", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    }
+  ]
+}

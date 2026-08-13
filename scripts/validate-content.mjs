@@ -123,7 +123,7 @@ for (const cat of CATEGORIES) {
     if (!Array.isArray(q.citations) || q.citations.length === 0) err(`${w}: needs >=1 citation`);
     else
       for (const c of q.citations)
-        if (!c.source || !c.url || !/^https?:\/\//.test(c.url)) err(`${w}: bad citation`);
+        if (!c.source || (c.url && !/^https?:\/\//.test(c.url))) err(`${w}: bad citation`);
     checkImage(q.image, `${w}.image`);
   }
 }

@@ -1,0 +1,973 @@
+{
+  "category": "motorways-special",
+  "questions": [
+    {
+      "id": "motorways-special-001",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F5" },
+      "text": {
+        "nl": "U rijdt langs dit verkeersbord. Wat betekent het?",
+        "fr": "Vous passez devant ce signal. Que signifie-t-il ?",
+        "en": "You pass this road sign. What does it mean?"
+      },
+      "options": [
+        {
+          "nl": "Begin of oprit van een autosnelweg: vanaf hier gelden de regels voor autosnelwegen.",
+          "fr": "Commencement d'une autoroute ou accès à une autoroute : les règles propres aux autoroutes s'appliquent dès ici.",
+          "en": "Beginning of a motorway or access to one: the motorway rules apply from this point."
+        },
+        {
+          "nl": "Begin van een autoweg: kruispunten en overwegen blijven mogelijk.",
+          "fr": "Commencement d'une route pour automobiles : des carrefours et des passages à niveau restent possibles.",
+          "en": "Beginning of a motor road: intersections and level crossings remain possible."
+        },
+        {
+          "nl": "Aankondiging van een autosnelweg: de regels gelden pas na de eerstvolgende oprit.",
+          "fr": "Annonce d'une autoroute : les règles ne s'appliquent qu'après le prochain accès.",
+          "en": "Advance notice of a motorway: the rules only apply after the next access road."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord F5 duidt het begin of de oprit van een autosnelweg aan; het einde wordt aangeduid met F7. Vanaf dit bord gelden onder meer de toegangsverboden en de minimumsnelheid van artikel 21.",
+        "fr": "Le signal F5 indique le commencement d'une autoroute ou un accès à celle-ci ; la fin est indiquée par le signal F7. À partir de ce signal s'appliquent notamment les interdictions d'accès et la vitesse minimale de l'article 21.",
+        "en": "Sign F5 marks the beginning of a motorway or an access to it; the end is marked by sign F7. From this sign the access bans and the minimum speed of Article 21 apply."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 2.3 en 21", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-002",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Wie mag de autosnelweg oprijden?",
+        "fr": "Qui peut s'engager sur l'autoroute ?",
+        "en": "Who may enter the motorway?"
+      },
+      "options": [
+        {
+          "nl": "De bestuurder van een bromfiets klasse B die 45 km per uur haalt.",
+          "fr": "Le conducteur d'un cyclomoteur classe B qui atteint 45 km à l'heure.",
+          "en": "The driver of a class B moped that reaches 45 km/h."
+        },
+        {
+          "nl": "De bestuurder van een auto met aanhangwagen die op een horizontale weg 90 km per uur kan aanhouden.",
+          "fr": "Le conducteur d'une voiture avec remorque qui peut maintenir 90 km à l'heure sur une route en palier.",
+          "en": "The driver of a motor car with a trailer that can maintain 90 km/h on a level road."
+        },
+        {
+          "nl": "De bestuurder van een landbouwvoertuig dat 75 km per uur kan bereiken.",
+          "fr": "Le conducteur d'un véhicule agricole qui peut atteindre 75 km à l'heure.",
+          "en": "The driver of an agricultural vehicle that can reach 75 km/h."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Voetgangers, fietsers, bromfietsers, bestuurders van dieren, landbouwvoertuigen en voertuigen of slepen die op een horizontale weg geen 70 km per uur kunnen bereiken, mogen de autosnelweg niet op. Een landbouwvoertuig blijft verboden, ook als het sneller dan 70 km per uur kan rijden.",
+        "fr": "Les piétons, les cyclistes, les cyclomotoristes, les conducteurs d'animaux, les véhicules agricoles et les véhicules ou trains de véhicules qui ne peuvent pas atteindre 70 km à l'heure en palier n'ont pas accès à l'autoroute. Un véhicule agricole reste interdit même s'il peut dépasser 70 km à l'heure.",
+        "en": "Pedestrians, cyclists, moped riders, drivers of animals, agricultural vehicles and vehicles or vehicle combinations that cannot reach 70 km/h on a level road are banned from the motorway. An agricultural vehicle remains banned even if it can exceed 70 km/h."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 21.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-003",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U rijdt op de versnellingsstrook om de autosnelweg op te rijden. Wat moet u doen?",
+        "fr": "Vous roulez sur la bande d'accélération pour vous engager sur l'autoroute. Que devez-vous faire ?",
+        "en": "You are on the acceleration lane to enter the motorway. What must you do?"
+      },
+      "options": [
+        {
+          "nl": "Mijn snelheid aanpassen aan het verkeer op de autosnelweg en voorrang verlenen aan de bestuurders die er al rijden.",
+          "fr": "Adapter ma vitesse à la circulation sur l'autoroute et céder le passage aux conducteurs qui y circulent déjà.",
+          "en": "Adjust my speed to the traffic on the motorway and give way to the drivers already on it."
+        },
+        {
+          "nl": "Gewoon invoegen: de bestuurders op de rechterrijstrook moeten mij voorrang verlenen.",
+          "fr": "M'insérer simplement : les conducteurs sur la bande de droite doivent me céder le passage.",
+          "en": "Simply merge: the drivers in the right-hand traffic lane must give way to me."
+        },
+        {
+          "nl": "Aan het einde van de strook stoppen en wachten op een voldoende grote opening.",
+          "fr": "M'arrêter à la fin de la bande et attendre un espace suffisant.",
+          "en": "Stop at the end of the lane and wait for a large enough gap."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Invoegen is van rijstrook veranderen en dus een maneuver: u moet voorrang verlenen aan de andere weggebruikers. Gebruik de versnellingsstrook om op snelheid te komen; stoppen doet u er alleen in uiterste nood.",
+        "fr": "S'insérer, c'est changer de bande de circulation, donc une manœuvre : vous devez céder le passage aux autres usagers. Utilisez la bande d'accélération pour prendre de la vitesse ; ne vous y arrêtez qu'en cas d'absolue nécessité.",
+        "en": "Merging is changing traffic lane and therefore a manoeuvre: you must give way to the other road users. Use the acceleration lane to build up speed; only stop on it if absolutely unavoidable."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.4 en 21", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-004",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U verlaat de autosnelweg via een afrit met een vertragingsstrook. Waar vermindert u uw snelheid?",
+        "fr": "Vous quittez l'autoroute par une sortie avec bande de décélération. Où réduisez-vous votre vitesse ?",
+        "en": "You leave the motorway via an exit with a deceleration lane. Where do you reduce your speed?"
+      },
+      "options": [
+        {
+          "nl": "Op de rijbaan, vóór de vertragingsstrook, zodat ik die strook traag kan oprijden.",
+          "fr": "Sur la chaussée, avant la bande de décélération, pour m'y engager lentement.",
+          "en": "On the carriageway, before the deceleration lane, so that I enter it slowly."
+        },
+        {
+          "nl": "Ik rijd eerst de vertragingsstrook op en verminder pas daar mijn snelheid.",
+          "fr": "Je m'engage d'abord sur la bande de décélération et je ne ralentis qu'à ce moment-là.",
+          "en": "I move onto the deceleration lane first and only reduce speed there."
+        },
+        {
+          "nl": "Dat maakt niet uit, zolang ik trager dan 120 km per uur rijd.",
+          "fr": "Peu importe, tant que je roule à moins de 120 km à l'heure.",
+          "en": "It does not matter, as long as I stay below 120 km/h."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Remmen op de rijbaan van de autosnelweg hindert en brengt de achterliggers in gevaar; plots remmen zonder geldige reden is verboden. De vertragingsstrook dient precies om er uw snelheid te verminderen; denk ook aan de minimumsnelheid van 70 km per uur op de rijbaan.",
+        "fr": "Freiner sur la chaussée de l'autoroute gêne et met en danger les conducteurs qui suivent ; freiner brusquement sans raison valable est interdit. La bande de décélération sert précisément à y réduire sa vitesse ; pensez aussi à la vitesse minimale de 70 km à l'heure sur la chaussée.",
+        "en": "Braking on the motorway carriageway hinders and endangers the drivers behind you; sudden braking without a valid reason is prohibited. The deceleration lane exists precisely so you can slow down on it; remember the 70 km/h minimum speed on the carriageway."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 10.1.3 en 21.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-005",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Welke minimumsnelheid geldt op de autosnelweg, behalve wanneer het verkeersbord C43 een lagere snelheid oplegt?",
+        "fr": "Quelle vitesse minimale s'applique sur l'autoroute, sauf lorsque le signal C43 impose une vitesse inférieure ?",
+        "en": "What minimum speed applies on the motorway, except where sign C43 imposes a lower speed?"
+      },
+      "options": [
+        {
+          "nl": "60 km per uur.",
+          "fr": "60 km à l'heure.",
+          "en": "60 km/h."
+        },
+        {
+          "nl": "70 km per uur.",
+          "fr": "70 km à l'heure.",
+          "en": "70 km/h."
+        },
+        {
+          "nl": "90 km per uur.",
+          "fr": "90 km à l'heure.",
+          "en": "90 km/h."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Geen enkele bestuurder mag op een autosnelweg trager rijden dan 70 km per uur. U moet uw snelheid wel blijven aanpassen aan de omstandigheden, bijvoorbeeld bij file of slecht weer.",
+        "fr": "Aucun conducteur ne peut rouler sur une autoroute à une vitesse inférieure à 70 km à l'heure. Vous devez toutefois continuer à régler votre vitesse selon les circonstances, par exemple en cas de file ou de mauvais temps.",
+        "en": "No driver may drive on a motorway at less than 70 km/h. You must, however, keep adjusting your speed to the circumstances, for example in a traffic jam or bad weather."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 21.2 en 10.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-006",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "U rijdt met een personenauto op een Belgische autosnelweg zonder snelheidsborden. Hoe snel mag u maximaal rijden?",
+        "fr": "Vous roulez en voiture sur une autoroute belge sans signaux de vitesse. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "You drive a passenger car on a Belgian motorway with no speed signs. What is your maximum speed?"
+      },
+      "options": [
+        {
+          "nl": "100 km per uur.",
+          "fr": "100 km à l'heure.",
+          "en": "100 km/h."
+        },
+        {
+          "nl": "120 km per uur.",
+          "fr": "120 km à l'heure.",
+          "en": "120 km/h."
+        },
+        {
+          "nl": "130 km per uur.",
+          "fr": "130 km à l'heure.",
+          "en": "130 km/h."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Op autosnelwegen geldt in de drie gewesten een maximumsnelheid van 120 km per uur. Voor voertuigen en slepen van meer dan 3,5 ton en autobussen is dat 90 km per uur; voor autocars met gordels en snelheidsbegrenzer 100 km per uur.",
+        "fr": "Sur les autoroutes, la vitesse maximale est de 120 km à l'heure dans les trois régions. Pour les véhicules et trains de véhicules de plus de 3,5 tonnes et les autobus, elle est de 90 km à l'heure ; pour les autocars équipés de ceintures et d'un limiteur de vitesse, 100 km à l'heure.",
+        "en": "On motorways the maximum speed is 120 km/h in all three regions. For vehicles and vehicle combinations over 3.5 tonnes and buses it is 90 km/h; for coaches fitted with seat belts and a speed limiter, 100 km/h."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 11.2.1°a", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-007",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "U mist uw afrit op de autosnelweg. Wat doet u?",
+        "fr": "Vous manquez votre sortie sur l'autoroute. Que faites-vous ?",
+        "en": "You miss your exit on the motorway. What do you do?"
+      },
+      "options": [
+        {
+          "nl": "Voorzichtig achteruitrijden langs de pechstrook tot aan de afrit.",
+          "fr": "Faire prudemment marche arrière le long de la bande d'arrêt d'urgence jusqu'à la sortie.",
+          "en": "Carefully reverse along the hard shoulder back to the exit."
+        },
+        {
+          "nl": "Doorrijden tot de volgende afrit.",
+          "fr": "Continuer jusqu'à la sortie suivante.",
+          "en": "Drive on to the next exit."
+        },
+        {
+          "nl": "Keren via de eerstvolgende dwarsverbinding in de middenberm.",
+          "fr": "Faire demi-tour par le prochain raccordement transversal du terre-plein.",
+          "en": "Make a U-turn via the next crossover in the central reservation."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Op de autosnelweg is het altijd verboden te keren, achteruit te rijden of tegen de rijrichting in te rijden. Dit zijn overtredingen van de vierde graad; rijd dus door tot de volgende afrit.",
+        "fr": "Sur l'autoroute, il est toujours interdit de faire demi-tour, de faire marche arrière ou de rouler en sens contraire. Ce sont des infractions du quatrième degré ; continuez donc jusqu'à la sortie suivante.",
+        "en": "On the motorway it is always forbidden to make a U-turn, to reverse or to drive against the direction of traffic. These are fourth-degree offences, so drive on to the next exit."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 21.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "KB 30/09/2005 (indeling overtredingen), Art. 4", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+      ]
+    },
+    {
+      "id": "motorways-special-008",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "U staat stil in een lange file op de autosnelweg. Mag u keren via een dwarsverbinding in de middenberm om terug te rijden?",
+        "fr": "Vous êtes à l'arrêt dans une longue file sur l'autoroute. Pouvez-vous faire demi-tour par un raccordement transversal du terre-plein pour repartir en sens inverse ?",
+        "en": "You are standing still in a long traffic jam on the motorway. May you turn back via a crossover in the central reservation?"
+      },
+      "options": [
+        {
+          "nl": "Ja, als er geen verkeer aankomt op de andere rijbaan.",
+          "fr": "Oui, si aucun véhicule n'arrive sur l'autre chaussée.",
+          "en": "Yes, if no traffic is approaching on the other carriageway."
+        },
+        {
+          "nl": "Ja, wanneer het verkeer al meer dan een half uur stilstaat.",
+          "fr": "Oui, lorsque la circulation est immobilisée depuis plus d'une demi-heure.",
+          "en": "Yes, when traffic has been at a standstill for more than half an hour."
+        },
+        {
+          "nl": "Nee, de dwarsverbindingen gebruiken en keren zijn op de autosnelweg altijd verboden.",
+          "fr": "Non, emprunter les raccordements transversaux et faire demi-tour sont toujours interdits sur l'autoroute.",
+          "en": "No, using the crossovers and making a U-turn are always forbidden on the motorway."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "De dwarsverbindingen zijn voorbehouden aan de hulp- en wegendiensten. Ze gebruiken of keren op de autosnelweg is een overtreding van de vierde graad, ook bij volledige stilstand van het verkeer.",
+        "fr": "Les raccordements transversaux sont réservés aux services de secours et d'entretien. Les emprunter ou faire demi-tour sur l'autoroute est une infraction du quatrième degré, même lorsque la circulation est totalement immobilisée.",
+        "en": "The crossovers are reserved for the emergency and road services. Using them or making a U-turn on the motorway is a fourth-degree offence, even when traffic is at a complete standstill."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 21.4.1° en 2°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "KB 30/09/2005 (indeling overtredingen), Art. 4", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+      ]
+    },
+    {
+      "id": "motorways-special-009",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U rijdt 110 km per uur op de middelste van drie rijstroken van de autosnelweg. De rechterrijstrook is vrij. Wat moet u doen?",
+        "fr": "Vous roulez à 110 km à l'heure sur la bande centrale d'une autoroute à trois bandes. La bande de droite est libre. Que devez-vous faire ?",
+        "en": "You are driving at 110 km/h in the middle of three traffic lanes on the motorway. The right-hand lane is free. What must you do?"
+      },
+      "options": [
+        {
+          "nl": "Op de middelste rijstrook blijven: die is bestemd voor doorgaand verkeer.",
+          "fr": "Rester sur la bande centrale : elle est destinée au trafic de transit.",
+          "en": "Stay in the middle lane: it is meant for through traffic."
+        },
+        {
+          "nl": "Terugkeren naar de rechterrijstrook.",
+          "fr": "Revenir sur la bande de droite.",
+          "en": "Return to the right-hand traffic lane."
+        },
+        {
+          "nl": "Naar links opschuiven om invoegend verkeer ruimte te geven.",
+          "fr": "Me déporter à gauche pour laisser de la place au trafic qui s'insère.",
+          "en": "Move left to leave room for merging traffic."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Elke bestuurder moet zo dicht mogelijk bij de rechterrand van de rijbaan blijven. De andere rijstroken gebruikt u alleen om in te halen; daarna neemt u uw plaats rechts weer in.",
+        "fr": "Tout conducteur doit rester le plus près possible du bord droit de la chaussée. Vous n'utilisez les autres bandes que pour dépasser ; ensuite, vous reprenez votre place à droite.",
+        "en": "Every driver must keep as close as possible to the right edge of the carriageway. You only use the other lanes to overtake; afterwards you return to your place on the right."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 9.3.1 en 16.6", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-010",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op de autosnelweg rijdt het verkeer wegens de drukte in files. De file op uw rechterrijstrook schuift sneller op dan die op de linkerrijstrook. Mag dat?",
+        "fr": "Sur l'autoroute, la circulation s'effectue en files en raison de la densité du trafic. La file sur votre bande de droite avance plus vite que celle de gauche. Est-ce permis ?",
+        "en": "On the motorway, traffic is moving in files because of congestion. The file in your right-hand lane is moving faster than the one on the left. Is that allowed?"
+      },
+      "options": [
+        {
+          "nl": "Nee, rechts voorbijrijden is op de autosnelweg altijd verboden.",
+          "fr": "Non, dépasser par la droite est toujours interdit sur l'autoroute.",
+          "en": "No, passing on the right is always forbidden on the motorway."
+        },
+        {
+          "nl": "Ja, bij het rijden in files wordt sneller rijden dan een andere file niet als inhalen beschouwd.",
+          "fr": "Oui, lors de la circulation en files, rouler plus vite qu'une autre file n'est pas considéré comme un dépassement.",
+          "en": "Yes, when driving in files, moving faster than another file is not considered overtaking."
+        },
+        {
+          "nl": "Alleen als u de autosnelweg bij de eerstvolgende afrit verlaat.",
+          "fr": "Seulement si vous quittez l'autoroute à la prochaine sortie.",
+          "en": "Only if you leave the motorway at the next exit."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Wanneer de verkeersdichtheid het rechtvaardigt, mag het verkeer in meerdere files rijden. Sneller rijden in de ene rijstrook of file dan in een andere wordt dan niet als inhalen beschouwd; u blijft gewoon in uw file.",
+        "fr": "Lorsque la densité de la circulation le justifie, la circulation peut s'effectuer en plusieurs files. Rouler plus vite dans une bande ou une file que dans une autre n'est alors pas considéré comme un dépassement ; vous restez simplement dans votre file.",
+        "en": "When traffic density justifies it, traffic may move in several files. Driving faster in one traffic lane or file than in another is then not considered overtaking; you simply stay in your file."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 9.5 en 16.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-011",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Er staat file vlak vóór uw afrit. Mag u over de pechstrook rijden om de afrit te bereiken?",
+        "fr": "Il y a une file juste avant votre sortie. Pouvez-vous rouler sur la bande d'arrêt d'urgence pour atteindre la sortie ?",
+        "en": "There is a traffic jam just before your exit. May you drive on the hard shoulder to reach the exit?"
+      },
+      "options": [
+        {
+          "nl": "Ja, als de afrit minder dan 500 meter verder ligt.",
+          "fr": "Oui, si la sortie se trouve à moins de 500 mètres.",
+          "en": "Yes, if the exit is less than 500 metres away."
+        },
+        {
+          "nl": "Ja, stapvoets en met de vier richtingaanwijzers aan.",
+          "fr": "Oui, à l'allure du pas et avec les quatre indicateurs de direction allumés.",
+          "en": "Yes, at walking pace and with the hazard lights on."
+        },
+        {
+          "nl": "Nee, op de pechstrook rijden is verboden; ze is voorbehouden aan onder meer prioritaire voertuigen en takelwagens.",
+          "fr": "Non, il est interdit de circuler sur la bande d'arrêt d'urgence ; elle est réservée notamment aux véhicules prioritaires et aux dépanneuses.",
+          "en": "No, driving on the hard shoulder is forbidden; it is reserved for priority vehicles and tow trucks, among others."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Rijden op de pechstrook is alleen toegelaten voor prioritaire voertuigen met een dringende opdracht, opgeroepen diensten en takelwagens op weg naar een incident. Voor andere bestuurders is het een overtreding van de derde graad.",
+        "fr": "Circuler sur la bande d'arrêt d'urgence n'est autorisé qu'aux véhicules prioritaires en mission urgente, aux services appelés sur place et aux dépanneuses se rendant sur un incident. Pour les autres conducteurs, c'est une infraction du troisième degré.",
+        "en": "Driving on the hard shoulder is only allowed for priority vehicles on an urgent mission, services called to the scene and tow trucks on their way to an incident. For other drivers it is a third-degree offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 9.7", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "KB 30/09/2005 (indeling overtredingen), Art. 3", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+      ]
+    },
+    {
+      "id": "motorways-special-012",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Er ontstaat file op een autosnelweg met drie rijstroken in uw rijrichting. Wat doet u?",
+        "fr": "Une file se forme sur une autoroute à trois bandes de circulation dans votre sens. Que faites-vous ?",
+        "en": "A traffic jam is forming on a motorway with three traffic lanes in your direction. What do you do?"
+      },
+      "options": [
+        {
+          "nl": "Ik help meteen een reddingsstrook vormen tussen de linkerrijstrook en de rijstrook ernaast.",
+          "fr": "Je contribue immédiatement à former un couloir de secours entre la bande de gauche et la bande adjacente.",
+          "en": "I immediately help form an emergency corridor between the left-hand lane and the lane next to it."
+        },
+        {
+          "nl": "Ik laat de pechstrook vrij: die dient als reddingsstrook.",
+          "fr": "Je laisse la bande d'arrêt d'urgence libre : elle sert de couloir de secours.",
+          "en": "I keep the hard shoulder clear: it serves as the emergency corridor."
+        },
+        {
+          "nl": "Ik vorm pas een reddingsstrook wanneer ik een prioritair voertuig hoor aankomen.",
+          "fr": "Je ne forme un couloir de secours que lorsque j'entends arriver un véhicule prioritaire.",
+          "en": "I only form an emergency corridor when I hear a priority vehicle approaching."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bij filevorming moet u altijd meteen een reddingsstrook vormen, niet pas als er een prioritair voertuig aankomt. Bij meer dan twee rijstroken gaan de bestuurders op de linkerrijstrook uiterst links en de anderen naar rechts, zodat de reddingsstrook naast de linkerrijstrook ontstaat.",
+        "fr": "En cas de formation de files, vous devez toujours former immédiatement un couloir de secours, et pas seulement à l'arrivée d'un véhicule prioritaire. Sur plus de deux bandes, les conducteurs de la bande de gauche se placent le plus à gauche possible et les autres vers la droite, de sorte que le couloir se forme à côté de la bande de gauche.",
+        "en": "When a traffic jam forms you must always form an emergency corridor at once, not only when a priority vehicle approaches. With more than two lanes, drivers in the left-hand lane move as far left as possible and the others move right, so the corridor forms next to the left-hand lane."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 9.8 en 2.70", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-013",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Uw auto valt in panne en staat op de pechstrook van de autosnelweg. Wat moet u dragen zodra u uw voertuig verlaat?",
+        "fr": "Votre voiture tombe en panne et se trouve sur la bande d'arrêt d'urgence de l'autoroute. Que devez-vous porter dès que vous quittez votre véhicule ?",
+        "en": "Your car breaks down and is standing on the hard shoulder of the motorway. What must you wear as soon as you leave your vehicle?"
+      },
+      "options": [
+        {
+          "nl": "Een retro-reflecterende veiligheidsvest.",
+          "fr": "Une veste de sécurité rétroréfléchissante.",
+          "en": "A retro-reflective safety vest."
+        },
+        {
+          "nl": "Niets bijzonders, zolang u achter de vangrail gaat staan.",
+          "fr": "Rien de particulier, pour autant que vous vous placiez derrière la glissière de sécurité.",
+          "en": "Nothing special, as long as you stand behind the guardrail."
+        },
+        {
+          "nl": "Alleen 's nachts een veiligheidsvest.",
+          "fr": "Une veste de sécurité uniquement la nuit.",
+          "en": "A safety vest only at night."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Wanneer uw pechvoertuig op een autosnelweg of autoweg staat op een plaats waar stilstaan of parkeren verboden is, moet u een retro-reflecterende veiligheidsvest dragen zodra u het voertuig verlaat, dag en nacht.",
+        "fr": "Lorsque votre véhicule en panne se trouve sur une autoroute ou une route pour automobiles à un endroit où l'arrêt et le stationnement sont interdits, vous devez porter une veste de sécurité rétroréfléchissante dès que vous quittez le véhicule, de jour comme de nuit.",
+        "en": "When your breakdown vehicle is on a motorway or motor road at a spot where stopping and parking are prohibited, you must wear a retro-reflective safety vest as soon as you leave the vehicle, day and night."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 51.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-014",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op welke afstand van uw pechvoertuig plaatst u de gevaarsdriehoek op de autosnelweg?",
+        "fr": "À quelle distance de votre véhicule en panne placez-vous le triangle de danger sur l'autoroute ?",
+        "en": "At what distance from your breakdown vehicle do you place the warning triangle on the motorway?"
+      },
+      "options": [
+        {
+          "nl": "Op ten minste 30 meter.",
+          "fr": "À au moins 30 mètres.",
+          "en": "At least 30 metres."
+        },
+        {
+          "nl": "Op ongeveer 50 meter.",
+          "fr": "À environ 50 mètres.",
+          "en": "About 50 metres."
+        },
+        {
+          "nl": "Op ten minste 100 meter, zodat hij zichtbaar is van op ongeveer 50 meter.",
+          "fr": "À au moins 100 mètres, de manière à être visible à environ 50 mètres.",
+          "en": "At least 100 metres, so that it is visible from about 50 metres."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "De gevaarsdriehoek staat op ten minste 30 meter op gewone wegen en op ten minste 100 meter op autosnelwegen, telkens zichtbaar voor naderende bestuurders van op ongeveer 50 meter. Hij wordt vóór het voertuig geplaatst, aan de kant van het aankomende verkeer.",
+        "fr": "Le triangle de danger se place à au moins 30 mètres sur les routes ordinaires et à au moins 100 mètres sur les autoroutes, en restant visible pour les conducteurs qui approchent à environ 50 mètres. Il est placé avant le véhicule, du côté du trafic qui arrive.",
+        "en": "The warning triangle is placed at least 30 metres away on ordinary roads and at least 100 metres away on motorways, visible in each case to approaching drivers from about 50 metres. It is placed before the vehicle, on the side of the oncoming traffic."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 51.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-015",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Uw pechvoertuig staat gesignaleerd op de pechstrook en u hebt via 112 of een praatpaal hulp opgeroepen. Waar wacht u het veiligst?",
+        "fr": "Votre véhicule en panne est signalé sur la bande d'arrêt d'urgence et vous avez appelé les secours via le 112 ou une borne d'appel. Où attendez-vous le plus en sécurité ?",
+        "en": "Your breakdown vehicle is signalled on the hard shoulder and you have called for help via 112 or a roadside emergency phone. Where do you wait most safely?"
+      },
+      "options": [
+        {
+          "nl": "Achter de vangrail, weg van het verkeer.",
+          "fr": "Derrière la glissière de sécurité, à l'écart de la circulation.",
+          "en": "Behind the guardrail, away from the traffic."
+        },
+        {
+          "nl": "In het voertuig, met de veiligheidsgordel om.",
+          "fr": "Dans le véhicule, avec la ceinture de sécurité bouclée.",
+          "en": "Inside the vehicle, with the seat belt fastened."
+        },
+        {
+          "nl": "Op de pechstrook, vlak achter uw voertuig.",
+          "fr": "Sur la bande d'arrêt d'urgence, juste derrière votre véhicule.",
+          "en": "On the hard shoulder, just behind your vehicle."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De bestuurder van een defect voertuig moet de nodige maatregelen nemen om de veiligheid te verzekeren. Op de pechstrook of in het voertuig loopt u gevaar aangereden te worden; alle inzittenden wachten dus achter de vangrail.",
+        "fr": "Le conducteur d'un véhicule en panne doit prendre les mesures nécessaires pour assurer la sécurité. Sur la bande d'arrêt d'urgence ou dans le véhicule, vous risquez d'être percuté ; tous les occupants attendent donc derrière la glissière de sécurité.",
+        "en": "The driver of a defective vehicle must take the necessary measures to ensure safety. On the hard shoulder or inside the vehicle you risk being hit, so all occupants wait behind the guardrail."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 51.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-016",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F9" },
+      "text": {
+        "nl": "Dit bord duidt het begin van een autoweg aan. Wat is een belangrijk verschil met een autosnelweg?",
+        "fr": "Ce signal indique le commencement d'une route pour automobiles. Quelle est une différence importante avec une autoroute ?",
+        "en": "This sign marks the beginning of a motor road. What is an important difference from a motorway?"
+      },
+      "options": [
+        {
+          "nl": "Op een autoweg zijn kruispunten en overwegen mogelijk; daar gelden de gewone voorrangsregels.",
+          "fr": "Sur une route pour automobiles, des carrefours et des passages à niveau sont possibles ; les règles de priorité ordinaires s'y appliquent.",
+          "en": "On a motor road, intersections and level crossings are possible; the ordinary priority rules apply there."
+        },
+        {
+          "nl": "Er is geen verschil, behalve dat de maximumsnelheid er altijd 90 km per uur bedraagt.",
+          "fr": "Il n'y a pas de différence, si ce n'est que la vitesse maximale y est toujours de 90 km à l'heure.",
+          "en": "There is no difference, except that the maximum speed is always 90 km/h."
+        },
+        {
+          "nl": "Op een autoweg mogen ook bromfietsen klasse B rijden.",
+          "fr": "Les cyclomoteurs classe B peuvent aussi circuler sur une route pour automobiles.",
+          "en": "Class B mopeds may also use a motor road."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een autoweg begint bij het bord F9 en eindigt bij F11. Anders dan op een autosnelweg kunt u er kruispunten, overwegen en zelfs verkeerslichten tegenkomen; de maximumsnelheid hangt af van de weginrichting en het gewest, en bromfietsen blijven er verboden.",
+        "fr": "Une route pour automobiles commence au signal F9 et se termine au signal F11. Contrairement à l'autoroute, vous pouvez y rencontrer des carrefours, des passages à niveau et même des signaux lumineux ; la vitesse maximale dépend de l'aménagement de la route et de la région, et les cyclomoteurs y restent interdits.",
+        "en": "A motor road begins at sign F9 and ends at sign F11. Unlike a motorway, you can encounter intersections, level crossings and even traffic lights on it; the maximum speed depends on the road layout and the region, and mopeds remain banned."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 2.4 en 22", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-017",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Wie wordt toegelaten tot het verkeer op een autoweg?",
+        "fr": "Qui est admis à circuler sur une route pour automobiles ?",
+        "en": "Who is admitted to traffic on a motor road?"
+      },
+      "options": [
+        {
+          "nl": "De bestuurder van een motorfiets.",
+          "fr": "Le conducteur d'une motocyclette.",
+          "en": "The driver of a motorcycle."
+        },
+        {
+          "nl": "De bestuurder van een bromfiets klasse B.",
+          "fr": "Le conducteur d'un cyclomoteur classe B.",
+          "en": "The driver of a class B moped."
+        },
+        {
+          "nl": "De bestuurder van een landbouwvoertuig.",
+          "fr": "Le conducteur d'un véhicule agricole.",
+          "en": "The driver of an agricultural vehicle."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Alleen motorvoertuigen en hun aanhangwagens worden op autowegen toegelaten, met uitzondering van bromfietsen, landbouwvoertuigen, slepen van kermisvoertuigen en vierwielers zonder passagiersruimte. Voetgangers en fietsers zijn er evenmin toegelaten.",
+        "fr": "Seuls les véhicules à moteur et leurs remorques sont admis sur les routes pour automobiles, à l'exception des cyclomoteurs, des véhicules agricoles, des trains de véhicules forains et des quadricycles sans habitacle. Les piétons et les cyclistes n'y sont pas admis non plus.",
+        "en": "Only motor vehicles and their trailers are admitted on motor roads, with the exception of mopeds, agricultural vehicles, combinations of fairground vehicles and quadricycles without a passenger compartment. Pedestrians and cyclists are not admitted either."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-018",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "U rijdt op een autoweg en bent uw afslag voorbijgereden. Mag u hier keren of achteruitrijden?",
+        "fr": "Vous roulez sur une route pour automobiles et vous avez dépassé votre bifurcation. Pouvez-vous faire demi-tour ou marche arrière ?",
+        "en": "You are driving on a motor road and have passed your turn-off. May you make a U-turn or reverse here?"
+      },
+      "options": [
+        {
+          "nl": "Ja, een autoweg is geen autosnelweg: keren mag als het veilig kan.",
+          "fr": "Oui, une route pour automobiles n'est pas une autoroute : le demi-tour est permis s'il peut se faire en sécurité.",
+          "en": "Yes, a motor road is not a motorway: a U-turn is allowed if it can be done safely."
+        },
+        {
+          "nl": "Alleen achteruitrijden over een korte afstand is toegelaten.",
+          "fr": "Seule une marche arrière sur une courte distance est autorisée.",
+          "en": "Only reversing over a short distance is allowed."
+        },
+        {
+          "nl": "Nee, keren en achteruitrijden zijn er net als op de autosnelweg verboden.",
+          "fr": "Non, le demi-tour et la marche arrière y sont interdits, comme sur l'autoroute.",
+          "en": "No, U-turns and reversing are forbidden there, just as on the motorway."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "De verbodsbepalingen van artikel 21.4 gelden ook op autowegen: keren, achteruitrijden, tegen de rijrichting rijden en de dwarsverbindingen gebruiken zijn er verboden. Ook op een autoweg zijn dit overtredingen van de vierde graad.",
+        "fr": "Les interdictions de l'article 21.4 s'appliquent aussi aux routes pour automobiles : le demi-tour, la marche arrière, la circulation en sens contraire et l'usage des raccordements transversaux y sont interdits. Sur une route pour automobiles aussi, ce sont des infractions du quatrième degré.",
+        "en": "The prohibitions of Article 21.4 also apply on motor roads: U-turns, reversing, driving against the direction of traffic and using the crossovers are forbidden there. On a motor road too, these are fourth-degree offences."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22.2 en 21.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "KB 30/09/2005 (indeling overtredingen), Art. 4", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+      ]
+    },
+    {
+      "id": "motorways-special-019",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F8" },
+      "text": {
+        "nl": "U rijdt een tunnel binnen die met dit bord is aangeduid. Wat doet u?",
+        "fr": "Vous entrez dans un tunnel indiqué par ce signal. Que faites-vous ?",
+        "en": "You enter a tunnel indicated by this sign. What do you do?"
+      },
+      "options": [
+        {
+          "nl": "Ik ontsteek de dimlichten en houd een grotere veiligheidsafstand.",
+          "fr": "J'allume les feux de croisement et j'augmente ma distance de sécurité.",
+          "en": "I switch on the dipped-beam headlights and keep a greater safety distance."
+        },
+        {
+          "nl": "Ik schakel de grootlichten aan voor een beter zicht.",
+          "fr": "J'allume les feux de route pour mieux voir.",
+          "en": "I switch on the main-beam headlights for better visibility."
+        },
+        {
+          "nl": "Ik zet de vier richtingaanwijzers aan zolang ik in de tunnel rijd.",
+          "fr": "J'allume les quatre indicateurs de direction tant que je roule dans le tunnel.",
+          "en": "I keep the hazard lights on for as long as I drive through the tunnel."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord F8 duidt een tunnel van meer dan 500 meter aan. In een tunnel rijdt u met dimlichten, houdt u extra afstand van uw voorligger en luistert u best naar de verkeersinformatie op de radio; grootlichten zouden andere bestuurders verblinden.",
+        "fr": "Le signal F8 indique un tunnel de plus de 500 mètres. Dans un tunnel, vous roulez avec les feux de croisement, vous gardez une distance supplémentaire avec le véhicule qui précède et vous écoutez de préférence les informations routières à la radio ; les feux de route éblouiraient les autres conducteurs.",
+        "en": "Sign F8 indicates a tunnel longer than 500 metres. In a tunnel you drive with dipped-beam headlights, keep extra distance from the vehicle in front and preferably listen to the traffic information on the radio; main-beam headlights would dazzle other drivers."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 71 (verkeersbord F8) en 10.1.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-020",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Uw voertuig valt met pech stil in een lange tunnel. Wat doet u?",
+        "fr": "Votre véhicule tombe en panne dans un long tunnel. Que faites-vous ?",
+        "en": "Your vehicle breaks down in a long tunnel. What do you do?"
+      },
+      "options": [
+        {
+          "nl": "Vier richtingaanwijzers aan, motor afzetten en hulp oproepen via de noodtelefoon; bij brand verlaat ik de tunnel via de nooduitgangen.",
+          "fr": "J'allume les quatre indicateurs de direction, je coupe le moteur et j'appelle les secours via le téléphone d'urgence ; en cas d'incendie, je quitte le tunnel par les issues de secours.",
+          "en": "Hazard lights on, engine off and call for help via the emergency phone; in case of fire I leave the tunnel through the emergency exits."
+        },
+        {
+          "nl": "Keren en tegen de rijrichting terugrijden naar de ingang van de tunnel.",
+          "fr": "Faire demi-tour et rouler en sens contraire jusqu'à l'entrée du tunnel.",
+          "en": "Turn around and drive against the traffic back to the tunnel entrance."
+        },
+        {
+          "nl": "In het voertuig blijven wachten tot een takelwagen aankomt.",
+          "fr": "Rester dans le véhicule en attendant l'arrivée d'une dépanneuse.",
+          "en": "Stay in the vehicle and wait until a tow truck arrives."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De bestuurder van een defect voertuig moet de nodige maatregelen nemen om de veiligheid van het verkeer te verzekeren. In een tunnel betekent dat: signaleren, de motor afzetten, hulp oproepen en bij brand het voertuig achterlaten en de nooduitgangen gebruiken; keren of tegen de rijrichting rijden is verboden en levensgevaarlijk.",
+        "fr": "Le conducteur d'un véhicule en panne doit prendre les mesures nécessaires pour assurer la sécurité de la circulation. Dans un tunnel, cela signifie : signaler le véhicule, couper le moteur, appeler les secours et, en cas d'incendie, abandonner le véhicule et utiliser les issues de secours ; faire demi-tour ou rouler en sens contraire est interdit et extrêmement dangereux.",
+        "en": "The driver of a defective vehicle must take the necessary measures to ensure traffic safety. In a tunnel that means: signal the vehicle, switch off the engine, call for help and, in case of fire, leave the vehicle and use the emergency exits; turning around or driving against the traffic is forbidden and life-threatening."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 51.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-021",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": { "type": "sign", "code": "A41" },
+      "text": {
+        "nl": "U nadert een overweg. De rode knipperlichten branden, maar u ziet geen trein. Wat doet u?",
+        "fr": "Vous approchez d'un passage à niveau. Les feux rouges clignotants sont allumés, mais vous ne voyez aucun train. Que faites-vous ?",
+        "en": "You approach a level crossing. The red flashing lights are on, but you see no train. What do you do?"
+      },
+      "options": [
+        {
+          "nl": "Ik stop: het is verboden zich op de overweg te begeven.",
+          "fr": "Je m'arrête : il est interdit de s'engager sur le passage à niveau.",
+          "en": "I stop: it is forbidden to move onto the level crossing."
+        },
+        {
+          "nl": "Ik steek voorzichtig over, want er komt geen trein aan.",
+          "fr": "Je traverse prudemment, puisqu'aucun train n'arrive.",
+          "en": "I cross carefully, since no train is coming."
+        },
+        {
+          "nl": "Ik mag oversteken zolang de slagbomen nog omhoog staan.",
+          "fr": "Je peux traverser tant que les barrières sont encore levées.",
+          "en": "I may cross as long as the barriers are still up."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Zodra de rode knipperlichten branden, is het verboden zich op de overweg te begeven, ook als u geen trein ziet en de slagbomen nog open zijn. Deze overtreding is van de vierde graad.",
+        "fr": "Dès que les feux rouges clignotants s'allument, il est interdit de s'engager sur le passage à niveau, même si vous ne voyez aucun train et que les barrières sont encore ouvertes. Cette infraction est du quatrième degré.",
+        "en": "As soon as the red flashing lights are on, it is forbidden to move onto the level crossing, even if you see no train and the barriers are still open. This is a fourth-degree offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 20.3.2°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "KB 30/09/2005 (indeling overtredingen), Art. 4", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+      ]
+    },
+    {
+      "id": "motorways-special-022",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Net wanneer u een overweg nadert, beginnen de slagbomen te dalen. U zou er nog net onderdoor kunnen. Wat doet u?",
+        "fr": "Au moment où vous approchez d'un passage à niveau, les barrières commencent à descendre. Vous pourriez encore juste passer. Que faites-vous ?",
+        "en": "Just as you approach a level crossing, the barriers start to come down. You could still just slip through. What do you do?"
+      },
+      "options": [
+        {
+          "nl": "Snel oversteken voordat de slagbomen volledig gesloten zijn.",
+          "fr": "Traverser rapidement avant que les barrières ne soient complètement fermées.",
+          "en": "Cross quickly before the barriers are fully closed."
+        },
+        {
+          "nl": "Stoppen: zodra de slagbomen in beweging zijn, mag u zich niet meer op de overweg begeven.",
+          "fr": "M'arrêter : dès que les barrières sont en mouvement, il est interdit de s'engager sur le passage à niveau.",
+          "en": "Stop: as soon as the barriers are in motion, you may no longer move onto the crossing."
+        },
+        {
+          "nl": "Oversteken mag zolang het geluidssein nog niet werkt.",
+          "fr": "Traverser reste permis tant que le signal sonore ne fonctionne pas encore.",
+          "en": "Crossing is still allowed as long as the audible signal is not yet working."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het is verboden zich op een overweg te begeven wanneer de slagbomen in beweging of gesloten zijn, wanneer de rode knipperlichten branden of wanneer het geluidssein werkt. Elk van deze situaties volstaat op zich; het is een overtreding van de vierde graad.",
+        "fr": "Il est interdit de s'engager sur un passage à niveau lorsque les barrières sont en mouvement ou fermées, lorsque les feux rouges clignotants sont allumés ou lorsque le signal sonore fonctionne. Chacune de ces situations suffit à elle seule ; c'est une infraction du quatrième degré.",
+        "en": "It is forbidden to move onto a level crossing when the barriers are in motion or closed, when the red flashing lights are on or when the audible signal is working. Each of these situations is sufficient on its own; it is a fourth-degree offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 20.3.1°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "KB 30/09/2005 (indeling overtredingen), Art. 4", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+      ]
+    },
+    {
+      "id": "motorways-special-023",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Voorbij een overweg staat een file. Wanneer mag u de overweg oprijden?",
+        "fr": "Au-delà d'un passage à niveau, il y a une file. Quand pouvez-vous vous engager sur le passage à niveau ?",
+        "en": "There is a queue of traffic beyond a level crossing. When may you drive onto the crossing?"
+      },
+      "options": [
+        {
+          "nl": "Alleen wanneer ik zeker ben dat ik de overweg volledig kan vrijmaken zonder erop te moeten stoppen.",
+          "fr": "Seulement lorsque je suis certain de pouvoir dégager complètement le passage à niveau sans devoir m'y arrêter.",
+          "en": "Only when I am certain I can clear the crossing completely without having to stop on it."
+        },
+        {
+          "nl": "Zodra de slagbomen open zijn en er geen trein aankomt.",
+          "fr": "Dès que les barrières sont ouvertes et qu'aucun train n'arrive.",
+          "en": "As soon as the barriers are open and no train is coming."
+        },
+        {
+          "nl": "Zolang ik minstens stapvoets kan blijven rijden.",
+          "fr": "Tant que je peux continuer à rouler au moins à l'allure du pas.",
+          "en": "As long as I can keep moving at least at walking pace."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "U mag een overweg niet oprijden wanneer het verkeer zodanig belemmerd is dat u er waarschijnlijk op zou moeten stoppen. Wacht dus vóór de overweg tot er voorbij de sporen voldoende ruimte vrij is.",
+        "fr": "Vous ne pouvez pas vous engager sur un passage à niveau lorsque l'encombrement de la circulation est tel que vous y seriez vraisemblablement immobilisé. Attendez donc avant le passage à niveau qu'un espace suffisant se libère au-delà des voies.",
+        "en": "You may not drive onto a level crossing when traffic is obstructed to such an extent that you would probably have to stop on it. So wait before the crossing until enough space is free beyond the tracks."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 20.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-024",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["A45", "A47"] },
+      "text": {
+        "nl": "Wat is het verschil tussen deze twee borden (kruis van Sint-Andries)?",
+        "fr": "Quelle est la différence entre ces deux signaux (croix de Saint-André) ?",
+        "en": "What is the difference between these two signs (St Andrew's cross)?"
+      },
+      "options": [
+        {
+          "nl": "Het eerste duidt een overweg met slagbomen aan, het tweede een overweg zonder slagbomen.",
+          "fr": "Le premier indique un passage à niveau avec barrières, le second un passage à niveau sans barrières.",
+          "en": "The first indicates a level crossing with barriers, the second one without barriers."
+        },
+        {
+          "nl": "Het eerste duidt een overweg met enkel spoor aan, het tweede een overweg met twee of meer sporen.",
+          "fr": "Le premier indique un passage à niveau à voie unique, le second un passage à niveau à deux ou plusieurs voies.",
+          "en": "The first indicates a level crossing with a single track, the second one with two or more tracks."
+        },
+        {
+          "nl": "Het eerste geldt voor tramsporen, het tweede voor treinsporen.",
+          "fr": "Le premier concerne les voies de tram, le second les voies de chemin de fer.",
+          "en": "The first applies to tram tracks, the second to railway tracks."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het kruis van Sint-Andries staat aan de overweg zelf: A45 voor enkel spoor, A47 voor twee of meer sporen. Bij meerdere sporen kan na een eerste trein meteen een tweede volgen, dus blijf dubbel voorzichtig.",
+        "fr": "La croix de Saint-André est placée au passage à niveau même : A45 pour une voie unique, A47 pour deux ou plusieurs voies. Lorsqu'il y a plusieurs voies, un deuxième train peut suivre immédiatement le premier ; redoublez donc de prudence.",
+        "en": "The St Andrew's cross stands at the crossing itself: A45 for a single track, A47 for two or more tracks. With multiple tracks a second train may follow immediately after the first, so remain doubly careful."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66 (verkeersborden A45 en A47) en 20.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-025",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "A43" },
+      "text": {
+        "nl": "Aan een overweg zonder slagbomen knippert een maanwit licht. Wat betekent dit?",
+        "fr": "À un passage à niveau sans barrières, un feu blanc lunaire clignote. Que signifie-t-il ?",
+        "en": "At a level crossing without barriers, a moon-white light is flashing. What does this mean?"
+      },
+      "options": [
+        {
+          "nl": "Het signaal mag voorbijgereden worden: ik mag de overweg oversteken, met de nodige voorzichtigheid.",
+          "fr": "Le signal peut être franchi : je peux traverser le passage à niveau, avec la prudence nécessaire.",
+          "en": "The signal may be passed: I may cross the level crossing, with the necessary caution."
+        },
+        {
+          "nl": "De installatie van de overweg is defect: stoppen en wachten.",
+          "fr": "L'installation du passage à niveau est en panne : je m'arrête et j'attends.",
+          "en": "The crossing installation is out of order: stop and wait."
+        },
+        {
+          "nl": "Er nadert een trein: stoppen vóór de overweg.",
+          "fr": "Un train approche : je m'arrête avant le passage à niveau.",
+          "en": "A train is approaching: stop before the crossing."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een maanwit knipperlicht aan een overweg betekent dat het signaal voorbijgereden mag worden. Wie een overweg nadert, moet wel altijd dubbel voorzichtig blijven.",
+        "fr": "Un feu blanc lunaire clignotant placé à un passage à niveau signifie que le signal peut être franchi. Quiconque approche d'un passage à niveau doit néanmoins toujours redoubler de prudence.",
+        "en": "A moon-white flashing light at a level crossing means that the signal may be passed. Anyone approaching a level crossing must nevertheless always remain doubly careful."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 64.3 en 20.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-026",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Uw motor slaat af midden op een overweg en start niet meer. Wat doet u eerst?",
+        "fr": "Votre moteur cale au milieu d'un passage à niveau et ne redémarre plus. Que faites-vous en premier lieu ?",
+        "en": "Your engine stalls in the middle of a level crossing and will not restart. What do you do first?"
+      },
+      "options": [
+        {
+          "nl": "Alle inzittenden onmiddellijk laten uitstappen en weg van de overweg en het spoor brengen.",
+          "fr": "Faire descendre immédiatement tous les occupants et les éloigner du passage à niveau et de la voie.",
+          "en": "Get all occupants out immediately and move them away from the crossing and the track."
+        },
+        {
+          "nl": "Blijven proberen te starten terwijl de passagiers in het voertuig wachten.",
+          "fr": "Continuer à essayer de démarrer pendant que les passagers attendent dans le véhicule.",
+          "en": "Keep trying to start the engine while the passengers wait inside the vehicle."
+        },
+        {
+          "nl": "Eerst de gevaarsdriehoek op 30 meter vóór de overweg plaatsen.",
+          "fr": "Placer d'abord le triangle de danger à 30 mètres avant le passage à niveau.",
+          "en": "First place the warning triangle 30 metres before the crossing."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Breng eerst alle personen in veiligheid, weg van het spoor. Verwittig daarna onmiddellijk de hulpdiensten via 112 of het noodnummer aan de overweg, en probeer het voertuig pas daarna, als het nog veilig kan, van de overweg te duwen.",
+        "fr": "Mettez d'abord toutes les personnes en sécurité, à l'écart de la voie. Prévenez ensuite immédiatement les secours via le 112 ou le numéro d'urgence affiché au passage à niveau, et n'essayez de pousser le véhicule hors du passage qu'ensuite, si cela reste possible en sécurité.",
+        "en": "First get all persons to safety, away from the track. Then immediately warn the emergency services via 112 or the emergency number displayed at the crossing, and only afterwards, if it is still safe, try to push the vehicle off the crossing."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 51.1 en 20", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    }
+  ]
+}

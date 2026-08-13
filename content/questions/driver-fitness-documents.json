@@ -1,0 +1,917 @@
+{
+  "category": "driver-fitness-documents",
+  "questions": [
+    {
+      "id": "driver-fitness-documents-001",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Hoeveel bedraagt de algemene alcohollimiet voor bestuurders in België?",
+        "fr": "Quelle est la limite générale d'alcool pour les conducteurs en Belgique ?",
+        "en": "What is the general alcohol limit for drivers in Belgium?"
+      },
+      "options": [
+        { "nl": "0,5 promille (0,5 g/l bloed)", "fr": "0,5 pour mille (0,5 g/l de sang)", "en": "0.5 per mille (0.5 g/l of blood)" },
+        { "nl": "0,8 promille", "fr": "0,8 pour mille", "en": "0.8 per mille" },
+        { "nl": "1,0 promille", "fr": "1,0 pour mille", "en": "1.0 per mille" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De algemene limiet bedraagt 0,5 promille alcohol in het bloed. Vanaf die waarde bent u strafbaar wegens alcoholopname, ook als u zich nog nuchter voelt.",
+        "fr": "La limite générale est de 0,5 pour mille d'alcool dans le sang. À partir de cette valeur, vous êtes punissable pour imprégnation alcoolique, même si vous vous sentez encore sobre.",
+        "en": "The general limit is 0.5 per mille of alcohol in the blood. From that value you are punishable for alcohol intoxication, even if you still feel sober."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 34", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-002",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Met welke waarde bij de ademtest komt de algemene limiet van 0,5 promille overeen?",
+        "fr": "À quelle valeur au test de l'haleine correspond la limite générale de 0,5 pour mille ?",
+        "en": "Which breath-test value corresponds to the general limit of 0.5 per mille?"
+      },
+      "options": [
+        { "nl": "0,22 mg/l uitgeademde alveolaire lucht", "fr": "0,22 mg/l d'air alvéolaire expiré", "en": "0.22 mg/l of exhaled alveolar air" },
+        { "nl": "0,5 mg/l uitgeademde alveolaire lucht", "fr": "0,5 mg/l d'air alvéolaire expiré", "en": "0.5 mg/l of exhaled alveolar air" },
+        { "nl": "0,09 mg/l uitgeademde alveolaire lucht", "fr": "0,09 mg/l d'air alvéolaire expiré", "en": "0.09 mg/l of exhaled alveolar air" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "0,5 promille in het bloed komt overeen met 0,22 mg/l uitgeademde alveolaire lucht bij de ademtest. 0,09 mg/l is het equivalent van de strengere limiet van 0,2 promille voor professionele bestuurders.",
+        "fr": "0,5 pour mille dans le sang correspond à 0,22 mg/l d'air alvéolaire expiré au test de l'haleine. 0,09 mg/l est l'équivalent de la limite plus stricte de 0,2 pour mille pour les conducteurs professionnels.",
+        "en": "0.5 per mille in the blood corresponds to 0.22 mg/l of exhaled alveolar air in the breath test. 0.09 mg/l is the equivalent of the stricter 0.2 per mille limit for professional drivers."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 34", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-003",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Welke alcohollimiet geldt voor een buschauffeur tijdens het bezoldigd vervoer van personen?",
+        "fr": "Quelle limite d'alcool s'applique à un conducteur d'autobus pendant le transport rémunéré de personnes ?",
+        "en": "Which alcohol limit applies to a bus driver during paid transport of passengers?"
+      },
+      "options": [
+        { "nl": "0,2 promille (0,09 mg/l) — in de praktijk een nultolerantie", "fr": "0,2 pour mille (0,09 mg/l) — en pratique une tolérance zéro", "en": "0.2 per mille (0.09 mg/l) — in practice zero tolerance" },
+        { "nl": "0,5 promille, zoals voor iedereen", "fr": "0,5 pour mille, comme pour tout le monde", "en": "0.5 per mille, as for everyone" },
+        { "nl": "0,8 promille, omdat hij een ervaren beroepschauffeur is", "fr": "0,8 pour mille, parce que c'est un conducteur professionnel expérimenté", "en": "0.8 per mille, because he is an experienced professional driver" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Voor professionele bestuurders (vrachtwagen, bus, taxi en ander bezoldigd vervoer) geldt een strengere limiet van 0,2 promille, wat overeenkomt met 0,09 mg/l uitgeademde alveolaire lucht.",
+        "fr": "Pour les conducteurs professionnels (camion, bus, taxi et autre transport rémunéré), une limite plus stricte de 0,2 pour mille s'applique, soit 0,09 mg/l d'air alvéolaire expiré.",
+        "en": "For professional drivers (lorry, bus, taxi and other paid transport) a stricter limit of 0.2 per mille applies, corresponding to 0.09 mg/l of exhaled alveolar air."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 34", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-004",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Geldt er in 2026 een aparte, lagere alcohollimiet voor beginnende bestuurders?",
+        "fr": "Existe-t-il en 2026 une limite d'alcool distincte, plus basse, pour les conducteurs novices ?",
+        "en": "Is there, in 2026, a separate lower alcohol limit for novice drivers?"
+      },
+      "options": [
+        { "nl": "Nee, ook voor hen geldt de algemene limiet van 0,5 promille", "fr": "Non, la limite générale de 0,5 pour mille s'applique aussi à eux", "en": "No, the general limit of 0.5 per mille applies to them as well" },
+        { "nl": "Ja, voor hen geldt 0,2 promille", "fr": "Oui, 0,2 pour mille s'applique à eux", "en": "Yes, 0.2 per mille applies to them" },
+        { "nl": "Ja, voor hen geldt een absolute nultolerantie", "fr": "Oui, une tolérance zéro absolue s'applique à eux", "en": "Yes, an absolute zero tolerance applies to them" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "In 2026 bestaat er geen aparte alcohollimiet voor beginnende bestuurders: ook zij vallen onder de algemene grens van 0,5 promille. Een verlaging naar 0,2 promille is aangekondigd maar nog niet van kracht; wel gelden voor beginners strengere gevolgen bij zware overtredingen.",
+        "fr": "En 2026, il n'existe pas de limite d'alcool distincte pour les conducteurs novices : ils relèvent aussi de la limite générale de 0,5 pour mille. Un abaissement à 0,2 pour mille a été annoncé mais n'est pas encore en vigueur ; les novices subissent toutefois des conséquences plus sévères en cas d'infraction grave.",
+        "en": "In 2026 there is no separate alcohol limit for novice drivers: they too fall under the general 0.5 per mille threshold. A reduction to 0.2 per mille has been announced but is not yet in force; novices do, however, face harsher consequences for serious offences."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 34", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" },
+        { "source": "VSV — Rijden onder invloed van alcohol", "url": "https://www.veiligverkeer.be/veilig-rijden/rijden-onder-invloed/alcohol-limiet-hoeveel-promille-drinken-alcoholcontrole-boete-straffen" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-005",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Wat gebeurt er als u bij een alcoholcontrole weigert de ademtest af te leggen?",
+        "fr": "Que se passe-t-il si vous refusez de passer le test de l'haleine lors d'un contrôle d'alcoolémie ?",
+        "en": "What happens if you refuse to take the breath test at an alcohol check?"
+      },
+      "options": [
+        { "nl": "Weigeren is strafbaar en wordt behandeld zoals een zware alcoholopname", "fr": "Le refus est punissable et est traité comme une imprégnation alcoolique grave", "en": "Refusing is punishable and is treated like serious alcohol intoxication" },
+        { "nl": "U mag weigeren zonder enig gevolg", "fr": "Vous pouvez refuser sans aucune conséquence", "en": "You may refuse without any consequence" },
+        { "nl": "U krijgt alleen een mondelinge waarschuwing", "fr": "Vous recevez seulement un avertissement verbal", "en": "You only receive a verbal warning" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De ademtest weigeren is een misdrijf dat wordt bestraft zoals een zware alcoholopname. Bovendien volgt bij weigering sinds 1 juli 2026 een tijdelijk rijverbod van 12 uur.",
+        "fr": "Refuser le test de l'haleine est une infraction punie comme une imprégnation alcoolique grave. De plus, depuis le 1er juillet 2026, tout refus entraîne une interdiction temporaire de conduire de 12 heures.",
+        "en": "Refusing the breath test is an offence punished like serious alcohol intoxication. Moreover, since 1 July 2026 any refusal triggers a temporary 12-hour driving ban."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 34-38", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" },
+        { "source": "GOCA Vlaanderen — Wijziging van de wet betreffende de politie over het wegverkeer (01/07/2026)", "url": "https://www.gocavlaanderen.be/news-item/wijziging-van-de-wet-betreffende-de-politie-over-het-wegverkeer" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-006",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Sinds 1 juli 2026 volgt bij een positieve ademtest een tijdelijk rijverbod. Vanaf welke waarde en hoelang?",
+        "fr": "Depuis le 1er juillet 2026, un test de l'haleine positif entraîne une interdiction temporaire de conduire. À partir de quelle valeur et pour combien de temps ?",
+        "en": "Since 1 July 2026 a positive breath test triggers a temporary driving ban. From which value, and for how long?"
+      },
+      "options": [
+        { "nl": "Vanaf 0,22 mg/l (0,5 promille): 12 uur rijverbod", "fr": "À partir de 0,22 mg/l (0,5 pour mille) : 12 heures d'interdiction", "en": "From 0.22 mg/l (0.5 per mille): a 12-hour ban" },
+        { "nl": "Alleen vanaf 0,8 promille: 6 uur rijverbod", "fr": "Seulement à partir de 0,8 pour mille : 6 heures d'interdiction", "en": "Only from 0.8 per mille: a 6-hour ban" },
+        { "nl": "Alleen vanaf 1,2 promille: 24 uur rijverbod", "fr": "Seulement à partir de 1,2 pour mille : 24 heures d'interdiction", "en": "Only from 1.2 per mille: a 24-hour ban" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Sinds 1 juli 2026 volgt bij elke vaststelling vanaf 0,22 mg/l (0,5 promille), en ook bij weigering, een tijdelijk rijverbod van 12 uur. Daarna moet een nieuwe test onder de limiet zijn voor u weer mag rijden.",
+        "fr": "Depuis le 1er juillet 2026, toute constatation à partir de 0,22 mg/l (0,5 pour mille), ainsi que tout refus, entraîne une interdiction temporaire de conduire de 12 heures. Ensuite, un nouveau test doit être sous la limite avant de pouvoir reprendre le volant.",
+        "en": "Since 1 July 2026, any reading from 0.22 mg/l (0.5 per mille), and any refusal, triggers a temporary 12-hour driving ban. After that, a new test must be under the limit before you may drive again."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 34-38", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" },
+        { "source": "GOCA Vlaanderen — Wijziging van de wet betreffende de politie over het wegverkeer (01/07/2026)", "url": "https://www.gocavlaanderen.be/news-item/wijziging-van-de-wet-betreffende-de-politie-over-het-wegverkeer" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-007",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Uw ademanalyse toont een alcoholgehalte tussen 0,5 en 0,8 promille. Welke onmiddellijke inning geldt sinds 1 juli 2026?",
+        "fr": "Votre analyse de l'haleine révèle une alcoolémie entre 0,5 et 0,8 pour mille. Quelle perception immédiate s'applique depuis le 1er juillet 2026 ?",
+        "en": "Your breath analysis shows an alcohol level between 0.5 and 0.8 per mille. Which on-the-spot fine applies since 1 July 2026?"
+      },
+      "options": [
+        { "nl": "197 euro", "fr": "197 euros", "en": "197 euros" },
+        { "nl": "520 euro", "fr": "520 euros", "en": "520 euros" },
+        { "nl": "Er is geen onmiddellijke inning; u krijgt enkel een waarschuwing", "fr": "Il n'y a pas de perception immédiate ; vous recevez seulement un avertissement", "en": "There is no on-the-spot fine; you only receive a warning" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Tussen 0,5 en 0,8 promille bedraagt de onmiddellijke inning sinds 1 juli 2026 197 euro. Vanaf 0,8 promille is een onmiddellijke inning niet meer mogelijk en riskeert u dagvaarding, hogere boetes en een verval van het recht tot sturen.",
+        "fr": "Entre 0,5 et 0,8 pour mille, la perception immédiate s'élève à 197 euros depuis le 1er juillet 2026. À partir de 0,8 pour mille, la perception immédiate n'est plus possible et vous risquez une citation, des amendes plus élevées et une déchéance du droit de conduire.",
+        "en": "Between 0.5 and 0.8 per mille, the on-the-spot fine has been 197 euros since 1 July 2026. From 0.8 per mille an on-the-spot settlement is no longer possible and you risk a summons, higher fines and disqualification from driving."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 34-38", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" },
+        { "source": "VSV — Rijden onder invloed: boetes en straffen", "url": "https://www.veiligverkeer.be/veilig-rijden/rijden-onder-invloed/alcohol-limiet-hoeveel-promille-drinken-alcoholcontrole-boete-straffen" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-008",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Een bestuurder wordt betrapt met 1,4 promille. De procureur laat het rijbewijs onmiddellijk intrekken. Hoelang duurt die intrekking in principe?",
+        "fr": "Un conducteur est contrôlé avec 1,4 pour mille. Le procureur fait procéder au retrait immédiat du permis. Combien de temps dure ce retrait en principe ?",
+        "en": "A driver is caught with 1.4 per mille. The prosecutor orders the immediate withdrawal of the licence. How long does that withdrawal last in principle?"
+      },
+      "options": [
+        { "nl": "15 dagen, verlengbaar door de rechter", "fr": "15 jours, prolongeables par le juge", "en": "15 days, extendable by a judge" },
+        { "nl": "3 dagen, niet verlengbaar", "fr": "3 jours, non prolongeables", "en": "3 days, not extendable" },
+        { "nl": "De intrekking is altijd definitief", "fr": "Le retrait est toujours définitif", "en": "The withdrawal is always permanent" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Vanaf 1,2 promille is dagvaarding de regel en kan de procureur des Konings het rijbewijs onmiddellijk laten intrekken (art. 55 Wegverkeerswet). Die intrekking duurt in principe 15 dagen en kan door de rechter worden verlengd.",
+        "fr": "À partir de 1,2 pour mille, la citation est la règle et le procureur du Roi peut faire procéder au retrait immédiat du permis (art. 55 de la loi). Ce retrait dure en principe 15 jours et peut être prolongé par le juge.",
+        "en": "From 1.2 per mille a summons is the rule and the public prosecutor can order the immediate withdrawal of the licence (Art. 55 of the Road Traffic Act). The withdrawal lasts in principle 15 days and can be extended by a judge."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 55", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-009",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Hoeveel illegale drugs mag een bestuurder gebruikt hebben om nog te mogen rijden?",
+        "fr": "Quelle quantité de drogues illégales un conducteur peut-il avoir consommée pour pouvoir encore conduire ?",
+        "en": "How much illegal drugs may a driver have used and still be allowed to drive?"
+      },
+      "options": [
+        { "nl": "Geen enkele hoeveelheid: er geldt een nultolerantie", "fr": "Aucune quantité : une tolérance zéro s'applique", "en": "No amount at all: zero tolerance applies" },
+        { "nl": "Een kleine hoeveelheid, vergelijkbaar met 0,5 promille alcohol", "fr": "Une petite quantité, comparable à 0,5 pour mille d'alcool", "en": "A small amount, comparable to 0.5 per mille of alcohol" },
+        { "nl": "Alleen cannabis wordt gedoogd", "fr": "Seul le cannabis est toléré", "en": "Only cannabis is tolerated" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Voor illegale drugs geldt in het verkeer een nultolerantie (art. 37bis Wegverkeerswet): zodra de wettelijke detectiegrens in speeksel of bloed overschreden is, bent u strafbaar. Er bestaat geen toegelaten hoeveelheid zoals bij alcohol, en een test kan dagen na gebruik nog positief zijn.",
+        "fr": "Pour les drogues illégales, la circulation routière connaît une tolérance zéro (art. 37bis de la loi) : dès que le seuil légal de détection dans la salive ou le sang est dépassé, vous êtes punissable. Il n'existe pas de quantité autorisée comme pour l'alcool, et un test peut encore être positif plusieurs jours après la consommation.",
+        "en": "For illegal drugs, traffic law applies zero tolerance (Art. 37bis of the Road Traffic Act): as soon as the legal detection threshold in saliva or blood is exceeded, you are punishable. There is no permitted amount as with alcohol, and a test can still be positive days after use."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 37bis", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-010",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Uw speekseltest bij een drugscontrole is positief. Wat volgt er?",
+        "fr": "Votre test salivaire lors d'un contrôle antidrogue est positif. Que se passe-t-il ensuite ?",
+        "en": "Your saliva test at a drug check is positive. What follows?"
+      },
+      "options": [
+        { "nl": "Een speekselanalyse of bloedproef en een onmiddellijk rijverbod van 12 uur", "fr": "Une analyse de salive ou une prise de sang et une interdiction immédiate de conduire de 12 heures", "en": "A saliva analysis or blood test and an immediate 12-hour driving ban" },
+        { "nl": "Alleen een boete; u mag meteen verder rijden", "fr": "Seulement une amende ; vous pouvez repartir immédiatement", "en": "Only a fine; you may drive on immediately" },
+        { "nl": "Niets, zolang u voorzichtig rijdt", "fr": "Rien, tant que vous conduisez prudemment", "en": "Nothing, as long as you drive carefully" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een positieve speekseltest leidt tot een speekselanalyse of bloedproef en een onmiddellijk rijverbod van 12 uur. De test weigeren wordt bestraft zoals een positief resultaat.",
+        "fr": "Un test salivaire positif entraîne une analyse de salive ou une prise de sang et une interdiction immédiate de conduire de 12 heures. Refuser le test est puni comme un résultat positif.",
+        "en": "A positive saliva test leads to a saliva analysis or blood test and an immediate 12-hour driving ban. Refusing the test is punished like a positive result."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 37bis en 61bis", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-011",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U neemt slaapmiddelen die u volgens de bijsluiter suf maken. Wat zegt de wet over rijden in die toestand?",
+        "fr": "Vous prenez des somnifères qui, selon la notice, provoquent de la somnolence. Que dit la loi sur la conduite dans cet état ?",
+        "en": "You take sleeping pills that, according to the leaflet, cause drowsiness. What does the law say about driving in that state?"
+      },
+      "options": [
+        { "nl": "Wie door geneesmiddelen niet meer in staat is te sturen, kan vervolgd worden voor sturen in een aan dronkenschap soortgelijke staat", "fr": "Celui qui n'est plus en état de conduire à cause de médicaments peut être poursuivi pour conduite dans un état analogue à l'ivresse", "en": "A driver rendered unfit by medication can be prosecuted for driving in a state similar to drunkenness" },
+        { "nl": "Met een doktersvoorschrift mag u altijd rijden", "fr": "Avec une ordonnance médicale, vous pouvez toujours conduire", "en": "With a doctor's prescription you may always drive" },
+        { "nl": "Geneesmiddelen vallen volledig buiten de verkeerswetgeving", "fr": "Les médicaments échappent totalement à la législation routière", "en": "Medication falls entirely outside traffic law" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Elke bestuurder moet in staat zijn te sturen (art. 8.3 Wegcode). Wie door kalmeer- of slaapmiddelen niet meer rijgeschikt is, kan vervolgd worden voor sturen in een aan dronkenschap soortgelijke staat (art. 35 Wegverkeerswet); lees dus altijd de bijsluiter en vraag advies aan arts of apotheker.",
+        "fr": "Tout conducteur doit être en état de conduire (art. 8.3 du code de la route). Celui qui n'est plus apte à conduire à cause de calmants ou de somnifères peut être poursuivi pour conduite dans un état analogue à l'ivresse (art. 35 de la loi) ; lisez donc toujours la notice et demandez conseil à votre médecin ou pharmacien.",
+        "en": "Every driver must be in a fit state to drive (Art. 8.3 of the traffic code). A driver rendered unfit by sedatives or sleeping pills can be prosecuted for driving in a state similar to drunkenness (Art. 35 of the Road Traffic Act); always read the leaflet and ask your doctor or pharmacist."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 35", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 8.3", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-012",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U voelt zich tijdens een lange rit erg vermoeid: u geeuwt en wijkt ongemerkt van uw rijstrook af. Wat helpt echt?",
+        "fr": "Pendant un long trajet, vous vous sentez très fatigué : vous bâillez et déviez involontairement de votre bande. Qu'est-ce qui aide vraiment ?",
+        "en": "On a long drive you feel very tired: you are yawning and drifting out of your lane. What actually helps?"
+      },
+      "options": [
+        { "nl": "Stoppen en rusten, bijvoorbeeld met een powernap van 15 à 20 minuten", "fr": "S'arrêter et se reposer, par exemple avec une sieste de 15 à 20 minutes", "en": "Stopping and resting, for example with a 15 to 20 minute power nap" },
+        { "nl": "De radio luider zetten en het raam openen", "fr": "Monter le volume de la radio et ouvrir la fenêtre", "en": "Turning up the radio and opening the window" },
+        { "nl": "Sneller rijden om vlugger thuis te zijn", "fr": "Rouler plus vite pour arriver plus tôt", "en": "Driving faster to get home sooner" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Vermoeidheid is even gevaarlijk als alcohol: uw reacties zijn vergelijkbaar met die van iemand boven de limiet. Het enige dat helpt is stoppen en rusten; radio of frisse lucht verhelpen de slaperigheid niet.",
+        "fr": "La fatigue est aussi dangereuse que l'alcool : vos réactions sont comparables à celles d'une personne au-dessus de la limite. La seule solution est de s'arrêter et de se reposer ; la radio ou l'air frais ne suppriment pas la somnolence.",
+        "en": "Fatigue is as dangerous as alcohol: your reactions are comparable to those of someone over the limit. The only remedy is to stop and rest; the radio or fresh air does not cure drowsiness."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 8.3", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-013",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Wanneer mag u als bestuurder een smartphone gebruiken tijdens het rijden?",
+        "fr": "Quand pouvez-vous, en tant que conducteur, utiliser un smartphone en conduisant ?",
+        "en": "When may you, as a driver, use a smartphone while driving?"
+      },
+      "options": [
+        { "nl": "Alleen als het toestel vastzit in een daartoe bestemde houder aan het voertuig", "fr": "Uniquement si l'appareil est fixé dans un support prévu à cet effet attaché au véhicule", "en": "Only if the device is fixed in a holder intended for that purpose attached to the vehicle" },
+        { "nl": "Als u het toestel tussen oor en schouder klemt", "fr": "Si vous coincez l'appareil entre l'oreille et l'épaule", "en": "If you wedge the device between your ear and shoulder" },
+        { "nl": "Als u trager dan 30 km/u rijdt", "fr": "Si vous roulez à moins de 30 km/h", "en": "If you drive slower than 30 km/h" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Sinds 3 maart 2022 verbiedt artikel 8.4 van de Wegcode het gebruiken, vasthouden of manipuleren van een mobiel elektronisch apparaat met scherm, tenzij het in een daartoe bestemde houder is bevestigd. Handenvrij bellen via een houder of het ingebouwde scherm mag wel.",
+        "fr": "Depuis le 3 mars 2022, l'article 8.4 du code de la route interdit d'utiliser, de tenir en main ou de manipuler un appareil électronique mobile à écran, sauf s'il est fixé dans un support prévu à cet effet. Téléphoner en mains libres via un support ou l'écran intégré reste autorisé.",
+        "en": "Since 3 March 2022, Article 8.4 of the traffic code prohibits using, holding or handling a mobile electronic device with a screen, unless it is mounted in a holder intended for that purpose. Hands-free calling via a holder or the built-in screen is allowed."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 8.4", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-014",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "U staat stil voor een rood licht. Mag u dan even uw smartphone in de hand nemen om een bericht te lezen?",
+        "fr": "Vous êtes à l'arrêt au feu rouge. Pouvez-vous alors prendre votre smartphone en main pour lire un message ?",
+        "en": "You are stopped at a red light. May you then take your smartphone in your hand to read a message?"
+      },
+      "options": [
+        { "nl": "Nee, wachten voor een rood licht geldt niet als stilstaand of geparkeerd voertuig", "fr": "Non, attendre au feu rouge ne compte pas comme véhicule à l'arrêt ou en stationnement", "en": "No, waiting at a red light does not count as a stopped or parked vehicle" },
+        { "nl": "Ja, zodra het voertuig volledig stilstaat", "fr": "Oui, dès que le véhicule est complètement immobilisé", "en": "Yes, as soon as the vehicle is completely stationary" },
+        { "nl": "Ja, maar alleen om te bellen, niet om te lezen", "fr": "Oui, mais seulement pour téléphoner, pas pour lire", "en": "Yes, but only to make a call, not to read" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het verbod van artikel 8.4 geldt ook wanneer u stilstaat voor een rood licht of in de file: dat telt niet als stilstaand of geparkeerd voertuig. Het toestel in de hand nemen is een overtreding van de derde graad.",
+        "fr": "L'interdiction de l'article 8.4 s'applique aussi à l'arrêt au feu rouge ou dans un embouteillage : cela ne compte pas comme véhicule à l'arrêt ou en stationnement. Prendre l'appareil en main est une infraction du troisième degré.",
+        "en": "The prohibition of Article 8.4 also applies while stopped at a red light or in a traffic jam: that does not count as a stopped or parked vehicle. Taking the device in your hand is a third-degree offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 8.4", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "Lokale Politie — Wijziging wegcode: gebruik gsm als bestuurder van een voertuig", "url": "https://www.politie.be/5452/nieuws/wijziging-wegcode-gebruik-gsm-als-bestuurder-van-een-voertuig" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-015",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Een bestuurder rijdt met zijn gsm in de hand. Welke overtreding is dat en hoeveel bedraagt de onmiddellijke inning sinds 1 juli 2026?",
+        "fr": "Un conducteur roule avec son GSM en main. De quelle infraction s'agit-il et quel est le montant de la perception immédiate depuis le 1er juillet 2026 ?",
+        "en": "A driver drives with his phone in his hand. Which offence is that, and how much is the on-the-spot fine since 1 July 2026?"
+      },
+      "options": [
+        { "nl": "Een overtreding van de derde graad — 191 euro", "fr": "Une infraction du troisième degré — 191 euros", "en": "A third-degree offence — 191 euros" },
+        { "nl": "Een overtreding van de eerste graad — 64 euro", "fr": "Une infraction du premier degré — 64 euros", "en": "A first-degree offence — 64 euros" },
+        { "nl": "Een overtreding van de tweede graad — 128 euro", "fr": "Une infraction du deuxième degré — 128 euros", "en": "A second-degree offence — 128 euros" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een gsm in de hand achter het stuur is een overtreding van de derde graad; sinds 1 juli 2026 bedraagt de onmiddellijke inning daarvoor 191 euro (plus administratieve toeslag). De politierechter kan bovendien een rijverbod opleggen.",
+        "fr": "Tenir un GSM en main au volant est une infraction du troisième degré ; depuis le 1er juillet 2026, la perception immédiate s'élève à 191 euros (plus les frais administratifs). Le tribunal de police peut en outre prononcer une déchéance du droit de conduire.",
+        "en": "Holding a phone at the wheel is a third-degree offence; since 1 July 2026 the on-the-spot fine is 191 euros (plus an administrative surcharge). The police court can additionally impose a driving ban."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 8.4", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "Lokale Politie Gent — Wijzigingen verkeerswetgeving vanaf 1 juli 2026", "url": "https://www.politie.be/5415/nieuws/wijzigingen-verkeerswetgeving-vanaf-1-juli-2026" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-016",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Welke boorddocumenten moeten in de auto aanwezig zijn?",
+        "fr": "Quels documents de bord doivent se trouver dans la voiture ?",
+        "en": "Which on-board documents must be present in the car?"
+      },
+      "options": [
+        { "nl": "Het inschrijvingsbewijs, het verzekeringsbewijs en het keuringsbewijs (zodra het voertuig keuringsplichtig is)", "fr": "Le certificat d'immatriculation, le certificat d'assurance et le certificat de visite (dès que le véhicule est soumis au contrôle)", "en": "The registration certificate, the insurance certificate and the inspection certificate (once the vehicle is subject to testing)" },
+        { "nl": "Alleen het rijbewijs van de bestuurder", "fr": "Uniquement le permis de conduire du conducteur", "en": "Only the driver's driving licence" },
+        { "nl": "De aankoopfactuur en het onderhoudsboekje", "fr": "La facture d'achat et le carnet d'entretien", "en": "The purchase invoice and the maintenance booklet" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "In het voertuig horen de originele boorddocumenten: het inschrijvingsbewijs (deel 1), het verzekeringsbewijs en het keuringsbewijs zodra het voertuig aan de periodieke keuring onderworpen is. Uw rijbewijs en identiteitskaart draagt u daarnaast als bestuurder altijd bij u.",
+        "fr": "Le véhicule doit contenir les documents de bord originaux : le certificat d'immatriculation (partie 1), le certificat d'assurance et le certificat de visite dès que le véhicule est soumis au contrôle périodique. En tant que conducteur, vous portez en outre toujours sur vous votre permis de conduire et votre carte d'identité.",
+        "en": "The vehicle must carry the original on-board documents: the registration certificate (part 1), the insurance certificate and the inspection certificate once the vehicle is subject to periodic testing. As a driver you additionally always carry your driving licence and identity card."
+      },
+      "citations": [
+        { "source": "Lokale Politie — Welke boorddocumenten moet ik in mijn wagen hebben?", "url": "https://www.politie.be/5915/vragen/verkeer/welke-boorddocumenten-moet-ik-in-mijn-wagen-hebben" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-017",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Uw inschrijvingsbewijs bestaat uit twee delen. Wat doet u met deel 2?",
+        "fr": "Votre certificat d'immatriculation se compose de deux parties. Que faites-vous de la partie 2 ?",
+        "en": "Your registration certificate consists of two parts. What do you do with part 2?"
+      },
+      "options": [
+        { "nl": "U bewaart het thuis; alleen deel 1 hoort in het voertuig", "fr": "Vous la conservez à la maison ; seule la partie 1 se trouve dans le véhicule", "en": "You keep it at home; only part 1 belongs in the vehicle" },
+        { "nl": "U bewaart beide delen samen in het handschoenkastje", "fr": "Vous conservez les deux parties ensemble dans la boîte à gants", "en": "You keep both parts together in the glove box" },
+        { "nl": "U mag een kopie van deel 1 in de auto leggen en beide originelen thuis houden", "fr": "Vous pouvez mettre une copie de la partie 1 dans la voiture et garder les deux originaux à la maison", "en": "You may put a copy of part 1 in the car and keep both originals at home" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Deel 1 van het inschrijvingsbewijs moet origineel in het voertuig aanwezig zijn; deel 2 bewaart u thuis. Kopieën van boorddocumenten zijn niet toegelaten.",
+        "fr": "La partie 1 du certificat d'immatriculation doit se trouver en original dans le véhicule ; la partie 2 se conserve à la maison. Les copies des documents de bord ne sont pas admises.",
+        "en": "Part 1 of the registration certificate must be present in the vehicle as an original; part 2 is kept at home. Copies of on-board documents are not accepted."
+      },
+      "citations": [
+        { "source": "Lokale Politie — Welke boorddocumenten moet ik in mijn wagen hebben?", "url": "https://www.politie.be/5915/vragen/verkeer/welke-boorddocumenten-moet-ik-in-mijn-wagen-hebben" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-018",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Welke autoverzekering is wettelijk verplicht om met een motorvoertuig de openbare weg op te gaan?",
+        "fr": "Quelle assurance automobile est légalement obligatoire pour circuler sur la voie publique avec un véhicule à moteur ?",
+        "en": "Which car insurance is legally required to take a motor vehicle onto the public road?"
+      },
+      "options": [
+        { "nl": "De verzekering burgerlijke aansprakelijkheid (BA), die schade aan anderen vergoedt", "fr": "L'assurance responsabilité civile (RC), qui indemnise les dommages causés à autrui", "en": "Third-party liability insurance (BA/RC), which compensates damage caused to others" },
+        { "nl": "Een omniumverzekering", "fr": "Une assurance omnium", "en": "Comprehensive (omnium) insurance" },
+        { "nl": "Een rechtsbijstandsverzekering", "fr": "Une assurance protection juridique", "en": "Legal-assistance insurance" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Elk motorvoertuig op de openbare weg moet gedekt zijn door een verzekering burgerlijke aansprakelijkheid (wet van 21 november 1989); die vergoedt de schade die u met het voertuig aan anderen veroorzaakt. Omnium- en rechtsbijstandsdekkingen zijn vrijwillig.",
+        "fr": "Tout véhicule automoteur sur la voie publique doit être couvert par une assurance responsabilité civile (loi du 21 novembre 1989) ; celle-ci indemnise les dommages que vous causez à autrui avec le véhicule. Les couvertures omnium et protection juridique sont facultatives.",
+        "en": "Every motor vehicle on the public road must be covered by third-party liability insurance (Act of 21 November 1989); it compensates the damage you cause to others with the vehicle. Comprehensive and legal-assistance cover is optional."
+      },
+      "citations": [
+        { "source": "Wet van 21 november 1989 betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen", "url": "https://www.wegcode.be/nl/regelgeving/1989011371~e9i0a75brp" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-019",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Wat riskeert u wanneer u zonder BA-verzekering met de auto rijdt?",
+        "fr": "Que risquez-vous si vous conduisez une voiture sans assurance RC ?",
+        "en": "What do you risk when you drive a car without third-party liability insurance?"
+      },
+      "options": [
+        { "nl": "Het is een misdrijf: het voertuig kan aan de kant gezet of in beslag genomen worden en u riskeert zware straffen", "fr": "C'est une infraction pénale : le véhicule peut être immobilisé ou saisi et vous risquez de lourdes sanctions", "en": "It is a criminal offence: the vehicle can be immobilised or seized and you face heavy penalties" },
+        { "nl": "Alleen een kleine administratieve boete", "fr": "Seulement une petite amende administrative", "en": "Only a small administrative fine" },
+        { "nl": "Niets, zolang u geen ongeval veroorzaakt", "fr": "Rien, tant que vous ne causez pas d'accident", "en": "Nothing, as long as you do not cause an accident" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Rijden zonder verplichte BA-verzekering is een misdrijf. Het voertuig kan worden geïmmobiliseerd of in beslag genomen en u riskeert zware straffen; bij een ongeval draait u bovendien zelf op voor de schade aan anderen.",
+        "fr": "Conduire sans l'assurance RC obligatoire est une infraction pénale. Le véhicule peut être immobilisé ou saisi et vous risquez de lourdes sanctions ; en cas d'accident, vous supportez en outre vous-même les dommages causés à autrui.",
+        "en": "Driving without the compulsory liability insurance is a criminal offence. The vehicle can be immobilised or seized and you face heavy penalties; in an accident you also bear the damage caused to others yourself."
+      },
+      "citations": [
+        { "source": "Wet van 21 november 1989 betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen", "url": "https://www.wegcode.be/nl/regelgeving/1989011371~e9i0a75brp" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-020",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Wanneer moet een nieuwe personenwagen voor het eerst naar de technische keuring?",
+        "fr": "Quand une voiture neuve doit-elle passer son premier contrôle technique ?",
+        "en": "When must a new passenger car undergo its first roadworthiness test?"
+      },
+      "options": [
+        { "nl": "Uiterlijk op de dag dat de wagen 4 jaar oud wordt", "fr": "Au plus tard le jour de ses 4 ans", "en": "At the latest on the day the car turns 4 years old" },
+        { "nl": "Al na 1 jaar", "fr": "Dès 1 an", "en": "Already after 1 year" },
+        { "nl": "Pas na 10 jaar", "fr": "Seulement après 10 ans", "en": "Only after 10 years" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Personenwagens moeten voor het eerst naar de technische keuring uiterlijk op de dag dat ze 4 jaar oud worden. Daarna geldt in principe een periodieke keuring, waarvan de frequentie geregionaliseerd is.",
+        "fr": "Les voitures doivent passer leur premier contrôle technique au plus tard le jour de leurs 4 ans. Ensuite, un contrôle périodique s'applique en principe, dont la fréquence est régionalisée.",
+        "en": "Passenger cars must undergo their first roadworthiness test at the latest on the day they turn 4 years old. After that, periodic testing applies in principle, with a frequency that is regionalised."
+      },
+      "citations": [
+        { "source": "GOCA Vlaanderen — Data en frequentie van de keuring", "url": "https://www.gocavlaanderen.be/detail-page/data-en-frequentie" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-021",
+      "difficulty": 3,
+      "regions": ["FL"],
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "In Vlaanderen wordt uw wagen met minder dan 160.000 km zonder opmerkingen goedgekeurd. Om de hoeveel tijd moet hij daarna gekeurd worden?",
+        "fr": "En Flandre, votre voiture de moins de 160 000 km est approuvée sans remarques. À quelle fréquence doit-elle ensuite être contrôlée ?",
+        "en": "In Flanders your car with under 160,000 km passes the test without remarks. How often must it be tested after that?"
+      },
+      "options": [
+        { "nl": "Om de twee jaar", "fr": "Tous les deux ans", "en": "Every two years" },
+        { "nl": "Elk jaar, zoals overal in België", "fr": "Chaque année, comme partout en Belgique", "en": "Every year, as everywhere in Belgium" },
+        { "nl": "Om de vijf jaar", "fr": "Tous les cinq ans", "en": "Every five years" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "In Vlaanderen geldt sinds 1 juli 2024 een tweejaarlijkse keuring voor wagens met minder dan 160.000 km die zonder opmerkingen worden goedgekeurd; de maatregel wordt stapsgewijs uitgebreid. In Wallonië en Brussel blijft de jaarlijkse keuring na 4 jaar de regel.",
+        "fr": "En Flandre, depuis le 1er juillet 2024, le contrôle devient bisannuel pour les voitures de moins de 160 000 km approuvées sans remarques ; la mesure est étendue par étapes. En Wallonie et à Bruxelles, le contrôle annuel après 4 ans reste la règle.",
+        "en": "In Flanders, since 1 July 2024, testing is every two years for cars under 160,000 km that pass without remarks; the measure is being phased in. In Wallonia and Brussels, annual testing after year 4 remains the rule."
+      },
+      "citations": [
+        { "source": "GOCA Vlaanderen — Nieuwe keuringsfrequentie voor personenauto's vanaf 1 juli 2024", "url": "https://www.gocavlaanderen.be/detail-page/autokeuring-om-de-twee-jaar" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-022",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Wie moet in een auto de veiligheidsgordel dragen?",
+        "fr": "Qui doit porter la ceinture de sécurité dans une voiture ?",
+        "en": "Who must wear the seat belt in a car?"
+      },
+      "options": [
+        { "nl": "De bestuurder en alle passagiers, voorin én achterin, op zitplaatsen die ermee zijn uitgerust", "fr": "Le conducteur et tous les passagers, à l'avant comme à l'arrière, aux places qui en sont équipées", "en": "The driver and all passengers, front and back, on seats fitted with one" },
+        { "nl": "Alleen de bestuurder en de passagier voorin", "fr": "Uniquement le conducteur et le passager avant", "en": "Only the driver and the front passenger" },
+        { "nl": "Alleen op de autosnelweg", "fr": "Uniquement sur autoroute", "en": "Only on the motorway" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Artikel 35 van de Wegcode verplicht de bestuurder en alle passagiers de veiligheidsgordel te dragen op de zitplaatsen die ermee zijn uitgerust, zowel voorin als achterin. Elke gordel is bedoeld voor één persoon.",
+        "fr": "L'article 35 du code de la route impose au conducteur et à tous les passagers le port de la ceinture de sécurité aux places qui en sont équipées, à l'avant comme à l'arrière. Chaque ceinture est conçue pour une seule personne.",
+        "en": "Article 35 of the traffic code requires the driver and all passengers to wear the seat belt on seats fitted with one, in the front as well as the back. Each belt is meant for one person."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 35", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-023",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Uw passagier van 16 jaar draagt de gordel niet. Wie wordt daarvoor beboet?",
+        "fr": "Votre passager de 16 ans ne porte pas la ceinture. Qui est verbalisé ?",
+        "en": "Your 16-year-old passenger is not wearing the seat belt. Who is fined for that?"
+      },
+      "options": [
+        { "nl": "De bestuurder: hij is verantwoordelijk voor passagiers jonger dan 18 jaar", "fr": "Le conducteur : il est responsable des passagers de moins de 18 ans", "en": "The driver: he is responsible for passengers under 18" },
+        { "nl": "De passagier zelf, ongeacht zijn leeftijd", "fr": "Le passager lui-même, quel que soit son âge", "en": "The passenger himself, whatever his age" },
+        { "nl": "Niemand, achterin is de gordel niet verplicht", "fr": "Personne, la ceinture n'est pas obligatoire à l'arrière", "en": "Nobody, the belt is not compulsory in the back" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Wie de gordel niet draagt, wordt in principe persoonlijk beboet, maar voor passagiers jonger dan 18 jaar is de bestuurder verantwoordelijk. De gordel is op alle uitgeruste zitplaatsen verplicht, ook achterin.",
+        "fr": "Qui ne porte pas la ceinture est en principe verbalisé personnellement, mais pour les passagers de moins de 18 ans, c'est le conducteur qui est responsable. La ceinture est obligatoire à toutes les places équipées, aussi à l'arrière.",
+        "en": "Anyone not wearing the belt is in principle fined personally, but for passengers under 18 the driver is responsible. The belt is compulsory on all equipped seats, including in the back."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 35", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-024",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "In welk geval mag een bestuurder wettelijk de veiligheidsgordel afdoen?",
+        "fr": "Dans quel cas un conducteur peut-il légalement détacher sa ceinture de sécurité ?",
+        "en": "In which case may a driver legally take off the seat belt?"
+      },
+      "options": [
+        { "nl": "Tijdens het achteruitrijden", "fr": "Pendant une marche arrière", "en": "While reversing" },
+        { "nl": "Zodra hij trager dan 30 km/u rijdt", "fr": "Dès qu'il roule à moins de 30 km/h", "en": "As soon as he drives slower than 30 km/h" },
+        { "nl": "Bij warm weer op korte trajecten", "fr": "Par temps chaud sur de courts trajets", "en": "In hot weather on short journeys" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De wettelijke vrijstellingen van artikel 35.2.1 zijn beperkt: onder meer bestuurders die achteruitrijden, taxibestuurders die een klant vervoeren en personen met een medische vrijstelling op basis van een attest. Lage snelheid of korte afstand is geen vrijstelling.",
+        "fr": "Les exemptions légales de l'article 35.2.1 sont limitées : notamment les conducteurs qui effectuent une marche arrière, les conducteurs de taxi transportant un client et les personnes disposant d'une dérogation médicale fondée sur un certificat. Une vitesse réduite ou une courte distance n'est pas une exemption.",
+        "en": "The legal exemptions of Article 35.2.1 are limited: among others, drivers while reversing, taxi drivers carrying a passenger and holders of a medical exemption based on a certificate. Low speed or a short distance is not an exemption."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 35.2.1", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-025",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U vervoert een kind van 8 jaar dat 120 cm groot is. Hoe moet het in de auto zitten?",
+        "fr": "Vous transportez un enfant de 8 ans mesurant 120 cm. Comment doit-il être installé dans la voiture ?",
+        "en": "You are carrying an 8-year-old child who is 120 cm tall. How must the child be seated in the car?"
+      },
+      "options": [
+        { "nl": "In een geschikt kinderbeveiligingssysteem, zoals een kinderzitje of verhogingskussen", "fr": "Dans un dispositif de retenue pour enfants adapté, comme un siège enfant ou un rehausseur", "en": "In a suitable child restraint system, such as a child seat or booster" },
+        { "nl": "Gewoon met de veiligheidsgordel, zonder zitje", "fr": "Simplement avec la ceinture de sécurité, sans siège", "en": "Simply with the seat belt, without a seat" },
+        { "nl": "Los op de achterbank, als u traag rijdt", "fr": "Librement sur la banquette arrière, si vous roulez lentement", "en": "Loose on the back seat, if you drive slowly" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Kinderen die jonger zijn dan 18 jaar én kleiner dan 135 cm moeten worden vervoerd in een kinderbeveiligingssysteem dat is aangepast aan hun lengte en gewicht (art. 35.1.1 Wegcode). Een kind van 120 cm heeft dus nog een zitje of verhogingskussen nodig.",
+        "fr": "Les enfants de moins de 18 ans et mesurant moins de 135 cm doivent être transportés dans un dispositif de retenue pour enfants adapté à leur taille et à leur poids (art. 35.1.1 du code de la route). Un enfant de 120 cm a donc encore besoin d'un siège ou d'un rehausseur.",
+        "en": "Children under 18 and shorter than 135 cm must be carried in a child restraint system matched to their height and weight (Art. 35.1.1). A child of 120 cm therefore still needs a seat or booster."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 35.1.1", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-026",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U plaatst een tegen de rijrichting gericht kinderzitje op de passagiersstoel voorin. Waarop moet u letten?",
+        "fr": "Vous installez un siège enfant dos à la route sur le siège passager avant. À quoi devez-vous veiller ?",
+        "en": "You place a rear-facing child seat on the front passenger seat. What must you make sure of?"
+      },
+      "options": [
+        { "nl": "De frontale airbag moet uitgeschakeld zijn", "fr": "L'airbag frontal doit être désactivé", "en": "The front airbag must be deactivated" },
+        { "nl": "De frontale airbag moet net ingeschakeld blijven", "fr": "L'airbag frontal doit justement rester activé", "en": "The front airbag must in fact stay activated" },
+        { "nl": "Dat mag nooit, ook niet met uitgeschakelde airbag", "fr": "C'est toujours interdit, même avec l'airbag désactivé", "en": "That is never allowed, even with the airbag deactivated" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een tegen de rijrichting geplaatst kinderzitje mag op de passagiersstoel voorin, maar dan moet de frontale airbag uitgeschakeld zijn: een openklappende airbag is levensgevaarlijk voor het kind.",
+        "fr": "Un siège enfant dos à la route peut être installé sur le siège passager avant, mais l'airbag frontal doit alors être désactivé : un airbag qui se déploie est mortellement dangereux pour l'enfant.",
+        "en": "A rear-facing child seat may go on the front passenger seat, but the front airbag must then be deactivated: a deploying airbag is lethally dangerous for the child."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 35.1.1–35.1.2", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-027",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U vervoert ladders die 1,5 meter achter uw voertuig uitsteken. Wat moet u doen?",
+        "fr": "Vous transportez des échelles qui dépassent de 1,5 mètre l'arrière de votre véhicule. Que devez-vous faire ?",
+        "en": "You are carrying ladders that protrude 1.5 metres beyond the rear of your vehicle. What must you do?"
+      },
+      "options": [
+        { "nl": "Het uiteinde signaleren met het voorgeschreven paneel; bij nacht ook een rood licht en een rode reflector", "fr": "Signaler l'extrémité avec le panneau prescrit ; la nuit, ajouter un feu rouge et un catadioptre rouge", "en": "Mark the end with the prescribed panel; at night also add a red light and a red reflector" },
+        { "nl": "Niets: pas vanaf 2 meter uitsteek is signalisatie verplicht", "fr": "Rien : la signalisation n'est obligatoire qu'à partir de 2 mètres de dépassement", "en": "Nothing: marking is only compulsory from a 2-metre overhang" },
+        { "nl": "Volstaat: een witte doek aan het uiteinde knopen", "fr": "Il suffit de nouer un chiffon blanc à l'extrémité", "en": "It is enough to tie a white cloth to the end" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Steekt de lading meer dan 1 meter achter het voertuig uit, dan moet het uiteinde gesignaleerd worden met het voorgeschreven paneel; bij nacht en bij slechte zichtbaarheid komen daar een rood licht en een rode reflector bij (art. 45-46 Wegcode).",
+        "fr": "Si le chargement dépasse de plus d'un mètre l'arrière du véhicule, son extrémité doit être signalée par le panneau prescrit ; la nuit et par mauvaise visibilité s'y ajoutent un feu rouge et un catadioptre rouge (art. 45-46 du code de la route).",
+        "en": "If the load protrudes more than 1 metre beyond the rear of the vehicle, its end must be marked with the prescribed panel; at night and in poor visibility a red light and a red reflector are added (Art. 45-46)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 45-46", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-028",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U hebt alleen een rijbewijs B. Uw auto heeft een MTM van 2.400 kg. Mag u een aanhangwagen met een MTM van 1.000 kg trekken?",
+        "fr": "Vous n'avez que le permis B. Votre voiture a une MMA de 2 400 kg. Pouvez-vous tracter une remorque d'une MMA de 1 000 kg ?",
+        "en": "You only hold a category B licence. Your car has a MAM of 2,400 kg. May you tow a trailer with a MAM of 1,000 kg?"
+      },
+      "options": [
+        { "nl": "Ja, want de MTM van auto en aanhangwagen samen blijft onder 3.500 kg", "fr": "Oui, car la MMA de l'ensemble voiture + remorque reste sous 3 500 kg", "en": "Yes, because the combined MAM of car and trailer stays under 3,500 kg" },
+        { "nl": "Nee, met rijbewijs B mag de aanhangwagen nooit zwaarder zijn dan 750 kg", "fr": "Non, avec le permis B la remorque ne peut jamais dépasser 750 kg", "en": "No, with a category B licence the trailer may never exceed 750 kg" },
+        { "nl": "Nee, daarvoor is altijd rijbewijs BE nodig", "fr": "Non, le permis BE est toujours requis pour cela", "en": "No, licence BE is always required for that" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Met rijbewijs B trekt u een aanhangwagen tot 750 kg MTM, of een zwaardere zolang de MTM van auto en aanhangwagen samen niet meer dan 3.500 kg bedraagt. Hier is dat 2.400 + 1.000 = 3.400 kg, dus toegelaten; tussen 3.500 en 4.250 kg hebt u code B96 nodig, daarboven rijbewijs BE.",
+        "fr": "Avec le permis B, vous tractez une remorque jusqu'à 750 kg de MMA, ou une remorque plus lourde tant que la MMA de l'ensemble ne dépasse pas 3 500 kg. Ici, 2 400 + 1 000 = 3 400 kg : c'est donc permis ; entre 3 500 et 4 250 kg il faut le code B96, au-delà le permis BE.",
+        "en": "With a category B licence you may tow a trailer of up to 750 kg MAM, or a heavier one as long as the combined MAM does not exceed 3,500 kg. Here that is 2,400 + 1,000 = 3,400 kg, so it is allowed; between 3,500 and 4,250 kg you need code B96, and beyond that licence BE."
+      },
+      "citations": [
+        { "source": "GOCA Vlaanderen — Auto met aanhangwagen (categorie BE en code 96)", "url": "https://www.gocavlaanderen.be/detail-page/categorie-be-b96" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-029",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U hebt een ongeval met alleen blikschade en u bent het met de andere bestuurder eens over de feiten. Moet de politie komen?",
+        "fr": "Vous avez un accident avec des dégâts matériels uniquement et vous êtes d'accord avec l'autre conducteur sur les faits. La police doit-elle venir ?",
+        "en": "You have an accident with material damage only and you agree with the other driver on the facts. Must the police come?"
+      },
+      "options": [
+        { "nl": "Nee: vul samen het Europees aanrijdingsformulier in en maak de rijbaan zo snel mogelijk vrij", "fr": "Non : remplissez ensemble le constat européen d'accident et dégagez la chaussée au plus vite", "en": "No: fill in the European accident statement form together and clear the carriageway as soon as possible" },
+        { "nl": "Ja, de politie moet elk ongeval vaststellen", "fr": "Oui, la police doit constater chaque accident", "en": "Yes, the police must record every accident" },
+        { "nl": "Nee, u mag gewoon doorrijden zonder gegevens uit te wisselen", "fr": "Non, vous pouvez repartir sans échanger vos coordonnées", "en": "No, you may simply drive on without exchanging details" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bij een ongeval met alleen stoffelijke schade wisselen de betrokken bestuurders hun gegevens uit — het handigst via het Europees aanrijdingsformulier — en verplaatsen ze de voertuigen zo snel mogelijk. De politie is alleen nodig als u het niet eens raakt over de feiten (of bij gewonden).",
+        "fr": "En cas d'accident avec dégâts matériels uniquement, les conducteurs impliqués échangent leurs coordonnées — le plus simple via le constat européen d'accident — et déplacent les véhicules au plus vite. La police n'est nécessaire que si vous n'êtes pas d'accord sur les faits (ou en cas de blessés).",
+        "en": "In an accident with material damage only, the drivers involved exchange their details — most easily via the European accident statement form — and move the vehicles as soon as possible. The police are only needed if you cannot agree on the facts (or if someone is injured)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 52", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "Assuralia — ABC Verzekering: het aanrijdingsformulier", "url": "https://www.abcverzekering.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-030",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Bij het parkeren raakt u een geparkeerde auto; de eigenaar is nergens te vinden. Wat moet u doen?",
+        "fr": "En vous garant, vous touchez une voiture en stationnement ; le propriétaire est introuvable. Que devez-vous faire ?",
+        "en": "While parking you hit a parked car; the owner is nowhere to be found. What must you do?"
+      },
+      "options": [
+        { "nl": "Uw gegevens ter plaatse achterlaten én de politie zo snel mogelijk verwittigen", "fr": "Laisser vos coordonnées sur place et avertir la police au plus vite", "en": "Leave your details at the scene and notify the police as soon as possible" },
+        { "nl": "Alleen een briefje met uw telefoonnummer achterlaten volstaat", "fr": "Laisser seulement un mot avec votre numéro de téléphone suffit", "en": "Just leaving a note with your phone number is enough" },
+        { "nl": "Niets, als de schade beperkt is", "fr": "Rien, si les dégâts sont limités", "en": "Nothing, if the damage is minor" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Beschadigt u een geparkeerd voertuig en is de benadeelde afwezig, dan moet u uw gegevens ter plaatse achterlaten én de politie zo snel mogelijk verwittigen (art. 52 Wegcode). Gewoon doorrijden is vluchtmisdrijf, ook bij kleine schade.",
+        "fr": "Si vous endommagez un véhicule en stationnement et que la personne lésée est absente, vous devez laisser vos coordonnées sur place et avertir la police au plus vite (art. 52 du code de la route). Repartir sans rien faire constitue un délit de fuite, même pour de petits dégâts.",
+        "en": "If you damage a parked vehicle and the injured party is absent, you must leave your details at the scene and notify the police as soon as possible (Art. 52). Simply driving off is hit-and-run, even for minor damage."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 52", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 33", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-031",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U komt als eerste aan bij een ongeval met een gewonde. Wat is de juiste volgorde van handelen?",
+        "fr": "Vous arrivez le premier sur un accident avec un blessé. Quel est le bon ordre d'action ?",
+        "en": "You are first at the scene of an accident with an injured person. What is the correct order of action?"
+      },
+      "options": [
+        { "nl": "Beveiligen, alarmeren via 112, dan helpen; de betrokken voertuigen blijven in principe staan", "fr": "Sécuriser, alerter via le 112, puis secourir ; les véhicules impliqués restent en principe sur place", "en": "Secure the scene, alert 112, then assist; the vehicles involved in principle stay where they are" },
+        { "nl": "De gewonde meteen verplaatsen en de voertuigen aan de kant zetten", "fr": "Déplacer immédiatement le blessé et ranger les véhicules sur le côté", "en": "Move the injured person immediately and get the vehicles out of the way" },
+        { "nl": "Eerst uw verzekeraar bellen en foto's nemen", "fr": "D'abord appeler votre assureur et prendre des photos", "en": "First call your insurer and take photos" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bij gewonden geldt de volgorde beveiligen, alarmeren, helpen: beveilig de plaats, bel 112 en verleen hulp binnen uw mogelijkheden. Verplaats een gewonde niet tenzij er acuut gevaar dreigt, en laat de voertuigen in principe staan tot de vaststellingen zijn gebeurd.",
+        "fr": "Face à des blessés, l'ordre est sécuriser, alerter, secourir : sécurisez les lieux, appelez le 112 et portez secours dans la mesure de vos moyens. Ne déplacez pas un blessé sauf danger imminent, et laissez en principe les véhicules sur place jusqu'aux constatations.",
+        "en": "With injured people the order is secure, alert, assist: make the scene safe, call 112 and give help within your abilities. Do not move an injured person unless there is immediate danger, and in principle leave the vehicles in place until the official findings are made."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 52", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "Noodnummer 112 — officiële informatie FOD Binnenlandse Zaken", "url": "https://www.112.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-032",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "U veroorzaakt een ongeval, blijft ter plaatse, geeft uw identiteit op en werkt mee aan de vaststellingen. Pleegt u vluchtmisdrijf?",
+        "fr": "Vous causez un accident, restez sur place, déclinez votre identité et coopérez aux constatations. Commettez-vous un délit de fuite ?",
+        "en": "You cause an accident, stay at the scene, give your identity and cooperate with the findings. Are you committing hit-and-run?"
+      },
+      "options": [
+        { "nl": "Nee: wie ter plaatse blijft en meewerkt, pleegt per definitie geen vluchtmisdrijf, ook niet als hij schuld heeft", "fr": "Non : celui qui reste sur place et coopère ne commet par définition pas de délit de fuite, même s'il est responsable", "en": "No: anyone who stays and cooperates by definition does not commit hit-and-run, even if at fault" },
+        { "nl": "Ja, zodra u het ongeval zelf veroorzaakt hebt", "fr": "Oui, dès que vous avez causé l'accident vous-même", "en": "Yes, as soon as you caused the accident yourself" },
+        { "nl": "Ja, tenzij de schade beperkt blijft", "fr": "Oui, sauf si les dégâts restent limités", "en": "Yes, unless the damage remains minor" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Vluchtmisdrijf pleegt wie de plaats van het ongeval verlaat om zich aan de nuttige vaststellingen te onttrekken (art. 33 Wegverkeerswet). Wie blijft, zijn identiteit opgeeft en meewerkt, pleegt dus geen vluchtmisdrijf — schuld aan het ongeval speelt daarbij geen rol.",
+        "fr": "Commet un délit de fuite celui qui quitte les lieux de l'accident pour échapper aux constatations utiles (art. 33 de la loi). Celui qui reste, décline son identité et coopère ne commet donc pas de délit de fuite — la responsabilité de l'accident n'y change rien.",
+        "en": "Hit-and-run is committed by leaving the scene of the accident to evade the official findings (Art. 33 of the Road Traffic Act). Anyone who stays, gives their identity and cooperates therefore does not commit hit-and-run — fault for the accident is irrelevant to that."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 33", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-033",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op welke afstand vóór uw voertuig plaatst u de gevarendriehoek bij pech?",
+        "fr": "À quelle distance avant votre véhicule placez-vous le triangle de danger en cas de panne ?",
+        "en": "At what distance before your vehicle do you place the warning triangle when broken down?"
+      },
+      "options": [
+        { "nl": "Ongeveer 30 m op gewone wegen en ongeveer 100 m op autosnelwegen", "fr": "Environ 30 m sur route ordinaire et environ 100 m sur autoroute", "en": "About 30 m on ordinary roads and about 100 m on motorways" },
+        { "nl": "Ongeveer 10 m op gewone wegen en ongeveer 30 m op autosnelwegen", "fr": "Environ 10 m sur route ordinaire et environ 30 m sur autoroute", "en": "About 10 m on ordinary roads and about 30 m on motorways" },
+        { "nl": "Altijd vlak achter het voertuig", "fr": "Toujours juste derrière le véhicule", "en": "Always right behind the vehicle" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De gevarendriehoek plaatst u goed zichtbaar voor het aankomende verkeer: op gewone wegen op ongeveer 30 m en op autosnelwegen op ongeveer 100 m vóór het voertuig (art. 51 Wegcode). Zet ook meteen uw waarschuwingsknipperlichten aan.",
+        "fr": "Le triangle de danger se place bien visible pour le trafic qui approche : sur route ordinaire à environ 30 m et sur autoroute à environ 100 m avant le véhicule (art. 51 du code de la route). Allumez aussi immédiatement vos feux de détresse.",
+        "en": "The warning triangle is placed clearly visible to approaching traffic: on ordinary roads about 30 m and on motorways about 100 m before the vehicle (Art. 51). Also switch on your hazard lights immediately."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 51", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-034",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Wanneer moet u een retroreflecterende veiligheidsvest dragen?",
+        "fr": "Quand devez-vous porter un gilet de sécurité rétroréfléchissant ?",
+        "en": "When must you wear a retro-reflective safety vest?"
+      },
+      "options": [
+        { "nl": "Zodra u op een autosnelweg of autoweg uw voertuig verlaat op een plaats waar stilstaan of parkeren verboden is, zoals de pechstrook", "fr": "Dès que, sur autoroute ou route pour automobiles, vous quittez votre véhicule à un endroit où l'arrêt et le stationnement sont interdits, comme la bande d'arrêt d'urgence", "en": "As soon as, on a motorway or motor road, you leave your vehicle at a place where stopping or parking is prohibited, such as the hard shoulder" },
+        { "nl": "Alleen 's nachts, op alle wegen", "fr": "Uniquement la nuit, sur toutes les routes", "en": "Only at night, on all roads" },
+        { "nl": "Nooit verplicht, alleen aangeraden", "fr": "Jamais obligatoire, seulement recommandé", "en": "Never compulsory, only recommended" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Op autosnelwegen en autowegen is de veiligheidsvest verplicht zodra u uw voertuig verlaat op een plaats waar stilstaan of parkeren verboden is, zoals de pechstrook (art. 51 Wegcode). Houd de vest daarom binnen handbereik in de passagiersruimte.",
+        "fr": "Sur autoroute et route pour automobiles, le gilet est obligatoire dès que vous quittez votre véhicule à un endroit où l'arrêt et le stationnement sont interdits, comme la bande d'arrêt d'urgence (art. 51 du code de la route). Gardez-le donc à portée de main dans l'habitacle.",
+        "en": "On motorways and motor roads the vest is compulsory as soon as you leave your vehicle at a place where stopping or parking is prohibited, such as the hard shoulder (Art. 51). Therefore keep the vest within reach in the cabin."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 51", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-035",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Wanneer mag u met een voorlopig rijbewijs B (M36 of M18) niet rijden?",
+        "fr": "Quand ne pouvez-vous pas conduire avec un permis de conduire provisoire B (M36 ou M18) ?",
+        "en": "When may you not drive with a provisional category B licence (M36 or M18)?"
+      },
+      "options": [
+        { "nl": "Van 22 uur tot 6 uur op vrijdag, zaterdag, zondag en de vooravond en de dag van wettelijke feestdagen", "fr": "De 22 heures à 6 heures le vendredi, le samedi, le dimanche ainsi que la veille et le jour des jours fériés légaux", "en": "From 22:00 to 06:00 on Fridays, Saturdays, Sundays and on the eve and day of legal public holidays" },
+        { "nl": "Elke nacht van 22 uur tot 6 uur", "fr": "Chaque nuit de 22 heures à 6 heures", "en": "Every night from 22:00 to 06:00" },
+        { "nl": "Er geldt geen enkele tijdsbeperking", "fr": "Aucune restriction horaire ne s'applique", "en": "No time restriction applies" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Met een voorlopig rijbewijs B mag u niet rijden van 22 uur tot 6 uur 's anderendaags op vrijdag, zaterdag, zondag en op de vooravond en de dag van wettelijke feestdagen. Die beperking geldt zowel voor het model M36 (met begeleider, vanaf 17 jaar) als voor het model M18 (zonder begeleider, vanaf 18 jaar).",
+        "fr": "Avec un permis provisoire B, vous ne pouvez pas conduire de 22 heures à 6 heures le lendemain, le vendredi, le samedi, le dimanche ainsi que la veille et le jour des jours fériés légaux. Cette restriction vaut tant pour le modèle M36 (avec guide, dès 17 ans) que pour le modèle M18 (sans guide, dès 18 ans).",
+        "en": "With a provisional category B licence you may not drive from 22:00 until 06:00 the next morning on Fridays, Saturdays, Sundays and on the eve and day of legal public holidays. This restriction applies both to model M36 (with a guide, from age 17) and to model M18 (without a guide, from age 18)."
+      },
+      "citations": [
+        { "source": "FOD Mobiliteit en Vervoer — Voorlopige rijbewijzen auto (categorie B)", "url": "https://mobilit.belgium.be/nl/node/1096" },
+        { "source": "KB 10/07/2006 betreffende het rijbewijs voor voertuigen van categorie B", "url": "https://www.ejustice.just.fgov.be/eli/besluit/2006/07/10/2006014162/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-036",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Welke gewoonte hoort bij zuinig en milieubewust rijden?",
+        "fr": "Quelle habitude relève de la conduite économique et respectueuse de l'environnement ?",
+        "en": "Which habit is part of economical, environmentally aware driving?"
+      },
+      "options": [
+        { "nl": "Anticiperen, maandelijks de bandenspanning controleren en de motor afzetten bij lang stilstaan", "fr": "Anticiper, vérifier chaque mois la pression des pneus et couper le moteur lors d'arrêts prolongés", "en": "Anticipating, checking tyre pressure monthly and switching the engine off during long stops" },
+        { "nl": "Zo lang mogelijk in een lage versnelling met hoge toeren rijden", "fr": "Rouler le plus longtemps possible sur un petit rapport à haut régime", "en": "Driving as long as possible in a low gear at high revs" },
+        { "nl": "Fel optrekken en laat remmen om tijd te winnen", "fr": "Accélérer fort et freiner tard pour gagner du temps", "en": "Accelerating hard and braking late to save time" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Zuinig rijden betekent anticiperen en een gelijkmatige snelheid aanhouden, vroeg opschakelen, maandelijks de bandenspanning controleren en de motor afzetten bij lang stilstaan. Te zachte banden verhogen het verbruik en verlengen bovendien de remweg.",
+        "fr": "Conduire économiquement signifie anticiper et maintenir une vitesse régulière, passer tôt au rapport supérieur, vérifier chaque mois la pression des pneus et couper le moteur lors d'arrêts prolongés. Des pneus sous-gonflés augmentent la consommation et allongent en outre la distance de freinage.",
+        "en": "Eco-driving means anticipating and keeping a steady speed, shifting up early, checking tyre pressure monthly and switching the engine off during long stops. Under-inflated tyres raise consumption and also lengthen the braking distance."
+      },
+      "citations": [
+        { "source": "VSV — Ik wil een rijbewijs: het theorie-examen rijbewijs B", "url": "https://ikwileenrijbewijs.be/theorie/je-rijbewijs-b/theorie-examen" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1476 @@
+{
+  "category": "signs-prohibition-obligation",
+  "questions": [
+    {
+      "id": "signs-prohibition-obligation-001",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": {
+        "type": "sign",
+        "code": "C1"
+      },
+      "text": {
+        "nl": "U nadert dit verkeersbord aan het begin van een straat. Wat betekent het?",
+        "fr": "Vous approchez de ce signal à l'entrée d'une rue. Que signifie-t-il ?",
+        "en": "You approach this sign at the start of a street. What does it mean?"
+      },
+      "options": [
+        {
+          "nl": "De straat is in beide richtingen verboden voor iedere bestuurder.",
+          "fr": "L'accès à la rue est interdit dans les deux sens à tout conducteur.",
+          "en": "The street is closed to all drivers in both directions."
+        },
+        {
+          "nl": "Verboden richting: u mag de straat langs deze kant niet inrijden.",
+          "fr": "Sens interdit : vous ne pouvez pas vous engager dans la rue de ce côté.",
+          "en": "No entry: you may not enter the street from this side."
+        },
+        {
+          "nl": "Einde van alle plaatselijke verbodsbepalingen.",
+          "fr": "Fin de toutes les interdictions locales.",
+          "en": "End of all local prohibitions."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord C1 betekent 'verboden richting voor iedere bestuurder': inrijden betekent tegen het verkeer in rijden, een zware overtreding. De straat kan langs de andere kant wél toegankelijk zijn; verwar C1 niet met C3, dat de weg in beide richtingen afsluit.",
+        "fr": "Le signal C1 signifie « sens interdit pour tout conducteur » : vous y engager revient à rouler à contresens, une infraction grave. La rue peut rester accessible par l'autre côté ; ne confondez pas C1 avec C3, qui interdit l'accès dans les deux sens.",
+        "en": "Sign C1 means 'no entry for all drivers': entering means driving against the traffic, a serious offence. The street may still be open from the other end; do not confuse C1 with C3, which closes the road in both directions."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C1)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-002",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C3"
+      },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        {
+          "nl": "Verboden toegang, in beide richtingen, voor iedere bestuurder.",
+          "fr": "Accès interdit, dans les deux sens, à tout conducteur.",
+          "en": "Closed to all drivers in both directions."
+        },
+        {
+          "nl": "Verboden richting: enkel het inrijden vanuit uw rijrichting is verboden.",
+          "fr": "Sens interdit : seul l'accès depuis votre sens de circulation est interdit.",
+          "en": "No entry: only entering from your direction is prohibited."
+        },
+        {
+          "nl": "Verboden toegang voor motorvoertuigen; fietsers mogen wel door.",
+          "fr": "Accès interdit aux véhicules à moteur ; les cyclistes peuvent passer.",
+          "en": "No access for motor vehicles; cyclists may pass."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord C3 sluit de weg in beide richtingen af voor iedere bestuurder, dus ook voor fietsers. Alleen een onderbord (bijvoorbeeld 'uitgezonderd fietsers') kan een uitzondering toestaan.",
+        "fr": "Le signal C3 ferme la voie dans les deux sens à tout conducteur, donc aussi aux cyclistes. Seul un panneau additionnel (par exemple « excepté cyclistes ») peut créer une exception.",
+        "en": "Sign C3 closes the road in both directions to every driver, including cyclists. Only a supplementary panel (for example 'except cyclists') can create an exception."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C3)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-003",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "signs",
+        "codes": [
+          "C1",
+          "C3"
+        ]
+      },
+      "text": {
+        "nl": "Wat is het verschil tussen deze twee verkeersborden?",
+        "fr": "Quelle est la différence entre ces deux signaux ?",
+        "en": "What is the difference between these two signs?"
+      },
+      "options": [
+        {
+          "nl": "Ze betekenen hetzelfde: de weg is volledig afgesloten.",
+          "fr": "Ils signifient la même chose : la voie est entièrement fermée.",
+          "en": "They mean the same thing: the road is completely closed."
+        },
+        {
+          "nl": "C1 geldt voor alle bestuurders, C3 enkel voor motorvoertuigen.",
+          "fr": "C1 s'applique à tous les conducteurs, C3 uniquement aux véhicules à moteur.",
+          "en": "C1 applies to all drivers, C3 only to motor vehicles."
+        },
+        {
+          "nl": "C1 verbiedt het inrijden enkel langs uw kant; C3 verbiedt de toegang in beide richtingen.",
+          "fr": "C1 interdit l'accès uniquement de votre côté ; C3 interdit l'accès dans les deux sens.",
+          "en": "C1 prohibits entry only from your side; C3 closes the road in both directions."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "C1 ('verboden richting') staat meestal aan het einde van een eenrichtingsstraat: u mag er niet in, maar verkeer uit de andere richting wel. C3 sluit de weg voor iedere bestuurder in beide richtingen af.",
+        "fr": "C1 (« sens interdit ») se trouve généralement à la sortie d'une rue à sens unique : vous ne pouvez pas y entrer, mais la circulation venant de l'autre sens est autorisée. C3 ferme la voie à tout conducteur dans les deux sens.",
+        "en": "C1 ('no entry') usually stands at the exit end of a one-way street: you may not enter, but traffic from the other direction may. C3 closes the road to every driver in both directions."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersborden C1 en C3)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-004",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C1"
+      },
+      "text": {
+        "nl": "Aan het begin van een straat staat dit verkeersbord, zonder onderbord. Mag u er als fietser inrijden?",
+        "fr": "Ce signal est placé à l'entrée d'une rue, sans panneau additionnel. Pouvez-vous y entrer à vélo ?",
+        "en": "This sign stands at the start of a street, without a supplementary panel. May you enter as a cyclist?"
+      },
+      "options": [
+        {
+          "nl": "Nee: het verbod geldt voor iedere bestuurder, dus ook voor fietsers.",
+          "fr": "Non : l'interdiction s'applique à tout conducteur, donc aussi aux cyclistes.",
+          "en": "No: the prohibition applies to every driver, including cyclists."
+        },
+        {
+          "nl": "Ja: fietsers mogen een verboden richting altijd inrijden.",
+          "fr": "Oui : les cyclistes peuvent toujours emprunter un sens interdit.",
+          "en": "Yes: cyclists may always enter a no-entry street."
+        },
+        {
+          "nl": "Ja, op voorwaarde dat u uiterst rechts rijdt.",
+          "fr": "Oui, à condition de rouler le plus à droite possible.",
+          "en": "Yes, provided you keep as far right as possible."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een fietser is een bestuurder, en C1 geldt voor iedere bestuurder. Alleen wanneer een onderbord fietsers uitdrukkelijk uitzondert (beperkt eenrichtingsverkeer), mag u de straat toch inrijden.",
+        "fr": "Un cycliste est un conducteur, et le signal C1 s'applique à tout conducteur. Ce n'est que lorsqu'un panneau additionnel excepte expressément les cyclistes (sens unique limité) que vous pouvez malgré tout entrer dans la rue.",
+        "en": "A cyclist is a driver, and C1 applies to every driver. Only when a supplementary panel expressly exempts cyclists (a limited one-way street) may you still enter."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C1)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 2.13 (bestuurder)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-005",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C5"
+      },
+      "text": {
+        "nl": "U rijdt met een personenauto en nadert dit verkeersbord. Mag u voorbijrijden?",
+        "fr": "Vous conduisez une voiture et approchez de ce signal. Pouvez-vous passer ?",
+        "en": "You are driving a car and approach this sign. May you continue past it?"
+      },
+      "options": [
+        {
+          "nl": "Ja: het bord geldt enkel voor vrachtauto's.",
+          "fr": "Oui : le signal ne vise que les camions.",
+          "en": "Yes: the sign only applies to lorries."
+        },
+        {
+          "nl": "Nee: de toegang is verboden voor bestuurders van motorvoertuigen met meer dan twee wielen.",
+          "fr": "Non : l'accès est interdit aux conducteurs de véhicules à moteur à plus de deux roues.",
+          "en": "No: access is prohibited for drivers of motor vehicles with more than two wheels."
+        },
+        {
+          "nl": "Ja: het bord verbiedt alleen de toegang voor motorfietsen.",
+          "fr": "Oui : le signal n'interdit l'accès qu'aux motocyclettes.",
+          "en": "Yes: the sign only prohibits access for motorcycles."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord C5 verbiedt de toegang voor bestuurders van motorvoertuigen met meer dan twee wielen en van motorfietsen met zijspan. Een personenauto valt daaronder; een motorfiets zonder zijspan niet.",
+        "fr": "Le signal C5 interdit l'accès aux conducteurs de véhicules à moteur à plus de deux roues et de motocyclettes avec side-car. Une voiture en fait partie ; une motocyclette sans side-car non.",
+        "en": "Sign C5 prohibits access for drivers of motor vehicles with more than two wheels and of motorcycles with sidecar. A car falls under it; a solo motorcycle does not."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C5)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-006",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C7"
+      },
+      "text": {
+        "nl": "Voor welke bestuurders is de toegang verboden bij dit verkeersbord?",
+        "fr": "À quels conducteurs ce signal interdit-il l'accès ?",
+        "en": "Which drivers are denied access by this sign?"
+      },
+      "options": [
+        {
+          "nl": "Bestuurders van motorfietsen.",
+          "fr": "Les conducteurs de motocyclettes.",
+          "en": "Drivers of motorcycles."
+        },
+        {
+          "nl": "Bestuurders van bromfietsen.",
+          "fr": "Les conducteurs de cyclomoteurs.",
+          "en": "Drivers of mopeds."
+        },
+        {
+          "nl": "Alle bestuurders van motorvoertuigen.",
+          "fr": "Tous les conducteurs de véhicules à moteur.",
+          "en": "All drivers of motor vehicles."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord C7 verbiedt enkel de toegang voor bestuurders van motorfietsen. Voor bromfietsen bestaat het aparte bord C9, en voor auto's het bord C5.",
+        "fr": "Le signal C7 n'interdit l'accès qu'aux conducteurs de motocyclettes. Pour les cyclomoteurs, il existe le signal distinct C9, et pour les voitures le signal C5.",
+        "en": "Sign C7 only prohibits access for drivers of motorcycles. Mopeds have their own sign C9, and cars sign C5."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C7)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-007",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C9"
+      },
+      "text": {
+        "nl": "U rijdt met de fiets en komt bij dit verkeersbord. Mag u verder rijden?",
+        "fr": "Vous roulez à vélo et arrivez à hauteur de ce signal. Pouvez-vous continuer ?",
+        "en": "You are riding a bicycle and reach this sign. May you continue?"
+      },
+      "options": [
+        {
+          "nl": "Nee: het verbod geldt ook voor fietsers.",
+          "fr": "Non : l'interdiction s'applique aussi aux cyclistes.",
+          "en": "No: the prohibition also applies to cyclists."
+        },
+        {
+          "nl": "Ja, maar enkel als een onderbord fietsers toelaat.",
+          "fr": "Oui, mais uniquement si un panneau additionnel autorise les cyclistes.",
+          "en": "Yes, but only if a supplementary panel admits cyclists."
+        },
+        {
+          "nl": "Ja: het bord verbiedt enkel de toegang voor bestuurders van bromfietsen.",
+          "fr": "Oui : le signal n'interdit l'accès qu'aux conducteurs de cyclomoteurs.",
+          "en": "Yes: the sign only prohibits access for moped riders."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Het bord C9 richt zich uitsluitend tot bestuurders van bromfietsen. Voor rijwielen (fietsen) bestaat het aparte verbodsbord C11; zonder dat bord mag u als fietser gewoon verder.",
+        "fr": "Le signal C9 ne vise que les conducteurs de cyclomoteurs. Pour les cycles (vélos), il existe le signal d'interdiction distinct C11 ; en son absence, vous pouvez continuer à vélo.",
+        "en": "Sign C9 addresses moped riders only. Cycles (bicycles) have their own prohibitory sign C11; without that sign, you may simply ride on."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C9)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-008",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C11"
+      },
+      "text": {
+        "nl": "Bij dit verkeersbord stapt u van uw fiets en gaat u te voet verder, met de fiets aan de hand. Mag dat?",
+        "fr": "À hauteur de ce signal, vous descendez de votre vélo et continuez à pied, en le tenant à la main. Est-ce permis ?",
+        "en": "At this sign you get off your bicycle and continue on foot, pushing it by hand. Is that allowed?"
+      },
+      "options": [
+        {
+          "nl": "Nee: het verbod geldt ook voor wie zijn fiets duwt.",
+          "fr": "Non : l'interdiction s'applique aussi à celui qui pousse son vélo.",
+          "en": "No: the prohibition also applies to someone pushing a bicycle."
+        },
+        {
+          "nl": "Ja: wie zijn fiets aan de hand leidt, is een voetganger en valt niet onder dit verbod.",
+          "fr": "Oui : celui qui conduit son vélo à la main est un piéton et n'est pas visé par cette interdiction.",
+          "en": "Yes: someone pushing a bicycle by hand is a pedestrian and is not covered by this prohibition."
+        },
+        {
+          "nl": "Alleen als er een trottoir aanwezig is.",
+          "fr": "Uniquement s'il y a un trottoir.",
+          "en": "Only if there is a sidewalk."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord C11 verbiedt de toegang voor bestuurders van rijwielen. Wie zijn fiets aan de hand leidt, is volgens de wegcode een voetganger en geen bestuurder, en mag dus wel verder — tenzij ook voetgangers verboden zijn (bord C19).",
+        "fr": "Le signal C11 interdit l'accès aux conducteurs de cycles. Celui qui conduit son vélo à la main est, selon le code de la route, un piéton et non un conducteur : il peut donc continuer, sauf si les piétons sont également interdits (signal C19).",
+        "en": "Sign C11 prohibits access for drivers of cycles. Under the traffic code, someone pushing a bicycle by hand is a pedestrian, not a driver, and may therefore continue — unless pedestrians are also banned (sign C19)."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C11)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 2.46 (voetganger)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-009",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C19"
+      },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        {
+          "nl": "Verboden toegang voor voetgangers.",
+          "fr": "Accès interdit aux piétons.",
+          "en": "No access for pedestrians."
+        },
+        {
+          "nl": "Oversteekplaats voor voetgangers.",
+          "fr": "Passage pour piétons.",
+          "en": "Pedestrian crossing."
+        },
+        {
+          "nl": "Verplichte weg voor voetgangers.",
+          "fr": "Chemin obligatoire pour les piétons.",
+          "en": "Compulsory path for pedestrians."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een rode rand op een witte, ronde achtergrond duidt een verbodsbord aan: C19 verbiedt de toegang voor voetgangers. Het ronde blauwe bord D11 legt daarentegen een verplichte weg voor voetgangers op.",
+        "fr": "Un cercle rouge sur fond blanc indique un signal d'interdiction : C19 interdit l'accès aux piétons. Le signal rond bleu D11, lui, impose un chemin obligatoire pour les piétons.",
+        "en": "A red ring on a round white background marks a prohibitory sign: C19 prohibits access for pedestrians. The round blue sign D11, by contrast, imposes a compulsory path for pedestrians."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C19)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-010",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C21"
+      },
+      "text": {
+        "nl": "U nadert het verkeersbord C21. Uw beladen vrachtauto weegt op dit moment mínder dan de op het bord aangeduide massa, maar de maximale toegelaten massa van het voertuig ligt er bóven. Mag u voorbijrijden?",
+        "fr": "Vous approchez du signal C21. Votre camion chargé pèse en ce moment moins que la masse indiquée sur le signal, mais la masse maximale autorisée du véhicule y est supérieure. Pouvez-vous passer ?",
+        "en": "You approach sign C21. Your loaded lorry currently weighs less than the mass shown on the sign, but the vehicle's maximum authorised mass is above it. May you pass?"
+      },
+      "options": [
+        {
+          "nl": "Nee: de maximale toegelaten massa van het voertuig is bepalend.",
+          "fr": "Non : c'est la masse maximale autorisée du véhicule qui compte.",
+          "en": "No: the vehicle's maximum authorised mass is decisive."
+        },
+        {
+          "nl": "Nee: vrachtauto's mogen een bord C21 nooit voorbijrijden.",
+          "fr": "Non : les camions ne peuvent jamais franchir un signal C21.",
+          "en": "No: lorries may never pass a C21 sign."
+        },
+        {
+          "nl": "Ja: het bord geldt voor de werkelijke massa in beladen toestand, niet voor de maximale toegelaten massa.",
+          "fr": "Oui : le signal vise la masse réelle en charge, pas la masse maximale autorisée.",
+          "en": "Yes: the sign refers to the actual laden mass, not the maximum authorised mass."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "C21 verbiedt de toegang voor voertuigen 'waarvan de massa in beladen toestand hoger is dan de aangeduide massa'. Het gaat dus om het werkelijke gewicht van voertuig plus lading op dat moment, niet om de maximale toegelaten massa op het inschrijvingsbewijs.",
+        "fr": "Le signal C21 interdit l'accès aux véhicules « dont la masse en charge dépasse la masse indiquée ». C'est donc le poids réel du véhicule et de son chargement à ce moment-là qui compte, et non la masse maximale autorisée figurant sur le certificat d'immatriculation.",
+        "en": "C21 prohibits access for vehicles 'whose laden mass exceeds the indicated mass'. What counts is the actual weight of the vehicle plus its load at that moment, not the maximum authorised mass on the registration certificate."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C21)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-011",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C29"
+      },
+      "text": {
+        "nl": "Het verkeersbord duidt 3,50 m aan. Uw bestelwagen is 2,60 m hoog, maar met de lading op het dak bedraagt de totale hoogte 3,60 m. Mag u voorbijrijden?",
+        "fr": "Le signal indique 3,50 m. Votre camionnette mesure 2,60 m de haut, mais avec le chargement sur le toit, la hauteur totale atteint 3,60 m. Pouvez-vous passer ?",
+        "en": "The sign shows 3.50 m. Your van is 2.60 m tall, but with the load on the roof the total height is 3.60 m. May you pass?"
+      },
+      "options": [
+        {
+          "nl": "Nee: de hoogte wordt gemeten met inbegrip van de lading.",
+          "fr": "Non : la hauteur se mesure chargement compris.",
+          "en": "No: the height is measured including the load."
+        },
+        {
+          "nl": "Ja: alleen de hoogte van het voertuig zelf telt.",
+          "fr": "Oui : seule la hauteur du véhicule lui-même compte.",
+          "en": "Yes: only the height of the vehicle itself counts."
+        },
+        {
+          "nl": "Ja, op voorwaarde dat u stapvoets rijdt.",
+          "fr": "Oui, à condition de rouler au pas.",
+          "en": "Yes, provided you drive at walking pace."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord C29 verbiedt de toegang voor voertuigen waarvan de hoogte, lading inbegrepen, groter is dan de aangeduide hoogte. Met 3,60 m in totaal overschrijdt u de 3,50 m en mag u niet voorbijrijden.",
+        "fr": "Le signal C29 interdit l'accès aux véhicules ayant, chargement compris, une hauteur supérieure à celle indiquée. Avec 3,60 m au total, vous dépassez les 3,50 m et ne pouvez pas passer.",
+        "en": "Sign C29 prohibits access for vehicles whose height, load included, exceeds the indicated height. At 3.60 m in total you exceed the 3.50 m limit and may not pass."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C29)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-012",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C23"
+      },
+      "text": {
+        "nl": "U rijdt met uw personenauto en nadert dit verkeersbord. Mag u voorbijrijden?",
+        "fr": "Vous conduisez votre voiture et approchez de ce signal. Pouvez-vous passer ?",
+        "en": "You are driving your car and approach this sign. May you pass?"
+      },
+      "options": [
+        {
+          "nl": "Nee: het verbod geldt voor alle motorvoertuigen.",
+          "fr": "Non : l'interdiction s'applique à tous les véhicules à moteur.",
+          "en": "No: the prohibition applies to all motor vehicles."
+        },
+        {
+          "nl": "Ja: het verbod geldt enkel voor voertuigen gebruikt voor het vervoer van zaken (goederen).",
+          "fr": "Oui : l'interdiction ne vise que les véhicules utilisés pour le transport de choses (marchandises).",
+          "en": "Yes: the prohibition only covers vehicles used for the transport of goods."
+        },
+        {
+          "nl": "Nee, tenzij een onderbord personenauto's toelaat.",
+          "fr": "Non, sauf si un panneau additionnel autorise les voitures.",
+          "en": "No, unless a supplementary panel admits cars."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord C23 verbiedt de toegang voor bestuurders van voertuigen gebruikt voor het vervoer van zaken. Een personenauto valt daar niet onder; een onderbord kan het verbod wel beperken tot voertuigen boven een bepaalde massa.",
+        "fr": "Le signal C23 interdit l'accès aux conducteurs de véhicules utilisés pour le transport de choses. Une voiture n'en fait pas partie ; un panneau additionnel peut limiter l'interdiction aux véhicules dépassant une certaine masse.",
+        "en": "Sign C23 prohibits access for drivers of vehicles used for the transport of goods. A car is not covered; a supplementary panel may limit the ban to vehicles above a certain mass."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C23)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-013",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C31a"
+      },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        {
+          "nl": "Verbod om aan het volgende kruispunt links af te slaan.",
+          "fr": "Interdiction de tourner à gauche au prochain carrefour.",
+          "en": "No left turn at the next intersection."
+        },
+        {
+          "nl": "Verbod om te keren, vanaf het bord tot en met het volgende kruispunt.",
+          "fr": "Interdiction de faire demi-tour, du signal jusqu'au prochain carrefour inclus.",
+          "en": "No U-turn from the sign up to and including the next intersection."
+        },
+        {
+          "nl": "Verplichting om aan het volgende kruispunt links af te slaan.",
+          "fr": "Obligation de tourner à gauche au prochain carrefour.",
+          "en": "Mandatory left turn at the next intersection."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord C31a verbiedt het afslaan naar links, en dat enkel aan het eerstvolgende kruispunt. Het keerverbod is een ander bord (C33) en een gebod om links af te slaan zou een blauw bord D1 zijn.",
+        "fr": "Le signal C31a interdit de tourner à gauche, et uniquement au prochain carrefour. L'interdiction de faire demi-tour est un autre signal (C33), et l'obligation de tourner à gauche serait un signal bleu D1.",
+        "en": "Sign C31a prohibits turning left, and only at the very next intersection. The U-turn ban is a different sign (C33), and an obligation to turn left would be a blue D1 sign."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C31)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-014",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C31b"
+      },
+      "text": {
+        "nl": "Vóór een kruispunt staat dit verkeersbord. U rijdt op dat kruispunt rechtdoor. Mag u aan het dááropvolgende kruispunt rechts afslaan?",
+        "fr": "Ce signal est placé avant un carrefour. Vous traversez ce carrefour tout droit. Pouvez-vous tourner à droite au carrefour suivant ?",
+        "en": "This sign stands before an intersection. You drive straight across that intersection. May you turn right at the intersection after it?"
+      },
+      "options": [
+        {
+          "nl": "Nee: het verbod blijft gelden tot een eindbord het opheft.",
+          "fr": "Non : l'interdiction reste valable jusqu'à un signal de fin.",
+          "en": "No: the prohibition remains in force until an end sign lifts it."
+        },
+        {
+          "nl": "Nee: het verbod geldt tot het einde van de bebouwde kom.",
+          "fr": "Non : l'interdiction vaut jusqu'à la fin de l'agglomération.",
+          "en": "No: the prohibition applies until the end of the built-up area."
+        },
+        {
+          "nl": "Ja: het verbod geldt enkel voor het eerstvolgende kruispunt.",
+          "fr": "Oui : l'interdiction ne vaut que pour le prochain carrefour.",
+          "en": "Yes: the prohibition applies only to the next intersection."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "C31b verbiedt het rechts afslaan alleen aan het eerstvolgende kruispunt. Eens dat kruispunt voorbij, is het verbod uitgewerkt; aan het volgende kruispunt mag u dus gewoon rechts afslaan.",
+        "fr": "Le signal C31b n'interdit de tourner à droite qu'au prochain carrefour. Une fois ce carrefour franchi, l'interdiction a cessé de produire ses effets ; au carrefour suivant, vous pouvez donc tourner à droite.",
+        "en": "C31b prohibits turning right only at the very next intersection. Once that intersection has been crossed, the ban is spent; at the following intersection you may turn right as normal."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C31)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-015",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C33"
+      },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        {
+          "nl": "Verbod om aan het volgende kruispunt links af te slaan.",
+          "fr": "Interdiction de tourner à gauche au prochain carrefour.",
+          "en": "No left turn at the next intersection."
+        },
+        {
+          "nl": "Verbod om te keren, vanaf het bord tot en met het volgende kruispunt.",
+          "fr": "Interdiction de faire demi-tour, à partir du signal jusqu'au prochain carrefour inclus.",
+          "en": "No U-turn, from the sign up to and including the next intersection."
+        },
+        {
+          "nl": "Verbod om in te halen tot het volgende kruispunt.",
+          "fr": "Interdiction de dépasser jusqu'au prochain carrefour.",
+          "en": "No overtaking until the next intersection."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord C33 verbiedt het keren (het maken van een halve draai) vanaf het bord tot en met het volgende kruispunt. Links afslaan blijft toegelaten, tenzij een bord C31a dat verbiedt.",
+        "fr": "Le signal C33 interdit de faire demi-tour à partir du signal jusqu'au prochain carrefour inclus. Tourner à gauche reste permis, sauf si un signal C31a l'interdit.",
+        "en": "Sign C33 prohibits making a U-turn from the sign up to and including the next intersection. Turning left remains allowed unless a C31a sign forbids it."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C33)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-016",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C33"
+      },
+      "text": {
+        "nl": "U bent dit verkeersbord voorbijgereden en hebt daarna een kruispunt overgestoken. Mag u nu keren?",
+        "fr": "Vous avez dépassé ce signal, puis traversé un carrefour. Pouvez-vous maintenant faire demi-tour ?",
+        "en": "You have passed this sign and then crossed an intersection. May you now make a U-turn?"
+      },
+      "options": [
+        {
+          "nl": "Ja: het verbod gold slechts tot en met dat kruispunt.",
+          "fr": "Oui : l'interdiction ne valait que jusqu'à ce carrefour inclus.",
+          "en": "Yes: the prohibition only applied up to and including that intersection."
+        },
+        {
+          "nl": "Nee: het verbod geldt tot een eindbord het opheft.",
+          "fr": "Non : l'interdiction vaut jusqu'à ce qu'un signal de fin la lève.",
+          "en": "No: the prohibition applies until an end sign lifts it."
+        },
+        {
+          "nl": "Nee: het verbod geldt tot het einde van de bebouwde kom.",
+          "fr": "Non : l'interdiction vaut jusqu'à la fin de l'agglomération.",
+          "en": "No: the prohibition applies until the end of the built-up area."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het keerverbod van C33 geldt vanaf het bord tot en met het volgende kruispunt. Voorbij dat kruispunt is het verbod uitgewerkt; keren blijft wel een maneuver waarbij u alle andere weggebruikers voorrang moet verlenen.",
+        "fr": "L'interdiction de demi-tour du signal C33 vaut à partir du signal jusqu'au prochain carrefour inclus. Au-delà de ce carrefour, l'interdiction a pris fin ; le demi-tour reste toutefois une manœuvre pour laquelle vous devez céder le passage à tous les autres usagers.",
+        "en": "The C33 U-turn ban runs from the sign up to and including the next intersection. Beyond that intersection the ban has ended; a U-turn remains a manoeuvre, though, for which you must give way to all other road users."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C33)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 12.4 (maneuver)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-017",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": {
+        "type": "sign",
+        "code": "C35"
+      },
+      "text": {
+        "nl": "Voorbij dit verkeersbord wilt u een fietser inhalen, met voldoende zijdelingse afstand. Is dat toegelaten?",
+        "fr": "Au-delà de ce signal, vous voulez dépasser un cycliste en gardant une distance latérale suffisante. Est-ce permis ?",
+        "en": "Past this sign you want to overtake a cyclist, leaving enough lateral distance. Is that allowed?"
+      },
+      "options": [
+        {
+          "nl": "Nee: voorbij dit bord mag u geen enkel voertuig inhalen.",
+          "fr": "Non : au-delà de ce signal, vous ne pouvez dépasser aucun véhicule.",
+          "en": "No: past this sign you may not overtake any vehicle."
+        },
+        {
+          "nl": "Nee, tenzij de fietser op een fietspad rijdt.",
+          "fr": "Non, sauf si le cycliste circule sur une piste cyclable.",
+          "en": "No, unless the cyclist is riding on a cycle path."
+        },
+        {
+          "nl": "Ja: het verbod geldt enkel voor het links inhalen van gespannen en voertuigen met meer dan twee wielen.",
+          "fr": "Oui : l'interdiction ne vise que le dépassement par la gauche des véhicules attelés et des véhicules à plus de deux roues.",
+          "en": "Yes: the ban only covers overtaking on the left of horse-drawn vehicles and vehicles with more than two wheels."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Het bord C35 verbiedt het links inhalen van een gespan of een voertuig met méér dan twee wielen. Tweewielers zoals fietsers mag u dus nog inhalen, mits voldoende zijdelingse afstand (1 m binnen, 1,5 m buiten de bebouwde kom).",
+        "fr": "Le signal C35 interdit de dépasser par la gauche un véhicule attelé ou un véhicule à plus de deux roues. Vous pouvez donc encore dépasser les deux-roues comme les cyclistes, en gardant une distance latérale suffisante (1 m en agglomération, 1,5 m en dehors).",
+        "en": "Sign C35 prohibits overtaking on the left of horse-drawn vehicles or vehicles with more than two wheels. You may therefore still overtake two-wheelers such as cyclists, keeping sufficient lateral distance (1 m inside, 1.5 m outside built-up areas)."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C35)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 40ter (zijdelingse afstand fietsers)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-018",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": {
+        "type": "sign",
+        "code": "C35"
+      },
+      "text": {
+        "nl": "Hoe ver geldt het inhaalverbod dat dit verkeersbord oplegt?",
+        "fr": "Jusqu'où s'applique l'interdiction de dépasser imposée par ce signal ?",
+        "en": "How far does the overtaking ban imposed by this sign apply?"
+      },
+      "options": [
+        {
+          "nl": "Vanaf het bord tot en met het volgende kruispunt.",
+          "fr": "À partir du signal jusqu'au prochain carrefour inclus.",
+          "en": "From the sign up to and including the next intersection."
+        },
+        {
+          "nl": "Tot het bord C37, ook al passeert u meerdere kruispunten zonder herhaling van het bord.",
+          "fr": "Jusqu'au signal C37, même si vous franchissez plusieurs carrefours sans répétition du signal.",
+          "en": "Until sign C37, even if you pass several intersections without the sign being repeated."
+        },
+        {
+          "nl": "Over een vaste afstand van 500 meter.",
+          "fr": "Sur une distance fixe de 500 mètres.",
+          "en": "Over a fixed distance of 500 metres."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het verbod van C35 geldt vanaf het bord tot en met het volgende kruispunt. Moet het verder gelden, dan wordt het bord na het kruispunt herhaald; het bord C37 (of C46) kan het verbod eerder beëindigen.",
+        "fr": "L'interdiction du signal C35 vaut à partir du signal jusqu'au prochain carrefour inclus. Si elle doit se prolonger, le signal est répété après le carrefour ; le signal C37 (ou C46) peut y mettre fin plus tôt.",
+        "en": "The C35 ban applies from the sign up to and including the next intersection. If it must continue, the sign is repeated after the intersection; sign C37 (or C46) can end the ban earlier."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C35)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-019",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C37"
+      },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        {
+          "nl": "Begin van een inhaalverbod.",
+          "fr": "Début d'une interdiction de dépasser.",
+          "en": "Start of an overtaking ban."
+        },
+        {
+          "nl": "Einde van het inhaalverbod dat door het bord C35 werd opgelegd.",
+          "fr": "Fin de l'interdiction de dépasser imposée par le signal C35.",
+          "en": "End of the overtaking ban imposed by sign C35."
+        },
+        {
+          "nl": "Einde van alle plaatselijke verbodsbepalingen.",
+          "fr": "Fin de toutes les interdictions locales.",
+          "en": "End of all local prohibitions."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Grijze eindborden met schuine streep heffen een eerder verbod op: C37 beëindigt enkel het inhaalverbod van C35. Het einde van álle plaatselijke verbodsbepalingen wordt aangeduid met het bord C46.",
+        "fr": "Les signaux de fin, grisés et barrés, lèvent une interdiction antérieure : C37 met fin uniquement à l'interdiction de dépasser du signal C35. La fin de toutes les interdictions locales est indiquée par le signal C46.",
+        "en": "Grey end signs with a diagonal bar lift an earlier prohibition: C37 ends only the C35 overtaking ban. The end of all local prohibitions is indicated by sign C46."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C37)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-020",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": {
+        "type": "sign",
+        "code": "C43-50"
+      },
+      "text": {
+        "nl": "Wat legt dit verkeersbord u op?",
+        "fr": "Que vous impose ce signal ?",
+        "en": "What does this sign require of you?"
+      },
+      "options": [
+        {
+          "nl": "Verbod om sneller te rijden dan 50 km per uur, vanaf het bord.",
+          "fr": "Interdiction de circuler à une vitesse supérieure à 50 km à l'heure, à partir du signal.",
+          "en": "You may not drive faster than 50 km/h from the sign onwards."
+        },
+        {
+          "nl": "Verplichting om minstens 50 km per uur te rijden.",
+          "fr": "Obligation de rouler à au moins 50 km à l'heure.",
+          "en": "You must drive at least 50 km/h."
+        },
+        {
+          "nl": "Aanbevolen snelheid van 50 km per uur.",
+          "fr": "Vitesse conseillée de 50 km à l'heure.",
+          "en": "A recommended speed of 50 km/h."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "C43 is een verbodsbord: het verbiedt te rijden met een grotere snelheid dan de aangeduide snelheid. Sneller rijden is een snelheidsovertreding, die zwaar bestraft wordt naargelang de overschrijding.",
+        "fr": "C43 est un signal d'interdiction : il interdit de circuler à une vitesse supérieure à celle indiquée. Rouler plus vite constitue un excès de vitesse, sévèrement sanctionné selon le dépassement.",
+        "en": "C43 is a prohibitory sign: it forbids driving faster than the indicated speed. Exceeding it is a speeding offence, punished heavily according to how far you exceed the limit."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C43)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-021",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": {
+        "type": "sign",
+        "code": "C43-50"
+      },
+      "text": {
+        "nl": "Tot waar geldt de snelheidsbeperking van dit verkeersbord?",
+        "fr": "Jusqu'où s'applique la limitation de vitesse de ce signal ?",
+        "en": "How far does the speed limit of this sign apply?"
+      },
+      "options": [
+        {
+          "nl": "Altijd tot het bord C45; kruispunten hebben geen invloed.",
+          "fr": "Toujours jusqu'au signal C45 ; les carrefours n'ont aucune influence.",
+          "en": "Always until sign C45; intersections have no effect."
+        },
+        {
+          "nl": "Slechts 100 meter voorbij het bord.",
+          "fr": "Seulement 100 mètres au-delà du signal.",
+          "en": "Only 100 metres past the sign."
+        },
+        {
+          "nl": "Tot en met het volgende kruispunt, tot een ander bord C43, of tot het bord dat het begin of einde van een bebouwde kom aanduidt.",
+          "fr": "Jusqu'au prochain carrefour inclus, jusqu'à un autre signal C43, ou jusqu'au signal indiquant le début ou la fin d'une agglomération.",
+          "en": "Up to and including the next intersection, until another C43 sign, or until the sign marking the beginning or end of a built-up area."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Een gewoon (niet-zonaal) bord C43 geldt tot en met het volgende kruispunt, tot een ander bord C43, of tot het bord dat het begin of het einde van een bebouwde kom aanduidt. Het bord C45 kan de beperking ook vroeger opheffen.",
+        "fr": "Un signal C43 ordinaire (non zonal) vaut jusqu'au prochain carrefour inclus, jusqu'à un autre signal C43, ou jusqu'au signal indiquant le début ou la fin d'une agglomération. Le signal C45 peut aussi lever la limitation plus tôt.",
+        "en": "An ordinary (non-zonal) C43 sign applies up to and including the next intersection, until another C43 sign, or until the sign marking the beginning or end of a built-up area. Sign C45 can also lift the limit earlier."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C43)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-022",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": {
+        "type": "sign",
+        "code": "C43-30"
+      },
+      "text": {
+        "nl": "In een straat staat dit verkeersbord (géén zonebord). U steekt een kruispunt over en het bord wordt niet herhaald. Geldt de beperking van 30 km per uur daarna nog?",
+        "fr": "Ce signal (qui n'est pas un signal à validité zonale) est placé dans une rue. Vous traversez un carrefour et le signal n'est pas répété. La limitation à 30 km à l'heure vaut-elle encore ensuite ?",
+        "en": "This sign (not a zonal sign) stands in a street. You cross an intersection and the sign is not repeated. Does the 30 km/h limit still apply afterwards?"
+      },
+      "options": [
+        {
+          "nl": "Ja: de beperking blijft gelden tot een bord C45.",
+          "fr": "Oui : la limitation reste valable jusqu'à un signal C45.",
+          "en": "Yes: the limit remains in force until a C45 sign."
+        },
+        {
+          "nl": "Nee: het verbod eindigt aan het kruispunt; daarna geldt opnieuw de algemene snelheidsregel.",
+          "fr": "Non : l'interdiction prend fin au carrefour ; ensuite, la règle générale de vitesse s'applique à nouveau.",
+          "en": "No: the prohibition ends at the intersection; after that the general speed rule applies again."
+        },
+        {
+          "nl": "Ja: de beperking geldt tot het einde van de bebouwde kom.",
+          "fr": "Oui : la limitation vaut jusqu'à la fin de l'agglomération.",
+          "en": "Yes: the limit applies until the end of the built-up area."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Een gewoon bord C43 geldt maar tot en met het volgende kruispunt; wordt het daarna niet herhaald, dan vervalt de beperking en geldt de algemene regel. Let op: bij een zone 30 (zonaal bord) blijft de beperking wél gelden tot het eindezonebord.",
+        "fr": "Un signal C43 ordinaire ne vaut que jusqu'au prochain carrefour inclus ; s'il n'est pas répété ensuite, la limitation cesse et la règle générale s'applique. Attention : dans une zone 30 (signal zonal), la limitation reste valable jusqu'au signal de fin de zone.",
+        "en": "An ordinary C43 sign applies only up to and including the next intersection; if it is not repeated after it, the limit lapses and the general rule applies. Note: in a 30 km/h zone (zonal sign), the limit does remain in force until the end-of-zone sign."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C43)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 65.5 (zonale geldigheid)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-023",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": {
+        "type": "sign",
+        "code": "C45"
+      },
+      "text": {
+        "nl": "U rijdt dit verkeersbord voorbij. Wat geldt er daarna?",
+        "fr": "Vous dépassez ce signal. Que s'applique-t-il ensuite ?",
+        "en": "You pass this sign. What applies afterwards?"
+      },
+      "options": [
+        {
+          "nl": "De algemene snelheidsregel voor dat soort weg geldt opnieuw.",
+          "fr": "La règle générale de vitesse pour ce type de voie s'applique à nouveau.",
+          "en": "The general speed rule for that type of road applies again."
+        },
+        {
+          "nl": "Er geldt geen enkele snelheidsbeperking meer.",
+          "fr": "Plus aucune limitation de vitesse ne s'applique.",
+          "en": "No speed limit applies at all any more."
+        },
+        {
+          "nl": "De vorige beperking blijft gelden tot het volgende kruispunt.",
+          "fr": "La limitation précédente reste valable jusqu'au prochain carrefour.",
+          "en": "The previous limit remains in force until the next intersection."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord C45 heft enkel de snelheidsbeperking van het bord C43 op. De wettelijke algemene snelheidsregels — bijvoorbeeld 50 km per uur binnen de bebouwde kom — blijven onverminderd gelden.",
+        "fr": "Le signal C45 ne lève que la limitation de vitesse imposée par le signal C43. Les règles générales de vitesse prévues par la loi — par exemple 50 km à l'heure en agglomération — restent pleinement applicables.",
+        "en": "Sign C45 only lifts the speed limit imposed by sign C43. The statutory general speed rules — for example 50 km/h in a built-up area — remain fully in force."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C45)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11 (snelheidsregels)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-024",
+      "difficulty": 3,
+      "severity": "severe",
+      "regions": [
+        "FL"
+      ],
+      "image": {
+        "type": "sign",
+        "code": "C45"
+      },
+      "text": {
+        "nl": "U rijdt in Vlaanderen, buiten de bebouwde kom, op een gewone weg zonder middenberm. U rijdt voorbij het bord C45 dat een beperking van 50 km per uur opheft. Hoe snel mag u nu maximaal rijden?",
+        "fr": "Vous roulez en Flandre, en dehors d'une agglomération, sur une route ordinaire sans terre-plein central. Vous dépassez le signal C45 qui lève une limitation à 50 km à l'heure. À quelle vitesse maximale pouvez-vous maintenant rouler ?",
+        "en": "You are driving in Flanders, outside a built-up area, on an ordinary road without a central reservation. You pass the C45 sign lifting a 50 km/h limit. What is your maximum speed now?"
+      },
+      "options": [
+        {
+          "nl": "90 km per uur.",
+          "fr": "90 km à l'heure.",
+          "en": "90 km/h."
+        },
+        {
+          "nl": "50 km per uur.",
+          "fr": "50 km à l'heure.",
+          "en": "50 km/h."
+        },
+        {
+          "nl": "70 km per uur.",
+          "fr": "70 km à l'heure.",
+          "en": "70 km/h."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Na het bord C45 geldt opnieuw de algemene snelheidsregel. In Vlaanderen is dat buiten de bebouwde kom, op wegen zonder fysieke scheiding van de rijrichtingen, 70 km per uur (sinds 2017); in Wallonië en Brussel is dat 90 km per uur.",
+        "fr": "Après le signal C45, la règle générale de vitesse s'applique à nouveau. En Flandre, elle est de 70 km à l'heure en dehors des agglomérations sur les routes sans séparation physique des sens de circulation (depuis 2017) ; en Wallonie et à Bruxelles, elle est de 90 km à l'heure.",
+        "en": "After the C45 sign, the general speed rule applies again. In Flanders that is 70 km/h outside built-up areas on roads without a physical separation of the directions (since 2017); in Wallonia and Brussels it is 90 km/h."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11 (snelheidsregels; in Vlaanderen gewijzigd naar 70 km/u buiten de bebouwde kom)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C45)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-025",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C46"
+      },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        {
+          "nl": "Einde van alle plaatselijke verbodsbepalingen opgelegd aan de voertuigen in beweging.",
+          "fr": "Fin de toutes les interdictions locales imposées aux véhicules en mouvement.",
+          "en": "End of all local prohibitions imposed on moving vehicles."
+        },
+        {
+          "nl": "Einde van de voorrangsweg.",
+          "fr": "Fin de la voie prioritaire.",
+          "en": "End of the priority road."
+        },
+        {
+          "nl": "Einde van de bebouwde kom.",
+          "fr": "Fin de l'agglomération.",
+          "en": "End of the built-up area."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord C46 beëindigt in één keer alle plaatselijke verbodsbepalingen voor voertuigen in beweging, zoals een inhaalverbod (C35) of een snelheidsbeperking (C43). Het einde van een voorrangsweg wordt aangeduid met B11, het einde van de bebouwde kom met F3.",
+        "fr": "Le signal C46 met fin en une fois à toutes les interdictions locales imposées aux véhicules en mouvement, comme une interdiction de dépasser (C35) ou une limitation de vitesse (C43). La fin d'une voie prioritaire est indiquée par B11, la fin d'une agglomération par F3.",
+        "en": "Sign C46 ends, in one go, all local prohibitions imposed on moving vehicles, such as an overtaking ban (C35) or a speed limit (C43). The end of a priority road is marked by B11, the end of a built-up area by F3."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C46)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-026",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "signs",
+        "codes": [
+          "E1",
+          "C46"
+        ]
+      },
+      "text": {
+        "nl": "In een straat geldt een parkeerverbod (bord E1). Verderop staat het bord C46. Heft C46 het parkeerverbod op?",
+        "fr": "Dans une rue, le stationnement est interdit (signal E1). Plus loin se trouve le signal C46. Le signal C46 lève-t-il l'interdiction de stationner ?",
+        "en": "In a street parking is prohibited (sign E1). Further on stands sign C46. Does C46 lift the parking ban?"
+      },
+      "options": [
+        {
+          "nl": "Ja: C46 beëindigt alle verbodsborden, ook die over parkeren.",
+          "fr": "Oui : C46 met fin à tous les signaux d'interdiction, y compris ceux relatifs au stationnement.",
+          "en": "Yes: C46 ends all prohibitory signs, including those about parking."
+        },
+        {
+          "nl": "Nee: C46 beëindigt enkel de plaatselijke verbodsbepalingen voor voertuigen in beweging; regels over stilstaan en parkeren blijven gelden.",
+          "fr": "Non : C46 ne met fin qu'aux interdictions locales imposées aux véhicules en mouvement ; les règles d'arrêt et de stationnement restent d'application.",
+          "en": "No: C46 only ends local prohibitions on moving vehicles; stopping and parking rules remain in force."
+        },
+        {
+          "nl": "Ja, maar enkel buiten de bebouwde kom.",
+          "fr": "Oui, mais uniquement en dehors des agglomérations.",
+          "en": "Yes, but only outside built-up areas."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "C46 geldt uitdrukkelijk voor verbodsbepalingen opgelegd aan voertuigen 'in beweging'. Een parkeerverbod richt zich tot stilstaande en geparkeerde voertuigen en wordt dus niet door C46 opgeheven; daarvoor gelden de eigen regels van de E-borden.",
+        "fr": "Le signal C46 vise expressément les interdictions imposées aux véhicules « en mouvement ». Une interdiction de stationner concerne les véhicules à l'arrêt ou en stationnement et n'est donc pas levée par C46 ; les signaux E suivent leurs propres règles.",
+        "en": "C46 expressly covers prohibitions imposed on vehicles 'in motion'. A parking ban addresses stopped and parked vehicles and is therefore not lifted by C46; the E-series signs follow their own rules."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C46)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 70 (verkeersborden betreffende het stilstaan en het parkeren)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-027",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "D1"
+      },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        {
+          "nl": "De richting van de pijl is aanbevolen, maar niet verplicht.",
+          "fr": "La direction de la flèche est conseillée, mais pas obligatoire.",
+          "en": "The arrow's direction is recommended but not compulsory."
+        },
+        {
+          "nl": "Verboden de richting van de pijl te volgen.",
+          "fr": "Interdiction de suivre la direction de la flèche.",
+          "en": "It is prohibited to follow the arrow's direction."
+        },
+        {
+          "nl": "U bent verplicht de door de pijl aangeduide richting te volgen.",
+          "fr": "Vous êtes obligé de suivre la direction indiquée par la flèche.",
+          "en": "You must follow the direction indicated by the arrow."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Ronde blauwe borden zijn gebodsborden: D1 verplicht u de door de pijl aangeduide richting te volgen. Elke andere richting is dan verboden.",
+        "fr": "Les signaux ronds et bleus sont des signaux d'obligation : D1 vous oblige à suivre la direction indiquée par la flèche. Toute autre direction est alors interdite.",
+        "en": "Round blue signs are mandatory signs: D1 obliges you to follow the direction indicated by the arrow. Every other direction is then prohibited."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 69 (verkeersbord D1)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-028",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "D3"
+      },
+      "text": {
+        "nl": "Wat legt dit verkeersbord u op?",
+        "fr": "Que vous impose ce signal ?",
+        "en": "What does this sign require of you?"
+      },
+      "options": [
+        {
+          "nl": "U moet één van de door de pijlen aangeduide richtingen volgen.",
+          "fr": "Vous devez suivre une des directions indiquées par les flèches.",
+          "en": "You must follow one of the directions indicated by the arrows."
+        },
+        {
+          "nl": "De aangeduide richtingen zijn enkel een aanbeveling.",
+          "fr": "Les directions indiquées ne sont qu'une recommandation.",
+          "en": "The indicated directions are only a recommendation."
+        },
+        {
+          "nl": "Het bord kondigt een eenrichtingsstraat aan.",
+          "fr": "Le signal annonce une rue à sens unique.",
+          "en": "The sign announces a one-way street."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "D3 is een gebodsbord: u bent verplicht één van de door de pijlen aangeduide richtingen te volgen. Rechtdoor rijden of een andere richting kiezen is verboden.",
+        "fr": "D3 est un signal d'obligation : vous êtes tenu de suivre une des directions indiquées par les flèches. Continuer tout droit ou choisir une autre direction est interdit.",
+        "en": "D3 is a mandatory sign: you are obliged to follow one of the directions indicated by the arrows. Going straight on or choosing any other direction is prohibited."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 69 (verkeersbord D3)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-029",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "D5"
+      },
+      "text": {
+        "nl": "U nadert een rotonde waar dit verkeersbord staat. Wat betekent het?",
+        "fr": "Vous approchez d'un rond-point où se trouve ce signal. Que signifie-t-il ?",
+        "en": "You approach a roundabout where this sign stands. What does it mean?"
+      },
+      "options": [
+        {
+          "nl": "U hebt voorrang op de bestuurders die al op de rotonde rijden.",
+          "fr": "Vous avez priorité sur les conducteurs qui circulent déjà sur le rond-point.",
+          "en": "You have priority over drivers already on the roundabout."
+        },
+        {
+          "nl": "Verplicht rondgaand verkeer: u moet de richting van de pijlen rond het middeneiland volgen.",
+          "fr": "Sens giratoire obligatoire : vous devez suivre le sens des flèches autour de l'îlot central.",
+          "en": "Mandatory circulation: you must follow the direction of the arrows around the central island."
+        },
+        {
+          "nl": "Verboden de rotonde op te rijden.",
+          "fr": "Interdiction de s'engager sur le rond-point.",
+          "en": "It is prohibited to enter the roundabout."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "D5 legt enkel het verplicht rondgaand verkeer op: u volgt de pijlen rond het middeneiland. Over de voorrang zegt dit bord niets; meestal staat aan de opritten het bord B1, zodat u voorrang verleent aan het verkeer op de rotonde.",
+        "fr": "Le signal D5 impose uniquement le sens giratoire : vous suivez les flèches autour de l'îlot central. Il ne dit rien de la priorité ; le plus souvent, le signal B1 est placé aux entrées, de sorte que vous cédez le passage à la circulation sur le rond-point.",
+        "en": "D5 only imposes the mandatory direction of circulation: you follow the arrows around the central island. It says nothing about priority; usually sign B1 stands at the entries, so you give way to traffic on the roundabout."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 69 (verkeersbord D5)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-030",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "D7"
+      },
+      "text": {
+        "nl": "Langs de rijbaan ligt een fietspad, aangeduid met dit verkeersbord. Wie is verplicht dit fietspad te gebruiken?",
+        "fr": "Le long de la chaussée se trouve une piste cyclable indiquée par ce signal. Qui est obligé de l'emprunter ?",
+        "en": "Alongside the carriageway lies a cycle path marked by this sign. Who is obliged to use it?"
+      },
+      "options": [
+        {
+          "nl": "Fietsers en bestuurders van tweewielige bromfietsen klasse A.",
+          "fr": "Les cyclistes et les conducteurs de cyclomoteurs à deux roues classe A.",
+          "en": "Cyclists and riders of two-wheeled class A mopeds."
+        },
+        {
+          "nl": "Alleen fietsers; bromfietsers mogen er nooit rijden.",
+          "fr": "Uniquement les cyclistes ; les cyclomotoristes ne peuvent jamais y rouler.",
+          "en": "Only cyclists; moped riders may never ride on it."
+        },
+        {
+          "nl": "Alle tweewielers, ook motorfietsen.",
+          "fr": "Tous les deux-roues, y compris les motocyclettes.",
+          "en": "All two-wheelers, including motorcycles."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "D7 duidt het verplichte fietspad aan: fietsers en bestuurders van tweewielige bromfietsen klasse A moeten het gebruiken wanneer het berijdbaar is. Motorfietsen horen altijd op de rijbaan.",
+        "fr": "Le signal D7 indique la piste cyclable obligatoire : les cyclistes et les conducteurs de cyclomoteurs à deux roues classe A doivent l'emprunter lorsqu'elle est praticable. Les motocyclettes circulent toujours sur la chaussée.",
+        "en": "D7 marks the compulsory cycle path: cyclists and riders of two-wheeled class A mopeds must use it when it is passable. Motorcycles always belong on the carriageway."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 69 (verkeersbord D7)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 9.1.2 (gebruik van het fietspad)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-031",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "signs",
+        "codes": [
+          "D9",
+          "D10"
+        ]
+      },
+      "text": {
+        "nl": "Op welk van deze delen van de openbare weg mag een tweewielige bromfiets klasse A rijden?",
+        "fr": "Sur laquelle de ces parties de la voie publique un cyclomoteur à deux roues classe A peut-il circuler ?",
+        "en": "On which of these parts of the public road may a two-wheeled class A moped ride?"
+      },
+      "options": [
+        {
+          "nl": "Alleen op het deel aangeduid met D10.",
+          "fr": "Uniquement sur la partie indiquée par D10.",
+          "en": "Only on the part marked D10."
+        },
+        {
+          "nl": "Op beide delen.",
+          "fr": "Sur les deux parties.",
+          "en": "On both parts."
+        },
+        {
+          "nl": "Alleen op het deel aangeduid met D9.",
+          "fr": "Uniquement sur la partie indiquée par D9.",
+          "en": "Only on the part marked D9."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "D9 duidt een deel van de openbare weg aan dat voorbehouden is voor voetgangers, fietsen én tweewielige bromfietsen klasse A, elk op hun eigen gedeelte. D10 is een gedeeld pad, enkel voor voetgangers en fietsers: bromfietsen klasse A zijn er niet toegelaten — een klassieke examenval.",
+        "fr": "Le signal D9 indique une partie de la voie publique réservée aux piétons, aux bicyclettes et aux cyclomoteurs à deux roues classe A, chacun sur sa propre partie. Le signal D10 désigne un chemin partagé, réservé aux seuls piétons et cyclistes : les cyclomoteurs classe A n'y sont pas admis — un piège classique à l'examen.",
+        "en": "D9 marks a part of the public road reserved for pedestrians, cycles and two-wheeled class A mopeds, each on their own section. D10 is a shared path for pedestrians and cyclists only: class A mopeds are not admitted — a classic exam trap."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 69 (verkeersborden D9 en D10)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-032",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "D11"
+      },
+      "text": {
+        "nl": "Dit verkeersbord staat bij een pad. Mag u er met de fiets rijden?",
+        "fr": "Ce signal est placé le long d'un chemin. Pouvez-vous y rouler à vélo ?",
+        "en": "This sign stands at a path. May you ride your bicycle on it?"
+      },
+      "options": [
+        {
+          "nl": "Ja, als u voetgangers voorrang geeft.",
+          "fr": "Oui, si vous cédez le passage aux piétons.",
+          "en": "Yes, if you give way to pedestrians."
+        },
+        {
+          "nl": "Nee: het pad is een verplichte weg voor voetgangers en is voor hen voorbehouden.",
+          "fr": "Non : ce chemin est obligatoire pour les piétons et leur est réservé.",
+          "en": "No: the path is a compulsory path for pedestrians and is reserved for them."
+        },
+        {
+          "nl": "Ja: een gebodsbord verplicht alleen voetgangers en verbiedt anderen niets.",
+          "fr": "Oui : un signal d'obligation n'oblige que les piétons et n'interdit rien aux autres.",
+          "en": "Yes: a mandatory sign only obliges pedestrians and prohibits nothing for others."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord D11 duidt de verplichte weg voor voetgangers aan: voetgangers moeten dit pad gebruiken en het is voor hen voorbehouden, dus fietsen is er niet toegelaten. Stapt u af en leidt u de fiets aan de hand, dan bent u voetganger en mag u er wel lopen.",
+        "fr": "Le signal D11 indique le chemin obligatoire pour les piétons : ceux-ci doivent l'emprunter et il leur est réservé, de sorte qu'y circuler à vélo n'est pas permis. Si vous descendez et conduisez le vélo à la main, vous êtes piéton et pouvez y marcher.",
+        "en": "Sign D11 marks the compulsory path for pedestrians: pedestrians must use it and it is reserved for them, so cycling on it is not allowed. If you dismount and push your bicycle, you are a pedestrian and may walk there."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 69 (verkeersbord D11)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 2.46 (voetganger)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-033",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "D13"
+      },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        {
+          "nl": "Verplichte weg voor ruiters.",
+          "fr": "Chemin obligatoire pour les cavaliers.",
+          "en": "Compulsory path for horse riders."
+        },
+        {
+          "nl": "Verboden toegang voor ruiters.",
+          "fr": "Accès interdit aux cavaliers.",
+          "en": "No access for horse riders."
+        },
+        {
+          "nl": "Waarschuwing: overstekende ruiters.",
+          "fr": "Danger : traversée de cavaliers.",
+          "en": "Warning: horse riders crossing."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "D13 is een rond blauw gebodsbord: ruiters moeten deze weg gebruiken en hij is voor hen voorbehouden. Een verbod zou een rond wit bord met rode rand zijn, een gevaarsbord een driehoek.",
+        "fr": "D13 est un signal d'obligation rond et bleu : les cavaliers doivent emprunter ce chemin, qui leur est réservé. Une interdiction serait un signal rond blanc à bord rouge, un signal de danger un triangle.",
+        "en": "D13 is a round blue mandatory sign: horse riders must use this path, which is reserved for them. A prohibition would be a round white sign with a red ring, a danger warning a triangle."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 69 (verkeersbord D13)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    }
+  ]
+}

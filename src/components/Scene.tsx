@@ -77,13 +77,13 @@ function Roads({ spec }: { spec: SceneSpec }) {
   const showArm = (side: Side) => spec.type === "crossroads" || stem === side || sideOnThroughRoad(side, stem);
   return (
     <g>
-      {/* road surfaces */}
+      {/* road surfaces: each arm runs from its edge of the canvas to the far side of the junction box */}
       {(showArm("n") || showArm("s")) && (
         <rect
           x={C - HALF_ROAD}
           y={showArm("n") ? 0 : C - HALF_ROAD}
           width={HALF_ROAD * 2}
-          height={showArm("n") && showArm("s") ? SIZE : C + HALF_ROAD - (showArm("n") ? 0 : C - HALF_ROAD)}
+          height={(showArm("s") ? SIZE : C + HALF_ROAD) - (showArm("n") ? 0 : C - HALF_ROAD)}
           fill="#6b7280"
         />
       )}
@@ -91,7 +91,7 @@ function Roads({ spec }: { spec: SceneSpec }) {
         <rect
           x={showArm("w") ? 0 : C - HALF_ROAD}
           y={C - HALF_ROAD}
-          width={showArm("w") && showArm("e") ? SIZE : C + HALF_ROAD - (showArm("w") ? 0 : C - HALF_ROAD)}
+          width={(showArm("e") ? SIZE : C + HALF_ROAD) - (showArm("w") ? 0 : C - HALF_ROAD)}
           height={HALF_ROAD * 2}
           fill="#6b7280"
         />

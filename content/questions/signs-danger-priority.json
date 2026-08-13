@@ -1,0 +1,851 @@
+{
+  "category": "signs-danger-priority",
+  "questions": [
+    {
+      "id": "signs-danger-priority-001",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "A1a" },
+      "text": {
+        "nl": "U ziet dit gevaarsbord langs de weg. Wat kondigt het aan?",
+        "fr": "Vous voyez ce signal de danger le long de la route. Qu'annonce-t-il ?",
+        "en": "You see this danger warning sign beside the road. What does it announce?"
+      },
+      "options": [
+        { "nl": "Een gevaarlijke bocht naar rechts", "fr": "Un virage dangereux à droite", "en": "A dangerous bend to the right" },
+        { "nl": "Een gevaarlijke bocht naar links", "fr": "Un virage dangereux à gauche", "en": "A dangerous bend to the left" },
+        { "nl": "Een dubbele bocht, de eerste naar links", "fr": "Un double virage, le premier à gauche", "en": "A double bend, the first to the left" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord A1a kondigt een gevaarlijke bocht naar links aan. Gevaarsborden staan normaal op ongeveer 150 m vóór het gevaar; een dubbele bocht wordt aangekondigd door het bord A1c.",
+        "fr": "Le signal A1a annonce un virage dangereux à gauche. Les signaux de danger sont normalement placés à environ 150 m du danger ; un double virage est annoncé par le signal A1c.",
+        "en": "Sign A1a announces a dangerous bend to the left. Danger warning signs are normally placed about 150 m before the danger; a double bend is announced by sign A1c."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-002",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["A3", "A5"] },
+      "text": {
+        "nl": "Welk van deze borden kondigt een gevaarlijke daling aan?",
+        "fr": "Lequel de ces signaux annonce une descente dangereuse ?",
+        "en": "Which of these signs announces a dangerous descent?"
+      },
+      "options": [
+        { "nl": "Het linkse bord", "fr": "Le signal de gauche", "en": "The left sign" },
+        { "nl": "Het rechtse bord", "fr": "Le signal de droite", "en": "The right sign" },
+        { "nl": "Beide borden", "fr": "Les deux signaux", "en": "Both signs" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord A3 (links) kondigt een gevaarlijke daling aan: pas uw snelheid aan en rem zo nodig op de motor. Het bord A5 (rechts) kondigt een steile helling (stijging) aan.",
+        "fr": "Le signal A3 (à gauche) annonce une descente dangereuse : adaptez votre vitesse et utilisez au besoin le frein moteur. Le signal A5 (à droite) annonce une montée à forte inclinaison.",
+        "en": "Sign A3 (left) announces a dangerous descent: adapt your speed and use engine braking where needed. Sign A5 (right) announces a steep ascent."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-003",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "A7a" },
+      "text": {
+        "nl": "Wat betekent dit bord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        { "nl": "De rijbaan versmalt langs beide kanten", "fr": "La chaussée est rétrécie des deux côtés", "en": "The carriageway narrows on both sides" },
+        { "nl": "De rijbaan versmalt alleen langs rechts", "fr": "La chaussée est rétrécie uniquement à droite", "en": "The carriageway narrows on the right only" },
+        { "nl": "Smalle doorgang: u moet voorrang verlenen aan de tegenliggers", "fr": "Passage étroit : vous devez céder le passage aux conducteurs venant en sens opposé", "en": "Narrow passage: you must give way to oncoming traffic" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord A7a kondigt een rijbaanversmalling langs beide kanten aan. Het gevaarsbord legt zelf geen voorrangsregeling op; bij een smalle doorgang regelen de borden B19 en B21 wie moet wachten.",
+        "fr": "Le signal A7a annonce un rétrécissement de la chaussée des deux côtés. Ce signal de danger n'impose aucune règle de priorité ; dans un passage étroit, ce sont les signaux B19 et B21 qui déterminent qui doit attendre.",
+        "en": "Sign A7a announces that the carriageway narrows on both sides. The danger sign itself imposes no priority rule; at a narrow passage, signs B19 and B21 determine who must wait."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-004",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "A9" },
+      "text": {
+        "nl": "Wat kondigt dit gevaarsbord aan?",
+        "fr": "Qu'annonce ce signal de danger ?",
+        "en": "What does this danger warning sign announce?"
+      },
+      "options": [
+        { "nl": "Een lage brug met beperkte doorrijhoogte", "fr": "Un pont bas à hauteur limitée", "en": "A low bridge with limited headroom" },
+        { "nl": "Een overweg met slagbomen", "fr": "Un passage à niveau avec barrières", "en": "A level crossing with barriers" },
+        { "nl": "Een beweegbare brug", "fr": "Un pont mobile", "en": "A movable bridge" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Het bord A9 kondigt een beweegbare brug aan. Nader met aangepaste snelheid en wees bereid te stoppen voor de lichten of afsluitingen wanneer de brug opengaat.",
+        "fr": "Le signal A9 annonce un pont mobile. Approchez à vitesse adaptée et soyez prêt à vous arrêter aux feux ou aux dispositifs de fermeture lorsque le pont s'ouvre.",
+        "en": "Sign A9 announces a movable bridge. Approach at a suitable speed and be ready to stop for the lights or closing devices when the bridge opens."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-005",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "A15" },
+      "text": {
+        "nl": "U ziet dit bord. Hoe past u uw rijgedrag het best aan?",
+        "fr": "Vous voyez ce signal. Comment adaptez-vous au mieux votre conduite ?",
+        "en": "You see this sign. How do you best adapt your driving?"
+      },
+      "options": [
+        { "nl": "Vertragen en bruuske stuur- en rembewegingen vermijden", "fr": "Ralentir et éviter tout freinage ou coup de volant brusque", "en": "Slow down and avoid abrupt braking or steering" },
+        { "nl": "Kort en krachtig remmen om de grip van het wegdek te testen", "fr": "Freiner brièvement et fortement pour tester l'adhérence de la chaussée", "en": "Brake hard briefly to test the grip of the road surface" },
+        { "nl": "Gewoon doorrijden: het bord geldt alleen bij sneeuw", "fr": "Continuer normalement : le signal ne vaut que par temps de neige", "en": "Carry on normally: the sign only applies in snow" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord A15 waarschuwt voor een glibberige rijbaan. Verminder uw snelheid en vermijd bruusk remmen of sturen, zodat uw voertuig niet wegglijdt; het bord geldt in alle weersomstandigheden.",
+        "fr": "Le signal A15 avertit d'une chaussée glissante. Réduisez votre vitesse et évitez tout freinage ou coup de volant brusque pour ne pas déraper ; le signal vaut par tous les temps.",
+        "en": "Sign A15 warns of a slippery road. Reduce your speed and avoid abrupt braking or steering so your vehicle does not skid; the sign applies in all weather conditions."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-006",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "A23" },
+      "text": {
+        "nl": "Wat betekent dit bord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        { "nl": "Oversteekplaats voor voetgangers", "fr": "Passage pour piétons", "en": "A pedestrian crossing" },
+        { "nl": "Plaats waar speciaal veel kinderen komen, bijvoorbeeld aan een school", "fr": "Endroit spécialement fréquenté par des enfants, par exemple près d'une école", "en": "A place especially frequented by children, for example near a school" },
+        { "nl": "Speelstraat: verboden voor doorgaand verkeer", "fr": "Rue réservée au jeu : interdite au trafic de transit", "en": "A play street: closed to through traffic" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord A23 duidt een plaats aan waar speciaal veel kinderen komen, zoals een school of speelplein. Vertraag en houd rekening met onverwachte bewegingen van kinderen.",
+        "fr": "Le signal A23 indique un endroit spécialement fréquenté par des enfants, comme une école ou une plaine de jeux. Ralentissez et tenez compte des mouvements imprévisibles des enfants.",
+        "en": "Sign A23 indicates a place especially frequented by children, such as a school or playground. Slow down and expect unpredictable movements from children."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-007",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "A31" },
+      "text": {
+        "nl": "Wat kondigt dit bord aan?",
+        "fr": "Qu'annonce ce signal ?",
+        "en": "What does this sign announce?"
+      },
+      "options": [
+        { "nl": "Werken op of langs de weg", "fr": "Des travaux sur ou le long de la chaussée", "en": "Roadworks on or beside the road" },
+        { "nl": "Een file", "fr": "Une file", "en": "A traffic jam" },
+        { "nl": "Een verhoogde inrichting op de rijbaan", "fr": "Un dispositif surélevé sur la chaussée", "en": "A raised traffic-calming device on the carriageway" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord A31 kondigt werken aan. Vertraag en wees extra aandachtig: de gewone signalisatie, markering en rijstrookindeling kunnen er tijdelijk gewijzigd zijn.",
+        "fr": "Le signal A31 annonce des travaux. Ralentissez et redoublez d'attention : la signalisation, le marquage et la disposition des bandes de circulation peuvent y être temporairement modifiés.",
+        "en": "Sign A31 announces roadworks. Slow down and pay extra attention: the usual signs, markings and lane layout may be temporarily changed."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-008",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "A33" },
+      "text": {
+        "nl": "Wat kondigt dit bord aan?",
+        "fr": "Qu'annonce ce signal ?",
+        "en": "What does this sign announce?"
+      },
+      "options": [
+        { "nl": "Een overweg met slagbomen", "fr": "Un passage à niveau avec barrières", "en": "A level crossing with barriers" },
+        { "nl": "Het einde van de voorrangsweg", "fr": "La fin de la voie prioritaire", "en": "The end of the priority road" },
+        { "nl": "Verkeerslichten", "fr": "Des signaux lumineux de circulation", "en": "Traffic lights ahead" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Het bord A33 kondigt verkeerslichten aan, vaak op plaatsen waar u ze niet verwacht, zoals buiten de bebouwde kom. Wees erop voorbereid dat u moet stoppen.",
+        "fr": "Le signal A33 annonce des signaux lumineux de circulation, souvent à des endroits où on ne les attend pas, par exemple hors agglomération. Soyez prêt à devoir vous arrêter.",
+        "en": "Sign A33 announces traffic lights, often where you would not expect them, for example outside a built-up area. Be prepared to stop."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-009",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["A41", "A43"] },
+      "text": {
+        "nl": "Welk bord kondigt een overweg mét slagbomen aan?",
+        "fr": "Quel signal annonce un passage à niveau avec barrières ?",
+        "en": "Which sign announces a level crossing with barriers?"
+      },
+      "options": [
+        { "nl": "Het linkse bord", "fr": "Le signal de gauche", "en": "The left sign" },
+        { "nl": "Het rechtse bord", "fr": "Le signal de droite", "en": "The right sign" },
+        { "nl": "Beide borden", "fr": "Les deux signaux", "en": "Both signs" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord A41 (links, met heksymbool) kondigt een overweg met slagbomen aan; het bord A43 (rechts, met locomotief) een overweg zonder slagbomen, waar u dubbel voorzichtig moet zijn.",
+        "fr": "Le signal A41 (à gauche, avec le symbole de la barrière) annonce un passage à niveau avec barrières ; le signal A43 (à droite, avec la locomotive) un passage à niveau sans barrières, où il faut redoubler de prudence.",
+        "en": "Sign A41 (left, with the fence symbol) announces a level crossing with barriers; sign A43 (right, with the locomotive) a level crossing without barriers, where you must be doubly careful."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66 en 20.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-010",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "A50" },
+      "text": {
+        "nl": "Wat kondigt dit bord aan?",
+        "fr": "Qu'annonce ce signal ?",
+        "en": "What does this sign announce?"
+      },
+      "options": [
+        { "nl": "Een file", "fr": "Une file", "en": "A traffic jam ahead" },
+        { "nl": "Een inhaalverbod", "fr": "Une interdiction de dépasser", "en": "A no-overtaking restriction" },
+        { "nl": "Werken op de weg", "fr": "Des travaux sur la chaussée", "en": "Roadworks" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord A50 waarschuwt voor een file. Vertraag tijdig en houd voldoende afstand; bij stilstaand of sterk vertraagd verkeer vormt u mee de reddingsstrook voor de hulpdiensten.",
+        "fr": "Le signal A50 avertit d'une file. Ralentissez à temps et gardez vos distances ; en cas de trafic arrêté ou fortement ralenti, formez le couloir de secours pour les services d'urgence.",
+        "en": "Sign A50 warns of a traffic jam. Slow down in time and keep your distance; in stationary or slow-moving traffic, help form the emergency corridor for the emergency services."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-011",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "A51" },
+      "text": {
+        "nl": "Wat betekent dit bord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        { "nl": "Een gevaar dat niet door een speciaal symbool wordt bepaald; het onderbord duidt de aard van het gevaar aan", "fr": "Un danger non défini par un symbole spécial ; le panneau additionnel indique la nature du danger", "en": "A danger not defined by a special symbol; the supplementary panel indicates the nature of the danger" },
+        { "nl": "Het einde van alle gevaren", "fr": "La fin de tous les dangers", "en": "The end of all dangers" },
+        { "nl": "Verboden toegang voor iedere bestuurder", "fr": "Accès interdit à tout conducteur", "en": "No entry for all drivers" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord A51 waarschuwt voor een gevaar waarvoor geen specifiek gevaarsbord bestaat, bijvoorbeeld verloren lading of een dier op de rijbaan. Het onderbord vermeldt de aard van het gevaar.",
+        "fr": "Le signal A51 avertit d'un danger pour lequel il n'existe pas de signal spécifique, par exemple un chargement perdu ou un animal sur la chaussée. Le panneau additionnel en indique la nature.",
+        "en": "Sign A51 warns of a danger for which no specific sign exists, for example a lost load or an animal on the road. The supplementary panel states the nature of the danger."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-012",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "B1" },
+      "text": {
+        "nl": "Wat moet u doen bij dit bord?",
+        "fr": "Que devez-vous faire à ce signal ?",
+        "en": "What must you do at this sign?"
+      },
+      "options": [
+        { "nl": "Alleen voorrang verlenen aan de bestuurders die van rechts komen", "fr": "Céder le passage uniquement aux conducteurs venant de droite", "en": "Give way only to drivers coming from the right" },
+        { "nl": "Voorrang verlenen aan iedere bestuurder op de kruisende weg, zowel van links als van rechts", "fr": "Céder le passage à tout conducteur circulant sur la voie que vous croisez, venant de gauche comme de droite", "en": "Give way to every driver on the road you are crossing, from both left and right" },
+        { "nl": "Altijd volledig stoppen, ook als er niemand nadert", "fr": "Toujours marquer l'arrêt complet, même si personne n'approche", "en": "Always come to a complete stop, even when nobody is approaching" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord B1 verplicht u voorrang te verlenen aan alle bestuurders op de kruisende weg, uit beide richtingen. Volledig stoppen hoeft alleen als dat nodig is om voorrang te kunnen verlenen; dat is het verschil met het stopbord B5.",
+        "fr": "Le signal B1 vous oblige à céder le passage à tous les conducteurs circulant sur la voie que vous croisez, dans les deux sens. Marquer l'arrêt complet n'est nécessaire que si cela s'impose pour céder le passage ; c'est la différence avec le signal B5.",
+        "en": "Sign B1 requires you to give way to all drivers on the crossing road, from both directions. A complete stop is only needed if it is necessary in order to give way; that is the difference with stop sign B5."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersbord B1)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-013",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "B9" },
+      "text": {
+        "nl": "U passeert dit bord. Wat betekent het?",
+        "fr": "Vous passez devant ce signal. Que signifie-t-il ?",
+        "en": "You pass this sign. What does it mean?"
+      },
+      "options": [
+        { "nl": "U rijdt op een voorrangsweg en hebt voorrang op de volgende kruispunten, tot het bord B11", "fr": "Vous circulez sur une voie prioritaire et avez la priorité aux carrefours suivants, jusqu'au signal B11", "en": "You are on a priority road and have priority at the following intersections, until sign B11" },
+        { "nl": "Op het volgende kruispunt geldt de voorrang van rechts", "fr": "Au prochain carrefour, la priorité de droite est applicable", "en": "Priority to the right applies at the next intersection" },
+        { "nl": "U moet op het volgende kruispunt voorrang verlenen", "fr": "Vous devez céder le passage au prochain carrefour", "en": "You must give way at the next intersection" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord B9 duidt het begin van een voorrangsweg aan: u hebt er voorrang op elk kruispunt, tot de voorrangsweg wordt opgeheven door het bord B11. Blijf niettemin voorzichtig voor bestuurders die u de voorrang zouden weigeren.",
+        "fr": "Le signal B9 indique le début d'une voie prioritaire : vous y avez la priorité à chaque carrefour, jusqu'à ce que le signal B11 y mette fin. Restez néanmoins attentif aux conducteurs qui vous refuseraient la priorité.",
+        "en": "Sign B9 marks the start of a priority road: you have priority at every intersection until sign B11 ends it. Still stay alert for drivers who might refuse you priority."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersbord B9)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-014",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": { "type": "sign", "code": "A41" },
+      "text": {
+        "nl": "U nadert een overweg. De rode knipperlichten branden, maar de slagbomen zijn nog open. Wat doet u?",
+        "fr": "Vous approchez d'un passage à niveau. Les feux rouges clignotants fonctionnent, mais les barrières sont encore ouvertes. Que faites-vous ?",
+        "en": "You approach a level crossing. The red flashing lights are on, but the barriers are still open. What do you do?"
+      },
+      "options": [
+        { "nl": "U stopt: u mag de overweg niet oprijden", "fr": "Vous vous arrêtez : vous ne pouvez pas vous engager sur le passage à niveau", "en": "You stop: you may not enter the level crossing" },
+        { "nl": "U steekt snel over voordat de slagbomen sluiten", "fr": "Vous traversez rapidement avant que les barrières se ferment", "en": "You cross quickly before the barriers close" },
+        { "nl": "U steekt traag over en kijkt goed uit", "fr": "Vous traversez lentement en regardant bien", "en": "You cross slowly while watching carefully" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Zodra de rode knipperlichten branden, de slagbomen in beweging of gesloten zijn of het geluidssein werkt, mag u een overweg niet oprijden. Dit verbod negeren is een overtreding van de vierde graad.",
+        "fr": "Dès que les feux rouges clignotants fonctionnent, que les barrières sont en mouvement ou fermées ou que le signal sonore fonctionne, il est interdit de s'engager sur un passage à niveau. Ignorer cette interdiction constitue une infraction du quatrième degré.",
+        "en": "As soon as the red flashing lights are on, the barriers are moving or closed, or the sound signal is working, you may not enter a level crossing. Ignoring this prohibition is a fourth-degree offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 20.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "KB 30/09/2005 (indeling van de overtredingen per graad)", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-015",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["A1b", "A1d"] },
+      "text": {
+        "nl": "Welk bord kondigt een dubbele bocht of een opeenvolging van bochten aan, de eerste naar rechts?",
+        "fr": "Quel signal annonce un double virage ou une succession de virages, le premier à droite ?",
+        "en": "Which sign announces a double bend or a series of bends, the first to the right?"
+      },
+      "options": [
+        { "nl": "Het linkse bord", "fr": "Le signal de gauche", "en": "The left sign" },
+        { "nl": "Het rechtse bord", "fr": "Le signal de droite", "en": "The right sign" },
+        { "nl": "Beide borden", "fr": "Les deux signaux", "en": "Both signs" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord A1b (links) kondigt één gevaarlijke bocht naar rechts aan. Het bord A1d (rechts) kondigt een dubbele bocht of een opeenvolging van meer dan twee bochten aan, waarvan de eerste naar rechts gaat.",
+        "fr": "Le signal A1b (à gauche) annonce un seul virage dangereux à droite. Le signal A1d (à droite) annonce un double virage ou une succession de plus de deux virages, dont le premier à droite.",
+        "en": "Sign A1b (left) announces a single dangerous bend to the right. Sign A1d (right) announces a double bend or a series of more than two bends, the first to the right."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-016",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["A7b", "A7c"] },
+      "text": {
+        "nl": "Welk bord kondigt een rijbaanversmalling langs links aan?",
+        "fr": "Quel signal annonce un rétrécissement de la chaussée par la gauche ?",
+        "en": "Which sign announces that the carriageway narrows on the left?"
+      },
+      "options": [
+        { "nl": "Het linkse bord", "fr": "Le signal de gauche", "en": "The left sign" },
+        { "nl": "Het rechtse bord", "fr": "Le signal de droite", "en": "The right sign" },
+        { "nl": "Beide borden", "fr": "Les deux signaux", "en": "Both signs" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord A7b (links) kondigt een rijbaanversmalling langs links aan, het bord A7c (rechts) een versmalling langs rechts. Kijk goed naar de kant waar de lijn op het bord naar binnen buigt.",
+        "fr": "Le signal A7b (à gauche) annonce un rétrécissement de la chaussée par la gauche, le signal A7c (à droite) un rétrécissement par la droite. Regardez de quel côté la ligne du signal s'incurve vers l'intérieur.",
+        "en": "Sign A7b (left) announces that the carriageway narrows on the left, sign A7c (right) a narrowing on the right. Look at which side of the symbol curves inward."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-017",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["A13", "A14"] },
+      "text": {
+        "nl": "Welk bord kondigt een verhoogde inrichting aan, zoals een verkeersdrempel?",
+        "fr": "Quel signal annonce un dispositif surélevé, comme un ralentisseur ?",
+        "en": "Which sign announces a raised traffic-calming device, such as a speed bump?"
+      },
+      "options": [
+        { "nl": "Het linkse bord", "fr": "Le signal de gauche", "en": "The left sign" },
+        { "nl": "Het rechtse bord", "fr": "Le signal de droite", "en": "The right sign" },
+        { "nl": "Beide borden", "fr": "Les deux signaux", "en": "Both signs" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord A14 (rechts) kondigt een of meer verhoogde inrichtingen aan die het verkeer moeten afremmen. Het bord A13 (links) waarschuwt voor een uitholling overdwars of ezelsrug: een oneffenheid in het wegdek zelf.",
+        "fr": "Le signal A14 (à droite) annonce un ou plusieurs dispositifs surélevés destinés à ralentir la circulation. Le signal A13 (à gauche) avertit d'un cassis ou dos d'âne : une inégalité de la chaussée elle-même.",
+        "en": "Sign A14 (right) announces one or more raised devices installed to slow traffic. Sign A13 (left) warns of a dip or hump: an unevenness of the road surface itself."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-018",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["A21", "F49"] },
+      "text": {
+        "nl": "Wat is het verschil tussen deze twee borden?",
+        "fr": "Quelle est la différence entre ces deux signaux ?",
+        "en": "What is the difference between these two signs?"
+      },
+      "options": [
+        { "nl": "Het linkse bord (driehoek) kondigt een oversteekplaats voor voetgangers aan op ongeveer 150 m; het rechtse staat ter hoogte van de oversteekplaats zelf", "fr": "Le signal de gauche (triangle) annonce un passage pour piétons à environ 150 m ; celui de droite est placé à hauteur du passage même", "en": "The left sign (triangle) announces a pedestrian crossing about 150 m ahead; the right one stands at the crossing itself" },
+        { "nl": "Ze betekenen precies hetzelfde en staan op dezelfde plaats", "fr": "Ils signifient exactement la même chose et sont placés au même endroit", "en": "They mean exactly the same thing and stand in the same place" },
+        { "nl": "Het rechtse bord kondigt de oversteekplaats op afstand aan; het linkse staat ter plaatse", "fr": "Le signal de droite annonce le passage à distance ; celui de gauche est placé sur place", "en": "The right sign announces the crossing at a distance; the left one stands at the spot" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "A21 is een gevaarsbord en staat op ongeveer 150 m vóór de oversteekplaats; F49 is een aanwijzingsbord ter hoogte van de oversteekplaats zelf. Nader een oversteekplaats altijd met matige snelheid en verleen voorrang aan voetgangers die oversteken of op het punt staan dat te doen.",
+        "fr": "A21 est un signal de danger placé à environ 150 m avant le passage ; F49 est un signal d'indication placé à hauteur du passage même. Approchez toujours d'un passage pour piétons à allure modérée et cédez le passage aux piétons engagés ou sur le point de s'engager.",
+        "en": "A21 is a danger warning sign placed about 150 m before the crossing; F49 is an information sign placed at the crossing itself. Always approach a pedestrian crossing at moderate speed and give way to pedestrians on it or about to step onto it."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66.2 en 40.4.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-019",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["A45", "A47"] },
+      "text": {
+        "nl": "Welk bord staat bij een overweg met twee of meer sporen?",
+        "fr": "Quel signal est placé à un passage à niveau à deux ou plusieurs voies ?",
+        "en": "Which sign stands at a level crossing with two or more tracks?"
+      },
+      "options": [
+        { "nl": "Het linkse bord", "fr": "Le signal de gauche", "en": "The left sign" },
+        { "nl": "Het rechtse bord", "fr": "Le signal de droite", "en": "The right sign" },
+        { "nl": "Beide borden", "fr": "Les deux signaux", "en": "Both signs" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het Sint-Andrieskruis A45 (links) staat bij een overweg met één spoor, het bord A47 (rechts) bij een overweg met twee of meer sporen. Anders dan de meeste gevaarsborden staan A45 en A47 ter hoogte van de overweg zelf, niet op 150 m ervoor.",
+        "fr": "La croix de Saint-André A45 (à gauche) est placée à un passage à niveau à voie unique, le signal A47 (à droite) à un passage à deux ou plusieurs voies. Contrairement à la plupart des signaux de danger, A45 et A47 sont placés à hauteur du passage même, et non 150 m avant.",
+        "en": "The St Andrew's cross A45 (left) stands at a single-track level crossing, sign A47 (right) at a crossing with two or more tracks. Unlike most danger signs, A45 and A47 are placed at the crossing itself, not 150 m before it."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-020",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": { "type": "sign", "code": "A43" },
+      "text": {
+        "nl": "U nadert een overweg zonder slagbomen en zonder verkeerslichten. Wat moet u doen?",
+        "fr": "Vous approchez d'un passage à niveau sans barrières et sans signaux lumineux. Que devez-vous faire ?",
+        "en": "You approach a level crossing without barriers and without lights. What must you do?"
+      },
+      "options": [
+        { "nl": "U hebt voorrang, want er zijn geen slagbomen", "fr": "Vous avez la priorité, puisqu'il n'y a pas de barrières", "en": "You have priority, since there are no barriers" },
+        { "nl": "U mag pas oversteken nadat u zich ervan vergewist hebt dat er geen spoorvoertuig nadert", "fr": "Vous ne pouvez traverser qu'après vous être assuré qu'aucun véhicule sur rails n'approche", "en": "You may only cross after making sure that no rail vehicle is approaching" },
+        { "nl": "U moet altijd volledig stoppen, zoals bij een stopbord", "fr": "Vous devez toujours marquer l'arrêt complet, comme à un signal stop", "en": "You must always come to a complete stop, as at a stop sign" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Bij een overweg zonder slagbomen of zonder verkeerslichten moet u dubbel voorzichtig zijn en mag u zich pas op de overweg begeven nadat u zeker weet dat er geen spoorvoertuig nadert. Spoorvoertuigen hebben altijd voorrang.",
+        "fr": "À un passage à niveau sans barrières ou sans signaux lumineux, vous devez redoubler de prudence et ne vous engager qu'après vous être assuré qu'aucun véhicule sur rails n'approche. Les véhicules sur rails ont toujours la priorité.",
+        "en": "At a level crossing without barriers or lights you must be doubly careful and may only enter after making sure no rail vehicle is approaching. Rail vehicles always have priority."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 20.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-021",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": { "type": "sign", "code": "A47" },
+      "text": {
+        "nl": "Voorbij de overweg staat het verkeer stil. De slagbomen zijn open en er nadert geen trein. Mag u de overweg oprijden?",
+        "fr": "Au-delà du passage à niveau, la circulation est à l'arrêt. Les barrières sont ouvertes et aucun train n'approche. Pouvez-vous vous engager sur le passage à niveau ?",
+        "en": "Beyond the level crossing, traffic is at a standstill. The barriers are open and no train is approaching. May you enter the crossing?"
+      },
+      "options": [
+        { "nl": "Nee, niet als het verkeer zo belemmerd is dat u waarschijnlijk op de overweg zou moeten stoppen", "fr": "Non, pas si la circulation est entravée au point que vous devriez probablement vous arrêter sur le passage à niveau", "en": "No, not if traffic is blocked such that you would probably have to stop on the crossing" },
+        { "nl": "Ja, zolang de slagbomen open zijn mag u altijd oprijden", "fr": "Oui, tant que les barrières sont ouvertes, vous pouvez toujours vous engager", "en": "Yes, as long as the barriers are open you may always enter" },
+        { "nl": "Ja, als u snel genoeg oversteekt", "fr": "Oui, si vous traversez assez vite", "en": "Yes, if you cross quickly enough" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "U mag een overweg niet oprijden wanneer het verkeer zodanig belemmerd is dat u er waarschijnlijk op zou moeten stoppen. Stilstaan op een overweg is levensgevaarlijk: wacht ervóór tot de doorgang volledig vrij is.",
+        "fr": "Vous ne pouvez pas vous engager sur un passage à niveau lorsque la circulation est entravée au point que vous devriez probablement vous y arrêter. S'immobiliser sur un passage à niveau est extrêmement dangereux : attendez avant le passage que la sortie soit entièrement dégagée.",
+        "en": "You may not enter a level crossing when traffic is obstructed such that you would probably have to stop on it. Stopping on a level crossing is life-threatening: wait before the crossing until the exit is completely clear."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 20.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-022",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": { "type": "signs", "codes": ["B1", "B5"] },
+      "text": {
+        "nl": "Wat is het verschil tussen deze twee borden?",
+        "fr": "Quelle est la différence entre ces deux signaux ?",
+        "en": "What is the difference between these two signs?"
+      },
+      "options": [
+        { "nl": "Bij het rechtse bord (STOP) moet u altijd volledig stoppen; bij het linkse moet u voorrang verlenen, maar hoeft u niet noodzakelijk te stoppen", "fr": "Au signal de droite (STOP), vous devez toujours marquer l'arrêt complet ; au signal de gauche, vous devez céder le passage, sans nécessairement vous arrêter", "en": "At the right sign (STOP) you must always come to a complete stop; at the left sign you must give way, but do not necessarily have to stop" },
+        { "nl": "Er is geen verschil: beide verplichten een volledige stop", "fr": "Il n'y a pas de différence : les deux imposent un arrêt complet", "en": "There is no difference: both require a complete stop" },
+        { "nl": "Het linkse bord is strenger: het verplicht een stop, het rechtse alleen voorrang verlenen", "fr": "Le signal de gauche est plus strict : il impose l'arrêt, celui de droite seulement de céder le passage", "en": "The left sign is stricter: it requires a stop, the right one only giving way" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "B1 verplicht u voorrang te verlenen aan de bestuurders op de kruisende weg; stoppen hoeft alleen als dat nodig is. B5 verplicht altijd een volledige stop, gevolgd door voorrang verlenen. Een stopbord negeren is een zware overtreding.",
+        "fr": "B1 vous oblige à céder le passage aux conducteurs de la voie que vous croisez ; l'arrêt n'est requis que si nécessaire. B5 impose toujours de marquer l'arrêt complet, puis de céder le passage. Ignorer un signal stop est une infraction grave.",
+        "en": "B1 requires you to give way to drivers on the crossing road; stopping is only needed when necessary. B5 always requires a complete stop, followed by giving way. Ignoring a stop sign is a serious offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersborden B1 en B5)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-023",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "B5" },
+      "text": {
+        "nl": "Waar moet u stoppen bij dit bord?",
+        "fr": "Où devez-vous vous arrêter à ce signal ?",
+        "en": "Where must you stop at this sign?"
+      },
+      "options": [
+        { "nl": "Altijd exact ter hoogte van het verkeersbord, ook zonder zicht op het kruispunt", "fr": "Toujours exactement à hauteur du signal, même sans visibilité sur le carrefour", "en": "Always exactly level with the sign, even without a view of the intersection" },
+        { "nl": "Ter hoogte van de stopstreep; is er geen, dan vóór het kruispunt op een plaats waar u de kruisende weg goed kunt overzien", "fr": "À hauteur de la ligne d'arrêt ; à défaut, avant le carrefour, à un endroit d'où vous voyez bien la voie que vous croisez", "en": "At the stop line; if there is none, before the intersection at a spot where you can see the crossing road well" },
+        { "nl": "Pas op het kruispunt zelf, waar u het beste zicht hebt", "fr": "Seulement sur le carrefour même, là où la visibilité est la meilleure", "en": "Only on the intersection itself, where visibility is best" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "De stopstreep, een witte doorlopende streep dwars op de rijbaan, duidt de plaats aan waar u ingevolge het bord B5 moet stoppen. Ontbreekt de stopstreep, dan stopt u vóór het kruispunt op een plaats met voldoende zicht en verleent u voorrang.",
+        "fr": "La ligne d'arrêt, une ligne blanche continue tracée en travers de la chaussée, indique l'endroit où vous devez marquer l'arrêt imposé par le signal B5. À défaut de ligne d'arrêt, vous vous arrêtez avant le carrefour, à un endroit offrant une visibilité suffisante, puis cédez le passage.",
+        "en": "The stop line, a solid white line across the carriageway, marks where you must stop as required by sign B5. If there is no stop line, stop before the intersection at a spot with sufficient visibility and then give way."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersbord B5) en 76.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-024",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["B3", "B7"] },
+      "text": {
+        "nl": "Welk bord kondigt een stopbord (B5) aan op de bij benadering aangeduide afstand?",
+        "fr": "Quel signal annonce un signal stop (B5) à la distance approximativement indiquée ?",
+        "en": "Which sign announces a stop sign (B5) at the approximate distance indicated?"
+      },
+      "options": [
+        { "nl": "Het linkse bord", "fr": "Le signal de gauche", "en": "The left sign" },
+        { "nl": "Het rechtse bord", "fr": "Le signal de droite", "en": "The right sign" },
+        { "nl": "Beide borden", "fr": "Les deux signaux", "en": "Both signs" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord B7 (rechts, met vermelding 'STOP') kondigt het verkeersbord B5 aan; het bord B3 (links) kondigt op dezelfde wijze het bord B1 aan. De vermelde afstand is bij benadering; u stopt niet bij het aankondigingsbord, maar aan het kruispunt zelf.",
+        "fr": "Le signal B7 (à droite, avec la mention « STOP ») annonce le signal B5 ; le signal B3 (à gauche) annonce de la même manière le signal B1. La distance indiquée est approximative ; vous ne vous arrêtez pas au signal d'annonce, mais au carrefour même.",
+        "en": "Sign B7 (right, marked 'STOP') announces sign B5; sign B3 (left) announces sign B1 in the same way. The stated distance is approximate; you do not stop at the advance-warning sign but at the intersection itself."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersborden B3 en B7)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-025",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "B11" },
+      "text": {
+        "nl": "U rijdt voorbij dit bord. Wat geldt op het volgende kruispunt zonder verkeersborden of verkeerslichten?",
+        "fr": "Vous passez devant ce signal. Qu'est-ce qui s'applique au prochain carrefour sans signaux routiers ni feux ?",
+        "en": "You pass this sign. What applies at the next intersection without signs or traffic lights?"
+      },
+      "options": [
+        { "nl": "De voorrang van rechts", "fr": "La priorité de droite", "en": "Priority to the right" },
+        { "nl": "U behoudt voorrang: het bord bevestigt de voorrangsweg", "fr": "Vous conservez la priorité : le signal confirme la voie prioritaire", "en": "You keep priority: the sign confirms the priority road" },
+        { "nl": "U moet stoppen zoals bij een stopbord", "fr": "Vous devez vous arrêter comme à un signal stop", "en": "You must stop as at a stop sign" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord B11 heft de voorrangsweg op. Op de volgende kruispunten zonder voorrangsregeling geldt opnieuw de algemene regel: u verleent voorrang aan de bestuurder die van rechts komt. Het bord B13 kondigt dit einde vooraf aan.",
+        "fr": "Le signal B11 met fin à la voie prioritaire. Aux carrefours suivants non réglés, la règle générale s'applique de nouveau : vous cédez le passage au conducteur venant de droite. Le signal B13 annonce cette fin à l'avance.",
+        "en": "Sign B11 ends the priority road. At the following uncontrolled intersections the general rule applies again: you give way to the driver coming from the right. Sign B13 announces this end in advance."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersbord B11) en 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-026",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "B22" },
+      "text": {
+        "nl": "Voor wie geldt dit bord en wat laat het toe?",
+        "fr": "À qui s'adresse ce signal et que permet-il ?",
+        "en": "Who does this sign apply to and what does it allow?"
+      },
+      "options": [
+        { "nl": "Alle bestuurders mogen bij rood licht rechts afslaan", "fr": "Tous les conducteurs peuvent tourner à droite au feu rouge", "en": "All drivers may turn right at a red light" },
+        { "nl": "Fietsers en speed pedelecs mogen het rode of oranjegele licht voorbijrijden om rechts af te slaan, mits ze voorrang verlenen aan de andere weggebruikers", "fr": "Les cyclistes et speed pedelecs peuvent franchir le feu rouge ou jaune-orange pour tourner à droite, à condition de céder le passage aux autres usagers", "en": "Cyclists and speed pedelecs may pass the red or amber light to turn right, provided they give way to other road users" },
+        { "nl": "Fietsers krijgen voorrang wanneer ze bij rood licht rechts afslaan", "fr": "Les cyclistes obtiennent la priorité lorsqu'ils tournent à droite au feu rouge", "en": "Cyclists are given priority when they turn right at a red light" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord B22 geldt alleen voor fietsers en speed pedelecs en alleen om rechts af te slaan bij een rood of oranjegeel licht. Zij moeten daarbij voorrang verlenen aan de andere weggebruikers, onder wie de voetgangers; andere bestuurders wachten op groen.",
+        "fr": "Le signal B22 ne s'adresse qu'aux cyclistes et speed pedelecs, et uniquement pour tourner à droite au feu rouge ou jaune-orange. Ils doivent alors céder le passage aux autres usagers, y compris les piétons ; les autres conducteurs attendent le feu vert.",
+        "en": "Sign B22 applies only to cyclists and speed pedelecs, and only for turning right at a red or amber light. They must give way to other road users, including pedestrians; other drivers wait for green."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersbord B22)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-027",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "signsFor": [ { "approach": "s", "code": "B1" } ],
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "w", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en nadert het kruispunt; voor u staat het bord B1. Bestuurder B komt van links en rijdt rechtdoor. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous approchez du carrefour ; le signal B1 est placé sur votre voie. Le conducteur B vient de gauche et continue tout droit. Qui peut passer en premier ?",
+        "en": "You are driver A, approaching the intersection; sign B1 stands on your approach. Driver B comes from the left and goes straight ahead. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder B: u moet voorrang verlenen aan iedere bestuurder op de kruisende weg, ook aan wie van links komt", "fr": "Le conducteur B : vous devez céder le passage à tout conducteur sur la voie que vous croisez, même venant de gauche", "en": "Driver B: you must give way to every driver on the crossing road, including from the left" },
+        { "nl": "U (A): bestuurder B komt van links en moet u voorrang verlenen", "fr": "Vous (A) : le conducteur B vient de gauche et doit vous céder le passage", "en": "You (A): driver B comes from the left and must give way to you" },
+        { "nl": "De bestuurder die het eerst aan het kruispunt komt", "fr": "Le conducteur qui arrive le premier au carrefour", "en": "Whoever reaches the intersection first" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord B1 vervangt de voorrang van rechts: u moet voorrang verlenen aan alle bestuurders op de kruisende weg, uit beide richtingen. B rijdt op de weg met voorrang en mag dus eerst doorrijden.",
+        "fr": "Le signal B1 remplace la priorité de droite : vous devez céder le passage à tous les conducteurs de la voie que vous croisez, dans les deux sens. B circule sur la voie prioritaire et passe donc en premier.",
+        "en": "Sign B1 replaces priority to the right: you must give way to all drivers on the crossing road, from both directions. B is on the road with priority and therefore goes first."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersbord B1)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-028",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "A7c" },
+      "text": {
+        "nl": "Het verkeer rijdt sterk vertraagd. Bij de versmalling die dit bord aankondigt, eindigt uw rijstrook. Hoe voegt u in?",
+        "fr": "La circulation est fortement ralentie. Au rétrécissement annoncé par ce signal, votre bande de circulation prend fin. Comment vous insérez-vous ?",
+        "en": "Traffic is moving very slowly. At the narrowing announced by this sign, your traffic lane ends. How do you merge?"
+      },
+      "options": [
+        { "nl": "U voegt zo vroeg mogelijk in; wie tot vooraan doorrijdt, begaat een overtreding", "fr": "Vous vous insérez le plus tôt possible ; celui qui roule jusqu'au bout commet une infraction", "en": "You merge as early as possible; anyone driving to the front commits an offence" },
+        { "nl": "De bestuurders op de doorlopende rijstrook hebben voorrang; u wacht tot iemand u vrijwillig laat invoegen", "fr": "Les conducteurs de la bande libre ont la priorité ; vous attendez que quelqu'un vous laisse volontairement passer", "en": "Drivers in the continuing lane have priority; you wait until someone voluntarily lets you in" },
+        { "nl": "U ritst: u rijdt door tot aan de versmalling en voegt daar in; wie op de vrije rijstrook rijdt, laat telkens één invoeger voorgaan", "fr": "Vous appliquez la tirette : vous roulez jusqu'au rétrécissement et vous vous y insérez ; chaque conducteur de la bande libre laisse passer un véhicule qui s'insère", "en": "You zipper merge: you drive up to the narrowing and merge there; each driver in the free lane lets one merging vehicle go ahead" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Bij sterk vertraagd verkeer geldt het ritsen: bestuurders op de eindigende rijstrook voegen pas vlak vóór de versmalling in, en bestuurders op de vrije rijstrook moeten beurtelings telkens één invoeger laten voorgaan.",
+        "fr": "En cas de circulation fortement ralentie, le principe de la tirette s'applique : les conducteurs de la bande qui prend fin ne s'insèrent que juste avant le rétrécissement, et les conducteurs de la bande libre doivent laisser passer alternativement un véhicule qui s'insère.",
+        "en": "In heavily slowed traffic, zipper merging applies: drivers in the ending lane merge only just before the narrowing, and drivers in the free lane must alternately let one merging vehicle go ahead."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12bis", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-029",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "A25" },
+      "text": {
+        "nl": "Voorbij dit bord ligt een oversteekplaats voor fietsers, zonder verkeerslichten. Een fietser staat klaar om over te steken. Wie heeft voorrang?",
+        "fr": "Au-delà de ce signal se trouve un passage pour cyclistes, sans signaux lumineux. Un cycliste s'apprête à traverser. Qui a la priorité ?",
+        "en": "Beyond this sign lies a cycle crossing, without traffic lights. A cyclist is about to cross. Who has priority?"
+      },
+      "options": [
+        { "nl": "U, maar u moet de oversteekplaats met matige snelheid naderen en de fietser niet in gevaar brengen", "fr": "Vous, mais vous devez approcher du passage à allure modérée et ne pas mettre le cycliste en danger", "en": "You, but you must approach the crossing at moderate speed and not endanger the cyclist" },
+        { "nl": "De fietser: op een oversteekplaats heeft hij altijd voorrang, zoals een voetganger op een zebrapad", "fr": "Le cycliste : sur un passage, il a toujours la priorité, comme un piéton sur un passage pour piétons", "en": "The cyclist: on a crossing he always has priority, like a pedestrian on a zebra crossing" },
+        { "nl": "Niemand: beiden moeten stoppen", "fr": "Personne : les deux doivent s'arrêter", "en": "Nobody: both must stop" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Op een oversteekplaats voor fietsers die niet door verkeerslichten wordt geregeld, moeten overstekende fietsers voorrang verlenen aan het verkeer op de rijbaan. U moet de oversteekplaats wel met matige snelheid naderen — anders dan voetgangers op een zebrapad hebben overstekende fietsers er geen voorrang.",
+        "fr": "Sur un passage pour cyclistes non réglé par des signaux lumineux, les cyclistes qui traversent doivent céder le passage aux véhicules circulant sur la chaussée. Vous devez toutefois approcher du passage à allure modérée — contrairement aux piétons sur un passage pour piétons, les cyclistes n'y ont pas la priorité.",
+        "en": "At a cycle crossing not controlled by traffic lights, crossing cyclists must give way to traffic on the carriageway. You must still approach the crossing at moderate speed — unlike pedestrians on a pedestrian crossing, crossing cyclists do not have priority there."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 40ter en 76.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-030",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": { "type": "sign", "code": "B5" },
+      "text": {
+        "nl": "U komt aan dit bord en ziet in geen enkele richting verkeer. Moet u stoppen?",
+        "fr": "Vous arrivez à ce signal et ne voyez aucun véhicule dans aucune direction. Devez-vous vous arrêter ?",
+        "en": "You reach this sign and see no traffic in any direction. Must you stop?"
+      },
+      "options": [
+        { "nl": "Ja: bij het bord B5 moet u altijd volledig stoppen, ook als er geen verkeer nadert", "fr": "Oui : au signal B5, vous devez toujours marquer l'arrêt complet, même si aucun véhicule n'approche", "en": "Yes: at sign B5 you must always come to a complete stop, even when no traffic is approaching" },
+        { "nl": "Nee: als de kruisende weg vrij is, mag u traag doorrijden", "fr": "Non : si la voie que vous croisez est libre, vous pouvez passer lentement", "en": "No: if the crossing road is clear, you may drive on slowly" },
+        { "nl": "Alleen bij slechte zichtbaarheid", "fr": "Uniquement par mauvaise visibilité", "en": "Only in poor visibility" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord B5 verplicht altijd een volledige stop, gevolgd door voorrang verlenen. Ook zonder ander verkeer moet uw voertuig volledig stilstaan; traag doorrollen is een overtreding.",
+        "fr": "Le signal B5 impose toujours de marquer l'arrêt complet, puis de céder le passage. Même sans autre trafic, votre véhicule doit être complètement immobilisé ; passer lentement sans s'arrêter constitue une infraction.",
+        "en": "Sign B5 always requires a complete stop, followed by giving way. Even with no other traffic, your vehicle must come to a complete standstill; rolling through slowly is an offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersbord B5)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-031",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["B9", "B15"] },
+      "text": {
+        "nl": "Wat is het verschil tussen deze twee borden?",
+        "fr": "Quelle est la différence entre ces deux signaux ?",
+        "en": "What is the difference between these two signs?"
+      },
+      "options": [
+        { "nl": "Het linkse bord (B9) geeft voorrang op alle volgende kruispunten tot het bord B11; het rechtse (B15) alleen op het eerstvolgende kruispunt", "fr": "Le signal de gauche (B9) donne la priorité à tous les carrefours suivants jusqu'au signal B11 ; celui de droite (B15) uniquement au prochain carrefour", "en": "The left sign (B9) gives priority at all following intersections until sign B11; the right one (B15) only at the next intersection" },
+        { "nl": "Ze betekenen hetzelfde: voorrang tot het einde van de weg", "fr": "Ils signifient la même chose : priorité jusqu'à la fin de la route", "en": "They mean the same: priority until the end of the road" },
+        { "nl": "Het rechtse bord geeft voorrang tot het bord B11; het linkse alleen op het volgende kruispunt", "fr": "Le signal de droite donne la priorité jusqu'au signal B11 ; celui de gauche uniquement au prochain carrefour", "en": "The right sign gives priority until sign B11; the left one only at the next intersection" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "B9 duidt het begin van een voorrangsweg aan: u hebt voorrang op elk kruispunt tot het bord B11. B15 geeft alleen voorrang op het eerstvolgende kruispunt en wordt daarom zo nodig vóór elk kruispunt herhaald.",
+        "fr": "B9 indique le début d'une voie prioritaire : vous avez la priorité à chaque carrefour jusqu'au signal B11. B15 ne donne la priorité qu'au prochain carrefour et est donc répété, au besoin, avant chaque carrefour.",
+        "en": "B9 marks the start of a priority road: you have priority at every intersection until sign B11. B15 gives priority only at the next intersection and is therefore repeated before each intersection where needed."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersborden B9 en B15)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-032",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["B19", "B21"] },
+      "text": {
+        "nl": "U nadert een smalle doorgang en ziet op uw rijrichting het linkse bord staan. Wat moet u doen?",
+        "fr": "Vous approchez d'un passage étroit et, dans votre sens de circulation, le signal de gauche est placé. Que devez-vous faire ?",
+        "en": "You approach a narrow passage and the left sign stands on your side. What must you do?"
+      },
+      "options": [
+        { "nl": "Voorrang verlenen aan de bestuurders die uit de tegenovergestelde richting komen", "fr": "Céder le passage aux conducteurs venant en sens opposé", "en": "Give way to the drivers coming from the opposite direction" },
+        { "nl": "Doorrijden: u hebt voorrang op de tegenliggers", "fr": "Passer : vous avez la priorité sur les conducteurs venant en sens opposé", "en": "Drive on: you have priority over oncoming traffic" },
+        { "nl": "Stoppen en wachten op de instructies van een bevoegd persoon", "fr": "Vous arrêter et attendre les instructions d'un agent qualifié", "en": "Stop and wait for the instructions of an authorised official" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord B19 verplicht u voorrang te verlenen aan de bestuurders die uit de tegenovergestelde richting komen; rijd de doorgang pas in als die vrij is. Aan de andere kant staat het bord B21, dat de tegenliggers voorrang geeft.",
+        "fr": "Le signal B19 vous oblige à céder le passage aux conducteurs venant en sens opposé ; ne vous engagez dans le passage que lorsqu'il est libre. De l'autre côté est placé le signal B21, qui donne la priorité aux conducteurs venant en face.",
+        "en": "Sign B19 requires you to give way to drivers coming from the opposite direction; only enter the passage when it is clear. On the other side stands sign B21, which gives those oncoming drivers priority."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersborden B19 en B21)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-033",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "signsFor": [ { "approach": "s", "code": "B17" } ],
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "w", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A; voor u staat het bord B17. Bestuurder B nadert van links. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A ; le signal B17 est placé sur votre voie. Le conducteur B approche par la gauche. Qui peut passer en premier ?",
+        "en": "You are driver A; sign B17 stands on your approach. Driver B approaches from the left. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "U (A): het bord B17 herinnert eraan dat de voorrang van rechts geldt, en u komt voor B van rechts", "fr": "Vous (A) : le signal B17 rappelle que la priorité de droite s'applique, et vous venez de la droite pour B", "en": "You (A): sign B17 reminds you that priority to the right applies, and you come from B's right" },
+        { "nl": "Bestuurder B: het bord verplicht u voorrang te verlenen", "fr": "Le conducteur B : le signal vous oblige à céder le passage", "en": "Driver B: the sign requires you to give way" },
+        { "nl": "Bestuurder B: wie rechtdoor rijdt, heeft op zo'n kruispunt altijd voorrang", "fr": "Le conducteur B : celui qui va tout droit a toujours la priorité à un tel carrefour", "en": "Driver B: whoever goes straight ahead always has priority at such an intersection" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord B17 legt geen voorrang op en neemt er geen af: het herinnert er alleen aan dat op het kruispunt de voorrang van rechts geldt. B komt van links en moet u dus voorrang verlenen; rijd niettemin voorzichtig het kruispunt op.",
+        "fr": "Le signal B17 n'impose ni ne retire aucune priorité : il rappelle seulement que la priorité de droite s'applique au carrefour. B vient de gauche et doit donc vous céder le passage ; abordez néanmoins le carrefour avec prudence.",
+        "en": "Sign B17 neither grants nor removes priority: it only reminds you that priority to the right applies at the crossroads. B comes from your left and must therefore give way to you; still enter the intersection with caution."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersbord B17) en 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1028 @@
+{
+  "category": "priority",
+  "questions": [
+    {
+      "id": "priority-001",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "e", "to": "w" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en nadert een kruispunt zonder verkeersborden of verkeerslichten. U wil rechtdoor rijden. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous approchez d'un carrefour sans signaux routiers ni feux. Vous voulez continuer tout droit. Qui peut passer en premier ?",
+        "en": "You are driver A, approaching an intersection without signs or traffic lights. You want to go straight ahead. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder A", "fr": "Le conducteur A", "en": "Driver A" },
+        { "nl": "Bestuurder B", "fr": "Le conducteur B", "en": "Driver B" },
+        { "nl": "De bestuurder die het eerst aan het kruispunt komt", "fr": "Le conducteur qui arrive le premier au carrefour", "en": "Whoever reaches the intersection first" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "B komt voor u van rechts. Op een kruispunt zonder verkeerstekens geldt de voorrang van rechts, dus moet u voorrang verlenen aan B.",
+        "fr": "B arrive à votre droite. À un carrefour non réglé, la priorité de droite s'applique : vous devez céder le passage à B.",
+        "en": "B approaches from your right. At an uncontrolled intersection priority to the right applies, so you must give way to B."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-002",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "w", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en nadert een kruispunt zonder verkeersborden of verkeerslichten. U wil rechtdoor rijden. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous approchez d'un carrefour sans signaux routiers ni feux. Vous voulez continuer tout droit. Qui peut passer en premier ?",
+        "en": "You are driver A, approaching an intersection without signs or traffic lights. You want to go straight ahead. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder B", "fr": "Le conducteur B", "en": "Driver B" },
+        { "nl": "De bestuurder die het eerst aan het kruispunt komt", "fr": "Le conducteur qui arrive le premier au carrefour", "en": "Whoever reaches the intersection first" },
+        { "nl": "Bestuurder A", "fr": "Le conducteur A", "en": "Driver A" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "B komt voor u van links, terwijl u voor B van rechts komt. Volgens de voorrang van rechts moet B u laten voorgaan; u blijft wel dubbel voorzichtig het kruispunt oprijden.",
+        "fr": "B arrive à votre gauche ; c'est vous qui venez de la droite pour B. Selon la priorité de droite, B doit vous céder le passage ; vous abordez néanmoins le carrefour avec une prudence redoublée.",
+        "en": "B comes from your left, so you are the driver coming from B's right. Under priority to the right, B must give way to you; still approach the intersection with extra caution."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1 en 12.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-003",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "e", "to": "w" },
+            { "label": "C", "from": "w", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A. Alle bestuurders willen rechtdoor rijden en er staan geen verkeersborden. In welke volgorde rijden de bestuurders het kruispunt over?",
+        "fr": "Vous êtes le conducteur A. Tous les conducteurs veulent continuer tout droit et il n'y a aucun signal routier. Dans quel ordre les conducteurs franchissent-ils le carrefour ?",
+        "en": "You are driver A. All drivers want to go straight ahead and there are no road signs. In what order do the drivers cross the intersection?"
+      },
+      "options": [
+        { "nl": "B, dan A, dan C", "fr": "B, puis A, puis C", "en": "B, then A, then C" },
+        { "nl": "A, dan B, dan C", "fr": "A, puis B, puis C", "en": "A, then B, then C" },
+        { "nl": "C, dan B, dan A", "fr": "C, puis B, puis A", "en": "C, then B, then A" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "B heeft niemand van rechts en mag eerst. U moet alleen B (van rechts) laten voorgaan en rijdt als tweede. C moet u van rechts laten voorgaan en rijdt als laatste.",
+        "fr": "B n'a personne à sa droite et passe en premier. Vous ne devez céder le passage qu'à B (venant de votre droite) et passez en deuxième. C doit vous céder le passage (vous venez de sa droite) et passe en dernier.",
+        "en": "B has nobody coming from the right and goes first. You only have to give way to B (on your right) and go second. C must give way to you (you are on C's right) and goes last."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-004",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "t-junction",
+          "stem": "s",
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "e" },
+            { "label": "B", "from": "w", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en komt uit de zijstraat van een T-kruispunt zonder verkeersborden. U slaat rechts af; B rijdt rechtdoor op de doorgaande weg. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous sortez de la rue latérale d'un carrefour en T sans signaux routiers. Vous tournez à droite ; B continue tout droit sur la voie transversale. Qui peut passer en premier ?",
+        "en": "You are driver A, coming from the side street of a T-junction without road signs. You turn right; B goes straight on on the through road. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder A", "fr": "Le conducteur A", "en": "Driver A" },
+        { "nl": "Bestuurder B, omdat hij de doorgaande weg volgt", "fr": "Le conducteur B, parce qu'il suit la voie qui continue tout droit", "en": "Driver B, because he follows the through road" },
+        { "nl": "De bestuurder die het eerst aan het kruispunt komt", "fr": "Le conducteur qui arrive le premier au carrefour", "en": "Whoever reaches the junction first" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Ook op een T-kruispunt zonder verkeerstekens geldt de voorrang van rechts. U komt voor B van rechts, dus B moet u laten voorgaan: de doorgaande weg geeft op zich geen voorrang.",
+        "fr": "La priorité de droite s'applique aussi à un carrefour en T sans signalisation. Vous venez de la droite de B, donc B doit vous céder le passage : le fait de suivre la voie principale ne donne aucune priorité en soi.",
+        "en": "Priority to the right also applies at an unsigned T-junction. You come from B's right, so B must give way to you: following the through road gives no priority by itself."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-005",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "t-junction",
+          "stem": "s",
+          "signsFor": [{ "approach": "s", "code": "B1" }],
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "w" },
+            { "label": "B", "from": "e", "to": "w" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en komt uit de zijstraat, waar het bord B1 (voorrang verlenen) staat. U slaat links af; B rijdt rechtdoor. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous sortez de la rue latérale, où est placé le signal B1 (céder le passage). Vous tournez à gauche ; B continue tout droit. Qui peut passer en premier ?",
+        "en": "You are driver A, coming from the side street where sign B1 (give way) is posted. You turn left; B goes straight on. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder A", "fr": "Le conducteur A", "en": "Driver A" },
+        { "nl": "Bestuurder B", "fr": "Le conducteur B", "en": "Driver B" },
+        { "nl": "Beide tegelijk", "fr": "Les deux en même temps", "en": "Both at the same time" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord B1 verplicht u voorrang te verlenen aan alle bestuurders op de weg die u oprijdt. B rijdt op die weg, dus B gaat eerst.",
+        "fr": "Le signal B1 vous oblige à céder le passage à tous les conducteurs circulant sur la voie que vous abordez. B circule sur cette voie, donc B passe en premier.",
+        "en": "Sign B1 obliges you to give way to all drivers on the road you are entering. B is driving on that road, so B goes first."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1, a) en Art. 67.3 (B1)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-006",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "signsFor": [
+            { "approach": "s", "code": "B15" },
+            { "approach": "e", "code": "B1" }
+          ],
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "e", "to": "s" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en rijdt rechtdoor. Op uw weg staat het bord B15 (voorrang); B nadert van rechts, waar het bord B1 staat. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous continuez tout droit. Sur votre route se trouve le signal B15 (priorité de passage) ; B arrive à droite, où est placé le signal B1. Qui peut passer en premier ?",
+        "en": "You are driver A, going straight ahead. Your road carries sign B15 (priority); B approaches from the right, where sign B1 is posted. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder B", "fr": "Le conducteur B", "en": "Driver B" },
+        { "nl": "Bestuurder A", "fr": "Le conducteur A", "en": "Driver A" },
+        { "nl": "Bestuurder B, want hij komt van rechts", "fr": "Le conducteur B, car il vient de droite", "en": "Driver B, because he comes from the right" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord B15 geeft u voorrang op het volgende kruispunt; B staat voor het bord B1 en moet voorrang verlenen. De borden gaan hier vóór de voorrang van rechts, dus u gaat eerst.",
+        "fr": "Le signal B15 vous donne la priorité au prochain carrefour ; B est devant le signal B1 et doit céder le passage. Les signaux priment ici la priorité de droite : vous passez en premier.",
+        "en": "Sign B15 gives you priority at the next intersection; B faces sign B1 and must give way. The signs override priority to the right here, so you go first."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (B1, B15) en Art. 12.3.1, a)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-007",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "signsFor": [{ "approach": "s", "code": "B5" }],
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "w", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en nadert het kruispunt, waar voor u het bord B5 (stop) staat. B nadert van links. Wat moet u doen?",
+        "fr": "Vous êtes le conducteur A et vous approchez du carrefour, où le signal B5 (stop) est placé pour vous. B arrive à gauche. Que devez-vous faire ?",
+        "en": "You are driver A, approaching the intersection where sign B5 (stop) is posted for you. B approaches from the left. What must you do?"
+      },
+      "options": [
+        { "nl": "Volledig stoppen aan de stopstreep en voorrang verlenen aan B", "fr": "Marquer l'arrêt complet à la ligne d'arrêt et céder le passage à B", "en": "Come to a complete stop at the stop line and give way to B" },
+        { "nl": "Vertragen en doorrijden als B nog ver genoeg is", "fr": "Ralentir et passer si B est encore assez loin", "en": "Slow down and continue if B is still far enough away" },
+        { "nl": "Gewoon doorrijden: B komt van links", "fr": "Continuer normalement : B vient de gauche", "en": "Simply continue: B comes from the left" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord B5 verplicht u altijd volledig te stoppen én voorrang te verlenen aan alle bestuurders op de dwarsweg, uit beide richtingen. Dat B van links komt, speelt geen rol: het stopbord heft de voorrang van rechts op.",
+        "fr": "Le signal B5 vous oblige toujours à marquer l'arrêt complet et à céder le passage à tous les conducteurs de la voie transversale, dans les deux sens. Que B vienne de gauche ne change rien : le stop remplace la priorité de droite.",
+        "en": "Sign B5 always requires a complete stop and giving way to all drivers on the crossing road, from both directions. That B comes from the left is irrelevant: the stop sign replaces priority to the right."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1, a) en Art. 67.3 (B5)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-008",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "signsFor": [{ "approach": "s", "code": "B17" }],
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "e", "to": "w" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A. Voor u staat het bord B17. U rijdt rechtdoor; B nadert van rechts. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A. Devant vous se trouve le signal B17. Vous continuez tout droit ; B arrive à droite. Qui peut passer en premier ?",
+        "en": "You are driver A. Sign B17 is posted for you. You go straight ahead; B approaches from the right. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder A", "fr": "Le conducteur A", "en": "Driver A" },
+        { "nl": "Bestuurder B", "fr": "Le conducteur B", "en": "Driver B" },
+        { "nl": "Niemand: de bestuurders moeten onderling afspreken", "fr": "Personne : les conducteurs doivent s'accorder entre eux", "en": "Nobody: the drivers must agree among themselves" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord B17 kondigt een kruispunt aan waar de voorrang van rechts geldt. B komt voor u van rechts, dus u moet B laten voorgaan.",
+        "fr": "Le signal B17 annonce un carrefour où la priorité de droite est applicable. B vient de votre droite, vous devez donc lui céder le passage.",
+        "en": "Sign B17 announces a crossroads where priority to the right applies. B comes from your right, so you must give way to B."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1 en Art. 67.3 (B17)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-009",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "w" },
+            { "label": "B", "from": "n", "to": "s" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en slaat links af op een kruispunt zonder verkeersborden. B komt u tegemoet en rijdt rechtdoor. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous tournez à gauche à un carrefour sans signaux routiers. B vient en sens inverse et continue tout droit. Qui peut passer en premier ?",
+        "en": "You are driver A, turning left at an intersection without road signs. B comes towards you and goes straight ahead. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder A", "fr": "Le conducteur A", "en": "Driver A" },
+        { "nl": "Bestuurder B", "fr": "Le conducteur B", "en": "Driver B" },
+        { "nl": "Beide tegelijk", "fr": "Les deux en même temps", "en": "Both at the same time" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Wie links afslaat, moet voorrang verlenen aan de tegemoetkomende bestuurders op de rijbaan die hij gaat verlaten. B komt u tegemoet en rijdt rechtdoor, dus B gaat eerst.",
+        "fr": "Le conducteur qui tourne à gauche doit céder le passage aux conducteurs venant en sens inverse sur la chaussée qu'il va quitter. B vient en face et continue tout droit, donc B passe en premier.",
+        "en": "A driver turning left must give way to oncoming drivers on the carriageway he is about to leave. B is oncoming and going straight, so B goes first."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 19.3.3°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-010",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "signsFor": [
+            { "approach": "s", "code": "B9" },
+            { "approach": "e", "code": "B1" }
+          ],
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "e", "to": "n" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en rijdt op een voorrangsweg (bord B9). B nadert van rechts, waar het bord B1 staat, en slaat af in uw richting. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous circulez sur une voie prioritaire (signal B9). B arrive à droite, où est placé le signal B1, et tourne dans votre direction. Qui peut passer en premier ?",
+        "en": "You are driver A, driving on a priority road (sign B9). B approaches from the right, where sign B1 is posted, and turns into your direction. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder B, want hij komt van rechts", "fr": "Le conducteur B, car il vient de droite", "en": "Driver B, because he comes from the right" },
+        { "nl": "Bestuurder A", "fr": "Le conducteur A", "en": "Driver A" },
+        { "nl": "De bestuurder die het eerst aan het kruispunt komt", "fr": "Le conducteur qui arrive le premier au carrefour", "en": "Whoever reaches the intersection first" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Op een voorrangsweg (B9) heeft u voorrang op elk kruispunt tot een bord B11 de voorrangsweg beëindigt. B staat voor het bord B1 en moet u laten voorgaan, ook al komt hij van rechts.",
+        "fr": "Sur une voie prioritaire (B9), vous avez la priorité à chaque carrefour jusqu'à ce qu'un signal B11 y mette fin. B est devant le signal B1 et doit vous céder le passage, même s'il vient de droite.",
+        "en": "On a priority road (B9) you have priority at every intersection until sign B11 ends it. B faces sign B1 and must give way to you, even though he comes from the right."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (B9, B1) en Art. 12.3.1, a)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-011",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "n", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en rijdt rechtdoor op een kruispunt zonder verkeersborden. B komt u tegemoet en slaat links af. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous continuez tout droit à un carrefour sans signaux routiers. B vient en sens inverse et tourne à gauche. Qui peut passer en premier ?",
+        "en": "You are driver A, going straight ahead at an intersection without road signs. B comes towards you and turns left. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder A", "fr": "Le conducteur A", "en": "Driver A" },
+        { "nl": "Bestuurder B", "fr": "Le conducteur B", "en": "Driver B" },
+        { "nl": "De bestuurder die het eerst aan het kruispunt komt", "fr": "Le conducteur qui arrive le premier au carrefour", "en": "Whoever reaches the intersection first" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "B slaat links af en moet daarbij voorrang verlenen aan de tegemoetkomende bestuurders. U komt B tegemoet en rijdt rechtdoor, dus u gaat eerst.",
+        "fr": "B tourne à gauche et doit céder le passage aux conducteurs venant en sens inverse. Vous venez en face de B et continuez tout droit, donc vous passez en premier.",
+        "en": "B is turning left and must give way to oncoming drivers. You are oncoming for B and going straight, so you go first."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 19.3.3°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-012",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "e", "to": "w" },
+            { "label": "C", "from": "n", "to": "s" },
+            { "label": "D", "from": "w", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A. Vier voertuigen komen gelijktijdig uit vier richtingen aan een kruispunt zonder verkeersborden; iedereen wil rechtdoor. Wie heeft voorrang?",
+        "fr": "Vous êtes le conducteur A. Quatre véhicules arrivent en même temps des quatre directions à un carrefour sans signaux routiers ; chacun veut continuer tout droit. Qui a la priorité ?",
+        "en": "You are driver A. Four vehicles arrive simultaneously from four directions at an intersection without road signs; everyone wants to go straight ahead. Who has priority?"
+      },
+      "options": [
+        { "nl": "Niemand: de voorrangsregel biedt geen oplossing, de bestuurders moeten onderling afspreken wie eerst rijdt", "fr": "Personne : la règle de priorité n'offre pas de solution, les conducteurs doivent s'accorder entre eux", "en": "Nobody: the priority rule offers no solution, the drivers must agree among themselves who goes first" },
+        { "nl": "Bestuurder B, want hij komt voor u van rechts", "fr": "Le conducteur B, car il vient de votre droite", "en": "Driver B, because he comes from your right" },
+        { "nl": "De bestuurder die het eerst aan het kruispunt kwam", "fr": "Le conducteur arrivé le premier au carrefour", "en": "Whoever arrived at the intersection first" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Elke bestuurder heeft hier iemand die van rechts komt: de voorrang van rechts loopt vast. Niemand heeft dan voorrang; de bestuurders moeten oogcontact maken, onderling afspreken en één voor één voorzichtig oversteken.",
+        "fr": "Chaque conducteur a ici quelqu'un venant de sa droite : la priorité de droite se bloque. Personne n'a alors la priorité ; les conducteurs doivent établir un contact visuel, s'accorder et franchir le carrefour prudemment un par un.",
+        "en": "Every driver here has someone coming from the right: priority to the right deadlocks. Nobody has priority; the drivers must make eye contact, reach an agreement and cross carefully one at a time."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.2 en 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-013",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "t-junction",
+          "stem": "n",
+          "vehicles": [
+            { "label": "A", "from": "w", "to": "e" },
+            { "label": "B", "from": "n", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en rijdt rechtdoor op de doorgaande weg van een T-kruispunt zonder verkeersborden. B komt uit de zijstraat aan uw linkerkant en slaat af in dezelfde richting als u. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous continuez tout droit sur la voie transversale d'un carrefour en T sans signaux routiers. B sort de la rue latérale à votre gauche et tourne dans la même direction que vous. Qui peut passer en premier ?",
+        "en": "You are driver A, going straight on along the through road of a T-junction without road signs. B comes from the side street on your left and turns into the same direction as you. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder B", "fr": "Le conducteur B", "en": "Driver B" },
+        { "nl": "De bestuurder die het eerst aan het kruispunt komt", "fr": "Le conducteur qui arrive le premier au carrefour", "en": "Whoever reaches the junction first" },
+        { "nl": "Bestuurder A", "fr": "Le conducteur A", "en": "Driver A" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Voor B, die uit de zijstraat komt, komt u van rechts: B moet u dus laten voorgaan. De voorrang van rechts geldt ook op een T-kruispunt zonder verkeerstekens.",
+        "fr": "Pour B, qui sort de la rue latérale, vous venez de droite : B doit donc vous céder le passage. La priorité de droite s'applique aussi à un carrefour en T sans signalisation.",
+        "en": "For B, coming out of the side street, you approach from the right: B must therefore give way to you. Priority to the right also applies at an unsigned T-junction."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-014",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "e", "to": "s" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en rijdt rechtdoor op een kruispunt zonder verkeersborden. B komt van rechts en slaat links af. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous continuez tout droit à un carrefour sans signaux routiers. B vient de droite et tourne à gauche. Qui peut passer en premier ?",
+        "en": "You are driver A, going straight ahead at an intersection without road signs. B comes from the right and turns left. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder A, want rechtdoor gaat vóór afslaan", "fr": "Le conducteur A, car aller tout droit prime sur tourner", "en": "Driver A, because going straight beats turning" },
+        { "nl": "Bestuurder B", "fr": "Le conducteur B", "en": "Driver B" },
+        { "nl": "Beide tegelijk", "fr": "Les deux en même temps", "en": "Both at the same time" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "B komt voor u van rechts en behoudt zijn voorrang, ook al slaat hij af: er bestaat geen regel dat rechtdoor vóór afslaan gaat. B moet zelf enkel voorrang verlenen aan tegenliggers, en die zijn er niet.",
+        "fr": "B vient de votre droite et garde sa priorité même s'il tourne : aucune règle ne fait primer le tout droit sur le changement de direction. B ne doit lui-même céder le passage qu'aux conducteurs venant en sens inverse, et il n'y en a pas.",
+        "en": "B comes from your right and keeps priority even though he is turning: there is no rule that going straight beats turning. B himself only has to give way to oncoming traffic, and there is none."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1 en Art. 19.3.3°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-015",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "w", "to": "n" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en rijdt rechtdoor op een kruispunt zonder verkeersborden. B komt van links en slaat links af naar dezelfde weg die u oprijdt. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous continuez tout droit à un carrefour sans signaux routiers. B vient de gauche et tourne à gauche vers la même voie que vous empruntez. Qui peut passer en premier ?",
+        "en": "You are driver A, going straight ahead at an intersection without road signs. B comes from the left and turns left into the same road you are entering. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder B", "fr": "Le conducteur B", "en": "Driver B" },
+        { "nl": "Bestuurder A", "fr": "Le conducteur A", "en": "Driver A" },
+        { "nl": "Beide tegelijk, want ze rijden dezelfde richting uit", "fr": "Les deux en même temps, car ils partent dans la même direction", "en": "Both at the same time, since they head the same way" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "U komt voor B van rechts, dus B moet u laten voorgaan en pas daarna invoegen achter u. Ook al rijden beiden dezelfde weg op, uw paden kruisen elkaar op het kruispunt.",
+        "fr": "Vous venez de la droite de B : B doit donc vous céder le passage et ne s'engager qu'après vous. Même si vous prenez la même voie, vos trajectoires se croisent sur le carrefour.",
+        "en": "You come from B's right, so B must give way and merge only after you. Even though both head into the same road, your paths cross on the intersection."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-016",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "signsFor": [{ "approach": "s", "code": "B1" }],
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "w", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A. Voor u staat het bord B1 (voorrang verlenen). B nadert van links en rijdt rechtdoor. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A. Devant vous se trouve le signal B1 (céder le passage). B arrive à gauche et continue tout droit. Qui peut passer en premier ?",
+        "en": "You are driver A. Sign B1 (give way) is posted for you. B approaches from the left, going straight ahead. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder A, want B komt van links", "fr": "Le conducteur A, car B vient de gauche", "en": "Driver A, because B comes from the left" },
+        { "nl": "Bestuurder B", "fr": "Le conducteur B", "en": "Driver B" },
+        { "nl": "Beide tegelijk", "fr": "Les deux en même temps", "en": "Both at the same time" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Wie voor het bord B1 staat, moet voorrang verlenen aan álle bestuurders op de dwarsweg, ook aan wie van links komt. De voorrang van rechts geldt hier niet meer, dus B gaat eerst.",
+        "fr": "Le conducteur placé devant le signal B1 doit céder le passage à tous les conducteurs de la voie transversale, y compris ceux venant de gauche. La priorité de droite ne s'applique plus ici : B passe en premier.",
+        "en": "A driver facing sign B1 must give way to all drivers on the crossing road, including those coming from the left. Priority to the right no longer applies here, so B goes first."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1, a) en Art. 67.3 (B1)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-017",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "signsFor": [
+            { "approach": "s", "code": "B1" },
+            { "approach": "e", "code": "B15" },
+            { "approach": "w", "code": "B15" }
+          ],
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "w" },
+            { "label": "B", "from": "e", "to": "w" },
+            { "label": "C", "from": "w", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en wil links afslaan. Voor u staat het bord B1; de dwarsweg heeft voorrang (B15). B en C rijden rechtdoor. Wanneer mag u het kruispunt oprijden?",
+        "fr": "Vous êtes le conducteur A et vous voulez tourner à gauche. Devant vous se trouve le signal B1 ; la voie transversale est prioritaire (B15). B et C continuent tout droit. Quand pouvez-vous vous engager sur le carrefour ?",
+        "en": "You are driver A and want to turn left. Sign B1 is posted for you; the crossing road has priority (B15). B and C go straight ahead. When may you enter the intersection?"
+      },
+      "options": [
+        { "nl": "Nadat zowel B als C voorbijgereden zijn", "fr": "Après le passage de B et de C", "en": "After both B and C have passed" },
+        { "nl": "Zodra B voorbij is: voor C komt u van rechts", "fr": "Dès que B est passé : vous venez de la droite de C", "en": "As soon as B has passed: you come from C's right" },
+        { "nl": "Meteen: u komt voor B van rechts", "fr": "Immédiatement : vous venez de la droite de B", "en": "Immediately: you come from B's right" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord B1 verplicht u voorrang te verlenen aan alle bestuurders op de dwarsweg, uit beide richtingen. Uw linksafslaande traject kruist zowel het pad van B als dat van C, dus u wacht tot beiden voorbij zijn.",
+        "fr": "Le signal B1 vous oblige à céder le passage à tous les conducteurs de la voie transversale, dans les deux sens. Votre trajet vers la gauche croise à la fois celui de B et celui de C : vous attendez donc leur passage.",
+        "en": "Sign B1 obliges you to give way to all drivers on the crossing road, from both directions. Your left-turn path crosses both B's and C's paths, so you wait until both have passed."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1, a) en Art. 67.3 (B1, B15)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-018",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "t-junction",
+          "stem": "s",
+          "vehicles": [
+            { "label": "A", "from": "e", "to": "s" },
+            { "label": "B", "from": "w", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en rijdt op de doorgaande weg van een T-kruispunt zonder verkeersborden. U slaat links af de zijstraat in; B komt u tegemoet en rijdt rechtdoor. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous circulez sur la voie transversale d'un carrefour en T sans signaux routiers. Vous tournez à gauche dans la rue latérale ; B vient en sens inverse et continue tout droit. Qui peut passer en premier ?",
+        "en": "You are driver A, driving on the through road of a T-junction without road signs. You turn left into the side street; B comes towards you going straight ahead. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder A, want hij rijdt op de doorgaande weg", "fr": "Le conducteur A, car il circule sur la voie principale", "en": "Driver A, because he is on the through road" },
+        { "nl": "Bestuurder B", "fr": "Le conducteur B", "en": "Driver B" },
+        { "nl": "De bestuurder die het eerst aan het kruispunt komt", "fr": "Le conducteur qui arrive le premier au carrefour", "en": "Whoever reaches the junction first" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "U verandert van richting naar links en moet daarbij voorrang verlenen aan de tegemoetkomende bestuurders op de rijbaan die u verlaat. B rijdt rechtdoor en gaat dus eerst.",
+        "fr": "Vous changez de direction vers la gauche et devez céder le passage aux conducteurs venant en sens inverse sur la chaussée que vous quittez. B continue tout droit et passe donc en premier.",
+        "en": "You are turning left and must give way to oncoming drivers on the carriageway you are leaving. B is going straight ahead and therefore goes first."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 19.3.3°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-019",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "signsFor": [{ "approach": "s", "code": "B17" }],
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "w", "to": "e" },
+            { "label": "C", "from": "e", "to": "w" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A; voor u staat het bord B17. Alle bestuurders rijden rechtdoor. In welke volgorde rijden de bestuurders het kruispunt over?",
+        "fr": "Vous êtes le conducteur A ; devant vous se trouve le signal B17. Tous les conducteurs continuent tout droit. Dans quel ordre les conducteurs franchissent-ils le carrefour ?",
+        "en": "You are driver A; sign B17 is posted for you. All drivers go straight ahead. In what order do the drivers cross the intersection?"
+      },
+      "options": [
+        { "nl": "C, dan A, dan B", "fr": "C, puis A, puis B", "en": "C, then A, then B" },
+        { "nl": "A, dan C, dan B", "fr": "A, puis C, puis B", "en": "A, then C, then B" },
+        { "nl": "B en C samen, dan A", "fr": "B et C ensemble, puis A", "en": "B and C together, then A" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "B17 bevestigt dat de voorrang van rechts geldt. C heeft niemand van rechts en rijdt eerst; u laat C (van rechts) voorgaan en rijdt als tweede; B moet u van rechts laten voorgaan en sluit af.",
+        "fr": "B17 confirme que la priorité de droite s'applique. C n'a personne à sa droite et passe en premier ; vous laissez passer C (venant de votre droite) et passez en deuxième ; B doit vous céder le passage et termine.",
+        "en": "B17 confirms that priority to the right applies. C has nobody on the right and goes first; you let C (from your right) pass and go second; B must give way to you and goes last."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1 en Art. 67.3 (B17)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-020",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U nadert een kruispunt zonder verkeersborden, verkeerslichten of bevoegd persoon. Aan wie moet u voorrang verlenen?",
+        "fr": "Vous approchez d'un carrefour sans signaux routiers, sans feux et sans agent qualifié. À qui devez-vous céder le passage ?",
+        "en": "You approach an intersection without road signs, traffic lights or an authorised official. To whom must you give way?"
+      },
+      "options": [
+        { "nl": "Aan de bestuurder die van rechts komt", "fr": "Au conducteur qui vient de droite", "en": "To the driver coming from the right" },
+        { "nl": "Aan de bestuurder die van links komt", "fr": "Au conducteur qui vient de gauche", "en": "To the driver coming from the left" },
+        { "nl": "Aan de bestuurder die rechtdoor rijdt", "fr": "Au conducteur qui continue tout droit", "en": "To the driver going straight ahead" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Op een kruispunt zonder verkeerstekens geldt de voorrang van rechts: elke bestuurder moet voorrang verlenen aan de bestuurder die van rechts komt.",
+        "fr": "À un carrefour non réglé, la priorité de droite s'applique : chaque conducteur doit céder le passage au conducteur qui vient de droite.",
+        "en": "At an uncontrolled intersection priority to the right applies: every driver must give way to the driver coming from the right."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-021",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op een kruispunt zonder verkeersborden nadert een auto van rechts, maar hij rijdt in een eenrichtingsstraat tegen de toegelaten rijrichting in. Heeft hij voorrang?",
+        "fr": "À un carrefour sans signaux routiers, une voiture arrive de droite, mais elle circule dans une rue à sens unique à contresens. A-t-elle la priorité ?",
+        "en": "At an intersection without road signs a car approaches from the right, but it is driving the wrong way down a one-way street. Does it have priority?"
+      },
+      "options": [
+        { "nl": "Ja, hij komt van rechts", "fr": "Oui, elle vient de droite", "en": "Yes, it comes from the right" },
+        { "nl": "Nee: wie uit een verboden rijrichting komt, verliest zijn voorrang van rechts", "fr": "Non : celui qui vient d'un sens interdit perd sa priorité de droite", "en": "No: a driver coming from a prohibited direction forfeits priority to the right" },
+        { "nl": "Alleen als hij trager rijdt dan u", "fr": "Seulement s'il roule plus lentement que vous", "en": "Only if it is driving slower than you" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "De voorrang van rechts geldt niet wanneer de bestuurder die van rechts komt uit een verboden rijrichting komt. Let op: een fietser die via een toegelaten uitzondering (onderbord) tegen de richting in mag rijden, komt níét uit een verboden rijrichting en behoudt zijn voorrang.",
+        "fr": "La priorité de droite ne s'applique pas lorsque le conducteur venant de droite arrive d'un sens de circulation interdit. Attention : un cycliste autorisé à circuler à contresens (panneau additionnel) ne vient pas d'un sens interdit et garde sa priorité.",
+        "en": "Priority to the right does not apply when the driver coming from the right arrives from a prohibited direction. Note: a cyclist legally allowed to ride contraflow (supplementary panel) is not coming from a prohibited direction and keeps priority."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-022",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U komt via een aardeweg op een openbare weg met een rijbaan. Een auto op die weg nadert van uw linkerkant. Heeft u voorrang, aangezien u voor hem van rechts komt?",
+        "fr": "Vous débouchez d'un chemin de terre sur une voie publique comportant une chaussée. Une voiture sur cette voie arrive de votre gauche. Avez-vous la priorité, puisque vous venez de sa droite ?",
+        "en": "You enter a public road with a carriageway from an earth road. A car on that road approaches from your left. Do you have priority, since you come from its right?"
+      },
+      "options": [
+        { "nl": "Ja: de voorrang van rechts geldt altijd", "fr": "Oui : la priorité de droite s'applique toujours", "en": "Yes: priority to the right always applies" },
+        { "nl": "Nee: wie van een aardeweg of pad komt, moet voorrang verlenen aan alle bestuurders op de openbare weg", "fr": "Non : celui qui vient d'un chemin de terre ou d'un sentier doit céder le passage à tous les conducteurs de la voie publique", "en": "No: a driver coming from an earth road or path must give way to all drivers on the public road" },
+        { "nl": "Alleen als de andere auto sneller rijdt dan 50 km/u", "fr": "Seulement si l'autre voiture roule à plus de 50 km/h", "en": "Only if the other car is driving faster than 50 km/h" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Wie uit een aardeweg of een pad op een openbare weg met een rijbaan komt, moet voorrang verlenen aan iedere bestuurder op die weg — de voorrang van rechts geldt daar niet in uw voordeel.",
+        "fr": "Le conducteur qui débouche d'un chemin de terre ou d'un sentier sur une voie publique avec chaussée doit céder le passage à tout conducteur circulant sur cette voie : la priorité de droite ne joue pas en votre faveur ici.",
+        "en": "A driver entering a public road with a carriageway from an earth road or path must give way to every driver on that road — priority to the right does not work in your favour there."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1, b)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-023",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op een kruispunt zonder verkeersborden nadert van rechts een bromfietser die op een fietspad langs de dwarsweg rijdt. Moet u hem voorrang verlenen?",
+        "fr": "À un carrefour sans signaux routiers, un cyclomotoriste arrive de droite en circulant sur une piste cyclable longeant la voie transversale. Devez-vous lui céder le passage ?",
+        "en": "At an intersection without road signs, a moped rider approaches from the right, riding on a cycle path along the crossing road. Must you give way to him?"
+      },
+      "options": [
+        { "nl": "Ja: ook fietsers en bromfietsers die van rechts komen hebben voorrang, zelfs als ze op een fietspad rijden", "fr": "Oui : les cyclistes et cyclomotoristes venant de droite ont aussi la priorité, même s'ils circulent sur une piste cyclable", "en": "Yes: cyclists and moped riders coming from the right also have priority, even when riding on a cycle path" },
+        { "nl": "Nee: wie op een fietspad rijdt, heeft nooit voorrang op auto's", "fr": "Non : celui qui circule sur une piste cyclable n'a jamais la priorité sur les voitures", "en": "No: someone on a cycle path never has priority over cars" },
+        { "nl": "Nee: de voorrang van rechts geldt alleen tussen motorvoertuigen", "fr": "Non : la priorité de droite ne vaut qu'entre véhicules à moteur", "en": "No: priority to the right only applies between motor vehicles" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Fietsers en bromfietsers zijn bestuurders. De voorrang van rechts maakt geen onderscheid naar voertuig of naar het deel van de weg waarop wordt gereden: de bromfietser komt van rechts en heeft dus voorrang.",
+        "fr": "Les cyclistes et cyclomotoristes sont des conducteurs. La priorité de droite ne fait aucune distinction selon le véhicule ni selon la partie de la voie empruntée : le cyclomotoriste vient de droite et a donc la priorité.",
+        "en": "Cyclists and moped riders are drivers. Priority to the right makes no distinction by vehicle type or by the part of the road used: the moped rider comes from the right and therefore has priority."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1 en Art. 2.13 (bestuurder)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-024",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op een kruispunt zonder verkeersborden nadert een tram van uw linkerkant. Moet u de tram voorrang verlenen?",
+        "fr": "À un carrefour sans signaux routiers, un tram arrive de votre gauche. Devez-vous céder le passage au tram ?",
+        "en": "At an intersection without road signs a tram approaches from your left. Must you give way to the tram?"
+      },
+      "options": [
+        { "nl": "Nee: de tram komt van links, dus u heeft voorrang", "fr": "Non : le tram vient de gauche, vous avez donc la priorité", "en": "No: the tram comes from the left, so you have priority" },
+        { "nl": "Ja: elke weggebruiker moet voorrang verlenen aan spoorvoertuigen", "fr": "Oui : tout usager doit céder le passage aux véhicules sur rails", "en": "Yes: every road user must give way to rail vehicles" },
+        { "nl": "Alleen als de trambestuurder een geluidssignaal geeft", "fr": "Seulement si le conducteur du tram donne un signal sonore", "en": "Only if the tram driver sounds a signal" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Spoorvoertuigen zoals trams hebben altijd voorrang, ongeacht uit welke richting ze komen: elke weggebruiker moet voorrang verlenen en zich zo snel mogelijk van de sporen verwijderen.",
+        "fr": "Les véhicules sur rails comme les trams ont toujours la priorité, quelle que soit la direction d'où ils viennent : tout usager doit leur céder le passage et s'écarter des voies le plus vite possible.",
+        "en": "Rail vehicles such as trams always have priority, whatever direction they come from: every road user must give way and move clear of the tracks as quickly as possible."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-025",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "U nadert een kruispunt waar u voorrang heeft. U hoort de sirene van een ziekenwagen met blauwe knipperlichten die het kruispunt nadert. Wat moet u doen?",
+        "fr": "Vous approchez d'un carrefour où vous avez la priorité. Vous entendez la sirène d'une ambulance avec feux bleus clignotants qui s'approche du carrefour. Que devez-vous faire ?",
+        "en": "You approach an intersection where you have priority. You hear the siren of an ambulance with blue flashing lights approaching the intersection. What must you do?"
+      },
+      "options": [
+        { "nl": "Doorrijden: u heeft voorrang", "fr": "Continuer : vous avez la priorité", "en": "Continue: you have priority" },
+        { "nl": "Onmiddellijk de doorgang vrijmaken en voorrang verlenen; zo nodig stoppen", "fr": "Dégager immédiatement le passage et céder la priorité ; au besoin, s'arrêter", "en": "Immediately clear the way and give way; stop if necessary" },
+        { "nl": "Alleen opzij gaan als de ziekenwagen achter u rijdt", "fr": "Ne vous écarter que si l'ambulance roule derrière vous", "en": "Only move aside if the ambulance is behind you" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Zodra het speciale geluidstoestel het naderen van een prioritair voertuig aankondigt, moet elke weggebruiker onmiddellijk de doorgang vrijmaken en voorrang verlenen; zo nodig moet hij stoppen. Uw normale voorrang vervalt dan.",
+        "fr": "Dès que l'avertisseur sonore spécial annonce l'approche d'un véhicule prioritaire, tout usager doit immédiatement dégager le passage et céder la priorité ; au besoin, il doit s'arrêter. Votre priorité normale ne compte alors plus.",
+        "en": "As soon as the special siren announces an approaching priority vehicle, every road user must immediately clear the way and give way, stopping if necessary. Your normal priority no longer counts."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 37 en 38", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-026",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Een politievoertuig nadert een kruispunt met blauwe knipperlichten aan, maar zonder sirene. Bent u verplicht het voertuig voorrang te verlenen?",
+        "fr": "Un véhicule de police approche d'un carrefour avec ses feux bleus clignotants allumés, mais sans sirène. Êtes-vous obligé de lui céder le passage ?",
+        "en": "A police vehicle approaches an intersection with its blue flashing lights on but without the siren. Are you obliged to give way to it?"
+      },
+      "options": [
+        { "nl": "Ja: blauwe knipperlichten alleen volstaan om voorrang op te eisen", "fr": "Oui : les feux bleus clignotants suffisent à eux seuls pour exiger la priorité", "en": "Yes: blue flashing lights alone are enough to claim priority" },
+        { "nl": "Ja, maar alleen binnen de bebouwde kom", "fr": "Oui, mais uniquement en agglomération", "en": "Yes, but only inside a built-up area" },
+        { "nl": "Nee: zonder sirene gelden de gewone voorrangsregels", "fr": "Non : sans sirène, les règles normales de priorité s'appliquent", "en": "No: without the siren the normal priority rules apply" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "De verplichting om onmiddellijk de doorgang vrij te maken geldt zodra het speciale geluidstoestel (de sirene) het prioritaire voertuig aankondigt. Gebruikt het voertuig alleen blauwe knipperlichten, dan gelden de gewone voorrangsregels — al blijft extra voorzichtigheid verstandig.",
+        "fr": "L'obligation de dégager immédiatement le passage vaut dès que l'avertisseur sonore spécial (la sirène) annonce le véhicule prioritaire. S'il n'utilise que ses feux bleus clignotants, les règles normales de priorité s'appliquent — la prudence reste toutefois de mise.",
+        "en": "The duty to clear the way immediately applies once the special siren announces the priority vehicle. If it only uses blue flashing lights, the normal priority rules apply — though extra caution remains wise."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 38", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-027",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U nadert een oversteekplaats voor voetgangers zonder verkeerslichten. Een voetganger staat op het punt de oversteekplaats op te stappen. Wat moet u doen?",
+        "fr": "Vous approchez d'un passage pour piétons sans feux. Un piéton est sur le point de s'y engager. Que devez-vous faire ?",
+        "en": "You approach a pedestrian crossing without traffic lights. A pedestrian is about to step onto the crossing. What must you do?"
+      },
+      "options": [
+        { "nl": "Met matige snelheid naderen en de voetganger voorrang verlenen", "fr": "Approcher à allure modérée et céder le passage au piéton", "en": "Approach at moderate speed and give way to the pedestrian" },
+        { "nl": "Alleen stoppen als de voetganger zich al op de oversteekplaats bevindt", "fr": "Ne s'arrêter que si le piéton se trouve déjà sur le passage", "en": "Only stop if the pedestrian is already on the crossing" },
+        { "nl": "Claxonneren en doorrijden", "fr": "Klaxonner et continuer", "en": "Sound the horn and continue" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Aan een oversteekplaats zonder verkeerslichten of bevoegd persoon moet u die slechts met matige snelheid naderen en voorrang verlenen aan voetgangers die zich erop bevinden of op het punt staan zich erop te begeven.",
+        "fr": "À un passage non réglé par des feux ou un agent qualifié, vous ne pouvez l'aborder qu'à allure modérée et devez céder le passage aux piétons qui s'y trouvent ou sont sur le point de s'y engager.",
+        "en": "At a crossing not controlled by lights or an authorised official, you may only approach at moderate speed and must give way to pedestrians who are on it or about to step onto it."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 40.4.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-028",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U nadert een oversteekplaats voor fietsers en bromfietsers zonder verkeerslichten. Een fietser staat klaar om over te steken. Wie moet voorrang verlenen?",
+        "fr": "Vous approchez d'un passage pour cyclistes et cyclomotoristes sans feux. Un cycliste s'apprête à traverser. Qui doit céder le passage ?",
+        "en": "You approach a cycle crossing without traffic lights. A cyclist is about to cross. Who must give way?"
+      },
+      "options": [
+        { "nl": "U: de fietser heeft er voorrang, net als een voetganger op een zebrapad", "fr": "Vous : le cycliste y a la priorité, comme un piéton sur un passage pour piétons", "en": "You: the cyclist has priority there, just like a pedestrian on a zebra crossing" },
+        { "nl": "De fietser moet u voorrang verlenen, maar u moet de oversteekplaats met matige snelheid naderen en hem niet in gevaar brengen", "fr": "Le cycliste doit vous céder le passage, mais vous devez aborder le passage à allure modérée sans le mettre en danger", "en": "The cyclist must give way to you, but you must approach the crossing at moderate speed and not endanger him" },
+        { "nl": "U moet er altijd volledig stoppen", "fr": "Vous devez toujours vous y arrêter complètement", "en": "You must always come to a complete stop there" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Anders dan een voetganger op een zebrapad heeft een fietser op een onbewaakte oversteekplaats voor fietsers geen voorrang: hij mag zich er pas op begeven als dat zonder gevaar kan. U moet die oversteekplaats wel met matige snelheid naderen en de fietsers die er zich op bevinden niet in gevaar brengen.",
+        "fr": "Contrairement au piéton sur un passage pour piétons, le cycliste n'a pas la priorité sur un passage pour cyclistes non réglé : il ne peut s'y engager que sans danger. Vous devez toutefois aborder ce passage à allure modérée et ne pas mettre en danger les cyclistes qui s'y trouvent.",
+        "en": "Unlike a pedestrian on a zebra crossing, a cyclist has no priority on an uncontrolled cycle crossing: he may only enter it when it is safe. You must nevertheless approach the crossing at moderate speed and not endanger cyclists already on it."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 40ter en Art. 76.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-029",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U verlaat de oprit van uw woning en rijdt de openbare weg op. Aan wie moet u voorrang verlenen?",
+        "fr": "Vous quittez l'allée de votre habitation et vous vous engagez sur la voie publique. À qui devez-vous céder le passage ?",
+        "en": "You leave your driveway and enter the public road. To whom must you give way?"
+      },
+      "options": [
+        { "nl": "Aan alle weggebruikers, ook voetgangers en fietsers", "fr": "À tous les usagers, y compris les piétons et les cyclistes", "en": "To all road users, including pedestrians and cyclists" },
+        { "nl": "Alleen aan het verkeer dat van rechts komt", "fr": "Uniquement à la circulation venant de droite", "en": "Only to traffic coming from the right" },
+        { "nl": "Alleen aan motorvoertuigen op de rijbaan", "fr": "Uniquement aux véhicules à moteur sur la chaussée", "en": "Only to motor vehicles on the carriageway" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Uit een aangrenzende eigendom komen is een maneuver: u moet voorrang verlenen aan alle andere weggebruikers, dus ook aan voetgangers op het trottoir en fietsers op het fietspad.",
+        "fr": "Sortir d'une propriété riveraine est une manœuvre : vous devez céder le passage à tous les autres usagers, donc aussi aux piétons sur le trottoir et aux cyclistes sur la piste cyclable.",
+        "en": "Coming out of an adjoining property is a manoeuvre: you must give way to all other road users, including pedestrians on the sidewalk and cyclists on the cycle path."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-030",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Welke van deze bewegingen is GEEN maneuver waarbij u voorrang moet verlenen aan de andere weggebruikers?",
+        "fr": "Lequel de ces mouvements n'est PAS une manœuvre pour laquelle vous devez céder le passage aux autres usagers ?",
+        "en": "Which of these movements is NOT a manoeuvre requiring you to give way to other road users?"
+      },
+      "options": [
+        { "nl": "Keren op de rijbaan", "fr": "Faire demi-tour sur la chaussée", "en": "Making a U-turn on the carriageway" },
+        { "nl": "Achteruitrijden", "fr": "Faire marche arrière", "en": "Reversing" },
+        { "nl": "Rechts afslaan op een kruispunt om een andere weg op te rijden", "fr": "Tourner à droite à un carrefour pour emprunter une autre voie", "en": "Turning right at an intersection to take another road" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Keren, achteruitrijden, van rijstrook veranderen, een parkeerplaats verlaten of uit een aangrenzende eigendom komen zijn maneuvers: wie ze uitvoert moet voorrang verlenen. Van richting veranderen op een kruispunt is geen maneuver; daarvoor gelden de gewone regels voor het afslaan en de voorrang.",
+        "fr": "Le demi-tour, la marche arrière, le changement de bande, quitter un emplacement de stationnement ou sortir d'une propriété riveraine sont des manœuvres : celui qui les exécute doit céder le passage. Changer de direction à un carrefour n'est pas une manœuvre ; ce sont les règles normales du changement de direction et de la priorité qui s'appliquent.",
+        "en": "U-turns, reversing, changing lanes, leaving a parking space or coming out of an adjoining property are manoeuvres: whoever performs them must give way. Changing direction at an intersection is not a manoeuvre; the ordinary turning and priority rules apply instead."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.4 en Art. 19", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-031",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "B19" },
+      "text": {
+        "nl": "U nadert een smalle doorgang waar dit bord staat. Een tegenligger nadert de versmalling. Wat doet u?",
+        "fr": "Vous approchez d'un passage étroit où ce signal est placé. Un véhicule arrive en sens inverse vers le rétrécissement. Que faites-vous ?",
+        "en": "You approach a narrow passage where this sign is posted. An oncoming vehicle approaches the narrowing. What do you do?"
+      },
+      "options": [
+        { "nl": "Wachten en de tegenligger eerst laten doorrijden", "fr": "Attendre et laisser d'abord passer le véhicule venant en sens inverse", "en": "Wait and let the oncoming vehicle through first" },
+        { "nl": "Eerst doorrijden: u heeft voorrang op de tegenligger", "fr": "Passer en premier : vous avez la priorité sur le véhicule venant en face", "en": "Go through first: you have priority over the oncoming vehicle" },
+        { "nl": "Wie het dichtst bij de versmalling is, rijdt eerst", "fr": "Celui qui est le plus proche du rétrécissement passe en premier", "en": "Whoever is closest to the narrowing goes first" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord B19 verplicht u voorrang te verlenen aan de bestuurders die uit de tegenovergestelde richting komen. De tegenligger ziet aan zijn kant het bord B21 en mag eerst door de smalle doorgang.",
+        "fr": "Le signal B19 vous oblige à céder le passage aux conducteurs venant en sens opposé. Le véhicule d'en face voit de son côté le signal B21 et franchit le passage étroit en premier.",
+        "en": "Sign B19 obliges you to give way to drivers coming from the opposite direction. The oncoming driver faces sign B21 on his side and may go through the narrow passage first."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (B19, B21)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-032",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "D5" },
+      "text": {
+        "nl": "U nadert een rotonde waar aan elke oprit de borden B1 en D5 staan. Wie heeft voorrang?",
+        "fr": "Vous approchez d'un rond-point où les signaux B1 et D5 sont placés à chaque entrée. Qui a la priorité ?",
+        "en": "You approach a roundabout where signs B1 and D5 are posted at every entry. Who has priority?"
+      },
+      "options": [
+        { "nl": "De bestuurders die de rotonde oprijden", "fr": "Les conducteurs qui s'engagent sur le rond-point", "en": "The drivers entering the roundabout" },
+        { "nl": "De bestuurders die al op de rotonde rijden", "fr": "Les conducteurs qui circulent déjà sur le rond-point", "en": "The drivers already driving on the roundabout" },
+        { "nl": "De bestuurder die van rechts komt", "fr": "Le conducteur qui vient de droite", "en": "The driver coming from the right" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "De voorrang van rechts geldt niet voor wie op een rotonde rijdt. Door het bord B1 aan elke oprit moet wie de rotonde wil oprijden voorrang verlenen aan het verkeer dat er al op rijdt.",
+        "fr": "La priorité de droite ne s'applique pas à celui qui circule sur un rond-point. Grâce au signal B1 placé à chaque entrée, celui qui veut s'y engager doit céder le passage à la circulation qui s'y trouve déjà.",
+        "en": "Priority to the right does not apply to traffic on a roundabout. Because of sign B1 at every entry, anyone entering must give way to the traffic already on the roundabout."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1 en Art. 67.3 (B1, D5)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-033",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["B15", "B17"] },
+      "text": {
+        "nl": "Wat is het verschil tussen deze twee verkeersborden?",
+        "fr": "Quelle est la différence entre ces deux signaux routiers ?",
+        "en": "What is the difference between these two road signs?"
+      },
+      "options": [
+        { "nl": "B15: u heeft voorrang op het volgende kruispunt; B17: op het volgende kruispunt geldt de voorrang van rechts", "fr": "B15 : vous avez la priorité au prochain carrefour ; B17 : au prochain carrefour, la priorité de droite est applicable", "en": "B15: you have priority at the next intersection; B17: priority to the right applies at the next crossroads" },
+        { "nl": "Beide borden betekenen hetzelfde", "fr": "Les deux signaux ont la même signification", "en": "Both signs mean the same thing" },
+        { "nl": "B15: voorrang verlenen; B17: u rijdt op een voorrangsweg", "fr": "B15 : céder le passage ; B17 : vous circulez sur une voie prioritaire", "en": "B15: give way; B17: you are on a priority road" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "B15 geeft u voorrang op het eerstvolgende kruispunt: de dwarswegen krijgen daar B1 of B5. B17 kondigt daarentegen een kruispunt aan waar de gewone voorrang van rechts geldt, dus daar moet u wie van rechts komt laten voorgaan.",
+        "fr": "B15 vous donne la priorité au prochain carrefour : les voies transversales y reçoivent un signal B1 ou B5. B17 annonce au contraire un carrefour où la priorité de droite ordinaire s'applique : vous devez y céder le passage à qui vient de droite.",
+        "en": "B15 gives you priority at the very next intersection, where the crossing roads carry B1 or B5. B17 instead announces a crossroads where ordinary priority to the right applies, so there you must give way to anyone coming from your right."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (B15, B17)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    }
+  ]
+}

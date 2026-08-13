@@ -1,0 +1,895 @@
+{
+  "category": "signs-parking-indication",
+  "questions": [
+    {
+      "id": "signs-parking-indication-001",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E1" },
+      "text": {
+        "nl": "Je ziet dit verkeersbord langs de rijbaan. Mag je hier even stilstaan om een passagier te laten uitstappen?",
+        "fr": "Vous voyez ce signal le long de la chaussée. Pouvez-vous vous arrêter brièvement pour laisser descendre un passager ?",
+        "en": "You see this sign along the carriageway. May you stop briefly here to let a passenger out?"
+      },
+      "options": [
+        { "nl": "Ja, dit verkeersbord verbiedt enkel het parkeren", "fr": "Oui, ce signal n'interdit que le stationnement", "en": "Yes, this sign prohibits parking only" },
+        { "nl": "Nee, stilstaan en parkeren zijn hier beide verboden", "fr": "Non, l'arrêt et le stationnement sont tous deux interdits ici", "en": "No, both stopping and parking are prohibited here" },
+        { "nl": "Ja, maar alleen buiten de spitsuren", "fr": "Oui, mais uniquement en dehors des heures de pointe", "en": "Yes, but only outside peak hours" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het verkeersbord E1 betekent parkeerverbod. Stilstaan — de tijd nodig om personen te laten in- of uitstappen of om te laden en te lossen — blijft toegelaten.",
+        "fr": "Le signal E1 signifie stationnement interdit. L'arrêt — le temps nécessaire pour l'embarquement ou le débarquement de personnes ou pour le chargement et le déchargement — reste autorisé.",
+        "en": "Sign E1 means no parking. Stopping — the time needed to let people in or out or to load and unload — remains allowed."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 70.2.1 (verkeersbord E1)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 2.22 en 2.23 (stilstaan en parkeren)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-002",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E3" },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        { "nl": "Parkeerverbod; stilstaan blijft toegelaten", "fr": "Stationnement interdit ; l'arrêt reste autorisé", "en": "No parking; stopping remains allowed" },
+        { "nl": "Stilstaan en parkeren verboden", "fr": "Arrêt et stationnement interdits", "en": "No stopping or parking" },
+        { "nl": "Einde van een parkeerzone", "fr": "Fin d'une zone de stationnement", "en": "End of a parking zone" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het verkeersbord E3 verbiedt zowel het stilstaan als het parkeren. Je mag er dus zelfs niet kort halt houden om te laden of iemand te laten uitstappen.",
+        "fr": "Le signal E3 interdit à la fois l'arrêt et le stationnement. Vous ne pouvez donc même pas vous y immobiliser brièvement pour charger ou laisser descendre quelqu'un.",
+        "en": "Sign E3 prohibits both stopping and parking. You may not even halt briefly to load or drop someone off."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 70.2.1 (verkeersbord E3)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-003",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E1" },
+      "text": {
+        "nl": "Dit verkeersbord staat aan het begin van een straat, zonder onderbord. Tot waar geldt het parkeerverbod?",
+        "fr": "Ce signal est placé au début d'une rue, sans panneau additionnel. Jusqu'où l'interdiction de stationner s'applique-t-elle ?",
+        "en": "This sign stands at the start of a street, without a supplementary panel. How far does the parking prohibition apply?"
+      },
+      "options": [
+        { "nl": "Tot het volgende kruispunt, aan de kant van de weg waar het bord staat", "fr": "Jusqu'au prochain carrefour, du côté de la voie où le signal est placé", "en": "Until the next intersection, on the side of the road where the sign is placed" },
+        { "nl": "In de hele straat, aan beide kanten van de rijbaan", "fr": "Dans toute la rue, des deux côtés de la chaussée", "en": "In the whole street, on both sides of the carriageway" },
+        { "nl": "Over een afstand van 100 meter na het bord", "fr": "Sur une distance de 100 mètres après le signal", "en": "Over a distance of 100 metres after the sign" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De verkeersborden E1, E3, E5, E7 en E9 gelden aan de kant van de openbare weg waar ze aangebracht zijn, vanaf het bord tot het volgende kruispunt, tenzij een onderbord of eindebord iets anders aanduidt.",
+        "fr": "Les signaux E1, E3, E5, E7 et E9 valent du côté de la voie publique où ils sont placés, depuis le signal jusqu'au prochain carrefour, sauf indication contraire d'un panneau additionnel ou d'un signal de fin.",
+        "en": "Signs E1, E3, E5, E7 and E9 apply on the side of the public road where they are placed, from the sign until the next intersection, unless a supplementary panel or end sign indicates otherwise."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 70.2.2 (draagwijdte van de verkeersborden)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-004",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E5" },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        { "nl": "Parkeerverbod van de 1e tot de 15e van de maand", "fr": "Stationnement interdit du 1er au 15 du mois", "en": "No parking from the 1st to the 15th of the month" },
+        { "nl": "Parkeerverbod van de 16e tot het einde van de maand", "fr": "Stationnement interdit du 16 à la fin du mois", "en": "No parking from the 16th to the end of the month" },
+        { "nl": "Parkeren beperkt tot 15 minuten", "fr": "Stationnement limité à 15 minutes", "en": "Parking limited to 15 minutes" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het verkeersbord E5 met het Romeinse cijfer I verbiedt het parkeren van de 1e tot de 15e van de maand, aan de kant waar het bord staat.",
+        "fr": "Le signal E5, portant le chiffre romain I, interdit le stationnement du 1er au 15 du mois, du côté où il est placé.",
+        "en": "Sign E5, bearing the Roman numeral I, prohibits parking from the 1st to the 15th of the month, on the side where it is placed."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 70.2.1 (verkeersbord E5)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-005",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E7" },
+      "text": {
+        "nl": "Vandaag is het de 20e van de maand. Mag je parkeren aan de kant van de weg waar dit verkeersbord staat?",
+        "fr": "Nous sommes le 20 du mois. Pouvez-vous stationner du côté de la voie où ce signal est placé ?",
+        "en": "Today is the 20th of the month. May you park on the side of the road where this sign is placed?"
+      },
+      "options": [
+        { "nl": "Ja, het verbod geldt enkel van de 1e tot de 15e", "fr": "Oui, l'interdiction ne vaut que du 1er au 15", "en": "Yes, the prohibition only applies from the 1st to the 15th" },
+        { "nl": "Nee, het verbod geldt van de 16e tot het einde van de maand", "fr": "Non, l'interdiction vaut du 16 à la fin du mois", "en": "No, the prohibition applies from the 16th to the end of the month" },
+        { "nl": "Ja, mits gebruik van de parkeerschijf", "fr": "Oui, à condition d'utiliser le disque de stationnement", "en": "Yes, provided you use the parking disc" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het verkeersbord E7 met het Romeinse cijfer II verbiedt het parkeren van de 16e tot het einde van de maand. Op de 20e mag je hier dus niet parkeren.",
+        "fr": "Le signal E7, portant le chiffre romain II, interdit le stationnement du 16 à la fin du mois. Le 20, vous ne pouvez donc pas stationner ici.",
+        "en": "Sign E7, bearing the Roman numeral II, prohibits parking from the 16th to the end of the month. So on the 20th you may not park here."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 70.2.1 (verkeersbord E7)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-006",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E9a" },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        { "nl": "Parkeren toegelaten", "fr": "Stationnement autorisé", "en": "Parking allowed" },
+        { "nl": "Parkeren enkel voor houders van een bewonerskaart", "fr": "Stationnement réservé aux titulaires d'une carte de riverain", "en": "Parking only for holders of a resident parking card" },
+        { "nl": "Betalend parkeren verplicht", "fr": "Stationnement payant obligatoire", "en": "Paid parking mandatory" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het verkeersbord E9a duidt aan dat parkeren toegelaten is. Onderborden kunnen het gebruik nader regelen, bijvoorbeeld voor bepaalde categorieën of tegen betaling.",
+        "fr": "Le signal E9a indique que le stationnement est autorisé. Des panneaux additionnels peuvent en préciser l'usage, par exemple pour certaines catégories ou contre paiement.",
+        "en": "Sign E9a indicates that parking is allowed. Supplementary panels can regulate its use, for instance for certain categories or against payment."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 70.2.1 (verkeersbord E9a)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-007",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E9b" },
+      "text": {
+        "nl": "Mag je een bestelwagen, gebouwd voor het vervoer van goederen, parkeren waar dit verkeersbord staat?",
+        "fr": "Pouvez-vous stationner une camionnette, conçue pour le transport de marchandises, là où ce signal est placé ?",
+        "en": "May you park a delivery van, built for the transport of goods, where this sign is placed?"
+      },
+      "options": [
+        { "nl": "Ja, elk motorvoertuig mag hier parkeren", "fr": "Oui, tout véhicule à moteur peut y stationner", "en": "Yes, any motor vehicle may park here" },
+        { "nl": "Nee, het parkeren is voorbehouden aan motorfietsen, personenauto's, auto's voor dubbelgebruik en minibussen", "fr": "Non, le stationnement est réservé aux motocyclettes, voitures, voitures mixtes et minibus", "en": "No, parking is reserved for motorcycles, cars, dual-purpose cars and minibuses" },
+        { "nl": "Ja, als de bestelwagen minder dan 3,5 ton weegt", "fr": "Oui, si la camionnette pèse moins de 3,5 tonnes", "en": "Yes, if the van weighs less than 3.5 tonnes" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het verkeersbord E9b behoudt het parkeren voor aan motorfietsen, personenauto's, auto's voor dubbelgebruik en minibussen. Voertuigen gebouwd voor goederenvervoer horen daar niet bij.",
+        "fr": "Le signal E9b réserve le stationnement aux motocyclettes, voitures, voitures mixtes et minibus. Les véhicules conçus pour le transport de marchandises n'en font pas partie.",
+        "en": "Sign E9b reserves parking for motorcycles, cars, dual-purpose cars and minibuses. Vehicles built for the transport of goods are not included."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 70.2.1 (verkeersbord E9b)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-008",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E9e" },
+      "text": {
+        "nl": "Waar moet je je auto parkeren waar dit verkeersbord staat?",
+        "fr": "Où devez-vous stationner votre voiture là où ce signal est placé ?",
+        "en": "Where must you park your car where this sign is placed?"
+      },
+      "options": [
+        { "nl": "Volledig op de berm of op het trottoir", "fr": "Entièrement sur l'accotement ou sur le trottoir", "en": "Entirely on the verge or on the sidewalk" },
+        { "nl": "Volledig op de rijbaan", "fr": "Entièrement sur la chaussée", "en": "Entirely on the carriageway" },
+        { "nl": "Half op de rijbaan, half op het trottoir", "fr": "À moitié sur la chaussée, à moitié sur le trottoir", "en": "Half on the carriageway, half on the sidewalk" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het verkeersbord E9e legt het parkeren op de berm of op het trottoir op. Je moet je voertuig dus volledig buiten de rijbaan opstellen.",
+        "fr": "Le signal E9e impose le stationnement sur l'accotement ou sur le trottoir. Vous devez donc placer votre véhicule entièrement en dehors de la chaussée.",
+        "en": "Sign E9e makes parking on the verge or sidewalk mandatory. You must therefore place your vehicle entirely off the carriageway."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 70.2.1 (verkeersbord E9e)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-009",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E11" },
+      "text": {
+        "nl": "In een bebouwde kom geldt het halfmaandelijks beurtelings parkeren (verkeersbord E11). Aan welke kant mag je parkeren van de 1e tot de 15e van de maand?",
+        "fr": "Dans une agglomération, le stationnement semi-mensuel s'applique (signal E11). De quel côté pouvez-vous stationner du 1er au 15 du mois ?",
+        "en": "Half-monthly alternate-side parking applies in a built-up area (sign E11). On which side may you park from the 1st to the 15th of the month?"
+      },
+      "options": [
+        { "nl": "Aan de kant van de gebouwen met onpare huisnummers", "fr": "Du côté des immeubles portant des numéros impairs", "en": "On the side of the buildings with odd house numbers" },
+        { "nl": "Aan de kant van de gebouwen met pare huisnummers", "fr": "Du côté des immeubles portant des numéros pairs", "en": "On the side of the buildings with even house numbers" },
+        { "nl": "Elke dag beurtelings aan een andere kant", "fr": "Chaque jour alternativement d'un côté différent", "en": "On a different side alternating each day" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Van de 1e tot de 15e van de maand mag je enkel parkeren aan de kant van de gebouwen met onpare nummers; van de 16e tot het einde van de maand aan de kant met pare nummers. Het veranderen van kant gebeurt op de laatste dag van elke periode tussen 19u30 en 20u.",
+        "fr": "Du 1er au 15 du mois, le stationnement n'est autorisé que du côté des immeubles portant des numéros impairs ; du 16 à la fin du mois, du côté des numéros pairs. Le changement de côté se fait le dernier jour de chaque période entre 19 h 30 et 20 heures.",
+        "en": "From the 1st to the 15th of the month you may only park on the side with odd house numbers; from the 16th to the end of the month on the side with even numbers. The change of side takes place on the last day of each period between 7.30 p.m. and 8 p.m."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 26.1 en 26.2 (halfmaandelijks beurtelings parkeren)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 70.2.1 (verkeersbord E11)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-010",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "ZE1" },
+      "text": {
+        "nl": "Je rijdt een zone binnen die aangeduid is met dit zonebord. Eindigt het parkeerverbod aan het eerstvolgende kruispunt?",
+        "fr": "Vous entrez dans une zone indiquée par ce signal à validité zonale. L'interdiction de stationner prend-elle fin au prochain carrefour ?",
+        "en": "You enter a zone indicated by this zonal sign. Does the parking prohibition end at the next intersection?"
+      },
+      "options": [
+        { "nl": "Nee, het verbod geldt in de hele zone tot aan het eindezonebord", "fr": "Non, l'interdiction vaut dans toute la zone jusqu'au signal de fin de zone", "en": "No, the prohibition applies in the whole zone until the end-of-zone sign" },
+        { "nl": "Ja, zoals bij elk verkeersbord betreffende het parkeren", "fr": "Oui, comme pour tout signal relatif au stationnement", "en": "Yes, as with any parking sign" },
+        { "nl": "Ja, tenzij het bord na het kruispunt herhaald wordt", "fr": "Oui, sauf si le signal est répété après le carrefour", "en": "Yes, unless the sign is repeated after the intersection" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een verkeersbord met zonale geldigheid, zoals dit zonale parkeerverbod, geldt in alle straten van de zone tot je het bord passeert dat het einde van de zone aanduidt. Het hoeft niet na elk kruispunt herhaald te worden.",
+        "fr": "Un signal à validité zonale, comme cette interdiction zonale de stationner, s'applique dans toutes les rues de la zone jusqu'au signal indiquant la fin de la zone. Il ne doit pas être répété après chaque carrefour.",
+        "en": "A sign with zonal validity, such as this zonal parking prohibition, applies in every street of the zone until you pass the sign marking the end of the zone. It does not need to be repeated after every intersection."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 65.5 (zonale geldigheid van de verkeersborden)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-011",
+      "difficulty": 1,
+      "regions": ["FL", "WA"],
+      "severity": "severe",
+      "image": { "type": "sign", "code": "F1" },
+      "text": {
+        "nl": "Je rijdt in Vlaanderen of Wallonië een bebouwde kom binnen langs dit verkeersbord. Er staan geen snelheidsborden. Hoe snel mag je maximaal rijden?",
+        "fr": "En Flandre ou en Wallonie, vous entrez dans une agglomération en passant ce signal. Aucun signal de vitesse n'est placé. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "In Flanders or Wallonia you enter a built-up area past this sign. There are no speed signs. What is your maximum speed?"
+      },
+      "options": [
+        { "nl": "30 km per uur", "fr": "30 km à l'heure", "en": "30 km/h" },
+        { "nl": "50 km per uur", "fr": "50 km à l'heure", "en": "50 km/h" },
+        { "nl": "70 km per uur", "fr": "70 km à l'heure", "en": "70 km/h" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Binnen een bebouwde kom, afgebakend door de verkeersborden F1 en F3, is de snelheid beperkt tot 50 km per uur, tenzij een ander bord een andere limiet oplegt.",
+        "fr": "Dans une agglomération, délimitée par les signaux F1 et F3, la vitesse est limitée à 50 km à l'heure, sauf si un autre signal impose une autre limite.",
+        "en": "Within a built-up area, delimited by signs F1 and F3, speed is limited to 50 km/h unless another sign imposes a different limit."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 11.1 (snelheid binnen de bebouwde kom)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-012",
+      "difficulty": 2,
+      "regions": ["BR"],
+      "severity": "severe",
+      "image": { "type": "sign", "code": "F1" },
+      "text": {
+        "nl": "Je rijdt in het Brussels Hoofdstedelijk Gewest een bebouwde kom binnen langs dit verkeersbord. Er staan geen snelheidsborden. Hoe snel mag je maximaal rijden?",
+        "fr": "Dans la Région de Bruxelles-Capitale, vous entrez dans une agglomération en passant ce signal. Aucun signal de vitesse n'est placé. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "In the Brussels-Capital Region you enter a built-up area past this sign. There are no speed signs. What is your maximum speed?"
+      },
+      "options": [
+        { "nl": "50 km per uur", "fr": "50 km à l'heure", "en": "50 km/h" },
+        { "nl": "30 km per uur", "fr": "30 km à l'heure", "en": "30 km/h" },
+        { "nl": "20 km per uur", "fr": "20 km à l'heure", "en": "20 km/h" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Sinds 2021 geldt in het hele Brussels Hoofdstedelijk Gewest standaard 30 km per uur binnen de bebouwde kom ('Stad 30'). 50 of 70 km per uur geldt er enkel waar dat uitdrukkelijk aangeduid is.",
+        "fr": "Depuis 2021, la limite par défaut dans toute la Région de Bruxelles-Capitale est de 30 km à l'heure en agglomération (« Ville 30 »). Le 50 ou le 70 km/h n'y vaut que là où c'est expressément indiqué.",
+        "en": "Since 2021 the default limit throughout the Brussels-Capital Region is 30 km/h within the built-up area ('City 30'). 50 or 70 km/h applies only where explicitly signed."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 11.1 (snelheid binnen de bebouwde kom)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Brussel Mobiliteit — Stad 30 (sinds 1 januari 2021)", "url": "https://mobilite-mobiliteit.brussels" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-013",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": { "type": "sign", "code": "F4a" },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        { "nl": "Begin van een zone waarin de snelheid beperkt is tot 30 km per uur, tot aan het eindezonebord", "fr": "Commencement d'une zone dans laquelle la vitesse est limitée à 30 km à l'heure, jusqu'au signal de fin de zone", "en": "Start of a zone in which speed is limited to 30 km/h, until the end-of-zone sign" },
+        { "nl": "Aanbevolen snelheid van 30 km per uur", "fr": "Vitesse conseillée de 30 km à l'heure", "en": "Recommended speed of 30 km/h" },
+        { "nl": "Snelheidsbeperking van 30 km per uur, enkel in de straat waar het bord staat", "fr": "Limitation à 30 km à l'heure, uniquement dans la rue où le signal est placé", "en": "30 km/h limit, only in the street where the sign stands" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het verkeersbord F4a duidt het begin van een zone 30 aan. De beperking tot 30 km per uur geldt in alle straten van de zone tot je het verkeersbord F4b (einde zone) voorbijrijdt.",
+        "fr": "Le signal F4a indique le commencement d'une zone 30. La limitation à 30 km à l'heure s'applique dans toutes les rues de la zone jusqu'au signal F4b (fin de zone).",
+        "en": "Sign F4a marks the start of a 30 km/h zone. The 30 km/h limit applies in every street of the zone until you pass sign F4b (end of zone)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22quater (zones met een snelheidsbeperking van 30 km per uur)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 65.5 (zonale geldigheid)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-014",
+      "difficulty": 3,
+      "regions": ["FL", "WA"],
+      "severity": "severe",
+      "image": { "type": "sign", "code": "F4b" },
+      "text": {
+        "nl": "Je rijdt dit verkeersbord voorbij maar blijft binnen de bebouwde kom, in Vlaanderen of Wallonië. Er staan geen andere snelheidsborden. Hoe snel mag je maximaal rijden?",
+        "fr": "Vous passez ce signal mais restez dans l'agglomération, en Flandre ou en Wallonie. Aucun autre signal de vitesse n'est placé. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "You pass this sign but remain within the built-up area, in Flanders or Wallonia. There are no other speed signs. What is your maximum speed?"
+      },
+      "options": [
+        { "nl": "30 km per uur, de zone blijft gelden", "fr": "30 km à l'heure, la zone reste d'application", "en": "30 km/h, the zone still applies" },
+        { "nl": "50 km per uur, de algemene limiet binnen de bebouwde kom", "fr": "50 km à l'heure, la limite générale en agglomération", "en": "50 km/h, the general limit within the built-up area" },
+        { "nl": "70 km per uur", "fr": "70 km à l'heure", "en": "70 km/h" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het verkeersbord F4b beëindigt de zone 30. Omdat je nog binnen de bebouwde kom bent, geldt daarna opnieuw de algemene limiet van 50 km per uur.",
+        "fr": "Le signal F4b met fin à la zone 30. Comme vous êtes toujours en agglomération, la limite générale de 50 km à l'heure s'applique à nouveau.",
+        "en": "Sign F4b ends the 30 km/h zone. Since you are still within the built-up area, the general 50 km/h limit applies again."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 11.1 (snelheid binnen de bebouwde kom)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 22quater (zone 30)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-015",
+      "difficulty": 2,
+      "severity": "severe",
+      "image": { "type": "sign", "code": "F5" },
+      "text": {
+        "nl": "Je rijdt langs dit verkeersbord een autosnelweg op. Geldt er een minimumsnelheid?",
+        "fr": "Vous vous engagez sur une autoroute en passant ce signal. Une vitesse minimale s'applique-t-elle ?",
+        "en": "You enter a motorway past this sign. Does a minimum speed apply?"
+      },
+      "options": [
+        { "nl": "Nee, er geldt enkel een maximumsnelheid", "fr": "Non, seule une vitesse maximale s'applique", "en": "No, only a maximum speed applies" },
+        { "nl": "Ja, je moet ten minste 70 km per uur rijden", "fr": "Oui, vous devez rouler à au moins 70 km à l'heure", "en": "Yes, you must drive at least 70 km/h" },
+        { "nl": "Ja, je moet ten minste 90 km per uur rijden", "fr": "Oui, vous devez rouler à au moins 90 km à l'heure", "en": "Yes, you must drive at least 90 km/h" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Op de autosnelweg moeten bestuurders ten minste 70 km per uur rijden; de maximumsnelheid bedraagt er 120 km per uur. De toegang is bovendien verboden voor voetgangers, fietsers, bromfietsers en voertuigen die geen 70 km per uur kunnen halen.",
+        "fr": "Sur autoroute, les conducteurs doivent rouler à au moins 70 km à l'heure ; la vitesse maximale y est de 120 km à l'heure. L'accès y est en outre interdit aux piétons, cyclistes, cyclomotoristes et véhicules ne pouvant atteindre 70 km/h.",
+        "en": "On the motorway drivers must drive at least 70 km/h; the maximum speed is 120 km/h. Access is also prohibited to pedestrians, cyclists, moped riders and vehicles unable to reach 70 km/h."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 21.3 (minimumsnelheid op autosnelwegen)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 11.2.1 (maximumsnelheid 120 km per uur)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-016",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F8" },
+      "text": {
+        "nl": "Wat duidt dit verkeersbord aan?",
+        "fr": "Qu'indique ce signal ?",
+        "en": "What does this sign indicate?"
+      },
+      "options": [
+        { "nl": "Een tunnel met een lengte van meer dan 500 meter", "fr": "Un tunnel d'une longueur de plus de 500 mètres", "en": "A tunnel longer than 500 metres" },
+        { "nl": "Een ondergrondse parkeergarage", "fr": "Un parking souterrain", "en": "An underground car park" },
+        { "nl": "Een doorgang met beperkte hoogte", "fr": "Un passage à hauteur limitée", "en": "A passage with limited height" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het verkeersbord F8 duidt een tunnel aan met een lengte van meer dan 500 meter. Houd er voldoende afstand en zet je lichten aan.",
+        "fr": "Le signal F8 indique un tunnel d'une longueur de plus de 500 mètres. Gardez-y une distance suffisante et allumez vos feux.",
+        "en": "Sign F8 indicates a tunnel longer than 500 metres. Keep sufficient distance there and switch on your lights."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 71.2 (verkeersbord F8)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-017",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F9" },
+      "text": {
+        "nl": "Je rijdt op een autoweg, aangeduid met dit verkeersbord. Mag je er langs de rijbaan parkeren?",
+        "fr": "Vous circulez sur une route pour automobiles, indiquée par ce signal. Pouvez-vous y stationner le long de la chaussée ?",
+        "en": "You are driving on a motor road, indicated by this sign. May you park along the carriageway?"
+      },
+      "options": [
+        { "nl": "Nee, stilstaan en parkeren zijn er verboden, behalve op aangeduide parkeerplaatsen", "fr": "Non, l'arrêt et le stationnement y sont interdits, sauf sur les emplacements de stationnement indiqués", "en": "No, stopping and parking are prohibited there, except in signed parking areas" },
+        { "nl": "Ja, op de gelijkgrondse berm", "fr": "Oui, sur l'accotement de plain-pied", "en": "Yes, on the level verge" },
+        { "nl": "Ja, buiten de spitsuren", "fr": "Oui, en dehors des heures de pointe", "en": "Yes, outside peak hours" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Op autowegen gelden dezelfde regels als op autosnelwegen voor stilstaan en parkeren: het is er verboden, behalve op parkeerplaatsen die met het verkeersbord E9a aangeduid zijn. Voetgangers en fietsers hebben er evenmin toegang.",
+        "fr": "Sur les routes pour automobiles, l'arrêt et le stationnement suivent les mêmes règles que sur autoroute : ils y sont interdits, sauf sur les emplacements indiqués par le signal E9a. Les piétons et cyclistes n'y ont pas accès non plus.",
+        "en": "On motor roads, stopping and parking follow the same rules as on motorways: they are prohibited, except in parking areas indicated by sign E9a. Pedestrians and cyclists are not allowed there either."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22 (verkeer op autowegen)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-018",
+      "difficulty": 1,
+      "severity": "severe",
+      "image": { "type": "sign", "code": "F12a" },
+      "text": {
+        "nl": "Je rijdt langs dit verkeersbord een woonerf binnen. Hoe snel mag je maximaal rijden?",
+        "fr": "Vous entrez dans une zone résidentielle en passant ce signal. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "You enter a residential zone (woonerf) past this sign. What is your maximum speed?"
+      },
+      "options": [
+        { "nl": "20 km per uur", "fr": "20 km à l'heure", "en": "20 km/h" },
+        { "nl": "30 km per uur", "fr": "30 km à l'heure", "en": "30 km/h" },
+        { "nl": "50 km per uur", "fr": "50 km à l'heure", "en": "50 km/h" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Binnen een woonerf of erf is de snelheid beperkt tot 20 km per uur. Voetgangers mogen er de hele breedte van de openbare weg gebruiken en spelen is er toegelaten; bestuurders mogen hen niet in gevaar brengen.",
+        "fr": "Dans une zone résidentielle ou une zone de rencontre, la vitesse est limitée à 20 km à l'heure. Les piétons peuvent y utiliser toute la largeur de la voie publique et les jeux y sont autorisés ; les conducteurs ne peuvent pas les mettre en danger.",
+        "en": "Within a residential zone or meeting zone, speed is limited to 20 km/h. Pedestrians may use the full width of the public road and playing is allowed; drivers must not endanger them."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22bis (verkeer in woonerven en erven)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-019",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F12a" },
+      "text": {
+        "nl": "Je wil je auto parkeren in een woonerf. Waar mag dat?",
+        "fr": "Vous voulez stationner votre voiture dans une zone résidentielle. Où est-ce permis ?",
+        "en": "You want to park your car in a residential zone (woonerf). Where is that allowed?"
+      },
+      "options": [
+        { "nl": "Enkel op de plaatsen die afgebakend zijn met wegmarkeringen of met de letter P", "fr": "Uniquement aux emplacements délimités par des marques routières ou par la lettre P", "en": "Only in spaces marked out by road markings or with the letter P" },
+        { "nl": "Overal waar je het verkeer niet hindert", "fr": "Partout où vous ne gênez pas la circulation", "en": "Anywhere you do not obstruct traffic" },
+        { "nl": "Nergens, parkeren is er altijd verboden", "fr": "Nulle part, le stationnement y est toujours interdit", "en": "Nowhere, parking is always prohibited there" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "In woonerven en erven is parkeren verboden, behalve op de plaatsen die afgebakend zijn met wegmarkeringen of met een wegbedekking in een andere kleur en waar de letter P aangebracht is.",
+        "fr": "Dans les zones résidentielles et de rencontre, le stationnement est interdit, sauf aux emplacements délimités par des marques routières ou par un revêtement de couleur différente et sur lesquels la lettre P est reproduite.",
+        "en": "In residential and meeting zones, parking is prohibited except in spaces marked out by road markings or by a differently coloured surface bearing the letter P."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22bis (verkeer in woonerven en erven)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-020",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F17" },
+      "text": {
+        "nl": "Dit verkeersbord duidt een rijbaan met een busstrook aan. Mag een autocar met toeristen de busstrook volgen?",
+        "fr": "Ce signal indique une chaussée comportant une bande bus. Un autocar de tourisme peut-il suivre la bande bus ?",
+        "en": "This sign indicates a carriageway with a bus lane. May a tourist coach use the bus lane?"
+      },
+      "options": [
+        { "nl": "Nee, de busstrook is voorbehouden aan onder meer voertuigen van geregelde diensten voor gemeenschappelijk vervoer, taxi's en schoolvervoer", "fr": "Non, la bande bus est réservée notamment aux véhicules des services réguliers de transport en commun, aux taxis et au transport scolaire", "en": "No, the bus lane is reserved for, among others, regular public transport vehicles, taxis and school transport" },
+        { "nl": "Ja, elke autobus of autocar mag de busstrook gebruiken", "fr": "Oui, tout autobus ou autocar peut utiliser la bande bus", "en": "Yes, any bus or coach may use the bus lane" },
+        { "nl": "Ja, maar enkel tijdens de spitsuren", "fr": "Oui, mais uniquement pendant les heures de pointe", "en": "Yes, but only during peak hours" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De busstrook, aangeduid met het verkeersbord F17 en het woord BUS, is voorbehouden aan voertuigen van geregelde diensten voor gemeenschappelijk vervoer, taxi's en voertuigen voor schoolvervoer. Een autocar hoort daar niet bij; fietsers mogen enkel volgen als het fietssymbool op het bord staat.",
+        "fr": "La bande bus, indiquée par le signal F17 et le mot BUS, est réservée aux véhicules des services réguliers de transport en commun, aux taxis et aux véhicules affectés au transport scolaire. Un autocar n'en fait pas partie ; les cyclistes ne peuvent la suivre que si le symbole du vélo figure sur le signal.",
+        "en": "The bus lane, indicated by sign F17 and the word BUS, is reserved for regular public transport vehicles, taxis and school transport vehicles. A coach is not among them; cyclists may only use it if the bicycle symbol appears on the sign."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 72.5 (busstrook)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 71.2 (verkeersbord F17)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-021",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F19" },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        { "nl": "Openbare weg met eenrichtingsverkeer: je kruist er geen tegenliggers, tenzij een onderbord een uitzondering maakt", "fr": "Voie publique à sens unique : vous n'y croisez pas de circulation en sens inverse, sauf exception indiquée par un panneau additionnel", "en": "One-way road: you will not meet oncoming traffic, unless a supplementary panel makes an exception" },
+        { "nl": "Voorrang ten opzichte van de bestuurders uit de tegenovergestelde richting", "fr": "Priorité de passage par rapport aux conducteurs venant en sens opposé", "en": "Priority over drivers coming from the opposite direction" },
+        { "nl": "Verplichting de door de pijl aangeduide richting te volgen", "fr": "Obligation de suivre la direction indiquée par la flèche", "en": "Mandatory direction: follow the arrow" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het verkeersbord F19 is een aanwijzingsbord dat een openbare weg met eenrichtingsverkeer aanduidt. Let op: een onderbord kan fietsers toelaten in de tegenrichting te rijden.",
+        "fr": "Le signal F19 est un signal d'indication qui désigne une voie publique à sens unique. Attention : un panneau additionnel peut autoriser les cyclistes à circuler à contresens.",
+        "en": "Sign F19 is an information sign indicating a one-way road. Note: a supplementary panel may allow cyclists to ride against the flow."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 71.2 (verkeersbord F19)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-022",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F45b" },
+      "text": {
+        "nl": "Wat betekent dit verkeersbord?",
+        "fr": "Que signifie ce signal ?",
+        "en": "What does this sign mean?"
+      },
+      "options": [
+        { "nl": "Doodlopende weg, behalve voor voetgangers en fietsers", "fr": "Voie sans issue, excepté pour les piétons et les cyclistes", "en": "Dead end, except for pedestrians and cyclists" },
+        { "nl": "Weg voorbehouden voor voetgangers en fietsers", "fr": "Chemin réservé aux piétons et aux cyclistes", "en": "Road reserved for pedestrians and cyclists" },
+        { "nl": "Verboden toegang voor voetgangers en fietsers", "fr": "Accès interdit aux piétons et aux cyclistes", "en": "No access for pedestrians and cyclists" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het verkeersbord F45b duidt een doodlopende weg aan die wel een doorgang heeft voor voetgangers en fietsers. Voor gemotoriseerd verkeer loopt de weg dood.",
+        "fr": "Le signal F45b indique une voie sans issue qui offre toutefois un passage aux piétons et aux cyclistes. Pour le trafic motorisé, la voie est sans issue.",
+        "en": "Sign F45b indicates a dead-end road that does have a through passage for pedestrians and cyclists. For motorised traffic the road is a dead end."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 71.2 (verkeersbord F45b)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-023",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["A21", "F49"] },
+      "text": {
+        "nl": "Wat is het verschil tussen deze twee verkeersborden?",
+        "fr": "Quelle est la différence entre ces deux signaux ?",
+        "en": "What is the difference between these two signs?"
+      },
+      "options": [
+        { "nl": "Het eerste is een gevaarsbord dat een oversteekplaats aankondigt; het tweede duidt de plaats van de oversteekplaats zelf aan", "fr": "Le premier est un signal de danger annonçant un passage pour piétons ; le second indique l'endroit même du passage", "en": "The first is a danger warning sign announcing a pedestrian crossing; the second indicates the location of the crossing itself" },
+        { "nl": "Ze betekenen precies hetzelfde", "fr": "Ils ont exactement la même signification", "en": "They mean exactly the same thing" },
+        { "nl": "Het eerste geldt enkel binnen de bebouwde kom, het tweede erbuiten", "fr": "Le premier ne vaut qu'en agglomération, le second en dehors", "en": "The first applies only within the built-up area, the second outside it" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het driehoekige verkeersbord A21 is een gevaarsbord: het waarschuwt dat je een oversteekplaats voor voetgangers nadert. Het blauwe verkeersbord F49 is een aanwijzingsbord dat ter hoogte van de oversteekplaats zelf staat. Nader de oversteekplaats met matige snelheid en verleen voorrang aan de voetgangers die er zich op bevinden of op het punt staan over te steken.",
+        "fr": "Le signal triangulaire A21 est un signal de danger : il avertit que vous approchez d'un passage pour piétons. Le signal bleu F49 est un signal d'indication placé à hauteur du passage lui-même. Approchez du passage à allure modérée et cédez le passage aux piétons qui s'y trouvent ou sont sur le point de s'y engager.",
+        "en": "The triangular sign A21 is a danger warning sign: it warns that you are approaching a pedestrian crossing. The blue sign F49 is an information sign placed at the crossing itself. Approach the crossing at moderate speed and give way to pedestrians on it or about to step onto it."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66 (gevaarsborden) en Art. 71.2 (verkeersbord F49)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 40.4.2 (voorrang aan voetgangers op de oversteekplaats)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-024",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F87" },
+      "text": {
+        "nl": "Je nadert dit verkeersbord. Wat moet je doen?",
+        "fr": "Vous approchez de ce signal. Que devez-vous faire ?",
+        "en": "You approach this sign. What must you do?"
+      },
+      "options": [
+        { "nl": "Mijn snelheid matigen: het bord staat ter hoogte van een verhoogde inrichting op de rijbaan", "fr": "Modérer ma vitesse : le signal est placé à hauteur d'un dispositif surélevé sur la chaussée", "en": "Moderate my speed: the sign stands at a raised traffic-calming device on the carriageway" },
+        { "nl": "Stoppen en voorrang verlenen", "fr": "M'arrêter et céder le passage", "en": "Stop and give way" },
+        { "nl": "Niets: het bord waarschuwt enkel voor een gevaar op afstand", "fr": "Rien : le signal ne fait qu'annoncer un danger à distance", "en": "Nothing: the sign only warns of a danger some distance away" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het verkeersbord F87 duidt de plaats van een verhoogde inrichting (zoals een verkeersdrempel of verkeersplateau) aan. Je moet die met matige snelheid oprijden. Het gevaarsbord A14 daarentegen kondigt zo'n inrichting op afstand aan.",
+        "fr": "Le signal F87 indique l'endroit d'un dispositif surélevé (comme un ralentisseur ou un plateau). Vous devez le franchir à allure modérée. Le signal de danger A14, lui, annonce un tel dispositif à distance.",
+        "en": "Sign F87 marks the location of a raised traffic-calming device (such as a speed bump or raised platform). You must drive over it at moderate speed. Danger sign A14, by contrast, announces such a device at a distance."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22ter (verkeer op wegen met verhoogde inrichtingen)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 71.2 (verkeersbord F87)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-025",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F95" },
+      "text": {
+        "nl": "Waarvoor dient de strook die door dit verkeersbord wordt aangeduid?",
+        "fr": "À quoi sert la voie indiquée par ce signal ?",
+        "en": "What is the lane indicated by this sign for?"
+      },
+      "options": [
+        { "nl": "Als noodstopstrook voor voertuigen met bijvoorbeeld falende remmen", "fr": "De piste de détresse pour les véhicules dont les freins lâchent, par exemple", "en": "As an emergency escape lane for vehicles with failing brakes, for example" },
+        { "nl": "Als parkeerstrook voor korte pauzes", "fr": "De bande de stationnement pour de courtes pauses", "en": "As a parking strip for short breaks" },
+        { "nl": "Als inhaalstrook voor traag verkeer", "fr": "De bande de dépassement pour le trafic lent", "en": "As an overtaking lane for slow traffic" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het verkeersbord F95 duidt een noodstopstrook aan, meestal in een lange afdaling. Ze dient uitsluitend om een voertuig in nood, bijvoorbeeld met falende remmen, veilig tot stilstand te brengen.",
+        "fr": "Le signal F95 indique une piste de détresse, généralement dans une longue descente. Elle sert uniquement à immobiliser en sécurité un véhicule en difficulté, par exemple dont les freins lâchent.",
+        "en": "Sign F95 indicates an emergency escape lane, usually on a long descent. It serves only to bring a vehicle in trouble, for example with failing brakes, safely to a stop."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 71.2 (verkeersbord F95)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-026",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F99a" },
+      "text": {
+        "nl": "Welke weggebruikers mogen de weg gebruiken die met dit verkeersbord is aangeduid?",
+        "fr": "Quels usagers peuvent emprunter le chemin indiqué par ce signal ?",
+        "en": "Which road users may use the road indicated by this sign?"
+      },
+      "options": [
+        { "nl": "Voetgangers, fietsers, ruiters en bestuurders van speed pedelecs", "fr": "Les piétons, cyclistes, cavaliers et conducteurs de speed pedelecs", "en": "Pedestrians, cyclists, horse riders and speed pedelec riders" },
+        { "nl": "Alle bestuurders, met een maximum van 30 km per uur", "fr": "Tous les conducteurs, avec un maximum de 30 km à l'heure", "en": "All drivers, with a maximum of 30 km/h" },
+        { "nl": "Enkel voetgangers", "fr": "Uniquement les piétons", "en": "Pedestrians only" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het verkeersbord F99a duidt een weg aan die voorbehouden is voor voetgangers, fietsers, ruiters en bestuurders van speed pedelecs. Andere motorvoertuigen zijn er verboden, tenzij een uitzondering op het bord vermeld staat; de gebruikers mogen elkaar niet in gevaar brengen.",
+        "fr": "Le signal F99a indique un chemin réservé à la circulation des piétons, cyclistes, cavaliers et conducteurs de speed pedelecs. Les autres véhicules à moteur y sont interdits, sauf exception mentionnée sur le signal ; les usagers ne peuvent pas se mettre mutuellement en danger.",
+        "en": "Sign F99a indicates a road reserved for pedestrians, cyclists, horse riders and speed pedelec riders. Other motor vehicles are prohibited unless an exception is shown on the sign; users must not endanger one another."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22octies (verkeer op voorbehouden wegen)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 71.2 (verkeersbord F99a)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-027",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F103" },
+      "text": {
+        "nl": "Je mag als leverancier uitzonderlijk een voetgangerszone binnenrijden. Hoe snel mag je er rijden?",
+        "fr": "En tant que livreur, vous pouvez exceptionnellement entrer dans une zone piétonne. À quelle vitesse pouvez-vous y rouler ?",
+        "en": "As a delivery driver you are exceptionally allowed to enter a pedestrian zone. How fast may you drive there?"
+      },
+      "options": [
+        { "nl": "Stapvoets, en je moet voorrang verlenen aan de voetgangers", "fr": "À l'allure du pas, en cédant le passage aux piétons", "en": "At walking pace, and you must give way to pedestrians" },
+        { "nl": "Maximaal 20 km per uur", "fr": "Au maximum 20 km à l'heure", "en": "At most 20 km/h" },
+        { "nl": "Maximaal 30 km per uur", "fr": "Au maximum 30 km à l'heure", "en": "At most 30 km/h" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "In een voetgangerszone (verkeersborden F103/F105) moeten de bestuurders die er uitzonderlijk mogen rijden stapvoets rijden, voorrang verlenen aan de voetgangers en hen zo nodig laten voorgaan. Voetgangers mogen er de hele breedte van de weg gebruiken.",
+        "fr": "Dans une zone piétonne (signaux F103/F105), les conducteurs qui peuvent exceptionnellement y circuler doivent rouler à l'allure du pas, céder le passage aux piétons et au besoin s'arrêter. Les piétons peuvent y utiliser toute la largeur de la voie.",
+        "en": "In a pedestrian zone (signs F103/F105), drivers who are exceptionally allowed in must drive at walking pace, give way to pedestrians and stop for them if necessary. Pedestrians may use the full width of the road."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22sexies (verkeer in voetgangerszones)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-028",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F111" },
+      "text": {
+        "nl": "Je rijdt met de auto in een fietszone en nadert een tragere fietser. Mag je die inhalen?",
+        "fr": "Vous roulez en voiture dans une zone cyclable et approchez d'un cycliste plus lent. Pouvez-vous le dépasser ?",
+        "en": "You are driving a car in a cycle zone and approach a slower cyclist. May you overtake them?"
+      },
+      "options": [
+        { "nl": "Nee, in een fietszone mogen motorvoertuigen fietsers niet inhalen", "fr": "Non, dans une zone cyclable, les véhicules à moteur ne peuvent pas dépasser les cyclistes", "en": "No, in a cycle zone motor vehicles may not overtake cyclists" },
+        { "nl": "Ja, als je voldoende zijdelingse afstand houdt", "fr": "Oui, si vous gardez une distance latérale suffisante", "en": "Yes, if you keep sufficient lateral distance" },
+        { "nl": "Ja, maar enkel links", "fr": "Oui, mais uniquement par la gauche", "en": "Yes, but only on the left" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "In een fietszone mogen fietsers de hele breedte van de rijstrook gebruiken. Motorvoertuigen mogen er hoogstens 30 km per uur rijden en mogen fietsers niet inhalen.",
+        "fr": "Dans une zone cyclable, les cyclistes peuvent utiliser toute la largeur de la bande de circulation. Les véhicules à moteur ne peuvent pas y rouler à plus de 30 km à l'heure ni dépasser les cyclistes.",
+        "en": "In a cycle zone, cyclists may use the full width of the traffic lane. Motor vehicles may not exceed 30 km/h there and may not overtake cyclists."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22novies (verkeer in fietszones)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 2.61 (fietszone)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-029",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Een doorlopende witte streep verdeelt de rijbaan in twee rijstroken. Mag je die streep overschrijden om in te halen?",
+        "fr": "Une ligne blanche continue divise la chaussée en deux bandes de circulation. Pouvez-vous franchir cette ligne pour dépasser ?",
+        "en": "A solid white line divides the carriageway into two traffic lanes. May you cross that line to overtake?"
+      },
+      "options": [
+        { "nl": "Nee, een doorlopende streep mag je niet overschrijden en er ook niet overheen rijden", "fr": "Non, une ligne continue ne peut être ni franchie ni chevauchée", "en": "No, a solid line may not be crossed or straddled" },
+        { "nl": "Ja, als er geen tegenligger aankomt", "fr": "Oui, s'il n'y a pas de circulation en sens inverse", "en": "Yes, if no oncoming traffic is approaching" },
+        { "nl": "Ja, maar enkel om een fietser in te halen", "fr": "Oui, mais uniquement pour dépasser un cycliste", "en": "Yes, but only to overtake a cyclist" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een doorlopende witte streep mag niet overschreden worden; je mag er evenmin overheen rijden (schrijlings rijden). Je moet links van die streep blijven wanneer ze de twee rijrichtingen scheidt.",
+        "fr": "Une ligne blanche continue ne peut pas être franchie ; il est également interdit de la chevaucher. Vous devez rester à droite de cette ligne lorsqu'elle sépare les deux sens de circulation.",
+        "en": "A solid white line may not be crossed, nor may you straddle it. You must stay on your side of the line when it separates the two directions of traffic."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 72.2 (doorlopende streep)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-030",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "De rijstroken zijn gescheiden door een onderbroken witte streep. Wat betekent dat?",
+        "fr": "Les bandes de circulation sont séparées par une ligne blanche discontinue. Qu'est-ce que cela signifie ?",
+        "en": "The traffic lanes are separated by a broken white line. What does that mean?"
+      },
+      "options": [
+        { "nl": "Je mag de streep overschrijden om in te halen, links af te slaan of van rijstrook te veranderen", "fr": "Vous pouvez franchir la ligne pour dépasser, tourner à gauche ou changer de bande", "en": "You may cross the line to overtake, turn left or change lanes" },
+        { "nl": "Je mag de streep nooit overschrijden", "fr": "Vous ne pouvez jamais franchir la ligne", "en": "You may never cross the line" },
+        { "nl": "De rijstrook is voorbehouden voor autobussen", "fr": "La bande est réservée aux autobus", "en": "The lane is reserved for buses" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een onderbroken witte streep mag je overschrijden, bijvoorbeeld om in te halen, links af te slaan, te keren of van rijstrook te veranderen — uiteraard alleen als het maneuver veilig kan.",
+        "fr": "Une ligne blanche discontinue peut être franchie, par exemple pour dépasser, tourner à gauche, faire demi-tour ou changer de bande — uniquement si la manœuvre peut se faire en sécurité, bien entendu.",
+        "en": "A broken white line may be crossed, for example to overtake, turn left, make a U-turn or change lanes — only when the manoeuvre can be made safely, of course."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 72.3 (onderbroken streep)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-031",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op de trottoirband is een gele onderbroken streep aangebracht. Wat betekent die markering?",
+        "fr": "Une ligne discontinue de couleur jaune est tracée sur la bordure du trottoir. Que signifie cette marque ?",
+        "en": "A broken yellow line is painted on the curb. What does this marking mean?"
+      },
+      "options": [
+        { "nl": "Parkeren is er verboden; stilstaan blijft toegelaten", "fr": "Le stationnement y est interdit ; l'arrêt reste autorisé", "en": "Parking is prohibited there; stopping remains allowed" },
+        { "nl": "Stilstaan en parkeren zijn er beide verboden", "fr": "L'arrêt et le stationnement y sont tous deux interdits", "en": "Both stopping and parking are prohibited there" },
+        { "nl": "De plaats is voorbehouden voor taxi's", "fr": "L'emplacement est réservé aux taxis", "en": "The space is reserved for taxis" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een gele onderbroken streep op de werkelijke rand van de rijbaan of op de trottoirband betekent dat parkeren verboden is op de rijbaan langs die streep. Stilstaan, bijvoorbeeld om iemand te laten uitstappen, blijft toegelaten.",
+        "fr": "Une ligne discontinue de couleur jaune tracée sur le bord réel de la chaussée ou sur la bordure du trottoir signifie que le stationnement est interdit sur la chaussée le long de cette ligne. L'arrêt, par exemple pour laisser descendre quelqu'un, reste autorisé.",
+        "en": "A broken yellow line on the actual edge of the carriageway or on the curb means parking is prohibited on the carriageway along that line. Stopping, for instance to let someone out, remains allowed."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 75.1.2° (gele onderbroken streep)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-032",
+      "difficulty": 1,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op het einde van een zijstraat zie je een dwarsstreep gevormd door witte driehoeken (haaientanden), met de punten naar jou gericht. Wat moet je doen?",
+        "fr": "Au bout d'une rue latérale, vous voyez une ligne transversale formée de triangles blancs (dents de requin), pointes dirigées vers vous. Que devez-vous faire ?",
+        "en": "At the end of a side street you see a transverse line formed by white triangles (shark's teeth), points facing you. What must you do?"
+      },
+      "options": [
+        { "nl": "Voorrang verlenen aan de bestuurders op de weg die je nadert", "fr": "Céder le passage aux conducteurs circulant sur la voie dont vous approchez", "en": "Give way to the drivers on the road you are approaching" },
+        { "nl": "Altijd volledig stoppen, zoals bij een stopbord", "fr": "Toujours marquer l'arrêt complet, comme devant un signal stop", "en": "Always come to a complete stop, as at a stop sign" },
+        { "nl": "Niets: de markering duidt enkel een wegversmalling aan", "fr": "Rien : la marque n'indique qu'un rétrécissement de la chaussée", "en": "Nothing: the marking only indicates a road narrowing" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Haaientanden duiden de plaats aan waar je zo nodig moet stoppen om voorrang te verlenen, zoals opgelegd door het verkeersbord B1 of B5. Volledig stoppen is enkel verplicht bij een stopbord (B5) of als de veiligheid het vereist.",
+        "fr": "Les dents de requin indiquent l'endroit où vous devez au besoin vous arrêter pour céder le passage, comme l'impose le signal B1 ou B5. L'arrêt complet n'est obligatoire que devant un signal stop (B5) ou si la sécurité l'exige.",
+        "en": "Shark's teeth mark the place where you must stop if necessary to give way, as required by sign B1 or B5. A complete stop is only mandatory at a stop sign (B5) or when safety requires it."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 76.2 (dwarsstreep gevormd door witte driehoeken)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-033",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je nadert een stopbord (B5) met op de rijbaan een witte doorlopende dwarsstreep. Waar moet je stoppen?",
+        "fr": "Vous approchez d'un signal stop (B5) avec, sur la chaussée, une ligne d'arrêt blanche continue. Où devez-vous vous arrêter ?",
+        "en": "You approach a stop sign (B5) with a solid white transverse line on the carriageway. Where must you stop?"
+      },
+      "options": [
+        { "nl": "Vóór de stopstreep", "fr": "Avant la ligne d'arrêt", "en": "Before the stop line" },
+        { "nl": "Ter hoogte van het verkeersbord, ook als dat voorbij de streep staat", "fr": "À hauteur du signal, même s'il se trouve au-delà de la ligne", "en": "Level with the sign, even if it stands beyond the line" },
+        { "nl": "Op het kruispunt zelf, waar je goed zicht hebt", "fr": "Sur le carrefour même, là où vous avez une bonne visibilité", "en": "On the intersection itself, where you have a good view" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De witte doorlopende dwarsstreep is de stopstreep: ze duidt de plaats aan waar je moet stoppen wanneer een stopbord (B5) of een verkeerslicht dat oplegt. Pas nadat je gestopt hebt en voorrang hebt verleend, mag je verder rijden.",
+        "fr": "La ligne blanche continue tracée en travers est la ligne d'arrêt : elle indique l'endroit où vous devez marquer l'arrêt lorsqu'un signal stop (B5) ou un signal lumineux l'impose. Vous ne repartez qu'après vous être arrêté et avoir cédé le passage.",
+        "en": "The solid white transverse line is the stop line: it marks where you must stop when a stop sign (B5) or a traffic light requires it. Only after stopping and giving way may you proceed."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 76.1 (stopstreep)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-034",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Hoe herken je een oversteekplaats voor voetgangers op het wegdek?",
+        "fr": "Comment reconnaissez-vous un passage pour piétons sur le revêtement de la chaussée ?",
+        "en": "How do you recognise a pedestrian crossing on the road surface?"
+      },
+      "options": [
+        { "nl": "Aan witte banden, evenwijdig met de as van de rijbaan", "fr": "À des bandes blanches, parallèles à l'axe de la chaussée", "en": "By white stripes parallel to the axis of the carriageway" },
+        { "nl": "Aan twee onderbroken strepen van witte vierkanten", "fr": "À deux lignes discontinues formées de carrés blancs", "en": "By two broken lines of white squares" },
+        { "nl": "Aan een doorlopende gele streep dwars over de rijbaan", "fr": "À une ligne jaune continue en travers de la chaussée", "en": "By a solid yellow line across the carriageway" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een oversteekplaats voor voetgangers wordt afgebakend door witte banden evenwijdig met de as van de rijbaan (het 'zebrapad'). Twee onderbroken strepen van witte vierkanten bakenen daarentegen een oversteekplaats voor fietsers en bromfietsers af.",
+        "fr": "Un passage pour piétons est délimité par des bandes blanches parallèles à l'axe de la chaussée (le « passage zébré »). Deux lignes discontinues formées de carrés blancs délimitent en revanche un passage pour cyclistes et cyclomotoristes.",
+        "en": "A pedestrian crossing is marked by white stripes parallel to the axis of the carriageway (the 'zebra crossing'). Two broken lines of white squares, by contrast, mark a crossing for cyclists and moped riders."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 76.3 (oversteekplaatsen voor voetgangers)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 76.4 (oversteekplaatsen voor fietsers)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-035",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je staat voor het rode licht op een rijstrook waarop een witte pijl naar links gemarkeerd is. Je wil eigenlijk rechtdoor rijden. Wat moet je doen?",
+        "fr": "Vous êtes arrêté au feu rouge sur une bande de circulation marquée d'une flèche blanche vers la gauche. Vous voulez en réalité continuer tout droit. Que devez-vous faire ?",
+        "en": "You are waiting at a red light in a lane marked with a white arrow pointing left. You actually want to go straight ahead. What must you do?"
+      },
+      "options": [
+        { "nl": "Op het kruispunt de richting van de pijl volgen en dus links afslaan", "fr": "Suivre au carrefour la direction de la flèche et donc tourner à gauche", "en": "Follow the direction of the arrow at the intersection and therefore turn left" },
+        { "nl": "Toch rechtdoor rijden: de pijlen zijn slechts een aanbeveling", "fr": "Continuer quand même tout droit : les flèches ne sont qu'une recommandation", "en": "Go straight ahead anyway: the arrows are only a recommendation" },
+        { "nl": "Achteruitrijden om van rijstrook te veranderen", "fr": "Reculer pour changer de bande de circulation", "en": "Reverse to change lanes" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bij het naderen van een kruispunt duiden de pijlen op de rijstroken de richting(en) aan die de bestuurders op die rijstrook moeten volgen. Sta je eenmaal voorgesorteerd op een rijstrook met pijlen, dan moet je op het kruispunt een van de aangeduide richtingen volgen.",
+        "fr": "À l'approche d'un carrefour, les flèches marquées sur les bandes de circulation indiquent la ou les directions que les conducteurs de cette bande doivent suivre. Une fois présélectionné sur une bande munie de flèches, vous devez suivre au carrefour une des directions indiquées.",
+        "en": "On the approach to an intersection, the arrows marked on the lanes indicate the direction(s) drivers in that lane must follow. Once you are in a lane with arrows, you must follow one of the indicated directions at the intersection."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 77.1 (pijlen op de rijbaan)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    }
+  ]
+}
