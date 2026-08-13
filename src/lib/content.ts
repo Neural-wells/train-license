@@ -37,10 +37,12 @@ async function loadJson<T>(relPath: string): Promise<T | null> {
   }
 }
 
+const CACHE_TTL_MS = 5 * 60_000;
 let questionCache: Question[] | null = null;
+let questionCacheAt = 0;
 
 export async function getAllQuestions(): Promise<Question[]> {
-  if (questionCache) return questionCache;
+  if (questionCache && Date.now() - questionCacheAt < CACHE_TTL_MS) return questionCache;
   const all: Question[] = [];
   for (const cat of CATEGORIES) {
     const file = await loadJson<QuestionFile>(`questions/${cat.slug}.json`);
@@ -50,6 +52,7 @@ export async function getAllQuestions(): Promise<Question[]> {
     }
   }
   questionCache = all;
+  questionCacheAt = Date.now();
   return all;
 }
 
