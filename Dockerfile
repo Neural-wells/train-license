@@ -12,6 +12,7 @@ RUN npm run build
 FROM node:24-slim AS runner
 WORKDIR /app
 ENV NODE_ENV=production
+ENV PORT=8080
 COPY --from=build /app ./
-EXPOSE 3000
+EXPOSE 8080
 CMD ["npm", "start"]
