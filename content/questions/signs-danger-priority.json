@@ -312,7 +312,7 @@
         "en": "You pass this sign. What does it mean?"
       },
       "options": [
-        { "nl": "U rijdt op een voorrangsweg en hebt voorrang op de volgende kruispunten, tot het bord B11", "fr": "Vous circulez sur une voie prioritaire et avez la priorité aux carrefours suivants, jusqu'au signal B11", "en": "You are on a priority road and have priority at the following intersections, until sign B11" },
+        { "nl": "U rijdt op een voorrangsweg en hebt voorrang op de volgende kruispunten, totdat een bord het einde van de voorrangsweg aanduidt", "fr": "Vous circulez sur une voie prioritaire et avez la priorité aux carrefours suivants, jusqu'au signal indiquant la fin de la voie prioritaire", "en": "You are on a priority road and have priority at the following intersections, until a sign marks the end of the priority road" },
         { "nl": "Op het volgende kruispunt geldt de voorrang van rechts", "fr": "Au prochain carrefour, la priorité de droite est applicable", "en": "Priority to the right applies at the next intersection" },
         { "nl": "U moet op het volgende kruispunt voorrang verlenen", "fr": "Vous devez céder le passage au prochain carrefour", "en": "You must give way at the next intersection" }
       ],
@@ -583,9 +583,9 @@
       "severity": "standard",
       "image": { "type": "signs", "codes": ["B3", "B7"] },
       "text": {
-        "nl": "Welk bord kondigt een stopbord (B5) aan op de bij benadering aangeduide afstand?",
-        "fr": "Quel signal annonce un signal stop (B5) à la distance approximativement indiquée ?",
-        "en": "Which sign announces a stop sign (B5) at the approximate distance indicated?"
+        "nl": "Welk bord kondigt een stopbord aan op de bij benadering aangeduide afstand?",
+        "fr": "Quel signal annonce un signal stop à la distance approximativement indiquée ?",
+        "en": "Which sign announces a stop sign at the approximate distance indicated?"
       },
       "options": [
         { "nl": "Het linkse bord", "fr": "Le signal de gauche", "en": "The left sign" },
@@ -668,9 +668,9 @@
         }
       },
       "text": {
-        "nl": "U bent bestuurder A en nadert het kruispunt; voor u staat het bord B1. Bestuurder B komt van links en rijdt rechtdoor. Wie mag eerst doorrijden?",
-        "fr": "Vous êtes le conducteur A et vous approchez du carrefour ; le signal B1 est placé sur votre voie. Le conducteur B vient de gauche et continue tout droit. Qui peut passer en premier ?",
-        "en": "You are driver A, approaching the intersection; sign B1 stands on your approach. Driver B comes from the left and goes straight ahead. Who may proceed first?"
+        "nl": "U bent bestuurder A en nadert het kruispunt; voor u staat het afgebeelde bord. Bestuurder B komt van links en rijdt rechtdoor. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous approchez du carrefour ; le signal représenté est placé sur votre voie. Le conducteur B vient de gauche et continue tout droit. Qui peut passer en premier ?",
+        "en": "You are driver A, approaching the intersection; the sign shown stands on your approach. Driver B comes from the left and goes straight ahead. Who may proceed first?"
       },
       "options": [
         { "nl": "Bestuurder B: u moet voorrang verlenen aan iedere bestuurder op de kruisende weg, ook aan wie van links komt", "fr": "Le conducteur B : vous devez céder le passage à tout conducteur sur la voie que vous croisez, même venant de gauche", "en": "Driver B: you must give way to every driver on the crossing road, including from the left" },
@@ -748,7 +748,7 @@
         "en": "You reach this sign and see no traffic in any direction. Must you stop?"
       },
       "options": [
-        { "nl": "Ja: bij het bord B5 moet u altijd volledig stoppen, ook als er geen verkeer nadert", "fr": "Oui : au signal B5, vous devez toujours marquer l'arrêt complet, même si aucun véhicule n'approche", "en": "Yes: at sign B5 you must always come to a complete stop, even when no traffic is approaching" },
+        { "nl": "Ja: bij dit bord moet u altijd volledig stoppen, ook als er geen verkeer nadert", "fr": "Oui : à ce signal, vous devez toujours marquer l'arrêt complet, même si aucun véhicule n'approche", "en": "Yes: at this sign you must always come to a complete stop, even when no traffic is approaching" },
         { "nl": "Nee: als de kruisende weg vrij is, mag u traag doorrijden", "fr": "Non : si la voie que vous croisez est libre, vous pouvez passer lentement", "en": "No: if the crossing road is clear, you may drive on slowly" },
         { "nl": "Alleen bij slechte zichtbaarheid", "fr": "Uniquement par mauvaise visibilité", "en": "Only in poor visibility" }
       ],
@@ -773,9 +773,9 @@
         "en": "What is the difference between these two signs?"
       },
       "options": [
-        { "nl": "Het linkse bord (B9) geeft voorrang op alle volgende kruispunten tot het bord B11; het rechtse (B15) alleen op het eerstvolgende kruispunt", "fr": "Le signal de gauche (B9) donne la priorité à tous les carrefours suivants jusqu'au signal B11 ; celui de droite (B15) uniquement au prochain carrefour", "en": "The left sign (B9) gives priority at all following intersections until sign B11; the right one (B15) only at the next intersection" },
+        { "nl": "Het linkse bord geeft voorrang op alle volgende kruispunten, tot het einde van de voorrangsweg wordt aangeduid; het rechtse alleen op het eerstvolgende kruispunt", "fr": "Le signal de gauche donne la priorité à tous les carrefours suivants, jusqu'au signal indiquant la fin de la voie prioritaire ; celui de droite uniquement au prochain carrefour", "en": "The left sign gives priority at all following intersections, until the end of the priority road is signposted; the right one only at the next intersection" },
         { "nl": "Ze betekenen hetzelfde: voorrang tot het einde van de weg", "fr": "Ils signifient la même chose : priorité jusqu'à la fin de la route", "en": "They mean the same: priority until the end of the road" },
-        { "nl": "Het rechtse bord geeft voorrang tot het bord B11; het linkse alleen op het volgende kruispunt", "fr": "Le signal de droite donne la priorité jusqu'au signal B11 ; celui de gauche uniquement au prochain carrefour", "en": "The right sign gives priority until sign B11; the left one only at the next intersection" }
+        { "nl": "Het rechtse bord geeft voorrang tot het einde van de voorrangsweg; het linkse alleen op het volgende kruispunt", "fr": "Le signal de droite donne la priorité jusqu'à la fin de la voie prioritaire ; celui de gauche uniquement au prochain carrefour", "en": "The right sign gives priority until the end of the priority road; the left one only at the next intersection" }
       ],
       "correct": 0,
       "explanation": {
@@ -828,12 +828,12 @@
         }
       },
       "text": {
-        "nl": "U bent bestuurder A; voor u staat het bord B17. Bestuurder B nadert van links. Wie mag eerst doorrijden?",
-        "fr": "Vous êtes le conducteur A ; le signal B17 est placé sur votre voie. Le conducteur B approche par la gauche. Qui peut passer en premier ?",
-        "en": "You are driver A; sign B17 stands on your approach. Driver B approaches from the left. Who may proceed first?"
+        "nl": "U bent bestuurder A; voor u staat het afgebeelde bord. Bestuurder B nadert van links. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A ; le signal représenté est placé sur votre voie. Le conducteur B approche par la gauche. Qui peut passer en premier ?",
+        "en": "You are driver A; the sign shown stands on your approach. Driver B approaches from the left. Who may proceed first?"
       },
       "options": [
-        { "nl": "U (A): het bord B17 herinnert eraan dat de voorrang van rechts geldt, en u komt voor B van rechts", "fr": "Vous (A) : le signal B17 rappelle que la priorité de droite s'applique, et vous venez de la droite pour B", "en": "You (A): sign B17 reminds you that priority to the right applies, and you come from B's right" },
+        { "nl": "U (A): het bord herinnert eraan dat de voorrang van rechts geldt, en u komt voor B van rechts", "fr": "Vous (A) : le signal rappelle que la priorité de droite s'applique, et vous venez de la droite pour B", "en": "You (A): the sign reminds you that priority to the right applies, and you come from B's right" },
         { "nl": "Bestuurder B: het bord verplicht u voorrang te verlenen", "fr": "Le conducteur B : le signal vous oblige à céder le passage", "en": "Driver B: the sign requires you to give way" },
         { "nl": "Bestuurder B: wie rechtdoor rijdt, heeft op zo'n kruispunt altijd voorrang", "fr": "Le conducteur B : celui qui va tout droit a toujours la priorité à un tel carrefour", "en": "Driver B: whoever goes straight ahead always has priority at such an intersection" }
       ],

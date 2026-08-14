@@ -208,9 +208,9 @@
       "severity": "standard",
       "image": { "type": "sign", "code": "E11" },
       "text": {
-        "nl": "In een bebouwde kom geldt het halfmaandelijks beurtelings parkeren (verkeersbord E11). Aan welke kant mag je parkeren van de 1e tot de 15e van de maand?",
-        "fr": "Dans une agglomération, le stationnement semi-mensuel s'applique (signal E11). De quel côté pouvez-vous stationner du 1er au 15 du mois ?",
-        "en": "Half-monthly alternate-side parking applies in a built-up area (sign E11). On which side may you park from the 1st to the 15th of the month?"
+        "nl": "In een bebouwde kom geldt het halfmaandelijks beurtelings parkeren, aangeduid met dit verkeersbord. Aan welke kant mag je parkeren van de 1e tot de 15e van de maand?",
+        "fr": "Dans une agglomération, le stationnement semi-mensuel s'applique, comme l'indique ce signal. De quel côté pouvez-vous stationner du 1er au 15 du mois ?",
+        "en": "Half-monthly alternate-side parking, indicated by this sign, applies in a built-up area. On which side may you park from the 1st to the 15th of the month?"
       },
       "options": [
         { "nl": "Aan de kant van de gebouwen met onpare huisnummers", "fr": "Du côté des immeubles portant des numéros impairs", "en": "On the side of the buildings with odd house numbers" },
@@ -819,11 +819,11 @@
       "id": "signs-parking-indication-033",
       "difficulty": 2,
       "severity": "standard",
-      "image": null,
+      "image": { "type": "sign", "code": "B5" },
       "text": {
-        "nl": "Je nadert een stopbord (B5) met op de rijbaan een witte doorlopende dwarsstreep. Waar moet je stoppen?",
-        "fr": "Vous approchez d'un signal stop (B5) avec, sur la chaussée, une ligne d'arrêt blanche continue. Où devez-vous vous arrêter ?",
-        "en": "You approach a stop sign (B5) with a solid white transverse line on the carriageway. Where must you stop?"
+        "nl": "Je nadert dit stopbord met op de rijbaan een witte doorlopende dwarsstreep. Waar moet je stoppen?",
+        "fr": "Vous approchez de ce signal stop avec, sur la chaussée, une ligne d'arrêt blanche continue. Où devez-vous vous arrêter ?",
+        "en": "You approach this stop sign with a solid white transverse line on the carriageway. Where must you stop?"
       },
       "options": [
         { "nl": "Vóór de stopstreep", "fr": "Avant la ligne d'arrêt", "en": "Before the stop line" },

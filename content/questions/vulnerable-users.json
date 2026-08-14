@@ -494,9 +494,9 @@
       },
       "options": [
         {
-          "nl": "Een bromfiets klasse B: op wegen waar meer dan 50 km/u geldt, moet de bestuurder het fietspad D7 volgen; waar 50 km/u of minder geldt, mag hij kiezen.",
-          "fr": "Un cyclomoteur classe B : sur les routes où plus de 50 km/h est autorisé, le conducteur doit suivre la piste cyclable D7 ; où 50 km/h ou moins s'applique, il a le choix.",
-          "en": "A class B moped: on roads where more than 50 km/h applies, the rider must use the D7 cycle path; where 50 km/h or less applies, they may choose."
+          "nl": "Een bromfiets klasse B: op wegen waar meer dan 50 km/u geldt, moet de bestuurder het verplichte fietspad volgen; waar 50 km/u of minder geldt, mag hij kiezen.",
+          "fr": "Un cyclomoteur classe B : sur les routes où plus de 50 km/h est autorisé, le conducteur doit suivre la piste cyclable obligatoire ; où 50 km/h ou moins s'applique, il a le choix.",
+          "en": "A class B moped: on roads where more than 50 km/h applies, the rider must use the compulsory cycle path; where 50 km/h or less applies, they may choose."
         },
         {
           "nl": "Een gewoon rijwiel: de bestuurder moet altijd het fietspad volgen.",
@@ -525,25 +525,25 @@
       "severity": "standard",
       "image": { "type": "signs", "codes": ["D9", "D10"] },
       "text": {
-        "nl": "Wat is het verschil tussen deze twee borden (links D9, rechts D10)?",
-        "fr": "Quelle est la différence entre ces deux signaux (D9 à gauche, D10 à droite) ?",
-        "en": "What is the difference between these two signs (D9 on the left, D10 on the right)?"
+        "nl": "Je ziet deze twee verkeersborden. Wat is het verschil tussen het linkse en het rechtse bord?",
+        "fr": "Vous voyez ces deux panneaux. Quelle est la différence entre le panneau de gauche et celui de droite ?",
+        "en": "You see these two signs. What is the difference between the left-hand sign and the right-hand sign?"
       },
       "options": [
         {
-          "nl": "D9: deel van de weg voorbehouden voor voetgangers, fietsers en tweewielige bromfietsen klasse A, elk in een eigen vak; D10: voetgangers en fietsers delen samen hetzelfde deel.",
-          "fr": "D9 : partie de la voie réservée aux piétons, cyclistes et cyclomoteurs à deux roues classe A, chacun dans sa partie ; D10 : les piétons et les cyclistes partagent la même partie.",
-          "en": "D9: part of the road reserved for pedestrians, cyclists and two-wheeled class A mopeds, each in their own section; D10: pedestrians and cyclists share the same section."
+          "nl": "Linkse bord: deel van de weg voorbehouden voor voetgangers, fietsers en tweewielige bromfietsen klasse A, elk in een eigen vak; rechtse bord: voetgangers en fietsers delen samen hetzelfde deel.",
+          "fr": "Panneau de gauche : partie de la voie réservée aux piétons, cyclistes et cyclomoteurs à deux roues classe A, chacun dans sa partie ; panneau de droite : les piétons et les cyclistes partagent la même partie.",
+          "en": "Left-hand sign: part of the road reserved for pedestrians, cyclists and two-wheeled class A mopeds, each in their own section; right-hand sign: pedestrians and cyclists share the same section."
         },
         {
-          "nl": "Beide borden laten ook bromfietsen klasse B toe, D10 alleen buiten de bebouwde kom.",
-          "fr": "Les deux signaux admettent aussi les cyclomoteurs classe B, le D10 uniquement hors agglomération.",
-          "en": "Both signs also allow class B mopeds, D10 only outside built-up areas."
+          "nl": "Beide borden laten ook bromfietsen klasse B toe, het rechtse bord alleen buiten de bebouwde kom.",
+          "fr": "Les deux panneaux admettent aussi les cyclomoteurs classe B, celui de droite uniquement hors agglomération.",
+          "en": "Both signs also allow class B mopeds, the right-hand one only outside built-up areas."
         },
         {
-          "nl": "D10 is een verplicht fietspad waar voetgangers verboden zijn.",
-          "fr": "D10 est une piste cyclable obligatoire où les piétons sont interdits.",
-          "en": "D10 is a compulsory cycle path where pedestrians are prohibited."
+          "nl": "Het rechtse bord duidt een verplicht fietspad aan waar voetgangers verboden zijn.",
+          "fr": "Le panneau de droite indique une piste cyclable obligatoire où les piétons sont interdits.",
+          "en": "The right-hand sign indicates a compulsory cycle path where pedestrians are prohibited."
         }
       ],
       "correct": 0,
@@ -634,11 +634,11 @@
       "id": "vulnerable-users-018",
       "difficulty": 3,
       "severity": "standard",
-      "image": null,
+      "image": { "type": "sign", "code": "D7" },
       "text": {
-        "nl": "Binnen de bebouwde kom, op een weg waar maximaal 50 km/u geldt, ligt een berijdbaar fietspad aangeduid met het bord D7. Waar rijdt de bestuurder van een bromfiets klasse B?",
-        "fr": "En agglomération, sur une route limitée à 50 km/h, se trouve une piste cyclable praticable indiquée par le signal D7. Où circule le conducteur d'un cyclomoteur classe B ?",
-        "en": "In a built-up area, on a road limited to 50 km/h, there is a passable cycle path indicated by sign D7. Where does the rider of a class B moped ride?"
+        "nl": "Binnen de bebouwde kom, op een weg waar maximaal 50 km/u geldt, ligt een berijdbaar fietspad aangeduid met dit verkeersbord. Waar rijdt de bestuurder van een bromfiets klasse B?",
+        "fr": "En agglomération, sur une route limitée à 50 km/h, se trouve une piste cyclable praticable indiquée par ce panneau. Où circule le conducteur d'un cyclomoteur classe B ?",
+        "en": "In a built-up area, on a road limited to 50 km/h, there is a passable cycle path indicated by this sign. Where does the rider of a class B moped ride?"
       },
       "options": [
         {
@@ -1118,15 +1118,15 @@
         }
       },
       "text": {
-        "nl": "Je bent auto A op de doorgaande weg. Fietser B komt uit de zijstraat, waar het bord B1 (omgekeerde driehoek) staat. Wie heeft voorrang?",
-        "fr": "Vous êtes la voiture A sur la voie principale. Le cycliste B débouche de la rue latérale, où est placé le signal B1 (triangle renversé). Qui a la priorité ?",
-        "en": "You are car A on the through road. Cyclist B comes out of the side street, where sign B1 (inverted triangle) is placed. Who has priority?"
+        "nl": "Je bent auto A op de doorgaande weg. Fietser B komt uit de zijstraat, waar het bord 'voorrang verlenen' (omgekeerde driehoek) staat. Wie heeft voorrang?",
+        "fr": "Vous êtes la voiture A sur la voie principale. Le cycliste B débouche de la rue latérale, où est placé le signal « cédez le passage » (triangle renversé). Qui a la priorité ?",
+        "en": "You are car A on the through road. Cyclist B comes out of the side street, where a give-way sign (inverted triangle) is placed. Who has priority?"
       },
       "options": [
         {
-          "nl": "Auto A: het bord B1 verplicht ook fietsers voorrang te verlenen; blijf toch voorzichtig en houd rekening met een fout van de fietser.",
-          "fr": "La voiture A : le signal B1 oblige aussi les cyclistes à céder le passage ; restez néanmoins prudent et anticipez une erreur du cycliste.",
-          "en": "Car A: sign B1 also obliges cyclists to give way; still remain careful and anticipate a mistake by the cyclist."
+          "nl": "Auto A: het bord 'voorrang verlenen' verplicht ook fietsers voorrang te verlenen; blijf toch voorzichtig en houd rekening met een fout van de fietser.",
+          "fr": "La voiture A : le signal « cédez le passage » oblige aussi les cyclistes à céder le passage ; restez néanmoins prudent et anticipez une erreur du cycliste.",
+          "en": "Car A: the give-way sign also obliges cyclists to give way; still remain careful and anticipate a mistake by the cyclist."
         },
         {
           "nl": "Fietser B: fietsers hebben als kwetsbare weggebruikers altijd voorrang.",

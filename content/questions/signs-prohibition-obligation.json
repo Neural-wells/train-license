@@ -110,14 +110,14 @@
           "en": "They mean the same thing: the road is completely closed."
         },
         {
-          "nl": "C1 geldt voor alle bestuurders, C3 enkel voor motorvoertuigen.",
-          "fr": "C1 s'applique à tous les conducteurs, C3 uniquement aux véhicules à moteur.",
-          "en": "C1 applies to all drivers, C3 only to motor vehicles."
+          "nl": "Het eerste bord (links) geldt voor alle bestuurders, het tweede (rechts) enkel voor motorvoertuigen.",
+          "fr": "Le premier panneau (à gauche) s'applique à tous les conducteurs, le second (à droite) uniquement aux véhicules à moteur.",
+          "en": "The first sign (left) applies to all drivers, the second (right) only to motor vehicles."
         },
         {
-          "nl": "C1 verbiedt het inrijden enkel langs uw kant; C3 verbiedt de toegang in beide richtingen.",
-          "fr": "C1 interdit l'accès uniquement de votre côté ; C3 interdit l'accès dans les deux sens.",
-          "en": "C1 prohibits entry only from your side; C3 closes the road in both directions."
+          "nl": "Het eerste bord (links) verbiedt het inrijden enkel langs uw kant; het tweede (rechts) verbiedt de toegang in beide richtingen.",
+          "fr": "Le premier panneau (à gauche) interdit l'accès uniquement de votre côté ; le second (à droite) interdit l'accès dans les deux sens.",
+          "en": "The first sign (left) prohibits entry only from your side; the second (right) closes the road in both directions."
         }
       ],
       "correct": 2,
@@ -408,9 +408,9 @@
         "code": "C21"
       },
       "text": {
-        "nl": "U nadert het verkeersbord C21. Uw beladen vrachtauto weegt op dit moment mínder dan de op het bord aangeduide massa, maar de maximale toegelaten massa van het voertuig ligt er bóven. Mag u voorbijrijden?",
-        "fr": "Vous approchez du signal C21. Votre camion chargé pèse en ce moment moins que la masse indiquée sur le signal, mais la masse maximale autorisée du véhicule y est supérieure. Pouvez-vous passer ?",
-        "en": "You approach sign C21. Your loaded lorry currently weighs less than the mass shown on the sign, but the vehicle's maximum authorised mass is above it. May you pass?"
+        "nl": "U nadert dit verkeersbord. Uw beladen vrachtauto weegt op dit moment mínder dan de op het bord aangeduide massa, maar de maximale toegelaten massa van het voertuig ligt er bóven. Mag u voorbijrijden?",
+        "fr": "Vous approchez de ce signal. Votre camion chargé pèse en ce moment moins que la masse indiquée sur le signal, mais la masse maximale autorisée du véhicule y est supérieure. Pouvez-vous passer ?",
+        "en": "You approach this sign. Your loaded lorry currently weighs less than the mass shown on the sign, but the vehicle's maximum authorised mass is above it. May you pass?"
       },
       "options": [
         {
@@ -419,9 +419,9 @@
           "en": "No: the vehicle's maximum authorised mass is decisive."
         },
         {
-          "nl": "Nee: vrachtauto's mogen een bord C21 nooit voorbijrijden.",
-          "fr": "Non : les camions ne peuvent jamais franchir un signal C21.",
-          "en": "No: lorries may never pass a C21 sign."
+          "nl": "Nee: vrachtauto's mogen dit bord nooit voorbijrijden.",
+          "fr": "Non : les camions ne peuvent jamais franchir ce signal.",
+          "en": "No: lorries may never pass this sign."
         },
         {
           "nl": "Ja: het bord geldt voor de werkelijke massa in beladen toestand, niet voor de maximale toegelaten massa.",
@@ -771,9 +771,9 @@
           "en": "From the sign up to and including the next intersection."
         },
         {
-          "nl": "Tot het bord C37, ook al passeert u meerdere kruispunten zonder herhaling van het bord.",
-          "fr": "Jusqu'au signal C37, même si vous franchissez plusieurs carrefours sans répétition du signal.",
-          "en": "Until sign C37, even if you pass several intersections without the sign being repeated."
+          "nl": "Tot het bord dat het einde van het inhaalverbod aanduidt, ook al passeert u meerdere kruispunten zonder herhaling van het bord.",
+          "fr": "Jusqu'au signal indiquant la fin de l'interdiction de dépasser, même si vous franchissez plusieurs carrefours sans répétition du signal.",
+          "en": "Until the sign marking the end of the overtaking ban, even if you pass several intersections without the sign being repeated."
         },
         {
           "nl": "Over een vaste afstand van 500 meter.",
@@ -814,9 +814,9 @@
           "en": "Start of an overtaking ban."
         },
         {
-          "nl": "Einde van het inhaalverbod dat door het bord C35 werd opgelegd.",
-          "fr": "Fin de l'interdiction de dépasser imposée par le signal C35.",
-          "en": "End of the overtaking ban imposed by sign C35."
+          "nl": "Einde van het eerder opgelegde inhaalverbod.",
+          "fr": "Fin de l'interdiction de dépasser imposée précédemment.",
+          "en": "End of the previously imposed overtaking ban."
         },
         {
           "nl": "Einde van alle plaatselijke verbodsbepalingen.",
@@ -895,9 +895,9 @@
       },
       "options": [
         {
-          "nl": "Altijd tot het bord C45; kruispunten hebben geen invloed.",
-          "fr": "Toujours jusqu'au signal C45 ; les carrefours n'ont aucune influence.",
-          "en": "Always until sign C45; intersections have no effect."
+          "nl": "Altijd tot het eindebord dat de beperking opheft; kruispunten hebben geen invloed.",
+          "fr": "Toujours jusqu'au signal de fin qui lève la limitation ; les carrefours n'ont aucune influence.",
+          "en": "Always until the end sign lifting the limit; intersections have no effect."
         },
         {
           "nl": "Slechts 100 meter voorbij het bord.",
@@ -905,9 +905,9 @@
           "en": "Only 100 metres past the sign."
         },
         {
-          "nl": "Tot en met het volgende kruispunt, tot een ander bord C43, of tot het bord dat het begin of einde van een bebouwde kom aanduidt.",
-          "fr": "Jusqu'au prochain carrefour inclus, jusqu'à un autre signal C43, ou jusqu'au signal indiquant le début ou la fin d'une agglomération.",
-          "en": "Up to and including the next intersection, until another C43 sign, or until the sign marking the beginning or end of a built-up area."
+          "nl": "Tot en met het volgende kruispunt, tot een ander bord met een snelheidsbeperking, of tot het bord dat het begin of einde van een bebouwde kom aanduidt.",
+          "fr": "Jusqu'au prochain carrefour inclus, jusqu'à un autre signal de limitation de vitesse, ou jusqu'au signal indiquant le début ou la fin d'une agglomération.",
+          "en": "Up to and including the next intersection, until another speed limit sign, or until the sign marking the beginning or end of a built-up area."
         }
       ],
       "correct": 2,
@@ -938,9 +938,9 @@
       },
       "options": [
         {
-          "nl": "Ja: de beperking blijft gelden tot een bord C45.",
-          "fr": "Oui : la limitation reste valable jusqu'à un signal C45.",
-          "en": "Yes: the limit remains in force until a C45 sign."
+          "nl": "Ja: de beperking blijft gelden tot een eindebord ze opheft.",
+          "fr": "Oui : la limitation reste valable jusqu'à un signal de fin qui la lève.",
+          "en": "Yes: the limit remains in force until an end sign lifts it."
         },
         {
           "nl": "Nee: het verbod eindigt aan het kruispunt; daarna geldt opnieuw de algemene snelheidsregel.",
@@ -1029,9 +1029,9 @@
         "code": "C45"
       },
       "text": {
-        "nl": "U rijdt in Vlaanderen, buiten de bebouwde kom, op een gewone weg zonder middenberm. U rijdt voorbij het bord C45 dat een beperking van 50 km per uur opheft. Hoe snel mag u nu maximaal rijden?",
-        "fr": "Vous roulez en Flandre, en dehors d'une agglomération, sur une route ordinaire sans terre-plein central. Vous dépassez le signal C45 qui lève une limitation à 50 km à l'heure. À quelle vitesse maximale pouvez-vous maintenant rouler ?",
-        "en": "You are driving in Flanders, outside a built-up area, on an ordinary road without a central reservation. You pass the C45 sign lifting a 50 km/h limit. What is your maximum speed now?"
+        "nl": "U rijdt in Vlaanderen, buiten de bebouwde kom, op een gewone weg zonder middenberm. U rijdt voorbij dit bord, dat een beperking van 50 km per uur opheft. Hoe snel mag u nu maximaal rijden?",
+        "fr": "Vous roulez en Flandre, en dehors d'une agglomération, sur une route ordinaire sans terre-plein central. Vous dépassez ce signal, qui lève une limitation à 50 km à l'heure. À quelle vitesse maximale pouvez-vous maintenant rouler ?",
+        "en": "You are driving in Flanders, outside a built-up area, on an ordinary road without a central reservation. You pass this sign, which lifts a 50 km/h limit. What is your maximum speed now?"
       },
       "options": [
         {
@@ -1122,20 +1122,20 @@
         ]
       },
       "text": {
-        "nl": "In een straat geldt een parkeerverbod (bord E1). Verderop staat het bord C46. Heft C46 het parkeerverbod op?",
-        "fr": "Dans une rue, le stationnement est interdit (signal E1). Plus loin se trouve le signal C46. Le signal C46 lève-t-il l'interdiction de stationner ?",
-        "en": "In a street parking is prohibited (sign E1). Further on stands sign C46. Does C46 lift the parking ban?"
+        "nl": "In een straat geldt een parkeerverbod, aangeduid met het eerste bord (links). Verderop staat het tweede bord (rechts). Heft dat tweede bord het parkeerverbod op?",
+        "fr": "Dans une rue, le stationnement est interdit, comme l'indique le premier panneau (à gauche). Plus loin se trouve le second panneau (à droite). Ce second panneau lève-t-il l'interdiction de stationner ?",
+        "en": "In a street parking is prohibited, as indicated by the first sign (left). Further on stands the second sign (right). Does that second sign lift the parking ban?"
       },
       "options": [
         {
-          "nl": "Ja: C46 beëindigt alle verbodsborden, ook die over parkeren.",
-          "fr": "Oui : C46 met fin à tous les signaux d'interdiction, y compris ceux relatifs au stationnement.",
-          "en": "Yes: C46 ends all prohibitory signs, including those about parking."
+          "nl": "Ja: dat bord beëindigt alle verbodsborden, ook die over parkeren.",
+          "fr": "Oui : ce panneau met fin à tous les signaux d'interdiction, y compris ceux relatifs au stationnement.",
+          "en": "Yes: that sign ends all prohibitory signs, including those about parking."
         },
         {
-          "nl": "Nee: C46 beëindigt enkel de plaatselijke verbodsbepalingen voor voertuigen in beweging; regels over stilstaan en parkeren blijven gelden.",
-          "fr": "Non : C46 ne met fin qu'aux interdictions locales imposées aux véhicules en mouvement ; les règles d'arrêt et de stationnement restent d'application.",
-          "en": "No: C46 only ends local prohibitions on moving vehicles; stopping and parking rules remain in force."
+          "nl": "Nee: dat bord beëindigt enkel de plaatselijke verbodsbepalingen voor voertuigen in beweging; regels over stilstaan en parkeren blijven gelden.",
+          "fr": "Non : ce panneau ne met fin qu'aux interdictions locales imposées aux véhicules en mouvement ; les règles d'arrêt et de stationnement restent d'application.",
+          "en": "No: that sign only ends local prohibitions on moving vehicles; stopping and parking rules remain in force."
         },
         {
           "nl": "Ja, maar enkel buiten de bebouwde kom.",
@@ -1354,9 +1354,9 @@
       },
       "options": [
         {
-          "nl": "Alleen op het deel aangeduid met D10.",
-          "fr": "Uniquement sur la partie indiquée par D10.",
-          "en": "Only on the part marked D10."
+          "nl": "Alleen op het deel aangeduid met het tweede bord (rechts).",
+          "fr": "Uniquement sur la partie indiquée par le second panneau (à droite).",
+          "en": "Only on the part marked by the second sign (right)."
         },
         {
           "nl": "Op beide delen.",
@@ -1364,9 +1364,9 @@
           "en": "On both parts."
         },
         {
-          "nl": "Alleen op het deel aangeduid met D9.",
-          "fr": "Uniquement sur la partie indiquée par D9.",
-          "en": "Only on the part marked D9."
+          "nl": "Alleen op het deel aangeduid met het eerste bord (links).",
+          "fr": "Uniquement sur la partie indiquée par le premier panneau (à gauche).",
+          "en": "Only on the part marked by the first sign (left)."
         }
       ],
       "correct": 2,

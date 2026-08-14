@@ -8,9 +8,9 @@
       "severity": "severe",
       "image": { "type": "sign", "code": "F3" },
       "text": {
-        "nl": "In het Vlaams Gewest verlaat u de bebouwde kom (bord F3). Er staan geen andere verkeersborden. Hoe snel mag u maximaal rijden?",
-        "fr": "En Région flamande, vous quittez l'agglomération (signal F3). Il n'y a aucun autre signal. À quelle vitesse maximale pouvez-vous rouler ?",
-        "en": "In Flanders, you leave the built-up area (sign F3). There are no other signs. What is your maximum speed?"
+        "nl": "In het Vlaams Gewest passeert u dit verkeersbord en verlaat u de bebouwde kom. Er staan geen andere verkeersborden. Hoe snel mag u maximaal rijden?",
+        "fr": "En Région flamande, vous passez ce panneau et quittez l'agglomération. Il n'y a aucun autre signal. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "In Flanders, you pass this sign and leave the built-up area. There are no other signs. What is your maximum speed?"
       },
       "options": [
         { "nl": "70 km/u", "fr": "70 km/h", "en": "70 km/h" },
@@ -34,9 +34,9 @@
       "severity": "severe",
       "image": { "type": "sign", "code": "F3" },
       "text": {
-        "nl": "In het Waals Gewest verlaat u de bebouwde kom (bord F3). Er staan geen andere verkeersborden. Hoe snel mag u maximaal rijden?",
-        "fr": "En Région wallonne, vous quittez l'agglomération (signal F3). Il n'y a aucun autre signal. À quelle vitesse maximale pouvez-vous rouler ?",
-        "en": "In Wallonia, you leave the built-up area (sign F3). There are no other signs. What is your maximum speed?"
+        "nl": "In het Waals Gewest passeert u dit verkeersbord en verlaat u de bebouwde kom. Er staan geen andere verkeersborden. Hoe snel mag u maximaal rijden?",
+        "fr": "En Région wallonne, vous passez ce panneau et quittez l'agglomération. Il n'y a aucun autre signal. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "In Wallonia, you pass this sign and leave the built-up area. There are no other signs. What is your maximum speed?"
       },
       "options": [
         { "nl": "70 km/u", "fr": "70 km/h", "en": "70 km/h" },
@@ -92,7 +92,7 @@
         "en": "In Flanders, you want to drive 90 km/h outside the built-up area on an ordinary road. When is that allowed?"
       },
       "options": [
-        { "nl": "Alleen waar het bord C43 met de aanduiding 90 dat toelaat", "fr": "Uniquement là où le signal C43 portant la mention 90 l'autorise", "en": "Only where a C43 sign showing 90 allows it" },
+        { "nl": "Alleen waar dit verkeersbord dat toelaat", "fr": "Uniquement là où ce panneau l'autorise", "en": "Only where this sign allows it" },
         { "nl": "Altijd, want buiten de bebouwde kom geldt overal 90 km/u", "fr": "Toujours, car hors agglomération le 90 km/h s'applique partout", "en": "Always, because 90 km/h applies everywhere outside built-up areas" },
         { "nl": "Nooit, 90 km/u bestaat niet meer in Vlaanderen", "fr": "Jamais, le 90 km/h n'existe plus en Flandre", "en": "Never, 90 km/h no longer exists in Flanders" }
       ],
@@ -113,9 +113,9 @@
       "severity": "severe",
       "image": { "type": "sign", "code": "F1" },
       "text": {
-        "nl": "In Wallonië rijdt u de bebouwde kom binnen (bord F1). Er staan geen snelheidsborden. Hoe snel mag u maximaal rijden?",
-        "fr": "En Wallonie, vous entrez en agglomération (signal F1). Il n'y a aucun signal de vitesse. À quelle vitesse maximale pouvez-vous rouler ?",
-        "en": "In Wallonia, you enter a built-up area (sign F1). There are no speed signs. What is your maximum speed?"
+        "nl": "In Wallonië passeert u dit verkeersbord en rijdt u de bebouwde kom binnen. Er staan geen snelheidsborden. Hoe snel mag u maximaal rijden?",
+        "fr": "En Wallonie, vous passez ce panneau et entrez en agglomération. Il n'y a aucun signal de vitesse. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "In Wallonia, you pass this sign and enter a built-up area. There are no speed signs. What is your maximum speed?"
       },
       "options": [
         { "nl": "30 km/u", "fr": "30 km/h", "en": "30 km/h" },
@@ -139,9 +139,9 @@
       "severity": "severe",
       "image": { "type": "sign", "code": "C43-50" },
       "text": {
-        "nl": "In het Brussels Hoofdstedelijk Gewest rijdt u op een grote as waar het bord C43 met de aanduiding 50 staat. Hoe snel mag u daar maximaal rijden?",
-        "fr": "En Région de Bruxelles-Capitale, vous roulez sur un grand axe où est placé le signal C43 portant la mention 50. À quelle vitesse maximale pouvez-vous y rouler ?",
-        "en": "In the Brussels-Capital Region you are driving on a major axis where a C43 sign showing 50 is placed. What is your maximum speed there?"
+        "nl": "In het Brussels Hoofdstedelijk Gewest rijdt u op een grote as waar dit verkeersbord staat. Hoe snel mag u daar maximaal rijden?",
+        "fr": "En Région de Bruxelles-Capitale, vous roulez sur un grand axe où est placé ce panneau. À quelle vitesse maximale pouvez-vous y rouler ?",
+        "en": "In the Brussels-Capital Region you are driving on a major axis where this sign is placed. What is your maximum speed there?"
       },
       "options": [
         { "nl": "30 km/u, want in Brussel geldt altijd de stadslimiet", "fr": "30 km/h, car à Bruxelles la limite urbaine s'applique toujours", "en": "30 km/h, because the city limit always applies in Brussels" },
@@ -218,9 +218,9 @@
       "severity": "severe",
       "image": { "type": "sign", "code": "F3" },
       "text": {
-        "nl": "In het Brussels Hoofdstedelijk Gewest verlaat u de bebouwde kom (bord F3) op een gewone weg zonder andere borden. Hoe snel mag u maximaal rijden?",
-        "fr": "En Région de Bruxelles-Capitale, vous quittez l'agglomération (signal F3) sur une route ordinaire sans autre signal. À quelle vitesse maximale pouvez-vous rouler ?",
-        "en": "In the Brussels-Capital Region, you leave the built-up area (sign F3) on an ordinary road with no other signs. What is your maximum speed?"
+        "nl": "In het Brussels Hoofdstedelijk Gewest passeert u dit verkeersbord en verlaat u de bebouwde kom, op een gewone weg zonder andere borden. Hoe snel mag u maximaal rijden?",
+        "fr": "En Région de Bruxelles-Capitale, vous passez ce panneau et quittez l'agglomération, sur une route ordinaire sans autre signal. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "In the Brussels-Capital Region, you pass this sign and leave the built-up area, on an ordinary road with no other signs. What is your maximum speed?"
       },
       "options": [
         { "nl": "70 km/u", "fr": "70 km/h", "en": "70 km/h" },
@@ -243,9 +243,9 @@
       "severity": "severe",
       "image": { "type": "sign", "code": "F5" },
       "text": {
-        "nl": "U rijdt met uw personenauto de autosnelweg op (bord F5). Er staan geen snelheidsborden. Hoe snel mag u maximaal rijden?",
-        "fr": "Vous vous engagez sur l'autoroute avec votre voiture (signal F5). Il n'y a aucun signal de vitesse. À quelle vitesse maximale pouvez-vous rouler ?",
-        "en": "You drive your car onto the motorway (sign F5). There are no speed signs. What is your maximum speed?"
+        "nl": "U passeert dit verkeersbord en rijdt met uw personenauto de autosnelweg op. Er staan geen snelheidsborden. Hoe snel mag u maximaal rijden?",
+        "fr": "Vous passez ce panneau et vous engagez sur l'autoroute avec votre voiture. Il n'y a aucun signal de vitesse. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "You pass this sign and drive your car onto the motorway. There are no speed signs. What is your maximum speed?"
       },
       "options": [
         { "nl": "120 km/u", "fr": "120 km/h", "en": "120 km/h" },
@@ -318,9 +318,9 @@
       "severity": "severe",
       "image": { "type": "sign", "code": "F12a" },
       "text": {
-        "nl": "U rijdt een woonerf binnen (bord F12a). Hoe snel mag u maximaal rijden?",
-        "fr": "Vous entrez dans une zone résidentielle (signal F12a). À quelle vitesse maximale pouvez-vous rouler ?",
-        "en": "You enter a residential zone (woonerf, sign F12a). What is your maximum speed?"
+        "nl": "U passeert dit verkeersbord en rijdt een woonerf binnen. Hoe snel mag u maximaal rijden?",
+        "fr": "Vous passez ce panneau et entrez dans une zone résidentielle. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "You pass this sign and enter a residential zone (woonerf). What is your maximum speed?"
       },
       "options": [
         { "nl": "30 km/u", "fr": "30 km/h", "en": "30 km/h" },
@@ -343,9 +343,9 @@
       "severity": "severe",
       "image": { "type": "sign", "code": "F103" },
       "text": {
-        "nl": "U mag uitzonderlijk met uw voertuig een voetgangerszone inrijden (bord F103, met uitzondering). Hoe snel mag u daar rijden?",
-        "fr": "Vous êtes exceptionnellement autorisé à entrer avec votre véhicule dans une zone piétonne (signal F103, avec exception). À quelle vitesse pouvez-vous y rouler ?",
-        "en": "You are exceptionally allowed to drive your vehicle into a pedestrian zone (sign F103, with an exception). How fast may you drive there?"
+        "nl": "U mag uitzonderlijk met uw voertuig een voetgangerszone inrijden, aangeduid met dit verkeersbord. Hoe snel mag u daar rijden?",
+        "fr": "Vous êtes exceptionnellement autorisé à entrer avec votre véhicule dans une zone piétonne, indiquée par ce panneau. À quelle vitesse pouvez-vous y rouler ?",
+        "en": "You are exceptionally allowed to drive your vehicle into a pedestrian zone, indicated by this sign. How fast may you drive there?"
       },
       "options": [
         { "nl": "Maximaal 30 km/u", "fr": "Maximum 30 km/h", "en": "A maximum of 30 km/h" },
@@ -368,13 +368,13 @@
       "severity": "severe",
       "image": { "type": "sign", "code": "F4a" },
       "text": {
-        "nl": "U passeert het zonebord F4a (begin zone 30). Tot waar geldt de limiet van 30 km/u?",
-        "fr": "Vous passez le signal zonal F4a (début de zone 30). Jusqu'où la limite de 30 km/h s'applique-t-elle ?",
-        "en": "You pass zone sign F4a (start of a 30 km/h zone). Up to where does the 30 km/h limit apply?"
+        "nl": "U passeert dit zonebord, het begin van een zone 30. Tot waar geldt de limiet van 30 km/u?",
+        "fr": "Vous passez ce panneau à validité zonale, qui marque le début d'une zone 30. Jusqu'où la limite de 30 km/h s'applique-t-elle ?",
+        "en": "You pass this zone sign, marking the start of a 30 km/h zone. Up to where does the 30 km/h limit apply?"
       },
       "options": [
         { "nl": "Tot het eerstvolgende kruispunt", "fr": "Jusqu'au prochain carrefour", "en": "Until the next intersection" },
-        { "nl": "Tot het eindebord F4b", "fr": "Jusqu'au signal de fin F4b", "en": "Until the end sign F4b" },
+        { "nl": "Tot het bord dat het einde van de zone aanduidt", "fr": "Jusqu'au signal qui indique la fin de la zone", "en": "Until the sign marking the end of the zone" },
         { "nl": "Alleen tijdens de schooluren", "fr": "Uniquement pendant les heures de classe", "en": "Only during school hours" }
       ],
       "correct": 1,
@@ -420,12 +420,12 @@
       "severity": "severe",
       "image": { "type": "sign", "code": "C43-70" },
       "text": {
-        "nl": "In Vlaanderen of Wallonië staat binnen de bebouwde kom een bord C43 met de aanduiding 70. U rijdt een kruispunt voorbij; het bord wordt niet herhaald. Hoe snel mag u nu maximaal rijden?",
-        "fr": "En Flandre ou en Wallonie, un signal C43 portant la mention 70 est placé en agglomération. Vous franchissez un carrefour ; le signal n'est pas répété. À quelle vitesse maximale pouvez-vous rouler à présent ?",
-        "en": "In Flanders or Wallonia, a C43 sign showing 70 is placed inside the built-up area. You pass an intersection; the sign is not repeated. What is your maximum speed now?"
+        "nl": "In Vlaanderen of Wallonië staat binnen de bebouwde kom dit verkeersbord. U rijdt een kruispunt voorbij; het bord wordt niet herhaald. Hoe snel mag u nu maximaal rijden?",
+        "fr": "En Flandre ou en Wallonie, ce panneau est placé en agglomération. Vous franchissez un carrefour ; le panneau n'est pas répété. À quelle vitesse maximale pouvez-vous rouler à présent ?",
+        "en": "In Flanders or Wallonia, this sign is placed inside the built-up area. You pass an intersection; the sign is not repeated. What is your maximum speed now?"
       },
       "options": [
-        { "nl": "70 km/u, tot het bord F3 (einde bebouwde kom)", "fr": "70 km/h, jusqu'au signal F3 (fin d'agglomération)", "en": "70 km/h, until sign F3 (end of the built-up area)" },
+        { "nl": "70 km/u, tot het bord dat het einde van de bebouwde kom aanduidt", "fr": "70 km/h, jusqu'au signal de fin d'agglomération", "en": "70 km/h, until the sign marking the end of the built-up area" },
         { "nl": "50 km/u", "fr": "50 km/h", "en": "50 km/h" },
         { "nl": "30 km/u", "fr": "30 km/h", "en": "30 km/h" }
       ],

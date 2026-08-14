@@ -3,6 +3,7 @@ import type { CategoryMeta } from "./types";
 export const CATEGORIES: CategoryMeta[] = [
   {
     slug: "signs-danger-priority",
+    reading: ["traffic-signs"],
     icon: "⚠️",
     title: {
       nl: "Gevaarsborden & voorrangsborden",
@@ -12,6 +13,7 @@ export const CATEGORIES: CategoryMeta[] = [
   },
   {
     slug: "signs-prohibition-obligation",
+    reading: ["traffic-signs"],
     icon: "🚫",
     title: {
       nl: "Verbodsborden & gebodsborden",
@@ -21,6 +23,7 @@ export const CATEGORIES: CategoryMeta[] = [
   },
   {
     slug: "signs-parking-indication",
+    reading: ["traffic-signs"],
     icon: "🅿️",
     title: {
       nl: "Parkeerborden, aanwijzingsborden & markeringen",
@@ -30,6 +33,7 @@ export const CATEGORIES: CategoryMeta[] = [
   },
   {
     slug: "priority",
+    reading: ["priority"],
     icon: "🔀",
     title: {
       nl: "Voorrangsregels",
@@ -39,6 +43,7 @@ export const CATEGORIES: CategoryMeta[] = [
   },
   {
     slug: "speed",
+    reading: ["speed"],
     icon: "🏎️",
     title: {
       nl: "Snelheid & volgafstand",
@@ -48,6 +53,7 @@ export const CATEGORIES: CategoryMeta[] = [
   },
   {
     slug: "maneuvers",
+    reading: ["maneuvers"],
     icon: "↩️",
     title: {
       nl: "Manoeuvres, inhalen & lichten",
@@ -57,6 +63,7 @@ export const CATEGORIES: CategoryMeta[] = [
   },
   {
     slug: "parking",
+    reading: ["stopping-parking"],
     icon: "🚏",
     title: {
       nl: "Stilstaan & parkeren",
@@ -66,6 +73,7 @@ export const CATEGORIES: CategoryMeta[] = [
   },
   {
     slug: "vulnerable-users",
+    reading: ["vulnerable-users"],
     icon: "🚲",
     title: {
       nl: "Kwetsbare weggebruikers & bijzondere zones",
@@ -75,6 +83,7 @@ export const CATEGORIES: CategoryMeta[] = [
   },
   {
     slug: "motorways-special",
+    reading: ["motorways"],
     icon: "🛣️",
     title: {
       nl: "Autosnelwegen, tunnels & overwegen",
@@ -84,6 +93,7 @@ export const CATEGORIES: CategoryMeta[] = [
   },
   {
     slug: "driver-fitness-documents",
+    reading: ["driver-vehicle","fitness-alcohol","accidents-emergencies"],
     icon: "🪪",
     title: {
       nl: "Rijgeschiktheid, documenten & voertuig",

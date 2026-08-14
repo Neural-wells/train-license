@@ -155,9 +155,9 @@
       "severity": "standard",
       "image": null,
       "text": {
-        "nl": "Welke minimumsnelheid geldt op de autosnelweg, behalve wanneer het verkeersbord C43 een lagere snelheid oplegt?",
-        "fr": "Quelle vitesse minimale s'applique sur l'autoroute, sauf lorsque le signal C43 impose une vitesse inférieure ?",
-        "en": "What minimum speed applies on the motorway, except where sign C43 imposes a lower speed?"
+        "nl": "Welke minimumsnelheid geldt op de autosnelweg, behalve wanneer een verkeersbord een lagere snelheid oplegt?",
+        "fr": "Quelle vitesse minimale s'applique sur l'autoroute, sauf lorsqu'un signal routier impose une vitesse inférieure ?",
+        "en": "What minimum speed applies on the motorway, except where a road sign imposes a lower speed limit?"
       },
       "options": [
         {

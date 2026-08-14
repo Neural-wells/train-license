@@ -86,4 +86,5 @@ export interface CategoryMeta {
   slug: string;
   title: Localized;
   icon: string; // emoji
+  reading: string[]; // slugs of the reading chapters covering this topic
 }

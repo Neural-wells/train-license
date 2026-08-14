@@ -113,7 +113,7 @@
       },
       "options": [
         { "nl": "Neen, het bord verbiedt ook het stilstaan", "fr": "Non, le signal interdit aussi l'arrêt", "en": "No, the sign also forbids stopping" },
-        { "nl": "Ja, E1 verbiedt enkel het parkeren; kort stilstaan mag", "fr": "Oui, le signal E1 n'interdit que le stationnement ; un arrêt bref est permis", "en": "Yes, E1 forbids only parking; brief stopping is allowed" },
+        { "nl": "Ja, dit bord verbiedt enkel het parkeren; kort stilstaan mag", "fr": "Oui, ce signal n'interdit que le stationnement ; un arrêt bref est permis", "en": "Yes, this sign forbids only parking; brief stopping is allowed" },
         { "nl": "Ja, en je mag er ook parkeren zolang er iemand in de auto blijft zitten", "fr": "Oui, et vous pouvez même y stationner tant que quelqu'un reste dans la voiture", "en": "Yes, and you may even park there as long as someone stays in the car" }
       ],
       "correct": 1,
@@ -608,9 +608,9 @@
       "severity": "standard",
       "image": { "type": "sign", "code": "E11" },
       "text": {
-        "nl": "In een bebouwde kom geldt halfmaandelijks beurtelings parkeren (bord E11). Wanneer moet je van kant veranderen?",
-        "fr": "Dans une agglomération, le stationnement semi-mensuel alterné s'applique (signal E11). Quand devez-vous changer de côté ?",
-        "en": "In a built-up area half-monthly alternate parking applies (sign E11). When must you change sides?"
+        "nl": "In een bebouwde kom staat dit verkeersbord: er geldt halfmaandelijks beurtelings parkeren. Wanneer moet je van kant veranderen?",
+        "fr": "Dans une agglomération, ce signal est placé : le stationnement semi-mensuel alterné s'applique. Quand devez-vous changer de côté ?",
+        "en": "This sign is placed in a built-up area: half-monthly alternate parking applies. When must you change sides?"
       },
       "options": [
         { "nl": "Op de laatste dag van elke periode, tussen 19.30 u en 20 u", "fr": "Le dernier jour de chaque période, entre 19 h 30 et 20 h", "en": "On the last day of each period, between 7.30 p.m. and 8 p.m." },

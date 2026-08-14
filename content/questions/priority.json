@@ -156,9 +156,9 @@
         }
       },
       "text": {
-        "nl": "U bent bestuurder A en komt uit de zijstraat, waar het bord B1 (voorrang verlenen) staat. U slaat links af; B rijdt rechtdoor. Wie mag eerst doorrijden?",
-        "fr": "Vous êtes le conducteur A et vous sortez de la rue latérale, où est placé le signal B1 (céder le passage). Vous tournez à gauche ; B continue tout droit. Qui peut passer en premier ?",
-        "en": "You are driver A, coming from the side street where sign B1 (give way) is posted. You turn left; B goes straight on. Who may proceed first?"
+        "nl": "U bent bestuurder A en komt uit de zijstraat, waar het omgekeerde-driehoek bord (voorrang verlenen) staat. U slaat links af; B rijdt rechtdoor. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous sortez de la rue latérale, où est placé le triangle inversé (céder le passage). Vous tournez à gauche ; B continue tout droit. Qui peut passer en premier ?",
+        "en": "You are driver A, coming from the side street where the inverted-triangle give-way sign is posted. You turn left; B goes straight on. Who may proceed first?"
       },
       "options": [
         { "nl": "Bestuurder A", "fr": "Le conducteur A", "en": "Driver A" },
@@ -194,9 +194,9 @@
         }
       },
       "text": {
-        "nl": "U bent bestuurder A en rijdt rechtdoor. Op uw weg staat het bord B15 (voorrang); B nadert van rechts, waar het bord B1 staat. Wie mag eerst doorrijden?",
-        "fr": "Vous êtes le conducteur A et vous continuez tout droit. Sur votre route se trouve le signal B15 (priorité de passage) ; B arrive à droite, où est placé le signal B1. Qui peut passer en premier ?",
-        "en": "You are driver A, going straight ahead. Your road carries sign B15 (priority); B approaches from the right, where sign B1 is posted. Who may proceed first?"
+        "nl": "U bent bestuurder A en rijdt rechtdoor. Op uw weg staat het bord met de oranjegele ruit (voorrang); B nadert van rechts, waar het omgekeerde-driehoek bord (voorrang verlenen) staat. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous continuez tout droit. Sur votre route se trouve le signal en losange orange (priorité de passage) ; B arrive à droite, où est placé le triangle inversé (céder le passage). Qui peut passer en premier ?",
+        "en": "You are driver A, going straight ahead. Your road carries the orange-diamond priority sign; B approaches from the right, where the inverted-triangle give-way sign is posted. Who may proceed first?"
       },
       "options": [
         { "nl": "Bestuurder B", "fr": "Le conducteur B", "en": "Driver B" },
@@ -229,9 +229,9 @@
         }
       },
       "text": {
-        "nl": "U bent bestuurder A en nadert het kruispunt, waar voor u het bord B5 (stop) staat. B nadert van links. Wat moet u doen?",
-        "fr": "Vous êtes le conducteur A et vous approchez du carrefour, où le signal B5 (stop) est placé pour vous. B arrive à gauche. Que devez-vous faire ?",
-        "en": "You are driver A, approaching the intersection where sign B5 (stop) is posted for you. B approaches from the left. What must you do?"
+        "nl": "U bent bestuurder A en nadert het kruispunt, waar voor u het stopbord staat. B nadert van links. Wat moet u doen?",
+        "fr": "Vous êtes le conducteur A et vous approchez du carrefour, où le signal stop est placé pour vous. B arrive à gauche. Que devez-vous faire ?",
+        "en": "You are driver A, approaching the intersection where the stop sign is posted for you. B approaches from the left. What must you do?"
       },
       "options": [
         { "nl": "Volledig stoppen aan de stopstreep en voorrang verlenen aan B", "fr": "Marquer l'arrêt complet à la ligne d'arrêt et céder le passage à B", "en": "Come to a complete stop at the stop line and give way to B" },
@@ -264,9 +264,9 @@
         }
       },
       "text": {
-        "nl": "U bent bestuurder A. Voor u staat het bord B17. U rijdt rechtdoor; B nadert van rechts. Wie mag eerst doorrijden?",
-        "fr": "Vous êtes le conducteur A. Devant vous se trouve le signal B17. Vous continuez tout droit ; B arrive à droite. Qui peut passer en premier ?",
-        "en": "You are driver A. Sign B17 is posted for you. You go straight ahead; B approaches from the right. Who may proceed first?"
+        "nl": "U bent bestuurder A. Voor u staat het driehoekige bord met het zwarte kruis (kruispunt waar de voorrang van rechts geldt). U rijdt rechtdoor; B nadert van rechts. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A. Devant vous se trouve le signal triangulaire à croix noire (carrefour où la priorité de droite est applicable). Vous continuez tout droit ; B arrive à droite. Qui peut passer en premier ?",
+        "en": "You are driver A. The triangular sign with a black cross (crossroads where priority to the right applies) is posted for you. You go straight ahead; B approaches from the right. Who may proceed first?"
       },
       "options": [
         { "nl": "Bestuurder A", "fr": "Le conducteur A", "en": "Driver A" },
@@ -336,9 +336,9 @@
         }
       },
       "text": {
-        "nl": "U bent bestuurder A en rijdt op een voorrangsweg (bord B9). B nadert van rechts, waar het bord B1 staat, en slaat af in uw richting. Wie mag eerst doorrijden?",
-        "fr": "Vous êtes le conducteur A et vous circulez sur une voie prioritaire (signal B9). B arrive à droite, où est placé le signal B1, et tourne dans votre direction. Qui peut passer en premier ?",
-        "en": "You are driver A, driving on a priority road (sign B9). B approaches from the right, where sign B1 is posted, and turns into your direction. Who may proceed first?"
+        "nl": "U bent bestuurder A en rijdt op een voorrangsweg. B nadert van rechts, waar het omgekeerde-driehoek bord (voorrang verlenen) staat, en slaat af in uw richting. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A et vous circulez sur une voie prioritaire. B arrive à droite, où est placé le triangle inversé (céder le passage), et tourne dans votre direction. Qui peut passer en premier ?",
+        "en": "You are driver A, driving on a priority road. B approaches from the right, where the inverted-triangle give-way sign is posted, and turns into your direction. Who may proceed first?"
       },
       "options": [
         { "nl": "Bestuurder B, want hij komt van rechts", "fr": "Le conducteur B, car il vient de droite", "en": "Driver B, because he comes from the right" },
@@ -544,9 +544,9 @@
         }
       },
       "text": {
-        "nl": "U bent bestuurder A. Voor u staat het bord B1 (voorrang verlenen). B nadert van links en rijdt rechtdoor. Wie mag eerst doorrijden?",
-        "fr": "Vous êtes le conducteur A. Devant vous se trouve le signal B1 (céder le passage). B arrive à gauche et continue tout droit. Qui peut passer en premier ?",
-        "en": "You are driver A. Sign B1 (give way) is posted for you. B approaches from the left, going straight ahead. Who may proceed first?"
+        "nl": "U bent bestuurder A. Voor u staat het omgekeerde-driehoek bord (voorrang verlenen). B nadert van links en rijdt rechtdoor. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A. Devant vous se trouve le triangle inversé (céder le passage). B arrive à gauche et continue tout droit. Qui peut passer en premier ?",
+        "en": "You are driver A. The inverted-triangle give-way sign is posted for you. B approaches from the left, going straight ahead. Who may proceed first?"
       },
       "options": [
         { "nl": "Bestuurder A, want B komt van links", "fr": "Le conducteur A, car B vient de gauche", "en": "Driver A, because B comes from the left" },
@@ -584,9 +584,9 @@
         }
       },
       "text": {
-        "nl": "U bent bestuurder A en wil links afslaan. Voor u staat het bord B1; de dwarsweg heeft voorrang (B15). B en C rijden rechtdoor. Wanneer mag u het kruispunt oprijden?",
-        "fr": "Vous êtes le conducteur A et vous voulez tourner à gauche. Devant vous se trouve le signal B1 ; la voie transversale est prioritaire (B15). B et C continuent tout droit. Quand pouvez-vous vous engager sur le carrefour ?",
-        "en": "You are driver A and want to turn left. Sign B1 is posted for you; the crossing road has priority (B15). B and C go straight ahead. When may you enter the intersection?"
+        "nl": "U bent bestuurder A en wil links afslaan. Voor u staat het omgekeerde-driehoek bord (voorrang verlenen); de dwarsweg heeft voorrang. B en C rijden rechtdoor. Wanneer mag u het kruispunt oprijden?",
+        "fr": "Vous êtes le conducteur A et vous voulez tourner à gauche. Devant vous se trouve le triangle inversé (céder le passage) ; la voie transversale est prioritaire. B et C continuent tout droit. Quand pouvez-vous vous engager sur le carrefour ?",
+        "en": "You are driver A and want to turn left. The inverted-triangle give-way sign is posted for you; the crossing road has priority. B and C go straight ahead. When may you enter the intersection?"
       },
       "options": [
         { "nl": "Nadat zowel B als C voorbijgereden zijn", "fr": "Après le passage de B et de C", "en": "After both B and C have passed" },
@@ -655,9 +655,9 @@
         }
       },
       "text": {
-        "nl": "U bent bestuurder A; voor u staat het bord B17. Alle bestuurders rijden rechtdoor. In welke volgorde rijden de bestuurders het kruispunt over?",
-        "fr": "Vous êtes le conducteur A ; devant vous se trouve le signal B17. Tous les conducteurs continuent tout droit. Dans quel ordre les conducteurs franchissent-ils le carrefour ?",
-        "en": "You are driver A; sign B17 is posted for you. All drivers go straight ahead. In what order do the drivers cross the intersection?"
+        "nl": "U bent bestuurder A; voor u staat het driehoekige bord met het zwarte kruis (kruispunt waar de voorrang van rechts geldt). Alle bestuurders rijden rechtdoor. In welke volgorde rijden de bestuurders het kruispunt over?",
+        "fr": "Vous êtes le conducteur A ; devant vous se trouve le signal triangulaire à croix noire (carrefour où la priorité de droite est applicable). Tous les conducteurs continuent tout droit. Dans quel ordre les conducteurs franchissent-ils le carrefour ?",
+        "en": "You are driver A; the triangular sign with a black cross (crossroads where priority to the right applies) is posted for you. All drivers go straight ahead. In what order do the drivers cross the intersection?"
       },
       "options": [
         { "nl": "C, dan A, dan B", "fr": "C, puis A, puis B", "en": "C, then A, then B" },
@@ -980,9 +980,9 @@
       "severity": "standard",
       "image": { "type": "sign", "code": "D5" },
       "text": {
-        "nl": "U nadert een rotonde waar aan elke oprit de borden B1 en D5 staan. Wie heeft voorrang?",
-        "fr": "Vous approchez d'un rond-point où les signaux B1 et D5 sont placés à chaque entrée. Qui a la priorité ?",
-        "en": "You approach a roundabout where signs B1 and D5 are posted at every entry. Who has priority?"
+        "nl": "U nadert een rotonde waar aan elke oprit dit verkeersbord staat, samen met het omgekeerde-driehoek bord (voorrang verlenen). Wie heeft voorrang?",
+        "fr": "Vous approchez d'un rond-point où ce panneau est placé à chaque entrée, avec le triangle inversé (céder le passage). Qui a la priorité ?",
+        "en": "You approach a roundabout where this sign is posted at every entry, together with the inverted-triangle give-way sign. Who has priority?"
       },
       "options": [
         { "nl": "De bestuurders die de rotonde oprijden", "fr": "Les conducteurs qui s'engagent sur le rond-point", "en": "The drivers entering the roundabout" },
@@ -1010,9 +1010,9 @@
         "en": "What is the difference between these two road signs?"
       },
       "options": [
-        { "nl": "B15: u heeft voorrang op het volgende kruispunt; B17: op het volgende kruispunt geldt de voorrang van rechts", "fr": "B15 : vous avez la priorité au prochain carrefour ; B17 : au prochain carrefour, la priorité de droite est applicable", "en": "B15: you have priority at the next intersection; B17: priority to the right applies at the next crossroads" },
+        { "nl": "Het ruitvormige bord: u heeft voorrang op het volgende kruispunt; het driehoekige bord: op het volgende kruispunt geldt de voorrang van rechts", "fr": "Le signal en losange : vous avez la priorité au prochain carrefour ; le signal triangulaire : au prochain carrefour, la priorité de droite est applicable", "en": "The diamond-shaped sign: you have priority at the next intersection; the triangular sign: priority to the right applies at the next crossroads" },
         { "nl": "Beide borden betekenen hetzelfde", "fr": "Les deux signaux ont la même signification", "en": "Both signs mean the same thing" },
-        { "nl": "B15: voorrang verlenen; B17: u rijdt op een voorrangsweg", "fr": "B15 : céder le passage ; B17 : vous circulez sur une voie prioritaire", "en": "B15: give way; B17: you are on a priority road" }
+        { "nl": "Het ruitvormige bord: voorrang verlenen; het driehoekige bord: u rijdt op een voorrangsweg", "fr": "Le signal en losange : céder le passage ; le signal triangulaire : vous circulez sur une voie prioritaire", "en": "The diamond-shaped sign: give way; the triangular sign: you are on a priority road" }
       ],
       "correct": 0,
       "explanation": {

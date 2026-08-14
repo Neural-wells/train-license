@@ -497,13 +497,13 @@
         }
       },
       "text": {
-        "nl": "U bent bestuurder van wagen A en rijdt op een voorrangsweg (bord B9). U wilt links afslaan; wagen B komt u op dezelfde weg tegemoet en rijdt rechtdoor. Wie gaat eerst?",
-        "fr": "Vous êtes le conducteur de la voiture A et circulez sur une route prioritaire (signal B9). Vous voulez tourner à gauche ; la voiture B vient en sens inverse sur la même route et va tout droit. Qui passe en premier ?",
-        "en": "You are car A, driving on a priority road (sign B9). You want to turn left; car B is oncoming on the same road and going straight. Who goes first?"
+        "nl": "U bent bestuurder van wagen A en rijdt op een voorrangsweg. U wilt links afslaan; wagen B komt u op dezelfde weg tegemoet en rijdt rechtdoor. Wie gaat eerst?",
+        "fr": "Vous êtes le conducteur de la voiture A et circulez sur une route prioritaire. Vous voulez tourner à gauche ; la voiture B vient en sens inverse sur la même route et va tout droit. Qui passe en premier ?",
+        "en": "You are car A, driving on a priority road. You want to turn left; car B is oncoming on the same road and going straight. Who goes first?"
       },
       "options": [
         { "nl": "Wagen B: ook op een voorrangsweg moet u als linksafslaande bestuurder voorrang verlenen aan de tegenliggers", "fr": "La voiture B : même sur une route prioritaire, vous devez, en tournant à gauche, céder le passage aux conducteurs venant en sens inverse", "en": "Car B: even on a priority road, when turning left you must give way to oncoming traffic" },
-        { "nl": "Wagen A: het bord B9 geeft u voorrang op alle andere bestuurders", "fr": "La voiture A : le signal B9 vous donne la priorité sur tous les autres conducteurs", "en": "Car A: sign B9 gives you priority over all other drivers" },
+        { "nl": "Wagen A: op een voorrangsweg heeft u voorrang op alle andere bestuurders", "fr": "La voiture A : sur une route prioritaire, vous avez la priorité sur tous les autres conducteurs", "en": "Car A: on a priority road you have priority over all other drivers" },
         { "nl": "Wagen A, omdat u het eerst begint af te slaan", "fr": "La voiture A, parce que vous entamez votre virage en premier", "en": "Car A, because you start turning first" }
       ],
       "correct": 0,
@@ -636,9 +636,9 @@
         }
       },
       "text": {
-        "nl": "U bent bestuurder van wagen A en rijdt achter een trage bestelwagen (niet afgebeeld). U nadert dit kruispunt, waar u voorrang moet verlenen (bord B1). Mag u de bestelwagen op het kruispunt inhalen?",
-        "fr": "Vous êtes le conducteur de la voiture A et roulez derrière une camionnette lente (non représentée). Vous approchez de ce carrefour où vous devez céder le passage (signal B1). Pouvez-vous dépasser la camionnette sur le carrefour ?",
-        "en": "You are car A, driving behind a slow van (not shown). You are approaching this intersection where you must give way (sign B1). May you overtake the van at the intersection?"
+        "nl": "U bent bestuurder van wagen A en rijdt achter een trage bestelwagen (niet afgebeeld). U nadert dit kruispunt, waar het omgekeerde-driehoek bord u verplicht voorrang te verlenen. Mag u de bestelwagen op het kruispunt inhalen?",
+        "fr": "Vous êtes le conducteur de la voiture A et roulez derrière une camionnette lente (non représentée). Vous approchez de ce carrefour, où le triangle inversé vous oblige à céder le passage. Pouvez-vous dépasser la camionnette sur le carrefour ?",
+        "en": "You are car A, driving behind a slow van (not shown). You are approaching this intersection, where the inverted-triangle sign obliges you to give way. May you overtake the van at the intersection?"
       },
       "options": [
         { "nl": "Nee: inhalen is verboden op kruispunten waar u geen voorrang heeft", "fr": "Non : le dépassement est interdit aux carrefours où vous n'avez pas la priorité", "en": "No: overtaking is forbidden at intersections where you do not have priority" },
