@@ -1148,6 +1148,378 @@
       "citations": [
         { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersbord B1) en Art. 7.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
       ]
+    },
+    {
+      "id": "vulnerable-users-031",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Een voetganger wil de rijbaan oversteken. Binnen welke afstand van een oversteekplaats voor voetgangers is hij verplicht die oversteekplaats te gebruiken?",
+        "fr": "Un piéton veut traverser la chaussée. En dessous de quelle distance d'un passage pour piétons est-il obligé d'emprunter ce passage ?",
+        "en": "A pedestrian wants to cross the carriageway. Within what distance of a pedestrian crossing must they use that crossing?"
+      },
+      "options": [
+        {
+          "nl": "Ongeveer 20 meter.",
+          "fr": "Environ 20 mètres.",
+          "en": "About 20 metres."
+        },
+        {
+          "nl": "Ongeveer 10 meter.",
+          "fr": "Environ 10 mètres.",
+          "en": "About 10 metres."
+        },
+        {
+          "nl": "Ongeveer 30 meter.",
+          "fr": "Environ 30 mètres.",
+          "en": "About 30 metres."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Wanneer er op minder dan ongeveer 20 meter afstand een oversteekplaats voor voetgangers is, moeten voetgangers die volgen. Zij moeten de rijbaan bovendien haaks op haar aslijn oversteken en mogen er niet slenteren of zonder noodzaak blijven staan.",
+        "fr": "Lorsqu'il existe un passage pour piétons à une distance de moins de 20 mètres environ, les piétons doivent l'emprunter. Ils doivent en outre traverser la chaussée perpendiculairement à son axe et ne peuvent ni y flâner ni s'y arrêter sans nécessité.",
+        "en": "When there is a pedestrian crossing less than about 20 metres away, pedestrians must use it. They must also cross the carriageway at right angles to its axis and may not dawdle or stop on it without need."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 42.4.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-032",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Buiten de bebouwde kom stapt een voetganger reglementair op de rijbaan. U wilt hem voorbijrijden. Hoeveel zijdelingse afstand moet u minstens laten?",
+        "fr": "Hors agglomération, un piéton marche réglementairement sur la chaussée. Vous voulez le dépasser. Quelle distance latérale minimale devez-vous laisser ?",
+        "en": "Outside a built-up area a pedestrian is lawfully walking on the carriageway. You want to pass them. What minimum lateral distance must you leave?"
+      },
+      "options": [
+        {
+          "nl": "1,5 meter; kan dat niet, dan mag u slechts stapvoets voorbijrijden.",
+          "fr": "1,5 mètre ; si ce n'est pas possible, vous ne pouvez passer qu'à l'allure du pas.",
+          "en": "1.5 metres; if that is not possible, you may only pass at walking pace."
+        },
+        {
+          "nl": "1 meter, dezelfde afstand als binnen de bebouwde kom.",
+          "fr": "1 mètre, la même distance qu'en agglomération.",
+          "en": "1 metre, the same distance as inside a built-up area."
+        },
+        {
+          "nl": "Er geldt geen minimumafstand voor voetgangers; uw snelheid matigen volstaat.",
+          "fr": "Aucune distance minimale ne s'applique aux piétons ; il suffit de modérer votre vitesse.",
+          "en": "No minimum distance applies to pedestrians; moderating your speed is enough."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Net als tegenover fietsers moet u tegenover voetgangers op de rijbaan een zijdelingse afstand laten van minstens 1 meter binnen de bebouwde kom en minstens 1,5 meter erbuiten. Kan die minimumafstand niet nageleefd worden, dan mag u slechts stapvoets rijden en moet u zo nodig stoppen.",
+        "fr": "Comme envers les cyclistes, vous devez laisser envers les piétons qui se trouvent sur la chaussée une distance latérale d'au moins 1 mètre en agglomération et d'au moins 1,5 mètre en dehors. Si cette distance minimale ne peut pas être respectée, vous ne pouvez rouler qu'à l'allure du pas et devez au besoin vous arrêter.",
+        "en": "Just as with cyclists, you must leave pedestrians on the carriageway a lateral distance of at least 1 metre inside a built-up area and at least 1.5 metres outside it. If that minimum distance cannot be kept, you may only drive at walking pace and must stop if necessary."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 40.7", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-033",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Het verkeerslicht springt voor u op groen. Op de oversteekplaats vóór u stappen nog voetgangers die reglementair aan het oversteken begonnen zijn. Wat doet u?",
+        "fr": "Le feu passe au vert pour vous. Sur le passage devant vous marchent encore des piétons qui ont commencé à traverser de manière réglementaire. Que faites-vous ?",
+        "en": "The traffic light turns green for you. On the crossing ahead, pedestrians who lawfully started to cross are still walking. What do you do?"
+      },
+      "options": [
+        {
+          "nl": "U laat hen het oversteken met een normale gang beëindigen, ook al is het licht voor u groen.",
+          "fr": "Vous les laissez achever la traversée à une allure normale, même si le feu est vert pour vous.",
+          "en": "You let them finish crossing at a normal pace, even though your light is green."
+        },
+        {
+          "nl": "U rijdt aan: zodra uw licht groen is, moeten de voetgangers plaatsmaken.",
+          "fr": "Vous démarrez : dès que votre feu est vert, les piétons doivent libérer le passage.",
+          "en": "You move off: as soon as your light is green, the pedestrians must clear the way."
+        },
+        {
+          "nl": "U claxonneert kort zodat zij zich haasten.",
+          "fr": "Vous klaxonnez brièvement pour qu'ils se dépêchent.",
+          "en": "You sound your horn briefly so they hurry up."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Waar het verkeer geregeld wordt door verkeerslichten of een bevoegd persoon, moet u voetgangers die zich regelmatig op de rijbaan hebben begeven, de gelegenheid laten het oversteken met een normale gang te beëindigen — zelfs wanneer het verkeer in uw richting opengesteld is. Groen licht geeft u geen voorrang op wie nog aan het oversteken is; deze voetgangersvoorrang miskennen is een overtreding van de derde graad.",
+        "fr": "Là où la circulation est réglée par des signaux lumineux ou un agent qualifié, vous devez permettre aux piétons qui se sont régulièrement engagés sur la chaussée d'achever la traversée à une allure normale — même lorsque la circulation est ouverte dans votre direction. Le feu vert ne vous donne aucune priorité sur ceux qui traversent encore ; méconnaître cette priorité des piétons est une infraction du troisième degré.",
+        "en": "Where traffic is controlled by lights or an authorised official, you must allow pedestrians who lawfully stepped onto the carriageway to finish crossing at a normal pace — even when traffic is open in your direction. A green light gives you no priority over those still crossing; disregarding this pedestrian priority is a third-degree offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 40.4.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "KB 30/09/2005 (indeling van de overtredingen)", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-034",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Het verkeer vóór u staat stil tot net voorbij een oversteekplaats voor voetgangers zonder verkeerslichten. Wat doet u?",
+        "fr": "Devant vous, la circulation est à l'arrêt jusque juste après un passage pour piétons sans signaux lumineux. Que faites-vous ?",
+        "en": "Traffic ahead of you is at a standstill up to just past a pedestrian crossing without traffic lights. What do you do?"
+      },
+      "options": [
+        {
+          "nl": "U wacht vóór de oversteekplaats en rijdt ze pas op wanneer u ze volledig kan vrijmaken.",
+          "fr": "Vous attendez avant le passage et ne vous y engagez que lorsque vous pouvez le franchir complètement.",
+          "en": "You wait before the crossing and only drive onto it once you can clear it completely."
+        },
+        {
+          "nl": "U sluit aan tot op de oversteekplaats, zodat andere bestuurders niet kunnen voordringen.",
+          "fr": "Vous avancez jusque sur le passage, pour que d'autres conducteurs ne puissent pas s'intercaler.",
+          "en": "You close up onto the crossing so other drivers cannot cut in."
+        },
+        {
+          "nl": "U mag op de oversteekplaats aanschuiven zolang er geen voetganger staat te wachten.",
+          "fr": "Vous pouvez faire la file sur le passage tant qu'aucun piéton n'attend pour traverser.",
+          "en": "You may queue on the crossing as long as no pedestrian is waiting to cross."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "U mag een oversteekplaats voor voetgangers niet oprijden wanneer het verkeer zodanig belemmerd is dat u er waarschijnlijk op zou moeten stoppen: voetgangers zouden dan tussen de stilstaande voertuigen door moeten laveren. Dezelfde regel bestaat voor oversteekplaatsen voor fietsers, voor kruispunten en voor overwegen.",
+        "fr": "Vous ne pouvez pas vous engager sur un passage pour piétons lorsque la circulation est à ce point entravée que vous devriez probablement vous y arrêter : les piétons devraient alors se faufiler entre les véhicules à l'arrêt. La même règle existe pour les passages pour cyclistes, les carrefours et les passages à niveau.",
+        "en": "You may not drive onto a pedestrian crossing when traffic is so congested that you would probably have to stop on it: pedestrians would then have to weave between stationary vehicles. The same rule exists for cycle crossings, intersections and level crossings."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 40.5", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-035",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Er is geen trottoir of begaanbare berm en u moet als voetganger de rijbaan volgen. Langs welke kant gaat u?",
+        "fr": "Il n'y a ni trottoir ni accotement praticable et vous devez, en tant que piéton, suivre la chaussée. De quel côté marchez-vous ?",
+        "en": "There is no sidewalk or usable verge and, as a pedestrian, you must follow the carriageway. On which side do you walk?"
+      },
+      "options": [
+        {
+          "nl": "Links ten opzichte van de richting die u volgt, zo dicht mogelijk bij de rand van de rijbaan.",
+          "fr": "À gauche par rapport au sens de votre marche, le plus près possible du bord de la chaussée.",
+          "en": "On the left relative to your direction of travel, as close as possible to the edge of the carriageway."
+        },
+        {
+          "nl": "Rechts, in dezelfde richting als het verkeer, zoals de bestuurders.",
+          "fr": "À droite, dans le même sens que la circulation, comme les conducteurs.",
+          "en": "On the right, in the same direction as the traffic, like drivers."
+        },
+        {
+          "nl": "Om het even welke kant, zolang u dicht bij de rand van de rijbaan blijft.",
+          "fr": "N'importe quel côté, pourvu que vous restiez près du bord de la chaussée.",
+          "en": "Either side, as long as you stay close to the edge of the carriageway."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Voetgangers die de rijbaan volgen, houden zich zo dicht mogelijk bij de rand en gaan links ten opzichte van hun richting, zodat ze het aankomende verkeer zien; alleen wanneer veiligheidsredenen het rechtvaardigen, gaan ze rechts. Stoeten, processies en groepen met een leider volgen daarentegen de rechterkant; groepen van minstens vijf voetgangers met een leider mogen ook links, maar dan achter elkaar.",
+        "fr": "Les piétons qui suivent la chaussée se tiennent le plus près possible du bord et marchent à gauche par rapport à leur sens de marche, de façon à voir le trafic qui arrive ; ils ne marchent à droite que lorsque des raisons de sécurité le justifient. Les cortèges, processions et groupes accompagnés d'un guide suivent en revanche le côté droit ; les groupes d'au moins cinq piétons accompagnés d'un guide peuvent aussi suivre la gauche, mais alors en file indienne.",
+        "en": "Pedestrians following the carriageway keep as close as possible to the edge and walk on the left relative to their direction, so they can see approaching traffic; they only walk on the right when safety reasons justify it. Parades, processions and groups with a leader follow the right side instead; groups of at least five pedestrians with a leader may also keep left, but then in single file."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 42.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 42.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-036",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U rijdt met de auto in een fietszone op een rijbaan die in beide richtingen opengesteld is. Welk deel van de rijbaan mag de fietser vóór u gebruiken?",
+        "fr": "Vous circulez en voiture dans une zone cyclable, sur une chaussée ouverte aux deux sens. Quelle partie de la chaussée le cycliste devant vous peut-il utiliser ?",
+        "en": "You are driving your car in a cycle zone, on a carriageway open in both directions. Which part of the carriageway may the cyclist ahead of you use?"
+      },
+      "options": [
+        {
+          "nl": "De helft van de breedte langs de rechterzijde; alleen op een rijbaan die enkel in zijn rijrichting opengesteld is, mag hij de ganse breedte gebruiken.",
+          "fr": "La moitié de la largeur du côté droit ; il ne peut utiliser toute la largeur que sur une chaussée ouverte uniquement dans son sens de circulation.",
+          "en": "Half of the width along the right-hand side; only on a carriageway open solely in their direction may they use the full width."
+        },
+        {
+          "nl": "Altijd de ganse breedte van de rijbaan, ook bij tweerichtingsverkeer.",
+          "fr": "Toujours toute la largeur de la chaussée, même à double sens.",
+          "en": "Always the full width of the carriageway, even with two-way traffic."
+        },
+        {
+          "nl": "Enkel een strook van één meter langs de rechterrand van de rijbaan.",
+          "fr": "Seulement une bande d'un mètre le long du bord droit de la chaussée.",
+          "en": "Only a one-metre strip along the right edge of the carriageway."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "In een fietszone mogen fietsers en bestuurders van speed pedelecs de ganse breedte van de rijbaan gebruiken wanneer die alleen in hun rijrichting opengesteld is, en de helft van de breedte langs de rechterzijde wanneer ze in beide richtingen opengesteld is. U mag hen er als autobestuurder niet inhalen en rijdt er nooit sneller dan 30 km/u.",
+        "fr": "Dans une zone cyclable, les cyclistes et les conducteurs de speed pedelecs peuvent utiliser toute la largeur de la chaussée lorsqu'elle n'est ouverte que dans leur sens de circulation, et la moitié de la largeur du côté droit lorsqu'elle est ouverte aux deux sens. En tant qu'automobiliste, vous ne pouvez pas les y dépasser et ne roulez jamais à plus de 30 km/h.",
+        "en": "In a cycle zone, cyclists and speed pedelec riders may use the full width of the carriageway when it is open only in their direction, and the right-hand half of the width when it is open in both directions. As a car driver you may not overtake them there and never exceed 30 km/h."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 22novies", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-037",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Twee fietsers rijden op de rijbaan; aan één van de fietsen is een aanhangwagen (fietskar) gekoppeld. Mogen zij naast elkaar rijden?",
+        "fr": "Deux cyclistes roulent sur la chaussée ; une remorque est attelée à l'une des bicyclettes. Peuvent-ils rouler côte à côte ?",
+        "en": "Two cyclists are riding on the carriageway; a trailer is attached to one of the bicycles. May they ride side by side?"
+      },
+      "options": [
+        {
+          "nl": "Nee: wanneer een aanhangwagen aan een fiets gekoppeld is, moeten fietsers achter elkaar rijden.",
+          "fr": "Non : lorsqu'une remorque est attelée à une bicyclette, les cyclistes doivent rouler l'un derrière l'autre.",
+          "en": "No: when a trailer is attached to a bicycle, cyclists must ride one behind the other."
+        },
+        {
+          "nl": "Ja: fietsers mogen op de rijbaan steeds met twee naast elkaar rijden.",
+          "fr": "Oui : sur la chaussée, les cyclistes peuvent toujours rouler à deux de front.",
+          "en": "Yes: on the carriageway cyclists may always ride two abreast."
+        },
+        {
+          "nl": "Ja, behalve wanneer een achteropkomend voertuig nadert.",
+          "fr": "Oui, sauf à l'approche d'un véhicule venant de l'arrière.",
+          "en": "Yes, except when a vehicle approaches from behind."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Fietsers mogen in principe met twee naast elkaar op de rijbaan rijden, maar zodra een aanhangwagen aan een fiets gekoppeld is, moeten zij achter elkaar rijden. Ook wanneer kruisen niet mogelijk is en, buiten de bebouwde kom, bij het naderen van een achteropkomend voertuig moeten zij achter elkaar gaan rijden.",
+        "fr": "Les cyclistes peuvent en principe rouler à deux de front sur la chaussée, mais dès qu'une remorque est attelée à une bicyclette, ils doivent rouler l'un derrière l'autre. Ils doivent aussi se remettre en file lorsque le croisement n'est pas possible et, hors agglomération, à l'approche d'un véhicule venant de l'arrière.",
+        "en": "Cyclists may in principle ride two abreast on the carriageway, but as soon as a trailer is attached to a bicycle they must ride single file. They must also ride single file when passing oncoming traffic is not possible and, outside built-up areas, when a vehicle approaches from behind."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 43.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-038",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U leidt uw fiets aan de hand op een smal, druk trottoir en hindert de andere voetgangers in aanzienlijke mate. Wat moet u doen?",
+        "fr": "Vous conduisez votre bicyclette à la main sur un trottoir étroit et très fréquenté, et vous gênez considérablement les autres piétons. Que devez-vous faire ?",
+        "en": "You are pushing your bicycle along a narrow, busy sidewalk and are considerably obstructing the other pedestrians. What must you do?"
+      },
+      "options": [
+        {
+          "nl": "De rijbaan volgen: wie met een fiets aan de hand de andere voetgangers in aanzienlijke mate hindert, moet de rijbaan gebruiken.",
+          "fr": "Suivre la chaussée : celui qui, avec une bicyclette à la main, gêne considérablement les autres piétons doit emprunter la chaussée.",
+          "en": "Follow the carriageway: anyone pushing a bicycle who considerably obstructs the other pedestrians must use the carriageway."
+        },
+        {
+          "nl": "Op het trottoir blijven: wie een fiets aan de hand leidt, moet altijd het trottoir gebruiken.",
+          "fr": "Rester sur le trottoir : celui qui conduit une bicyclette à la main doit toujours utiliser le trottoir.",
+          "en": "Stay on the sidewalk: anyone pushing a bicycle must always use the sidewalk."
+        },
+        {
+          "nl": "Opstappen en stapvoets over het trottoir fietsen.",
+          "fr": "Enfourcher le vélo et rouler à l'allure du pas sur le trottoir.",
+          "en": "Get on the bicycle and ride along the sidewalk at walking pace."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Wie een rijwiel, een gemotoriseerd rijwiel, een voortbewegingstoestel of een tweewielige bromfiets aan de hand leidt of voorwerpen vervoert die veel plaats innemen, wordt als voetganger beschouwd, maar moet de rijbaan volgen zodra hij de andere voetgangers in aanzienlijke mate hindert. Op het trottoir fietsen is voor volwassenen niet toegelaten.",
+        "fr": "Celui qui conduit à la main un cycle, un cycle motorisé, un engin de déplacement ou un cyclomoteur à deux roues, ou qui transporte des objets encombrants, est considéré comme un piéton, mais doit emprunter la chaussée dès qu'il gêne considérablement les autres piétons. Rouler à vélo sur le trottoir n'est pas permis aux adultes.",
+        "en": "Anyone pushing a cycle, motorised cycle, personal mobility device or two-wheeled moped, or carrying bulky objects, is treated as a pedestrian, but must use the carriageway as soon as they considerably obstruct the other pedestrians. Cycling on the sidewalk is not allowed for adults."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 42.2.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-039",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Een voetganger staat aan een oversteekplaats voor voetgangers waarover een tramspoor loopt. Een tram nadert. Mag de voetganger zich op de oversteekplaats begeven?",
+        "fr": "Un piéton se trouve à un passage pour piétons traversé par une voie de tram. Un tram approche. Le piéton peut-il s'engager sur le passage ?",
+        "en": "A pedestrian is standing at a pedestrian crossing over which a tram track runs. A tram is approaching. May the pedestrian step onto the crossing?"
+      },
+      "options": [
+        {
+          "nl": "Nee, behalve wanneer verkeerslichten hem het oversteken toestaan.",
+          "fr": "Non, sauf si des signaux lumineux l'autorisent à traverser.",
+          "en": "No, except when traffic lights allow them to cross."
+        },
+        {
+          "nl": "Ja: op een oversteekplaats voor voetgangers heeft hij ook voorrang op de tram.",
+          "fr": "Oui : sur un passage pour piétons, il a aussi la priorité sur le tram.",
+          "en": "Yes: on a pedestrian crossing they also have priority over the tram."
+        },
+        {
+          "nl": "Ja, zodra hij oogcontact heeft met de trambestuurder.",
+          "fr": "Oui, dès qu'il a un contact visuel avec le conducteur du tram.",
+          "en": "Yes, as soon as they make eye contact with the tram driver."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Wanneer een tram nadert, mogen voetgangers zich niet begeven op een oversteekplaats waarover een tramspoor of een eigen trambedding loopt, behalve indien verkeerslichten het hun toestaan. Een tram kan niet uitwijken en heeft een lange remweg: de gewone voorrang op het zebrapad geldt hier dus niet tegenover de tram.",
+        "fr": "Lorsqu'un tram approche, les piétons ne peuvent pas s'engager sur un passage traversé par une voie de tram ou un site propre de tram, sauf si des signaux lumineux le leur permettent. Un tram ne peut pas faire d'écart et a une longue distance de freinage : la priorité habituelle sur le passage pour piétons ne vaut donc pas ici vis-à-vis du tram.",
+        "en": "When a tram is approaching, pedestrians may not step onto a crossing over which a tram track or a dedicated tram bed runs, except when traffic lights permit them to. A tram cannot swerve and has a long braking distance: the usual zebra-crossing priority therefore does not apply against the tram."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 42.4.6", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "vulnerable-users-040",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Werken nemen het trottoir volledig in, zodat voetgangers op de rijbaan om de hindernis heen moeten gaan. Wat geldt wanneer u er met de auto voorbijrijdt?",
+        "fr": "Des travaux occupent entièrement le trottoir, de sorte que les piétons doivent contourner l'obstacle sur la chaussée. Que s'applique-t-il lorsque vous passez en voiture ?",
+        "en": "Roadworks take up the entire sidewalk, so pedestrians must go around the obstacle on the carriageway. What applies when you drive past in your car?"
+      },
+      "options": [
+        {
+          "nl": "U laat langs de hindernis minstens één meter vrije ruimte; kan dat niet en gaat er een voetganger ter hoogte van de hindernis, dan rijdt u er hoogstens stapvoets voorbij.",
+          "fr": "Vous laissez au moins un mètre d'espace libre le long de l'obstacle ; si ce n'est pas possible et qu'un piéton marche à hauteur de l'obstacle, vous ne le dépassez qu'à l'allure du pas au maximum.",
+          "en": "You leave at least one metre of free space alongside the obstacle; if that is not possible and a pedestrian is walking level with the obstacle, you pass it at no more than walking pace."
+        },
+        {
+          "nl": "U claxonneert en rijdt gewoon door: voetgangers horen niet op de rijbaan.",
+          "fr": "Vous klaxonnez et poursuivez simplement votre route : les piétons n'ont pas leur place sur la chaussée.",
+          "en": "You sound your horn and simply drive on: pedestrians do not belong on the carriageway."
+        },
+        {
+          "nl": "U moet er altijd volledig stoppen tot het trottoir opnieuw vrij is.",
+          "fr": "Vous devez toujours vous arrêter complètement jusqu'à ce que le trottoir soit à nouveau libre.",
+          "en": "You must always come to a complete stop until the sidewalk is clear again."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bij het voorbijrijden van een hindernis waar voetgangers op de rijbaan omheen moeten gaan, moet u langs die hindernis een vrije ruimte van ten minste één meter laten. Kan dat niet en loopt een voetganger ter hoogte van de hindernis, dan mag u die hindernis niet sneller dan stapvoets voorbijrijden.",
+        "fr": "En passant devant un obstacle que les piétons doivent contourner sur la chaussée, vous devez laisser le long de cet obstacle un espace libre d'au moins un mètre. Si ce n'est pas possible et qu'un piéton marche à hauteur de l'obstacle, vous ne pouvez dépasser cet obstacle qu'à l'allure du pas.",
+        "en": "When passing an obstacle that pedestrians must go around on the carriageway, you must leave a free space of at least one metre alongside it. If that is not possible and a pedestrian is walking level with the obstacle, you may pass the obstacle at no faster than walking pace."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 40.6", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
     }
   ]
 }

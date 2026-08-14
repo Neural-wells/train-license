@@ -381,7 +381,7 @@
         "en": "On the motorway drivers must drive at least 70 km/h; the maximum speed is 120 km/h. Access is also prohibited to pedestrians, cyclists, moped riders and vehicles unable to reach 70 km/h."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 21.3 (minimumsnelheid op autosnelwegen)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 21.2 (minimumsnelheid op autosnelwegen)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
         { "source": "Wegcode (KB 01/12/1975), Art. 11.2.1 (maximumsnelheid 120 km per uur)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
       ]
     },
@@ -889,6 +889,261 @@
       },
       "citations": [
         { "source": "Wegcode (KB 01/12/1975), Art. 77.1 (pijlen op de rijbaan)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-036",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Midden op de rijbaan liggen twee evenwijdige witte strepen: aan jouw kant een doorlopende streep, aan de overzijde een onderbroken streep. Vóór je rijdt een traag landbouwvoertuig. Mag je inhalen?",
+        "fr": "Au milieu de la chaussée se trouvent deux lignes blanches parallèles : de votre côté une ligne continue, de l'autre côté une ligne discontinue. Devant vous roule un véhicule agricole lent. Pouvez-vous dépasser ?",
+        "en": "In the middle of the carriageway lie two parallel white lines: on your side a continuous line, on the other side a broken line. A slow agricultural vehicle is driving ahead of you. May you overtake?"
+      },
+      "options": [
+        { "nl": "Nee: je houdt enkel rekening met de streep aan jouw kant, en een doorlopende streep mag je niet overschrijden", "fr": "Non : vous ne tenez compte que de la ligne située de votre côté, et une ligne continue ne peut pas être franchie", "en": "No: you only take account of the line on your side, and a continuous line may not be crossed" },
+        { "nl": "Ja: zodra er ook een onderbroken streep ligt, is inhalen toegelaten", "fr": "Oui : dès qu'il y a aussi une ligne discontinue, le dépassement est autorisé", "en": "Yes: as soon as there is also a broken line, overtaking is allowed" },
+        { "nl": "Ja: de dubbele streep duidt alleen het midden van de rijbaan aan", "fr": "Oui : la double ligne ne fait qu'indiquer le milieu de la chaussée", "en": "Yes: the double line merely marks the middle of the carriageway" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Liggen een doorlopende en een onderbroken streep naast elkaar, dan telt alleen de streep aan jouw kant. Een doorlopende witte streep overschrijden is verboden — een overtreding van de derde graad. Wie uit de andere richting komt, mag de onderbroken streep aan zíjn kant wél overschrijden om in te halen.",
+        "fr": "Lorsqu'une ligne continue et une ligne discontinue sont tracées côte à côte, seule compte la ligne située de votre côté. Franchir une ligne blanche continue est interdit — une infraction du troisième degré. Le conducteur venant en sens inverse peut, lui, franchir la ligne discontinue de son côté pour dépasser.",
+        "en": "When a continuous and a broken line run side by side, only the line on your side counts. Crossing a continuous white line is prohibited — a third-degree offence. A driver coming the other way may cross the broken line on his side to overtake."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 72.2 en 72.3 (doorlopende en onderbroken streep)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-037",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Langs de rand van de rijbaan zie je op de ene plaats een doorlopende witte streep en wat verderop een onderbroken gele streep op de trottoirband. Wat is het verschil?",
+        "fr": "Le long du bord de la chaussée, vous voyez à un endroit une ligne blanche continue et, un peu plus loin, une ligne jaune discontinue sur la bordure du trottoir. Quelle est la différence ?",
+        "en": "Along the edge of the carriageway you see in one place a continuous white line and, a little further on, a broken yellow line on the kerb. What is the difference?"
+      },
+      "options": [
+        { "nl": "De witte streep maakt de werkelijke rand van de rijbaan zichtbaar; langs de gele streep is parkeren op de rijbaan verboden", "fr": "La ligne blanche rend visible le bord réel de la chaussée ; le long de la ligne jaune, le stationnement sur la chaussée est interdit", "en": "The white line marks the actual edge of the carriageway; along the yellow line, parking on the carriageway is prohibited" },
+        { "nl": "Beide strepen duiden hetzelfde parkeerverbod aan", "fr": "Les deux lignes indiquent la même interdiction de stationner", "en": "Both lines indicate the same parking prohibition" },
+        { "nl": "De witte streep verbiedt het parkeren; de gele duidt enkel de rand van de rijbaan aan", "fr": "La ligne blanche interdit le stationnement ; la jaune ne fait qu'indiquer le bord de la chaussée", "en": "The white line prohibits parking; the yellow one merely marks the edge of the carriageway" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een doorlopende witte streep op de rand bakent de werkelijke rand van de rijbaan af: wat erbuiten ligt, zoals een berm of parkeerstrook, behoort niet tot de rijbaan. Een onderbroken gele streep op de werkelijke rand of op de trottoirband betekent dat parkeren op de rijbaan langs die streep verboden is.",
+        "fr": "Une ligne blanche continue au bord délimite le bord réel de la chaussée : ce qui se trouve au-delà, comme un accotement ou une bande de stationnement, ne fait pas partie de la chaussée. Une ligne jaune discontinue sur le bord réel ou sur la bordure du trottoir signifie que le stationnement sur la chaussée est interdit le long de cette ligne.",
+        "en": "A continuous white line at the edge marks the actual edge of the carriageway: what lies beyond it, such as a verge or parking strip, is not part of the carriageway. A broken yellow line on the actual edge or on the kerb means parking on the carriageway is prohibited along that line."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 75.1.1° (werkelijke rand van de rijbaan)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 75.1.2° (gele onderbroken streep)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-038",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "In het midden van de weg ligt een strook voor trams en bussen, afgebakend met brede doorlopende witte strepen. Het verkeer staat stil. Mag je die strook met de auto gebruiken om de file voorbij te rijden?",
+        "fr": "Au milieu de la route se trouve un site réservé aux trams et aux bus, délimité par de larges lignes blanches continues. La circulation est à l'arrêt. Pouvez-vous emprunter ce site en voiture pour dépasser la file ?",
+        "en": "In the middle of the road lies a track for trams and buses, bounded by broad continuous white lines. Traffic is at a standstill. May you use that track with your car to pass the queue?"
+      },
+      "options": [
+        { "nl": "Nee: je mag die bedding niet volgen; je mag ze enkel dwarsen aan een kruispunt, om een eigendom te bereiken of om een hindernis te ontwijken", "fr": "Non : vous ne pouvez pas suivre ce site ; vous pouvez uniquement le traverser à un carrefour, pour atteindre une propriété ou pour contourner un obstacle", "en": "No: you may not drive along that track; you may only cross it at an intersection, to reach a property or to avoid an obstacle" },
+        { "nl": "Ja: buiten de spitsuren mag iedereen erop rijden", "fr": "Oui : en dehors des heures de pointe, tout le monde peut y rouler", "en": "Yes: outside peak hours anyone may drive on it" },
+        { "nl": "Ja: kort vóór een kruispunt mag je erop voorsorteren zoals op een busstrook", "fr": "Oui : juste avant un carrefour, vous pouvez vous y présélectionner comme sur une bande bus", "en": "Yes: just before an intersection you may move onto it to presort, as on a bus lane" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een bijzondere overrijdbare bedding, afgebakend met brede doorlopende witte strepen, is voorbehouden voor voertuigen van geregelde diensten voor gemeenschappelijk vervoer. Andere bestuurders mogen ze niet volgen; ze mogen ze alleen oversteken aan een kruispunt, om een aanpalende eigendom te bereiken of te verlaten, of om een hindernis op de rijbaan te ontwijken. Op een busstrook, afgebakend met een brede onderbroken streep, mag je wél even komen om van richting te veranderen.",
+        "fr": "Un site spécial franchissable, délimité par de larges lignes blanches continues, est réservé aux véhicules des services réguliers de transport en commun. Les autres conducteurs ne peuvent pas le suivre ; ils peuvent seulement le traverser à un carrefour, pour atteindre ou quitter une propriété riveraine, ou pour contourner un obstacle sur la chaussée. Sur une bande bus, délimitée par une large ligne discontinue, vous pouvez en revanche vous engager brièvement pour changer de direction.",
+        "en": "A special overridable track, bounded by broad continuous white lines, is reserved for vehicles of regular public transport services. Other drivers may not drive along it; they may only cross it at an intersection, to reach or leave an adjacent property, or to avoid an obstacle on the carriageway. On a bus lane, bounded by a broad broken line, you may briefly move over to change direction."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 72.6 (bijzondere overrijdbare bedding)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 72.5 (busstrook)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-039",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Aan wegwerkzaamheden zie je oranje strepen op het wegdek die de rijstroken anders indelen dan de nog gedeeltelijk zichtbare witte markeringen. Wat betekenen die oranje strepen?",
+        "fr": "À hauteur de travaux, vous voyez sur le revêtement des lignes oranges qui répartissent les bandes de circulation autrement que les marques blanches encore partiellement visibles. Que signifient ces lignes oranges ?",
+        "en": "At roadworks you see orange lines on the road surface that divide the lanes differently from the still partly visible white markings. What do those orange lines mean?"
+      },
+      "options": [
+        { "nl": "Het zijn bindende voorlopige markeringen die het verkeer langs de werken leiden; ze hebben dezelfde betekenis als de overeenkomstige witte strepen", "fr": "Ce sont des marques provisoires contraignantes qui canalisent la circulation le long des travaux ; elles ont la même signification que les lignes blanches correspondantes", "en": "They are binding temporary markings channelling traffic past the works; they have the same meaning as the corresponding white lines" },
+        { "nl": "Ze zijn louter informatief: alleen de witte markeringen blijven gelden", "fr": "Elles sont purement informatives : seules les marques blanches restent valables", "en": "They are purely informative: only the white markings remain in force" },
+        { "nl": "Ze gelden enkel voor de werfvoertuigen", "fr": "Elles ne valent que pour les véhicules du chantier", "en": "They apply only to the works vehicles" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Voorlopige markeringen die het verkeer bij werken kanaliseren, bestaan uit oranje doorlopende of onderbroken strepen, of uit oranje spijkers. Een doorlopende oranje streep mag je dus niet overschrijden en een onderbroken alleen volgens de gewone regels: je volgt de tijdelijke indeling van de werf.",
+        "fr": "Les marques provisoires qui canalisent la circulation à hauteur de travaux consistent en des lignes oranges continues ou discontinues, ou en des clous oranges. Une ligne orange continue ne peut donc pas être franchie et une discontinue seulement selon les règles habituelles : vous suivez la répartition temporaire du chantier.",
+        "en": "Temporary markings channelling traffic at roadworks consist of continuous or broken orange lines, or orange studs. A continuous orange line may therefore not be crossed and a broken one only under the usual rules: you follow the temporary layout of the works."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 73 (voorlopige markeringen)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 72.2 en 72.3 (betekenis van de strepen)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-040",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Rechts van je rijstrook ligt een strook waarop in grote witte letters 'BUS' staat; ze is van jouw rijstrook gescheiden door een brede onderbroken witte streep. Je wil aan het volgende kruispunt rechts afslaan. Mag je met de auto op die strook komen?",
+        "fr": "À droite de votre bande se trouve une bande portant en grandes lettres blanches la mention « BUS » ; elle est séparée de votre bande par une large ligne blanche discontinue. Vous voulez tourner à droite au prochain carrefour. Pouvez-vous vous engager sur cette bande en voiture ?",
+        "en": "To the right of your lane lies a lane bearing the word 'BUS' in large white letters; it is separated from your lane by a broad broken white line. You want to turn right at the next intersection. May you move onto that lane with your car?"
+      },
+      "options": [
+        { "nl": "Ja, maar enkel om vlak vóór het kruispunt voor te sorteren en van richting te veranderen", "fr": "Oui, mais uniquement pour vous présélectionner juste avant le carrefour et changer de direction", "en": "Yes, but only to get in lane just before the intersection and change direction" },
+        { "nl": "Nee: alleen bussen mogen ooit op die strook komen", "fr": "Non : seuls les bus peuvent jamais s'engager sur cette bande", "en": "No: only buses may ever enter that lane" },
+        { "nl": "Ja: bij druk verkeer mag je ze als gewone extra rijstrook gebruiken", "fr": "Oui : en cas de trafic dense, vous pouvez l'utiliser comme bande supplémentaire ordinaire", "en": "Yes: in heavy traffic you may use it as an ordinary extra lane" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een busstrook is voorbehouden voor voertuigen van geregelde diensten voor gemeenschappelijk vervoer en enkele andere toegelaten categorieën. Andere bestuurders mogen er alleen op komen om van richting te veranderen, zoals hier om rechts af te slaan; ze als doorgaande rijstrook gebruiken is verboden.",
+        "fr": "Une bande bus est réservée aux véhicules des services réguliers de transport en commun et à quelques autres catégories admises. Les autres conducteurs ne peuvent s'y engager que pour changer de direction, comme ici pour tourner à droite ; l'utiliser comme bande de circulation ordinaire est interdit.",
+        "en": "A bus lane is reserved for vehicles of regular public transport services and a few other permitted categories. Other drivers may only move onto it to change direction, as here to turn right; using it as a through lane is prohibited."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 72.5 (busstrook)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-041",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "F17" },
+      "text": {
+        "nl": "Je fietst op een weg waar dit bord een busstrook aanduidt. Wanneer mag je als fietser op die busstrook rijden?",
+        "fr": "Vous roulez à vélo sur une route où ce signal indique une bande bus. Quand pouvez-vous, en tant que cycliste, emprunter cette bande bus ?",
+        "en": "You are cycling on a road where this sign indicates a bus lane. When may you, as a cyclist, ride on that bus lane?"
+      },
+      "options": [
+        { "nl": "Alleen wanneer het symbool van een fiets op het bord of op een onderbord is aangebracht", "fr": "Uniquement lorsque le symbole d'une bicyclette figure sur le signal ou sur un panneau additionnel", "en": "Only when the symbol of a bicycle appears on the sign or on a supplementary panel" },
+        { "nl": "Altijd: fietsers mogen elke busstrook volgen", "fr": "Toujours : les cyclistes peuvent suivre toute bande bus", "en": "Always: cyclists may follow any bus lane" },
+        { "nl": "Nooit: een busstrook is uitsluitend voor bussen", "fr": "Jamais : une bande bus est exclusivement réservée aux bus", "en": "Never: a bus lane is exclusively for buses" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Fietsers mogen een busstrook alleen volgen wanneer het symbool van een fiets op het verkeersbord of op een onderbord staat. Zonder dat symbool blijft de strook voor hen verboden; taxi's en sommige andere voertuigen kunnen er wel toegelaten zijn.",
+        "fr": "Les cyclistes ne peuvent suivre une bande bus que lorsque le symbole d'une bicyclette figure sur le signal ou sur un panneau additionnel. Sans ce symbole, la bande leur reste interdite ; les taxis et certains autres véhicules peuvent, eux, y être admis.",
+        "en": "Cyclists may only follow a bus lane when the symbol of a bicycle appears on the traffic sign or on a supplementary panel. Without that symbol the lane remains forbidden to them; taxis and certain other vehicles may be admitted."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 72.5 (busstrook)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-042",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op een weg met drie rijstroken in jouw richting hangen boven de rijstroken borden die met pijlen en plaatsnamen aanduiden welke richting elke rijstrook volgt. Jouw bestemming hangt boven de middelste rijstrook. Mag je de rechterrijstrook verlaten?",
+        "fr": "Sur une route à trois bandes dans votre sens, des panneaux suspendus au-dessus des bandes indiquent, avec des flèches et des noms de localités, la direction suivie par chaque bande. Votre destination figure au-dessus de la bande du milieu. Pouvez-vous quitter la bande de droite ?",
+        "en": "On a road with three lanes in your direction, signs above the lanes indicate with arrows and place names which direction each lane follows. Your destination hangs above the middle lane. May you leave the right-hand lane?"
+      },
+      "options": [
+        { "nl": "Ja: je mag de rijstrook volgen die met jouw richting overeenstemt, maar nadien moet je opnieuw rechts gaan rijden zodra dat kan", "fr": "Oui : vous pouvez suivre la bande qui correspond à votre direction, mais vous devez ensuite reprendre votre place à droite dès que possible", "en": "Yes: you may follow the lane matching your direction, but afterwards you must move back to the right as soon as possible" },
+        { "nl": "Nee: je moet altijd zo dicht mogelijk bij de rechterrand van de rijbaan blijven", "fr": "Non : vous devez toujours rester le plus près possible du bord droit de la chaussée", "en": "No: you must always stay as close as possible to the right edge of the carriageway" },
+        { "nl": "Ja, en je mag nadien gewoon op de middelste rijstrook blijven rijden", "fr": "Oui, et vous pouvez ensuite simplement continuer sur la bande du milieu", "en": "Yes, and afterwards you may simply keep driving in the middle lane" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Wie de aanwijzingen volgt van borden die boven de rijstroken de te volgen richting aanduiden, mag daarvoor de rechterrijstrook verlaten. Dat is een uitzondering op de plicht om zo dicht mogelijk bij de rechterrand te blijven; zodra de omstandigheden het toelaten, neem je je plaats rechts weer in.",
+        "fr": "Le conducteur qui suit les indications de panneaux placés au-dessus des bandes et indiquant la direction à suivre peut quitter la bande de droite à cette fin. C'est une exception à l'obligation de rester le plus près possible du bord droit ; dès que les circonstances le permettent, vous reprenez votre place à droite.",
+        "en": "A driver following the indications of signs placed above the lanes showing the direction to follow may leave the right-hand lane to do so. This is an exception to the duty to stay as close as possible to the right edge; as soon as circumstances allow, you take up your position on the right again."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 9.3.1 (rechts rijden; borden F13 en F15)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 71 (aanwijzingsborden)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-043",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E9a" },
+      "text": {
+        "nl": "Dit bord staat langs een weg buiten een zone met beperkte parkeertijd (blauwe zone). Op een onderbord staat een parkeerschijf afgebeeld. Moet je bij het parkeren je parkeerschijf gebruiken?",
+        "fr": "Ce signal se trouve le long d'une route en dehors d'une zone de stationnement à durée limitée (zone bleue). Un panneau additionnel représente un disque de stationnement. Devez-vous utiliser votre disque de stationnement en vous garant ?",
+        "en": "This sign stands along a road outside a limited-time parking zone (blue zone). A supplementary panel depicts a parking disc. Must you use your parking disc when parking?"
+      },
+      "options": [
+        { "nl": "Ja: het onderbord maakt het gebruik van de schijf hier verplicht, zoals in een blauwe zone", "fr": "Oui : le panneau additionnel rend le disque obligatoire ici, comme dans une zone bleue", "en": "Yes: the panel makes the disc mandatory here, just as in a blue zone" },
+        { "nl": "Nee: een parkeerschijf is enkel verplicht binnen een blauwe zone", "fr": "Non : le disque de stationnement n'est obligatoire qu'à l'intérieur d'une zone bleue", "en": "No: a parking disc is only mandatory inside a blue zone" },
+        { "nl": "Nee: zo'n onderbord is slechts een aanbeveling", "fr": "Non : un tel panneau additionnel n'est qu'une recommandation", "en": "No: such a panel is merely a recommendation" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De regels van de zone met beperkte parkeertijd gelden ook buiten zo'n zone, op elke plaats waar een parkeerbord is aangevuld met een onderbord waarop een parkeerschijf staat. Je legt de schijf dus zichtbaar achter de voorruit en respecteert de toegelaten parkeerduur.",
+        "fr": "Les règles de la zone de stationnement à durée limitée s'appliquent aussi en dehors d'une telle zone, à tout endroit où un signal de stationnement est complété par un panneau additionnel représentant un disque de stationnement. Vous placez donc le disque de façon visible derrière le pare-brise et respectez la durée autorisée.",
+        "en": "The rules of the limited-time parking zone also apply outside such a zone, at any place where a parking sign is supplemented by a panel depicting a parking disc. You therefore display the disc visibly behind the windscreen and respect the permitted parking time."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 27.2 (gebruik van de parkeerschijf buiten de blauwe zone)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-044",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E11" },
+      "text": {
+        "nl": "Je staat geparkeerd in een zone met halfmaandelijks beurtelings parkeren, aangeduid met dit bord, aan de kant van de onpare huisnummers. Het is de 15e van de maand, 21 uur. Wat geldt er?",
+        "fr": "Vous êtes stationné dans une zone de stationnement à alternance semi-mensuelle, indiquée par ce signal, du côté des numéros impairs. Nous sommes le 15 du mois, à 21 heures. Qu'est-ce qui s'applique ?",
+        "en": "You are parked in a half-monthly alternate-side parking zone, indicated by this sign, on the side of the odd house numbers. It is the 15th of the month, 9 p.m. What applies?"
+      },
+      "options": [
+        { "nl": "Je had al van kant moeten veranderen: dat moet op de laatste dag van elke periode gebeuren tussen 19.30 uur en 20 uur", "fr": "Vous auriez déjà dû changer de côté : cela doit se faire le dernier jour de chaque période entre 19 h 30 et 20 heures", "en": "You should already have changed sides: that must be done on the last day of each period between 7.30 p.m. and 8 p.m." },
+        { "nl": "Je mag blijven staan tot middernacht: de nieuwe periode begint pas op de 16e", "fr": "Vous pouvez rester jusqu'à minuit : la nouvelle période ne commence que le 16", "en": "You may stay until midnight: the new period only starts on the 16th" },
+        { "nl": "Je moet pas vóór 22 uur van kant veranderen", "fr": "Vous ne devez changer de côté qu'avant 22 heures", "en": "You only have to change sides before 10 p.m." }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "In zo'n zone parkeer je van de 1e tot de 15e aan de kant van de onpare huisnummers en van de 16e tot het einde van de maand aan de kant van de pare nummers. Het veranderen van kant moet gebeuren op de laatste dag van elke periode tussen 19.30 uur en 20 uur — dus niet pas om middernacht.",
+        "fr": "Dans une telle zone, vous stationnez du 1er au 15 du côté des numéros impairs et du 16 à la fin du mois du côté des numéros pairs. Le changement de côté doit se faire le dernier jour de chaque période entre 19 h 30 et 20 heures — et non à minuit.",
+        "en": "In such a zone you park from the 1st to the 15th on the side of the odd house numbers and from the 16th to the end of the month on the even-numbered side. Changing sides must be done on the last day of each period between 7.30 p.m. and 8 p.m. — not at midnight."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 26 (halfmaandelijks beurtelings parkeren)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-parking-indication-045",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["E5", "E11"] },
+      "text": {
+        "nl": "Wat is het verschil tussen het linkse en het rechtse bord?",
+        "fr": "Quelle est la différence entre le signal de gauche et celui de droite ?",
+        "en": "What is the difference between the left and the right sign?"
+      },
+      "options": [
+        { "nl": "Het linkse verbiedt het parkeren van de 1e tot de 15e, enkel aan de kant waar het staat; het rechtse voert een zone in waar het parkeren elke halve maand van kant wisselt, aan beide kanten van de straat", "fr": "Celui de gauche interdit le stationnement du 1er au 15, uniquement du côté où il est placé ; celui de droite instaure une zone où le stationnement change de côté chaque quinzaine, des deux côtés de la rue", "en": "The left one prohibits parking from the 1st to the 15th, only on the side where it stands; the right one introduces a zone where parking alternates sides every half month, affecting both sides of the street" },
+        { "nl": "Ze betekenen hetzelfde: parkeerverbod in de eerste helft van de maand", "fr": "Ils signifient la même chose : stationnement interdit pendant la première quinzaine du mois", "en": "They mean the same thing: no parking during the first half of the month" },
+        { "nl": "Het linkse verbiedt het parkeren de hele maand; het rechtse enkel op werkdagen", "fr": "Celui de gauche interdit le stationnement tout le mois ; celui de droite uniquement les jours ouvrables", "en": "The left one prohibits parking all month; the right one only on working days" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het linkse bord geldt enkel langs de kant van de openbare weg waar het staat en tot het volgende kruispunt: daar is parkeren verboden van de 1e tot de 15e. Het rechtse zonebord voert het halfmaandelijks beurtelings parkeren in: van de 1e tot de 15e parkeer je aan de kant van de onpare huisnummers, van de 16e tot het einde van de maand aan de pare kant — de regeling treft dus beurtelings beide kanten.",
+        "fr": "Le signal de gauche ne vaut que du côté de la voie publique où il est placé et jusqu'au carrefour suivant : le stationnement y est interdit du 1er au 15. Le signal zonal de droite instaure le stationnement à alternance semi-mensuelle : du 1er au 15 vous stationnez du côté des numéros impairs, du 16 à la fin du mois du côté pair — le régime touche donc alternativement les deux côtés.",
+        "en": "The left sign applies only on the side of the public road where it stands and up to the next intersection: parking there is prohibited from the 1st to the 15th. The right zonal sign introduces half-monthly alternate-side parking: from the 1st to the 15th you park on the odd-numbered side, from the 16th to the end of the month on the even side — so the regime affects both sides in turn."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 70.2 (verkeersborden E5 en E11; geldigheid)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 26 (halfmaandelijks beurtelings parkeren)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
       ]
     }
   ]

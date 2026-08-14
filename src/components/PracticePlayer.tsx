@@ -4,6 +4,7 @@ import { useMemo, useState } from "react";
 import type { Locale, Question } from "@/lib/types";
 import { t } from "@/lib/i18n";
 import { Feedback, OptionButton, QuestionImageView, postAnswers, recordLocalAnswer } from "./QuestionCard";
+import QuestionBadges from "./QuestionBadges";
 
 export default function PracticePlayer({ questions, locale }: { questions: Question[]; locale: Locale }) {
   const order = useMemo(() => shuffle(questions), [questions]);
@@ -63,11 +64,9 @@ export default function PracticePlayer({ questions, locale }: { questions: Quest
 
   return (
     <div>
-      <div className="flex items-center justify-between text-sm text-neutral-500 mb-3">
+      <div className="flex items-center justify-between gap-2 flex-wrap text-sm text-neutral-500 mb-3">
         <span>{t("questionOf", locale, { i: idx + 1, n: order.length })}</span>
-        {q.severity === "severe" && (
-          <span className="text-red-600 dark:text-red-400 font-medium">{t("severeTag", locale)}</span>
-        )}
+        <QuestionBadges q={q} locale={locale} />
       </div>
       <div className="h-1.5 bg-neutral-200 dark:bg-neutral-800 rounded-full mb-5">
         <div

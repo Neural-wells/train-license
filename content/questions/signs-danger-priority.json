@@ -846,6 +846,257 @@
       "citations": [
         { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersbord B17) en 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
       ]
+    },
+    {
+      "id": "signs-danger-priority-034",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U nadert een kruispunt met verkeerslichten. Het licht springt op vast oranjegeel terwijl u nog op veilige wijze vóór de stopstreep kunt stoppen. Wat moet u doen?",
+        "fr": "Vous approchez d'un carrefour équipé de signaux lumineux. Le feu passe au jaune-orange fixe alors que vous pouvez encore vous arrêter en toute sécurité avant la ligne d'arrêt. Que devez-vous faire ?",
+        "en": "You approach an intersection with traffic lights. The light turns steady amber while you can still stop safely before the stop line. What must you do?"
+      },
+      "options": [
+        { "nl": "Stoppen vóór de stopstreep: het vast oranjegeel licht verbiedt de stopstreep voorbij te rijden zolang u nog veilig kunt stoppen", "fr": "Vous arrêter avant la ligne d'arrêt : le feu jaune-orange fixe interdit de franchir la ligne d'arrêt tant que vous pouvez encore vous arrêter en sécurité", "en": "Stop before the stop line: the steady amber light forbids crossing the stop line as long as you can still stop safely" },
+        { "nl": "Versnellen om het kruispunt over te steken voordat het licht rood wordt", "fr": "Accélérer pour franchir le carrefour avant que le feu ne passe au rouge", "en": "Accelerate to cross the intersection before the light turns red" },
+        { "nl": "In hetzelfde tempo doorrijden: oranjegeel is enkel een waarschuwing", "fr": "Continuer à la même allure : le jaune-orange n'est qu'un avertissement", "en": "Continue at the same pace: amber is only a warning" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het vast oranjegeel licht verbiedt de stopstreep of, zo er geen is, het licht zelf voorbij te rijden, tenzij u er bij het aangaan zo dicht genaderd bent dat u niet meer op voldoende veilige wijze kunt stoppen. Alleen in dat geval mag u het kruispunt nog oversteken, op voorwaarde dat u de andere weggebruikers niet in gevaar brengt.",
+        "fr": "Le feu jaune-orange fixe interdit de franchir la ligne d'arrêt ou, à défaut, le signal lui-même, sauf si, au moment où il s'allume, vous en êtes déjà si proche que vous ne pouvez plus vous arrêter dans des conditions de sécurité suffisantes. Dans ce cas seulement, vous pouvez encore traverser le carrefour, à condition de ne pas mettre en danger les autres usagers.",
+        "en": "The steady amber light forbids you to cross the stop line or, if there is none, the light itself, unless you are already so close when it comes on that you can no longer stop safely enough. Only in that case may you still cross the intersection, provided you do not endanger other road users."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 61.1.2°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-035",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Het verkeerslicht springt voor u op groen. Een bestuurder uit de dwarsstraat is het kruispunt nog aan het vrijmaken en een voetganger die op tijd vertrokken is, maakt zijn oversteek af. Wat doet u?",
+        "fr": "Le feu passe au vert pour vous. Un conducteur venant de la voie transversale est encore en train d'évacuer le carrefour et un piéton parti à temps achève sa traversée. Que faites-vous ?",
+        "en": "The light turns green for you. A driver from the crossing street is still clearing the intersection and a pedestrian who set off in time is finishing crossing. What do you do?"
+      },
+      "options": [
+        { "nl": "U laat eerst de bestuurder het kruispunt ontruimen en laat de voetganger zijn oversteek op normale wijze voleindigen", "fr": "Vous laissez d'abord le conducteur évacuer le carrefour et vous laissez le piéton achever normalement sa traversée", "en": "You first let the driver clear the intersection and let the pedestrian finish crossing at a normal pace" },
+        { "nl": "U vertrekt onmiddellijk: het groene licht geeft u voorrang op alle andere weggebruikers", "fr": "Vous démarrez immédiatement : le feu vert vous donne la priorité sur tous les autres usagers", "en": "You set off immediately: the green light gives you priority over all other road users" },
+        { "nl": "U laat alleen de voetganger voorgaan; de bestuurder die het kruispunt nog vrijmaakt, moet u laten doorrijden", "fr": "Vous ne laissez passer que le piéton ; le conducteur qui évacue encore le carrefour doit vous laisser passer", "en": "You only let the pedestrian go first; the driver still clearing the intersection must let you through" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Groen licht betekent dat u het verkeerslicht mag voorbijrijden, maar het geeft geen voorrang op bestuurders die het kruispunt nog regelmatig ontruimen, noch op voetgangers die zich regelmatig op de oversteekplaats begeven hebben: die mogen hun oversteek op normale wijze voleindigen.",
+        "fr": "Le feu vert signifie que vous pouvez franchir le signal, mais il ne vous donne aucune priorité sur les conducteurs qui évacuent encore régulièrement le carrefour, ni sur les piétons qui se sont régulièrement engagés sur le passage : ceux-ci peuvent achever normalement leur traversée.",
+        "en": "A green light means you may pass the signal, but it gives you no priority over drivers still lawfully clearing the intersection, nor over pedestrians who lawfully stepped onto the crossing: they may finish crossing at a normal pace."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 61.1.3° en 40.4.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-036",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Aan het kruispunt brandt voor uw rijrichting alleen een groene pijl die naar links wijst. U wil rechtdoor rijden. Mag u doorrijden?",
+        "fr": "Au carrefour, seule une flèche verte orientée vers la gauche est allumée pour votre sens de circulation. Vous voulez continuer tout droit. Pouvez-vous passer ?",
+        "en": "At the intersection only a green arrow pointing left is lit for your direction. You want to go straight ahead. May you proceed?"
+      },
+      "options": [
+        { "nl": "Nee: verkeerslichten met pijlen gelden alleen voor de richting die de pijlen aanwijzen; om rechtdoor te rijden moet u wachten", "fr": "Non : les feux à flèches ne valent que pour la direction indiquée par les flèches ; pour continuer tout droit, vous devez attendre", "en": "No: arrow lights apply only to the direction the arrows indicate; to go straight ahead you must wait" },
+        { "nl": "Ja: een groene pijl heeft dezelfde betekenis als een gewoon groen licht en geldt voor alle richtingen", "fr": "Oui : une flèche verte a la même signification qu'un feu vert ordinaire et vaut pour toutes les directions", "en": "Yes: a green arrow has the same meaning as an ordinary green light and applies to all directions" },
+        { "nl": "Ja, op voorwaarde dat het kruispunt volledig vrij is", "fr": "Oui, à condition que le carrefour soit entièrement dégagé", "en": "Yes, provided the intersection is completely clear" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het rode licht, het vast oranjegeel licht en het groene licht mogen vervangen worden door pijlen van dezelfde kleur; die hebben dezelfde betekenis, maar het verbod of de toelating is beperkt tot de richtingen die de pijlen aanwijzen. Een groene pijl naar links laat dus alleen het links afslaan toe.",
+        "fr": "Le feu rouge, le feu jaune-orange fixe et le feu vert peuvent être remplacés par des flèches de la même couleur ; celles-ci ont la même signification, mais l'interdiction ou l'autorisation est limitée aux directions indiquées par les flèches. Une flèche verte vers la gauche n'autorise donc que le virage à gauche.",
+        "en": "The red light, the steady amber light and the green light may be replaced by arrows of the same colour; these have the same meaning, but the prohibition or permission is limited to the directions the arrows indicate. A green arrow to the left therefore only allows the left turn."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 61.1.4°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-037",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "U staat met de auto te wachten aan een rood licht. Naast de rijbaan springt een verkeerslicht met het verlichte silhouet van een fiets op groen. Mag u vertrekken?",
+        "fr": "Vous attendez en voiture à un feu rouge. À côté de la chaussée, un signal lumineux représentant la silhouette éclairée d'une bicyclette passe au vert. Pouvez-vous démarrer ?",
+        "en": "You are waiting in your car at a red light. Beside the carriageway, a traffic light showing the illuminated silhouette of a bicycle turns green. May you set off?"
+      },
+      "options": [
+        { "nl": "Nee: zulke lichten gelden alleen voor fietsers en bestuurders van tweewielige bromfietsen; u wacht tot uw eigen licht groen wordt", "fr": "Non : ces feux ne valent que pour les cyclistes et les conducteurs de cyclomoteurs à deux roues ; vous attendez que votre propre feu passe au vert", "en": "No: such lights apply only to cyclists and riders of two-wheeled mopeds; you wait until your own light turns green" },
+        { "nl": "Ja: het groene licht geldt voor alle bestuurders die in dezelfde richting rijden", "fr": "Oui : le feu vert vaut pour tous les conducteurs circulant dans la même direction", "en": "Yes: the green light applies to all drivers travelling in the same direction" },
+        { "nl": "Ja, maar alleen om rechts af te slaan en na voorrang te verlenen", "fr": "Oui, mais uniquement pour tourner à droite et après avoir cédé le passage", "en": "Yes, but only to turn right and after giving way" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Wanneer de lichten het verlichte silhouet van een fiets voorstellen, gelden ze alleen voor fietsers en bestuurders van tweewielige bromfietsen. Voor u blijft het gewone rode licht gelden; toch vertrekken is door het rood licht rijden, een overtreding van de derde graad.",
+        "fr": "Lorsque les feux représentent la silhouette éclairée d'une bicyclette, ils ne valent que pour les cyclistes et les conducteurs de cyclomoteurs à deux roues. Le feu rouge ordinaire reste applicable pour vous ; démarrer quand même revient à franchir le feu rouge, une infraction du troisième degré.",
+        "en": "When lights show the illuminated silhouette of a bicycle, they apply only to cyclists and riders of two-wheeled mopeds. The ordinary red light still applies to you; setting off anyway means running the red light, a third-degree offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 61.1.6°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "KB 30/09/2005 (indeling van de overtredingen per graad)", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-038",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U staat midden op het kruispunt te wachten om links af te slaan. Bij het uitrijden van het kruispunt gaat een afzonderlijk geplaatste groene pijl naar links branden. Wat betekent dit licht?",
+        "fr": "Vous attendez au milieu du carrefour pour tourner à gauche. À la sortie du carrefour, une flèche verte orientée vers la gauche, placée isolément, s'allume. Que signifie ce feu ?",
+        "en": "You are waiting in the middle of the intersection to turn left. At the exit of the intersection a separately placed green arrow pointing left lights up. What does this light mean?"
+      },
+      "options": [
+        { "nl": "Het tegenliggend verkeer wordt door een rood licht tegengehouden, zodat u het kruispunt kunt ontruimen door uw beweging naar links te voltooien", "fr": "La circulation venant en sens inverse est arrêtée par un feu rouge, afin que vous puissiez évacuer le carrefour en achevant votre mouvement vers la gauche", "en": "Oncoming traffic is being held back by a red light, so that you can clear the intersection by completing your left turn" },
+        { "nl": "Alle bestuurders op het kruispunt zijn verplicht links af te slaan", "fr": "Tous les conducteurs présents sur le carrefour sont obligés de tourner à gauche", "en": "All drivers on the intersection are obliged to turn left" },
+        { "nl": "Het tegenliggend verkeer heeft nog groen: u moet op een voldoende grote opening blijven wachten", "fr": "La circulation venant en sens inverse a encore le feu vert : vous devez continuer à attendre une ouverture suffisante", "en": "Oncoming traffic still has green: you must keep waiting for a large enough gap" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Dit is de ontruimingspijl: een naar links gerichte groene pijl, afzonderlijk geplaatst bij het uitrijden van een kruispunt, betekent dat het tegenliggend verkeer op de rijbaan die u bij het links afslaan verlaat, door een rood licht wordt tegengehouden om het ontruimen van het kruispunt te vergemakkelijken. Voltooi uw beweging aandachtig.",
+        "fr": "Il s'agit de la flèche d'évacuation : une flèche verte orientée vers la gauche, placée isolément à la sortie d'un carrefour, signifie que la circulation venant en sens inverse sur la chaussée que vous quittez en tournant à gauche est arrêtée par un feu rouge afin de faciliter l'évacuation du carrefour. Achevez votre mouvement avec attention.",
+        "en": "This is the clearance arrow: a green arrow pointing left, placed separately at the exit of an intersection, means that oncoming traffic on the carriageway you are leaving by turning left is being held by a red light to make clearing the intersection easier. Complete your move attentively."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 62", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-039",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op een kruispunt zonder verkeersborden werkt voor alle richtingen een oranjegeel knipperlicht. Wat betekent dit?",
+        "fr": "À un carrefour sans signaux routiers, un feu clignotant jaune-orange fonctionne pour toutes les directions. Que signifie-t-il ?",
+        "en": "At an intersection without road signs a flashing amber light operates for all directions. What does it mean?"
+      },
+      "options": [
+        { "nl": "U mag het licht voorbijrijden met dubbele voorzichtigheid; de voorrangsregels blijven gelden, hier dus de voorrang van rechts", "fr": "Vous pouvez franchir le feu en redoublant de prudence ; les règles de priorité restent applicables, donc ici la priorité de droite", "en": "You may pass the light with double caution; the priority rules remain in force, so here priority to the right" },
+        { "nl": "U moet stoppen zoals bij een rood licht en mag pas doorrijden wanneer het kruispunt volledig vrij is", "fr": "Vous devez vous arrêter comme à un feu rouge et ne repartir que lorsque le carrefour est entièrement dégagé", "en": "You must stop as at a red light and may only continue when the intersection is completely clear" },
+        { "nl": "Het knipperlicht heft de voorrang van rechts op: het verkeer op de breedste weg gaat voor", "fr": "Le feu clignotant supprime la priorité de droite : la circulation sur la voie la plus large passe en premier", "en": "The flashing light cancels priority to the right: traffic on the widest road goes first" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Een oranjegeel knipperlicht betekent dat u het verkeerslicht mag voorbijrijden mits dubbele voorzichtigheid; het wijzigt de voorrangsregels niet. Zonder voorrangsborden geldt hier dus gewoon de voorrang van rechts; de breedte van de weg speelt geen enkele rol.",
+        "fr": "Un feu clignotant jaune-orange signifie que vous pouvez franchir le signal en redoublant de prudence ; il ne modifie pas les règles de priorité. Sans signaux de priorité, c'est donc simplement la priorité de droite qui s'applique ici ; la largeur de la voie ne joue aucun rôle.",
+        "en": "A flashing amber light means you may pass the signal with double caution; it does not change the priority rules. Without priority signs, ordinary priority to the right therefore applies here; the width of the road plays no role at all."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 64.1 en 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-040",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Buiten de bebouwde kom kondigt een gevaarsbord een gevaarlijke plaats aan. Op welke afstand vóór die plaats staat het bord in de regel?",
+        "fr": "Hors agglomération, un signal de danger annonce un endroit dangereux. À quelle distance avant cet endroit le signal est-il placé en règle générale ?",
+        "en": "Outside a built-up area a danger warning sign announces a dangerous spot. At what distance before that spot is the sign normally placed?"
+      },
+      "options": [
+        { "nl": "Op ongeveer 50 m", "fr": "À environ 50 m", "en": "At about 50 m" },
+        { "nl": "Op ongeveer 150 m", "fr": "À environ 150 m", "en": "At about 150 m" },
+        { "nl": "Op ongeveer 300 m", "fr": "À environ 300 m", "en": "At about 300 m" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Gevaarsborden staan op ongeveer 150 m van de gevaarlijke plaats, tenzij een onderbord een andere afstand aanduidt. De Sint-Andrieskruisen (A45 en A47) vormen de uitzondering: die staan aan of in de onmiddellijke nabijheid van de overweg zelf.",
+        "fr": "Les signaux de danger sont placés à environ 150 m de l'endroit dangereux, sauf si un panneau additionnel indique une autre distance. Les croix de Saint-André (A45 et A47) font exception : elles sont placées au passage à niveau même ou à proximité immédiate.",
+        "en": "Danger warning signs are placed about 150 m before the dangerous spot, unless a supplementary panel states another distance. The St Andrew's crosses (A45 and A47) are the exception: they stand at or in the immediate vicinity of the level crossing itself."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-041",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["A43", "A45"] },
+      "text": {
+        "nl": "Beide borden houden verband met een overweg. Welke uitspraak over hun plaatsing is juist?",
+        "fr": "Les deux signaux se rapportent à un passage à niveau. Quelle affirmation sur leur emplacement est correcte ?",
+        "en": "Both signs relate to a level crossing. Which statement about their placement is correct?"
+      },
+      "options": [
+        { "nl": "Het linkse bord staat op ongeveer 150 m vóór de overweg; het rechtse staat aan of in de onmiddellijke nabijheid van de overweg zelf", "fr": "Le signal de gauche est placé à environ 150 m avant le passage à niveau ; celui de droite est placé au passage même ou à proximité immédiate", "en": "The left sign is placed about 150 m before the level crossing; the right one stands at or in the immediate vicinity of the crossing itself" },
+        { "nl": "Beide borden staan op ongeveer 150 m vóór de overweg", "fr": "Les deux signaux sont placés à environ 150 m avant le passage à niveau", "en": "Both signs are placed about 150 m before the level crossing" },
+        { "nl": "Het linkse bord staat aan de overweg zelf; het rechtse kondigt de overweg op afstand aan", "fr": "Le signal de gauche est placé au passage même ; celui de droite annonce le passage à distance", "en": "The left sign stands at the crossing itself; the right one announces the crossing at a distance" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het gevaarsbord A43 kondigt de overweg zonder slagbomen aan en staat, zoals de meeste gevaarsborden, op ongeveer 150 m vóór het gevaar. Het Sint-Andrieskruis A45 vormt de uitzondering: het staat aan of in de onmiddellijke nabijheid van de overweg zelf.",
+        "fr": "Le signal de danger A43 annonce le passage à niveau sans barrières et est placé, comme la plupart des signaux de danger, à environ 150 m avant le danger. La croix de Saint-André A45 fait exception : elle est placée au passage à niveau même ou à proximité immédiate.",
+        "en": "Danger sign A43 announces the level crossing without barriers and, like most danger signs, is placed about 150 m before the danger. The St Andrew's cross A45 is the exception: it stands at or in the immediate vicinity of the crossing itself."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 66.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-042",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["B13", "B11"] },
+      "text": {
+        "nl": "Wat is het verschil tussen deze twee borden?",
+        "fr": "Quelle est la différence entre ces deux signaux ?",
+        "en": "What is the difference between these two signs?"
+      },
+      "options": [
+        { "nl": "Het linkse bord kondigt het einde van de voorrangsweg aan op de bij benadering aangeduide afstand; het rechtse staat op de plaats waar de voorrangsweg werkelijk eindigt", "fr": "Le signal de gauche annonce la fin de la voie prioritaire à la distance indiquée approximativement ; celui de droite est placé à l'endroit où la voie prioritaire prend réellement fin", "en": "The left sign announces the end of the priority road at the approximate distance indicated; the right one stands where the priority road actually ends" },
+        { "nl": "Ze betekenen hetzelfde en staan allebei op de plaats waar de voorrangsweg eindigt", "fr": "Ils signifient la même chose et sont tous deux placés à l'endroit où la voie prioritaire prend fin", "en": "They mean the same thing and both stand where the priority road ends" },
+        { "nl": "Het rechtse bord kondigt het einde op afstand aan; het linkse staat op de plaats zelf", "fr": "Le signal de droite annonce la fin à distance ; celui de gauche est placé sur place", "en": "The right sign announces the end at a distance; the left one stands at the spot" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord B13 kondigt het bord B11 aan op de bij benadering aangeduide afstand; het bord B11 duidt zelf het einde van de voorrangsweg aan. Voorbij B11 geldt op kruispunten zonder voorrangsregeling opnieuw de voorrang van rechts.",
+        "fr": "Le signal B13 annonce le signal B11 à la distance indiquée approximativement ; le signal B11 indique lui-même la fin de la voie prioritaire. Au-delà de B11, la priorité de droite s'applique de nouveau aux carrefours non réglés.",
+        "en": "Sign B13 announces sign B11 at the approximate distance indicated; sign B11 itself marks the end of the priority road. Beyond B11, priority to the right applies again at uncontrolled intersections."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersborden B11 en B13)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "signs-danger-priority-043",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "B13" },
+      "text": {
+        "nl": "U rijdt op een voorrangsweg en passeert dit bord. Even verder, maar nog vóór het bord dat het einde van de voorrangsweg zelf aanduidt, ligt een kruispunt. Heeft u daar nog voorrang?",
+        "fr": "Vous circulez sur une voie prioritaire et passez devant ce signal. Un peu plus loin, mais encore avant le signal qui indique la fin même de la voie prioritaire, se trouve un carrefour. Y avez-vous encore la priorité ?",
+        "en": "You are driving on a priority road and pass this sign. A little further on, but still before the sign that marks the actual end of the priority road, there is an intersection. Do you still have priority there?"
+      },
+      "options": [
+        { "nl": "Ja: dit bord kondigt het einde alleen maar aan; de voorrangsweg eindigt pas aan het bord dat het einde zelf aanduidt", "fr": "Oui : ce signal ne fait qu'annoncer la fin ; la voie prioritaire ne prend fin qu'au signal qui en indique la fin même", "en": "Yes: this sign only announces the end; the priority road ends only at the sign that marks the end itself" },
+        { "nl": "Nee: vanaf dit bord geldt op elk kruispunt opnieuw de voorrang van rechts", "fr": "Non : à partir de ce signal, la priorité de droite s'applique de nouveau à chaque carrefour", "en": "No: from this sign onward, priority to the right applies again at every intersection" },
+        { "nl": "Nee: u moet er stoppen en voorrang verlenen aan het verkeer uit beide richtingen", "fr": "Non : vous devez vous y arrêter et céder le passage à la circulation venant des deux sens", "en": "No: you must stop there and give way to traffic from both directions" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord B13 kondigt het einde van de voorrangsweg alleen aan. Tot aan het bord B11 blijft u op een voorrangsweg en behoudt u voorrang op de kruispunten; gebruik de aankondiging om u erop voor te bereiden dat u daarna opnieuw voorrang van rechts moet verlenen.",
+        "fr": "Le signal B13 ne fait qu'annoncer la fin de la voie prioritaire. Jusqu'au signal B11, vous restez sur une voie prioritaire et conservez la priorité aux carrefours ; profitez de cette annonce pour vous préparer à céder de nouveau la priorité de droite ensuite.",
+        "en": "Sign B13 only announces the end of the priority road. Until sign B11 you remain on a priority road and keep priority at the intersections; use the announcement to prepare for giving way to the right again afterwards."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (verkeersborden B11 en B13)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
     }
   ]
 }

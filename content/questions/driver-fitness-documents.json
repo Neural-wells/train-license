@@ -912,6 +912,290 @@
       "citations": [
         { "source": "VSV — Ik wil een rijbewijs: het theorie-examen rijbewijs B", "url": "https://ikwileenrijbewijs.be/theorie/je-rijbewijs-b/theorie-examen" }
       ]
+    },
+    {
+      "id": "driver-fitness-documents-037",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Een bestuurder draagt zijn veiligheidsgordel niet. Van welke graad is die overtreding en hoeveel bedraagt de onmiddellijke inning sinds 1 juli 2026?",
+        "fr": "Un conducteur ne porte pas sa ceinture de sécurité. De quel degré cette infraction relève-t-elle et quel est le montant de la perception immédiate depuis le 1er juillet 2026 ?",
+        "en": "A driver is not wearing his seat belt. Which degree of offence is that, and how much is the on-the-spot fine since 1 July 2026?"
+      },
+      "options": [
+        { "nl": "Eerste graad — 64 euro", "fr": "Premier degré — 64 euros", "en": "First degree — 64 euros" },
+        { "nl": "Tweede graad — 128 euro", "fr": "Deuxième degré — 128 euros", "en": "Second degree — 128 euros" },
+        { "nl": "Derde graad — 191 euro", "fr": "Troisième degré — 191 euros", "en": "Third degree — 191 euros" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "De gordel niet dragen brengt onrechtstreeks gevaar mee voor de veiligheid en is daarom een overtreding van de tweede graad: sinds 1 juli 2026 bedraagt de onmiddellijke inning 128 euro. De eerste graad (64 euro) geldt voor lichte overtredingen, de derde graad (191 euro) voor rechtstreeks gevaar zoals een rood licht negeren.",
+        "fr": "Ne pas porter la ceinture crée un danger indirect pour la sécurité et constitue donc une infraction du deuxième degré : depuis le 1er juillet 2026, la perception immédiate s'élève à 128 euros. Le premier degré (64 euros) vise les infractions légères, le troisième degré (191 euros) le danger direct comme franchir un feu rouge.",
+        "en": "Not wearing the seat belt creates indirect danger and is therefore a second-degree offence: since 1 July 2026 the on-the-spot fine is 128 euros. The first degree (64 euros) covers minor offences, the third degree (191 euros) direct danger such as running a red light."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 29", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 35.1", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "Lokale Politie Gent — Wijzigingen verkeerswetgeving vanaf 1 juli 2026", "url": "https://www.politie.be/5415/nieuws/wijzigingen-verkeerswetgeving-vanaf-1-juli-2026" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-038",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Een bestuurder rijdt op de autosnelweg tegen de rijrichting in. Van welke graad is die overtreding en wat riskeert hij?",
+        "fr": "Un conducteur roule à contresens sur l'autoroute. De quel degré cette infraction relève-t-elle et que risque-t-il ?",
+        "en": "A driver drives against the direction of traffic on the motorway. Which degree of offence is that, and what does he risk?"
+      },
+      "options": [
+        { "nl": "Tweede graad — 128 euro onmiddellijke inning", "fr": "Deuxième degré — 128 euros de perception immédiate", "en": "Second degree — a 128-euro on-the-spot fine" },
+        { "nl": "Derde graad — 191 euro onmiddellijke inning", "fr": "Troisième degré — 191 euros de perception immédiate", "en": "Third degree — a 191-euro on-the-spot fine" },
+        { "nl": "Vierde graad — 520 euro; in principe dagvaarding voor de politierechtbank en mogelijk een rijverbod", "fr": "Quatrième degré — 520 euros ; en principe citation devant le tribunal de police et déchéance du droit de conduire possible", "en": "Fourth degree — 520 euros; in principle a summons before the police court and a possible driving ban" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Spookrijden leidt bijna onvermijdelijk tot ongevallen en is daarom een overtreding van de vierde graad: het bedrag is 520 euro, maar in principe volgt dagvaarding voor de politierechtbank, met mogelijk verval van het recht tot sturen. Op het examen is dit een zware vraag die 5 punten kost.",
+        "fr": "Rouler à contresens mène presque inévitablement à l'accident et constitue donc une infraction du quatrième degré : le montant est de 520 euros, mais en principe une citation devant le tribunal de police suit, avec une déchéance du droit de conduire possible. À l'examen, c'est une question grave qui coûte 5 points.",
+        "en": "Driving against the traffic almost inevitably leads to crashes and is therefore a fourth-degree offence: the amount is 520 euros, but in principle a summons before the police court follows, with a possible disqualification from driving. On the exam this is a severe question costing 5 points."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 29", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" },
+        { "source": "Lokale Politie Gent — Wijzigingen verkeerswetgeving vanaf 1 juli 2026", "url": "https://www.politie.be/5415/nieuws/wijzigingen-verkeerswetgeving-vanaf-1-juli-2026" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-039",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Welke uitrusting moet verplicht aan boord zijn van een in België ingeschreven personenwagen?",
+        "fr": "Quel équipement doit obligatoirement se trouver à bord d'une voiture immatriculée en Belgique ?",
+        "en": "Which equipment must be carried on board a car registered in Belgium?"
+      },
+      "options": [
+        { "nl": "Enkel een gevarendriehoek", "fr": "Uniquement un triangle de danger", "en": "Only a warning triangle" },
+        { "nl": "Een gevarendriehoek, een verbanddoos, een brandblusser en een veiligheidsvest", "fr": "Un triangle de danger, une boîte de secours, un extincteur et un gilet de sécurité", "en": "A warning triangle, a first-aid kit, a fire extinguisher and a safety vest" },
+        { "nl": "Een gevarendriehoek, reservelampen en een sleepkabel", "fr": "Un triangle de danger, des ampoules de rechange et un câble de remorquage", "en": "A warning triangle, spare bulbs and a tow rope" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Elke in België ingeschreven auto moet een gevarendriehoek, een verbanddoos en een brandblusser aan boord hebben; daarnaast hoort er een retroreflecterende veiligheidsvest in het voertuig, die je op autosnelwegen en autowegen moet dragen zodra je uitstapt waar stilstaan of parkeren verboden is (art. 51 Wegcode). Bewaar de vest binnen handbereik in de passagiersruimte, niet in de koffer. Reservelampen en een sleepkabel zijn nuttig maar niet verplicht.",
+        "fr": "Toute voiture immatriculée en Belgique doit avoir à bord un triangle de danger, une boîte de secours et un extincteur ; s'y ajoute un gilet de sécurité rétroréfléchissant, à porter sur autoroute et route pour automobiles dès que vous sortez du véhicule là où l'arrêt et le stationnement sont interdits (art. 51 du code de la route). Gardez le gilet à portée de main dans l'habitacle, pas dans le coffre. Les ampoules de rechange et le câble de remorquage sont utiles mais pas obligatoires.",
+        "en": "Every car registered in Belgium must carry a warning triangle, a first-aid kit and a fire extinguisher; in addition a retro-reflective safety vest belongs in the vehicle, to be worn on motorways and motor roads as soon as you get out where stopping or parking is forbidden (Art. 51 of the traffic code). Keep the vest within reach in the cabin, not in the boot. Spare bulbs and a tow rope are useful but not compulsory."
+      },
+      "citations": [
+        { "source": "Federale Politie — Verkeersveiligheid: verplichte accessoires", "url": "https://www.politie.be/5998/nl/nieuws/verkeersveiligheid-verplichte-accessoires" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 51", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-040",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je vervoert uitzonderlijk, over een korte afstand, je eigen dochter van 6 jaar (115 cm). Er is geen kinderzitje beschikbaar. Mag ze achterin gewoon met de gordel mee?",
+        "fr": "Vous transportez exceptionnellement, sur une courte distance, votre propre fille de 6 ans (115 cm). Aucun dispositif de retenue n'est disponible. Peut-elle voyager à l'arrière simplement avec la ceinture ?",
+        "en": "You are exceptionally carrying your own 6-year-old daughter (115 cm) over a short distance. No child seat is available. May she ride in the back with just the seat belt?"
+      },
+      "options": [
+        { "nl": "Ja, incidenteel vervoer over korte afstand mag altijd met enkel de gordel", "fr": "Oui, un transport occasionnel sur une courte distance est toujours permis avec la seule ceinture", "en": "Yes, occasional transport over a short distance is always allowed with just the belt" },
+        { "nl": "Neen, de uitzondering voor incidenteel vervoer geldt niet voor kinderen van wie een ouder het voertuig bestuurt", "fr": "Non, l'exception pour le transport occasionnel ne vaut pas pour les enfants dont un parent conduit le véhicule", "en": "No, the exception for occasional transport does not apply to children whose parent is driving the vehicle" },
+        { "nl": "Ja, want achterin is een kinderzitje nooit verplicht", "fr": "Oui, car à l'arrière un siège enfant n'est jamais obligatoire", "en": "Yes, because in the back a child seat is never compulsory" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Kinderen jonger dan 18 jaar en kleiner dan 135 cm horen in een aangepast kinderbeveiligingssysteem (art. 35.1). De uitzondering voor incidenteel vervoer over korte afstand geldt enkel achterin, voor kinderen vanaf 3 jaar met de gordel, en uitdrukkelijk níet wanneer een ouder van het kind het voertuig bestuurt. Kinderen jonger dan 3 jaar mogen bovendien nooit zonder kinderbeveiligingssysteem mee.",
+        "fr": "Les enfants de moins de 18 ans mesurant moins de 135 cm doivent voyager dans un dispositif de retenue adapté (art. 35.1). L'exception pour le transport occasionnel sur une courte distance ne vaut qu'à l'arrière, pour des enfants d'au moins 3 ans portant la ceinture, et expressément pas lorsqu'un parent de l'enfant conduit le véhicule. Les enfants de moins de 3 ans ne peuvent en outre jamais voyager sans dispositif de retenue.",
+        "en": "Children under 18 and shorter than 135 cm must travel in a suitable child restraint system (Art. 35.1). The exception for occasional transport over a short distance applies only in the back, for children aged 3 or over wearing the belt, and expressly not when a parent of the child is driving the vehicle. Children under 3 may moreover never travel without a child restraint."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 35.1.1", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "Wegcode.be — Hoe moet ik mijn kind vervoeren?", "url": "https://www.wegcode.be/nl/verkeersreglement/uitleg-bij-het-verkeersreglement/hoe-moet-ik-mijn-kind-vervoeren" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-041",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Hoe snel breekt het lichaam alcohol gemiddeld af, en kan je dat versnellen?",
+        "fr": "À quelle vitesse le corps élimine-t-il l'alcool en moyenne, et pouvez-vous accélérer ce processus ?",
+        "en": "How fast does the body break down alcohol on average, and can you speed that up?"
+      },
+      "options": [
+        { "nl": "Ongeveer 0,15 promille per uur; koffie, frisse lucht of een dutje veranderen daar niets aan", "fr": "Environ 0,15 pour mille par heure ; le café, l'air frais ou une sieste n'y changent rien", "en": "About 0.15 per mille per hour; coffee, fresh air or a nap change nothing about that" },
+        { "nl": "Ongeveer 0,5 promille per uur, en met sterke koffie gaat het nog sneller", "fr": "Environ 0,5 pour mille par heure, et plus vite encore avec un café fort", "en": "About 0.5 per mille per hour, and even faster with strong coffee" },
+        { "nl": "Ongeveer 0,15 promille per uur, maar een korte slaap halveert de wachttijd", "fr": "Environ 0,15 pour mille par heure, mais une courte sieste réduit l'attente de moitié", "en": "About 0.15 per mille per hour, but a short sleep halves the waiting time" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het lichaam breekt alcohol traag af, ongeveer 0,15 promille per uur, en niets versnelt dat: koffie, frisse lucht of een dutje maken je hoogstens wakkerder, niet nuchterder. Eén standaardglas verhoogt het gehalte bovendien al met ongeveer 0,15 à 0,25 promille, zodat de meeste mensen na twee glazen aan de limiet zitten.",
+        "fr": "Le corps élimine l'alcool lentement, environ 0,15 pour mille par heure, et rien n'accélère ce processus : le café, l'air frais ou une sieste vous rendent tout au plus plus éveillé, pas plus sobre. Un verre standard augmente en outre déjà l'alcoolémie d'environ 0,15 à 0,25 pour mille, si bien que la plupart des gens atteignent la limite après deux verres.",
+        "en": "The body breaks alcohol down slowly, about 0.15 per mille per hour, and nothing speeds this up: coffee, fresh air or a nap make you at most more awake, not more sober. One standard drink moreover already raises the level by about 0.15 to 0.25 per mille, so most people reach the limit after two drinks."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 34", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" },
+        { "source": "VSV — Rijden onder invloed van alcohol", "url": "https://www.veiligverkeer.be/veilig-rijden/rijden-onder-invloed/alcohol-limiet-hoeveel-promille-drinken-alcoholcontrole-boete-straffen" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-042",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Wat verandert er voor een bestuurder zodra zijn alcoholgehalte 0,8 promille of meer bedraagt, in vergelijking met een gehalte tussen 0,5 en 0,8 promille?",
+        "fr": "Qu'est-ce qui change pour un conducteur dès que son alcoolémie atteint 0,8 pour mille ou plus, par rapport à un taux entre 0,5 et 0,8 pour mille ?",
+        "en": "What changes for a driver once his alcohol level reaches 0.8 per mille or more, compared with a level between 0.5 and 0.8 per mille?"
+      },
+      "options": [
+        { "nl": "Niets wezenlijks; alleen het bedrag van de onmiddellijke inning stijgt licht", "fr": "Rien d'essentiel ; seul le montant de la perception immédiate augmente légèrement", "en": "Nothing essential; only the amount of the on-the-spot fine rises slightly" },
+        { "nl": "Een onmiddellijke inning is niet meer mogelijk: hij riskeert dagvaarding, hogere geldboetes en een verval van het recht tot sturen", "fr": "Une perception immédiate n'est plus possible : il risque une citation, des amendes plus élevées et une déchéance du droit de conduire", "en": "An on-the-spot settlement is no longer possible: he risks a summons, higher fines and disqualification from driving" },
+        { "nl": "Hij betaalt 197 euro ter plaatse en mag daarna meteen verder rijden", "fr": "Il paie 197 euros sur place et peut ensuite reprendre la route immédiatement", "en": "He pays 197 euros on the spot and may then drive on immediately" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Tussen 0,5 en 0,8 promille is een onmiddellijke inning van 197 euro mogelijk; vanaf 0,8 promille niet meer: dan dreigen dagvaarding, geldboetes die tot duizenden euro's kunnen oplopen, verval van het recht tot sturen en eventueel een alcoholslot. In beide gevallen geldt sinds 1 juli 2026 bovendien een rijverbod van 12 uur.",
+        "fr": "Entre 0,5 et 0,8 pour mille, une perception immédiate de 197 euros est possible ; à partir de 0,8 pour mille, elle ne l'est plus : vous risquez alors une citation, des amendes pouvant atteindre plusieurs milliers d'euros, une déchéance du droit de conduire et éventuellement un éthylotest antidémarrage. Dans les deux cas, une interdiction de conduire de 12 heures s'applique en outre depuis le 1er juillet 2026.",
+        "en": "Between 0.5 and 0.8 per mille an on-the-spot fine of 197 euros is possible; from 0.8 per mille it no longer is: you then face a summons, fines that can run to thousands of euros, disqualification from driving and possibly an alcohol interlock. In both cases a 12-hour driving ban also applies since 1 July 2026."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 34-38", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" },
+        { "source": "VSV — Rijden onder invloed: boetes en straffen", "url": "https://www.veiligverkeer.be/veilig-rijden/rijden-onder-invloed/alcohol-limiet-hoeveel-promille-drinken-alcoholcontrole-boete-straffen" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-043",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Een taxichauffeur rijdt zonder veiligheidsgordel. Wanneer is dat wettelijk toegelaten?",
+        "fr": "Un conducteur de taxi roule sans ceinture de sécurité. Quand est-ce légalement permis ?",
+        "en": "A taxi driver is driving without a seat belt. When is that legally allowed?"
+      },
+      "options": [
+        { "nl": "Nooit; de gordel geldt voor iedereen zonder uitzondering", "fr": "Jamais ; la ceinture s'impose à tous sans exception", "en": "Never; the belt applies to everyone without exception" },
+        { "nl": "Altijd; taxichauffeurs zijn volledig vrijgesteld", "fr": "Toujours ; les conducteurs de taxi sont totalement exemptés", "en": "Always; taxi drivers are fully exempt" },
+        { "nl": "Enkel terwijl hij een klant vervoert; rijdt hij zonder klant, dan moet hij de gordel dragen", "fr": "Uniquement lorsqu'il transporte un client ; sans client, il doit porter la ceinture", "en": "Only while carrying a passenger; when driving without a passenger he must wear the belt" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Artikel 35.2.1 stelt taxibestuurders enkel vrij van de gordelplicht wanneer ze een klant vervoeren. Zonder klant geldt de gewone gordelplicht. Andere vrijstellingen zijn onder meer achteruitrijden en een medische vrijstelling op basis van een attest.",
+        "fr": "L'article 35.2.1 n'exempte les conducteurs de taxi du port de la ceinture que lorsqu'ils transportent un client. Sans client, l'obligation ordinaire s'applique. Les autres exemptions comprennent notamment la marche arrière et la dérogation médicale fondée sur un certificat.",
+        "en": "Article 35.2.1 exempts taxi drivers from the seat-belt obligation only while they are carrying a passenger. Without a passenger the normal obligation applies. Other exemptions include reversing and a medical exemption based on a certificate."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 35.2.1", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-044",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Hoe breed en hoe hoog mag een personenwagen, lading inbegrepen, in de regel maximaal zijn?",
+        "fr": "Quelles sont, en règle générale, la largeur et la hauteur maximales d'une voiture, chargement compris ?",
+        "en": "As a rule, how wide and how high may a car be at most, load included?"
+      },
+      "options": [
+        { "nl": "2,50 m breed en 3,50 m hoog", "fr": "2,50 m de large et 3,50 m de haut", "en": "2.50 m wide and 3.50 m high" },
+        { "nl": "2,55 m breed en 4 m hoog", "fr": "2,55 m de large et 4 m de haut", "en": "2.55 m wide and 4 m high" },
+        { "nl": "3 m breed en 4,25 m hoog", "fr": "3 m de large et 4,25 m de haut", "en": "3 m wide and 4.25 m high" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Voertuig plus lading mogen in de regel maximaal 2,55 m breed en 4 m hoog zijn (art. 45-46 Wegcode). De lading moet bovendien stevig vastgemaakt zijn, mag niet slepen en mag de verlichting, de reflectoren en de nummerplaat niet bedekken.",
+        "fr": "Le véhicule chargé ne peut en règle générale dépasser 2,55 m de large et 4 m de haut (art. 45-46 du code de la route). Le chargement doit en outre être solidement arrimé, ne peut pas traîner et ne peut masquer ni les feux, ni les catadioptres, ni la plaque d'immatriculation.",
+        "en": "Vehicle plus load may as a rule be at most 2.55 m wide and 4 m high (Art. 45-46 of the traffic code). The load must moreover be firmly secured, may not drag and may not cover the lights, reflectors or number plate."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 45-46", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-045",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je auto heeft een MTM van 2.900 kg, je aanhangwagen een MTM van 1.100 kg. De aanhangwagen is vandaag leeg. Wat heb je nodig om dit gespan te trekken?",
+        "fr": "Votre voiture a une MMA de 2 900 kg, votre remorque une MMA de 1 100 kg. La remorque est vide aujourd'hui. De quoi avez-vous besoin pour tracter cet ensemble ?",
+        "en": "Your car has a MAM of 2,900 kg, your trailer a MAM of 1,100 kg. The trailer is empty today. What do you need to tow this combination?"
+      },
+      "options": [
+        { "nl": "Niets extra: leeg weegt het geheel minder dan 3.500 kg", "fr": "Rien de plus : à vide, l'ensemble pèse moins de 3 500 kg", "en": "Nothing extra: empty, the combination weighs less than 3,500 kg" },
+        { "nl": "De code 96 op je rijbewijs, want de som van de MTM's ligt tussen 3.500 en 4.250 kg — ook met een lege aanhangwagen", "fr": "Le code 96 sur votre permis, car la somme des MMA se situe entre 3 500 et 4 250 kg — même avec une remorque vide", "en": "Code 96 on your licence, because the sum of the MAMs is between 3,500 and 4,250 kg — even with an empty trailer" },
+        { "nl": "Altijd een rijbewijs van de categorie voor zware aanhangwagens, welke massa het gespan ook heeft", "fr": "Toujours un permis de la catégorie pour remorques lourdes, quelle que soit la masse de l'ensemble", "en": "Always a licence of the heavy-trailer category, whatever the mass of the combination" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Niet de werkelijke massa maar de maximale toegelaten massa (MTM) telt: 2.900 + 1.100 = 4.000 kg. Dat ligt tussen 3.500 en 4.250 kg, dus je hebt de code 96 (B96) nodig, ook al is de aanhangwagen leeg. Pas boven 4.250 kg (of met een zwaardere aanhangwagen) is het rijbewijs BE vereist.",
+        "fr": "Ce n'est pas la masse réelle mais la masse maximale autorisée (MMA) qui compte : 2 900 + 1 100 = 4 000 kg. Cela se situe entre 3 500 et 4 250 kg, donc il vous faut le code 96 (B96), même si la remorque est vide. Ce n'est qu'au-delà de 4 250 kg (ou avec une remorque plus lourde) que le permis BE est requis.",
+        "en": "Not the actual weight but the maximum authorised mass (MAM) counts: 2,900 + 1,100 = 4,000 kg. That is between 3,500 and 4,250 kg, so you need code 96 (B96), even though the trailer is empty. Only above 4,250 kg (or with a heavier trailer) is licence BE required."
+      },
+      "citations": [
+        { "source": "GOCA Vlaanderen — Auto met aanhangwagen (categorie BE en code 96)", "url": "https://www.gocavlaanderen.be/detail-page/categorie-be-b96" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-046",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je rijdt met een voorlopig rijbewijs zonder begeleider. Twee vrienden van 19 jaar, die pas hun rijbewijs hebben, vragen om mee te rijden. Mag dat?",
+        "fr": "Vous conduisez avec un permis provisoire sans guide. Deux amis de 19 ans, qui viennent d'obtenir leur permis, demandent à monter avec vous. Est-ce permis ?",
+        "en": "You are driving on a provisional licence without a guide. Two 19-year-old friends who have just obtained their licences ask to ride along. Is that allowed?"
+      },
+      "options": [
+        { "nl": "Ja, je mag altijd maximaal twee passagiers meenemen", "fr": "Oui, vous pouvez toujours prendre deux passagers au maximum", "en": "Yes, you may always take up to two passengers" },
+        { "nl": "Neen: je mag hoogstens twee passagiers meenemen en die moeten zelf al minstens acht jaar een rijbewijs B hebben", "fr": "Non : vous pouvez prendre au maximum deux passagers, qui doivent eux-mêmes être titulaires d'un permis B depuis au moins huit ans", "en": "No: you may take at most two passengers, and they must themselves have held a category B licence for at least eight years" },
+        { "nl": "Ja, zolang zij achterin plaatsnemen", "fr": "Oui, pour autant qu'ils s'installent à l'arrière", "en": "Yes, as long as they sit in the back" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Met het voorlopig rijbewijs zonder begeleider (model 18 maanden) mag je hoogstens twee passagiers meenemen, en die moeten voldoen aan de voorwaarden voor begeleider — onder meer al minstens acht jaar houder zijn van een Belgisch of Europees rijbewijs B. Onthoud ook: met een voorlopig rijbewijs mag je enkel in België rijden, en je geslaagd theorie-examen blijft drie jaar geldig.",
+        "fr": "Avec le permis provisoire sans guide (modèle 18 mois), vous pouvez emmener au maximum deux passagers, qui doivent remplir les conditions imposées au guide — notamment être titulaires depuis au moins huit ans d'un permis B belge ou européen. Retenez aussi : avec un permis provisoire, vous ne pouvez conduire qu'en Belgique, et votre examen théorique réussi reste valable trois ans.",
+        "en": "With the provisional licence without a guide (18-month model) you may take at most two passengers, and they must meet the conditions set for a guide — including having held a Belgian or European category B licence for at least eight years. Also remember: with a provisional licence you may only drive in Belgium, and your passed theory exam remains valid for three years."
+      },
+      "citations": [
+        { "source": "FOD Mobiliteit en Vervoer — Voorlopige rijbewijzen auto (categorie B)", "url": "https://mobilit.belgium.be/nl/node/1096" },
+        { "source": "KB 10/07/2006 betreffende het rijbewijs voor voertuigen van categorie B", "url": "https://www.ejustice.just.fgov.be/eli/besluit/2006/07/10/2006014162/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-047",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Een houder van een voorlopig rijbewijs begaat een zware verkeersovertreding. Wat geldt voor hem sinds 1 juli 2026?",
+        "fr": "Un titulaire d'un permis de conduire provisoire commet une infraction routière grave. Que prévoit la loi pour lui depuis le 1er juillet 2026 ?",
+        "en": "A holder of a provisional driving licence commits a serious traffic offence. What applies to him since 1 July 2026?"
+      },
+      "options": [
+        { "nl": "Hij valt onder het strengere regime voor beginnende bestuurders: de rechter moet het verval uitspreken en hij moet eerst opnieuw slagen voor examens", "fr": "Il relève du régime renforcé des conducteurs novices : le juge doit prononcer la déchéance et il doit d'abord réussir à nouveau des examens", "en": "He falls under the stricter novice-driver regime: the judge must impose a disqualification and he must first pass exams again" },
+        { "nl": "Er verandert niets zolang hij nog geen definitief rijbewijs heeft", "fr": "Rien ne change tant qu'il n'a pas encore de permis définitif", "en": "Nothing changes as long as he does not yet hold a full licence" },
+        { "nl": "Hij krijgt enkel een waarschuwing, omdat hij nog aan het leren is", "fr": "Il ne reçoit qu'un avertissement, puisqu'il est encore en apprentissage", "en": "He only receives a warning, because he is still learning" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Sinds 1 juli 2026 vallen houders van een voorlopig rijbewijs uitdrukkelijk onder het strengere regime voor beginnende bestuurders: bij bepaalde zware overtredingen moet de rechter het verval van het recht tot sturen uitspreken en moet je eerst opnieuw slagen voor het theorie- of praktijkexamen. Een zware fout tijdens de oefenperiode kan je dus meteen je examens kosten.",
+        "fr": "Depuis le 1er juillet 2026, les titulaires d'un permis provisoire relèvent expressément du régime renforcé des conducteurs novices : pour certaines infractions graves, le juge doit prononcer la déchéance du droit de conduire et vous devez d'abord réussir à nouveau l'examen théorique ou pratique. Une faute grave pendant la période d'apprentissage peut donc vous coûter directement vos examens.",
+        "en": "Since 1 July 2026, provisional licence holders fall explicitly under the stricter novice-driver regime: for certain serious offences the judge must impose a disqualification from driving and you must first pass the theory or practical exam again. A serious offence during the practice period can therefore cost you your exams outright."
+      },
+      "citations": [
+        { "source": "Wegverkeerswet (wet 16/03/1968), Art. 38", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" },
+        { "source": "GOCA Vlaanderen — Wijziging van de wet betreffende de politie over het wegverkeer (01/07/2026)", "url": "https://www.gocavlaanderen.be/news-item/wijziging-van-de-wet-betreffende-de-politie-over-het-wegverkeer" }
+      ]
     }
   ]
 }

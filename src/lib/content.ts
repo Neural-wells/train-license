@@ -118,24 +118,31 @@ export async function getSignManifest(): Promise<SignManifestEntry[]> {
   return (await loadJson<SignManifestEntry[]>("signs/manifest.json")) ?? [];
 }
 
-/** Deterministic-ish exam draw: 50 questions spread across categories. */
+/**
+ * Exam draw matching the real GOCA format: exactly 5 severe questions (worth 5
+ * points each when wrong) + 45 standard questions spread across categories.
+ */
 export async function drawExam(region: Region): Promise<Question[]> {
   const pool = await getQuestionsFor("all", region);
+  const severePick = shuffle(pool.filter((q) => q.severity === "severe")).slice(0, 5);
+
+  const standardPool = pool.filter((q) => q.severity !== "severe");
   const byCat = new Map<string, Question[]>();
-  for (const q of pool) {
+  for (const q of standardPool) {
     const list = byCat.get(q.category) ?? [];
     list.push(q);
     byCat.set(q.category, list);
   }
   const cats = [...byCat.keys()];
-  const perCat = Math.floor(50 / cats.length);
+  const target = 50 - severePick.length;
+  const perCat = Math.floor(target / Math.max(1, cats.length));
   const picked: Question[] = [];
   for (const cat of cats) {
     picked.push(...shuffle(byCat.get(cat)!).slice(0, perCat));
   }
-  const remaining = shuffle(pool.filter((q) => !picked.includes(q)));
-  picked.push(...remaining.slice(0, 50 - picked.length));
-  return shuffle(picked).slice(0, 50);
+  const remaining = shuffle(standardPool.filter((q) => !picked.includes(q)));
+  picked.push(...remaining.slice(0, target - picked.length));
+  return shuffle([...picked.slice(0, target), ...severePick]);
 }
 
 function shuffle<T>(arr: T[]): T[] {

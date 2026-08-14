@@ -4,6 +4,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import type { Locale, Question, Region } from "@/lib/types";
 import { t } from "@/lib/i18n";
 import { Feedback, OptionButton, QuestionImageView, postAnswers, recordLocalAnswer } from "./QuestionCard";
+import QuestionBadges from "./QuestionBadges";
 
 const SECONDS_PER_QUESTION = 15;
 const PASS_SCORE = 41;
@@ -84,6 +85,9 @@ export default function ExamPlayer({
           <h2 className="text-xl font-bold">{t("reviewMistakes", locale)}</h2>
           {wrong.map(({ q, given }) => (
             <div key={q.id} className="border-b border-neutral-200 dark:border-neutral-800 pb-6">
+              <div className="mb-2">
+                <QuestionBadges q={q} locale={locale} />
+              </div>
               <QuestionImageView q={q} locale={locale} />
               <p className="font-semibold mb-2">{q.text[locale]}</p>
               <Feedback q={q} locale={locale} chosen={given ?? -1} />
