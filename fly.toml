@@ -8,7 +8,7 @@ primary_region = "ams"
 [env]
   DB_PATH = "/data/train.db"
   APP_URL = "https://train-license.fly.dev"
-  # CONTENT_BASE_URL = "https://<bucket>.fly.storage.tigris.dev"  # set after `fly storage create`
+  # CONTENT_BASE_URL is set as a secret: https://<bucket>.fly.storage.tigris.dev/content
 
 [mounts]
   source = "tl_data"

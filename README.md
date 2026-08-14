@@ -57,8 +57,11 @@ Sync content to Tigris and point the app at it (optional; the image bundles cont
 
 ```bash
 AWS_ACCESS_KEY_ID=... AWS_SECRET_ACCESS_KEY=... BUCKET_NAME=... npm run sync-tigris
-fly secrets set CONTENT_BASE_URL=https://<bucket>.fly.storage.tigris.dev
+fly storage update <bucket> --public
+fly secrets set CONTENT_BASE_URL=https://<bucket>.fly.storage.tigris.dev/content
 ```
+
+The app picks up re-synced content within ~5 minutes (in-memory cache TTL) — no redeploy needed.
 
 ## Scoring model (matches the real exam)
 
