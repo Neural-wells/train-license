@@ -968,6 +968,367 @@
       "citations": [
         { "source": "Wegcode (KB 01/12/1975), Art. 51.1 en 20", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
       ]
+    },
+    {
+      "id": "motorways-special-027",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U rijdt met een voertuig met aanhangwagen (maximale toegelaten massa van de sleep: 4 ton) op een autosnelweg met drie rijstroken in uw rijrichting. Welke rijstroken mag u gebruiken?",
+        "fr": "Vous roulez avec un véhicule et une remorque (masse maximale autorisée du train : 4 tonnes) sur une autoroute à trois bandes de circulation dans votre sens. Quelles bandes pouvez-vous utiliser ?",
+        "en": "You are driving a vehicle with a trailer (maximum authorised mass of the combination: 4 tonnes) on a motorway with three traffic lanes in your direction. Which lanes may you use?"
+      },
+      "options": [
+        {
+          "nl": "Alle rijstroken, zolang ik na het inhalen naar rechts terugkeer.",
+          "fr": "Toutes les bandes, pourvu que je revienne à droite après le dépassement.",
+          "en": "All lanes, as long as I return to the right after overtaking."
+        },
+        {
+          "nl": "Alleen de twee rijstroken die het dichtst bij de rechterrand liggen, behalve om de pijlborden boven de rijbaan op te volgen.",
+          "fr": "Uniquement les deux bandes les plus proches du bord droit, sauf pour suivre les panneaux à flèches placés au-dessus de la chaussée.",
+          "en": "Only the two lanes closest to the right edge, except to follow the arrow signs above the carriageway."
+        },
+        {
+          "nl": "Alleen de rechterrijstrook.",
+          "fr": "Uniquement la bande de droite.",
+          "en": "Only the right-hand lane."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Op autosnelwegen met drie of meer rijstroken in de gevolgde rijrichting mogen autobussen, autocars en andere voertuigen en slepen van meer dan 3,5 ton MTM alleen op de twee rechts gelegen rijstroken rijden, behalve om de aanwijzingen van de borden F13 en F15 op te volgen. Ook een lichte sleep van 4 ton valt onder die regel.",
+        "fr": "Sur les autoroutes à trois bandes ou plus dans le sens suivi, les autobus, les autocars et les autres véhicules et trains de plus de 3,5 tonnes de MMA ne peuvent circuler que sur les deux bandes situées à droite, sauf pour suivre les indications des signaux F13 et F15. Un train léger de 4 tonnes tombe aussi sous cette règle.",
+        "en": "On motorways with three or more lanes in the direction of travel, buses, coaches and other vehicles and combinations over 3.5 tonnes MAM may only use the two right-hand lanes, except to follow the indications of signs F13 and F15. Even a light 4-tonne combination falls under this rule."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 21.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/uqtb0bclrx~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-028",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Buiten de bebouwde kom rijdt u met een vrachtwagen met een maximale toegelaten massa van 12 ton achter een andere vrachtwagen. Welke afstand moet u ten minste houden?",
+        "fr": "Hors agglomération, vous conduisez un camion d'une masse maximale autorisée de 12 tonnes derrière un autre camion. Quelle distance devez-vous au moins garder ?",
+        "en": "Outside the built-up area you are driving a lorry with a maximum authorised mass of 12 tonnes behind another lorry. What minimum distance must you keep?"
+      },
+      "options": [
+        { "nl": "20 meter", "fr": "20 mètres", "en": "20 metres" },
+        { "nl": "50 meter", "fr": "50 mètres", "en": "50 metres" },
+        { "nl": "100 meter", "fr": "100 mètres", "en": "100 metres" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Bestuurders van voertuigen en slepen met een maximale toegelaten massa van meer dan 7,5 ton of langer dan 7 meter moeten buiten de bebouwde kom onderling ten minste 50 meter afstand houden. Zo kunnen inhalende bestuurders veilig tussen de vrachtwagens invoegen.",
+        "fr": "Hors agglomération, les conducteurs de véhicules et trains de véhicules d'une masse maximale autorisée de plus de 7,5 tonnes ou de plus de 7 mètres de long doivent maintenir entre eux une distance d'au moins 50 mètres. Les conducteurs qui dépassent peuvent ainsi se rabattre en sécurité entre les camions.",
+        "en": "Outside built-up areas, drivers of vehicles and combinations with a maximum authorised mass over 7.5 tonnes or longer than 7 metres must keep at least 50 metres between one another. This lets overtaking drivers merge back safely between the lorries."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 18.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-029",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op een autosnelweg met twee rijstroken in uw rijrichting ontstaat file. Waar vormt u de reddingsstrook?",
+        "fr": "Sur une autoroute à deux bandes de circulation dans votre sens, une file se forme. Où formez-vous le couloir de secours ?",
+        "en": "On a motorway with two traffic lanes in your direction, a traffic jam forms. Where do you form the emergency corridor?"
+      },
+      "options": [
+        {
+          "nl": "Op de pechstrook, die daarvoor wordt vrijgehouden.",
+          "fr": "Sur la bande d'arrêt d'urgence, qui est laissée libre à cet effet.",
+          "en": "On the hard shoulder, which is kept clear for that purpose."
+        },
+        {
+          "nl": "Tussen de twee rijstroken: wie links rijdt gaat uiterst links, wie rechts rijdt gaat uiterst rechts.",
+          "fr": "Entre les deux bandes : ceux qui roulent à gauche se serrent tout à gauche, ceux qui roulent à droite tout à droite.",
+          "en": "Between the two lanes: drivers on the left move as far left as possible, drivers on the right as far right as possible."
+        },
+        {
+          "nl": "Naast de linkerrijstrook, zoals bij drie rijstroken.",
+          "fr": "À côté de la bande de gauche, comme lorsqu'il y a trois bandes.",
+          "en": "Next to the left-hand lane, as with three lanes."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Bij twee rijstroken gaan de bestuurders op de linkerrijstrook uiterst links en die op de rechterrijstrook uiterst rechts, zodat de reddingsstrook in het midden ontstaat. De pechstrook blijft daarnaast vrij voor wie er volgens art. 9.7 mag rijden. Alleen bij meer dan twee rijstroken ontstaat de reddingsstrook naast de linkerrijstrook.",
+        "fr": "Avec deux bandes, les conducteurs de la bande de gauche se serrent tout à gauche et ceux de la bande de droite tout à droite, de sorte que le couloir de secours se forme au milieu. La bande d'arrêt d'urgence reste par ailleurs libre pour ceux qui peuvent y circuler selon l'art. 9.7. Ce n'est qu'avec plus de deux bandes que le couloir se forme à côté de la bande de gauche.",
+        "en": "With two lanes, drivers in the left-hand lane move as far left as possible and those in the right-hand lane as far right as possible, so the emergency corridor forms in the middle. The hard shoulder additionally stays clear for those allowed to use it under Art. 9.7. Only with more than two lanes does the corridor form next to the left-hand lane."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 9.8 en 2.70", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-030",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op een gewone weg — geen autosnelweg of autoweg — met twee rijstroken in uw rijrichting begint het verkeer vast te lopen. Moet u een reddingsstrook vormen?",
+        "fr": "Sur une route ordinaire — ni autoroute ni route pour automobiles — à deux bandes dans votre sens, la circulation commence à se bloquer. Devez-vous former un couloir de secours ?",
+        "en": "On an ordinary road — not a motorway or motor road — with two lanes in your direction, traffic starts to jam. Must you form an emergency corridor?"
+      },
+      "options": [
+        {
+          "nl": "Ja, bij filevorming op elke openbare weg met meerdere rijstroken in dezelfde rijrichting, en dat meteen.",
+          "fr": "Oui, dès qu'une file se forme sur toute voie publique à plusieurs bandes dans le même sens, et immédiatement.",
+          "en": "Yes, whenever a traffic jam forms on any public road with several lanes in the same direction, and immediately."
+        },
+        {
+          "nl": "Nee, de reddingsstrook bestaat alleen op autosnelwegen.",
+          "fr": "Non, le couloir de secours n'existe que sur les autoroutes.",
+          "en": "No, the emergency corridor exists only on motorways."
+        },
+        {
+          "nl": "Alleen wanneer u een prioritair voertuig met sirene hoort aankomen.",
+          "fr": "Uniquement lorsque vous entendez arriver un véhicule prioritaire avec sa sirène.",
+          "en": "Only when you hear a priority vehicle approaching with its siren."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De verplichting van art. 9.8 geldt bij filevorming op de openbare weg in het algemeen — niet alleen op autosnelwegen. U vormt de reddingsstrook onmiddellijk zodra de file ontstaat, zonder te wachten tot een prioritair voertuig, een opgeroepen dienst of een takelwagen ze nodig heeft.",
+        "fr": "L'obligation de l'art. 9.8 s'applique en cas de formation de files sur la voie publique en général — pas seulement sur les autoroutes. Vous formez le couloir de secours immédiatement dès que la file se forme, sans attendre qu'un véhicule prioritaire, un service appelé ou une dépanneuse en ait besoin.",
+        "en": "The duty in Art. 9.8 applies when traffic jams form on public roads in general — not only on motorways. You form the emergency corridor immediately as the jam forms, without waiting until a priority vehicle, a summoned service or a tow truck needs it."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 9.8", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-031",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Uw auto is defect en een vriend sleept u met een noodkoppeling (sleepkabel) naar huis. Mag u daarbij de autosnelweg gebruiken?",
+        "fr": "Votre voiture est en panne et un ami la remorque avec une attache de secours (câble de remorquage) jusqu'à chez vous. Pouvez-vous emprunter l'autoroute ?",
+        "en": "Your car has broken down and a friend is towing you home with an emergency coupling (tow rope). May you use the motorway?"
+      },
+      "options": [
+        {
+          "nl": "Ja, tot de eerstvolgende afrit, met de vier richtingaanwijzers aan.",
+          "fr": "Oui, jusqu'à la première sortie, avec les quatre indicateurs de direction allumés.",
+          "en": "Yes, as far as the first exit, with the hazard lights on."
+        },
+        {
+          "nl": "Nee, slepen met een nood- of hulpkoppeling is er verboden en u mag de autosnelweg zo ook niet oprijden.",
+          "fr": "Non, remorquer au moyen d'une attache de secours ou de fortune y est interdit et vous ne pouvez pas non plus vous engager ainsi sur l'autoroute.",
+          "en": "No, towing with an emergency or makeshift coupling is forbidden there and you may not enter the motorway that way either."
+        },
+        {
+          "nl": "Ja, op de pechstrook en met maximaal 25 km per uur.",
+          "fr": "Oui, sur la bande d'arrêt d'urgence et à 25 km à l'heure au maximum.",
+          "en": "Yes, on the hard shoulder and at no more than 25 km/h."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Art. 21.1 verbiedt de toegang tot de autosnelweg aan bestuurders die met een nood- of hulpkoppeling een ander voertuig slepen, en art. 21.4.5° verbiedt er zo te slepen. Via art. 22.2 geldt dat verbod ook op autowegen. Laat het voertuig door een takeldienst met een takelwagen ophalen.",
+        "fr": "L'art. 21.1 interdit l'accès à l'autoroute aux conducteurs qui remorquent un autre véhicule au moyen d'une attache de secours ou de fortune, et l'art. 21.4.5° y interdit ce remorquage. Via l'art. 22.2, cette interdiction vaut aussi sur les routes pour automobiles. Faites enlever le véhicule par un service de dépannage avec une dépanneuse.",
+        "en": "Art. 21.1 bans drivers towing another vehicle with an emergency or makeshift coupling from entering the motorway, and Art. 21.4.5° forbids towing that way on it. Via Art. 22.2 the ban also applies on motor roads. Have the vehicle collected by a recovery service with a tow truck."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 21.1 en 21.4.5°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/uqtb0bclrx~hra8v386pu" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 22.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-032",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Het regent. U rijdt op de autosnelweg met een vrachtwagen voor goederenvervoer met een maximale toegelaten massa van 12 ton. Mag u een tragere vrachtwagen links inhalen?",
+        "fr": "Il pleut. Vous roulez sur l'autoroute avec un camion de transport de marchandises d'une masse maximale autorisée de 12 tonnes. Pouvez-vous dépasser par la gauche un camion plus lent ?",
+        "en": "It is raining. You are driving on the motorway in a goods lorry with a maximum authorised mass of 12 tonnes. May you overtake a slower lorry on the left?"
+      },
+      "options": [
+        {
+          "nl": "Ja, zolang u uw snelheid aan het natte wegdek aanpast.",
+          "fr": "Oui, pourvu que vous adaptiez votre vitesse à la chaussée mouillée.",
+          "en": "Yes, as long as you adapt your speed to the wet road surface."
+        },
+        {
+          "nl": "Nee, bij neerslag mag niemand op de autosnelweg inhalen.",
+          "fr": "Non, par temps de précipitations, personne ne peut dépasser sur l'autoroute.",
+          "en": "No, in precipitation nobody may overtake on the motorway."
+        },
+        {
+          "nl": "Nee, bij neerslag geldt voor uw vrachtwagen een inhaalverbod op de autosnelweg.",
+          "fr": "Non, par temps de précipitations, une interdiction de dépasser s'applique à votre camion sur l'autoroute.",
+          "en": "No, in precipitation an overtaking ban applies to your lorry on the motorway."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Bij neerslag mogen bestuurders van voertuigen en slepen voor het vervoer van zaken met een maximale toegelaten massa van meer dan 7,5 ton niet links inhalen op autosnelwegen, autowegen en wegen met minstens vier rijstroken. Het verbod geldt niet ten opzichte van landbouwvoertuigen of voertuigen op een voorbehouden strook voor traag verkeer — en niet voor personenauto's.",
+        "fr": "Par temps de précipitations, les conducteurs de véhicules et trains de véhicules destinés au transport de choses d'une masse maximale autorisée de plus de 7,5 tonnes ne peuvent pas dépasser par la gauche sur les autoroutes, les routes pour automobiles et les routes à quatre bandes au moins. L'interdiction ne vaut pas à l'égard des véhicules agricoles ni des véhicules sur une bande réservée à la circulation lente — et pas pour les voitures.",
+        "en": "In precipitation, drivers of vehicles and combinations intended for the transport of goods with a maximum authorised mass over 7.5 tonnes may not overtake on the left on motorways, motor roads and roads with at least four lanes. The ban does not apply with respect to agricultural vehicles or vehicles on a lane reserved for slow traffic — and not to cars."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 17.2.6°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-033",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "E9a" },
+      "text": {
+        "nl": "U wordt moe en wilt op de autosnelweg even rusten. Waar mag u stilstaan of parkeren?",
+        "fr": "La fatigue vous gagne et vous voulez vous reposer un moment sur l'autoroute. Où pouvez-vous vous arrêter ou stationner ?",
+        "en": "You are getting tired and want to rest for a while on the motorway. Where may you stop or park?"
+      },
+      "options": [
+        {
+          "nl": "Alleen op de parkeerstroken en parkings die met dit verkeersbord zijn aangeduid.",
+          "fr": "Uniquement sur les bandes de stationnement et les parkings indiqués par ce signal.",
+          "en": "Only on the parking strips and parking areas indicated by this sign."
+        },
+        {
+          "nl": "Op de pechstrook, als u de vier richtingaanwijzers aanzet.",
+          "fr": "Sur la bande d'arrêt d'urgence, si vous allumez les quatre indicateurs de direction.",
+          "en": "On the hard shoulder, if you switch on the hazard lights."
+        },
+        {
+          "nl": "Overal, zolang u volledig buiten de rijbaan staat.",
+          "fr": "N'importe où, pourvu que vous soyez complètement en dehors de la chaussée.",
+          "en": "Anywhere, as long as you are completely off the carriageway."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Op autosnelwegen — en via art. 22.2 ook op autowegen — is stilstaan en parkeren verboden, behalve op de parkeerstroken aangewezen door het verkeersbord E9a, zoals op rust- en tankplaatsen. De pechstrook is er alleen voor noodgevallen; vermoeidheid lost u op een parking op.",
+        "fr": "Sur les autoroutes — et via l'art. 22.2 aussi sur les routes pour automobiles — l'arrêt et le stationnement sont interdits, sauf sur les bandes de stationnement indiquées par le signal E9a, comme sur les aires de repos et de ravitaillement. La bande d'arrêt d'urgence n'est là que pour les cas d'urgence ; la fatigue se traite sur un parking.",
+        "en": "On motorways — and via Art. 22.2 also on motor roads — stopping and parking are forbidden, except on the parking strips indicated by sign E9a, such as at rest and service areas. The hard shoulder is only for emergencies; tiredness is dealt with at a parking area."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 21.4.4° en 22.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/uqtb0bclrx~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "motorways-special-034",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "signs", "codes": ["F5", "F9"] },
+      "text": {
+        "nl": "U kent deze twee verkeersborden: het eerste duidt een autosnelweg aan, het tweede een autoweg. Welke bewering over het verschil tussen beide is juist?",
+        "fr": "Vous connaissez ces deux signaux : le premier indique une autoroute, le second une route pour automobiles. Quelle affirmation sur la différence entre les deux est correcte ?",
+        "en": "You know these two signs: the first indicates a motorway, the second a motor road. Which statement about the difference between them is correct?"
+      },
+      "options": [
+        {
+          "nl": "Op beide wegen mag u niet trager rijden dan 70 km per uur.",
+          "fr": "Sur les deux, vous ne pouvez pas rouler à moins de 70 km à l'heure.",
+          "en": "On both roads you may not drive slower than 70 km/h."
+        },
+        {
+          "nl": "Op de autoweg mag u keren, omdat er kruispunten kunnen voorkomen.",
+          "fr": "Sur la route pour automobiles, vous pouvez faire demi-tour, puisqu'il peut y avoir des carrefours.",
+          "en": "On the motor road you may make a U-turn, since intersections can occur."
+        },
+        {
+          "nl": "Op de autoweg geldt geen minimumsnelheid, maar keren en achteruitrijden blijven er even streng verboden.",
+          "fr": "Sur la route pour automobiles, aucune vitesse minimale ne s'applique, mais le demi-tour et la marche arrière y restent tout aussi strictement interdits.",
+          "en": "On the motor road no minimum speed applies, but U-turns and reversing remain just as strictly forbidden."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "De minimumsnelheid van 70 km per uur (art. 21.2) geldt alleen op autosnelwegen. Art. 22.2 maakt op autowegen enkel de verboden van art. 21.4 en 21.6 van toepassing: keren, achteruitrijden en tegen de rijrichting rijden blijven er dus overtredingen van de vierde graad, ook al zijn kruispunten er mogelijk.",
+        "fr": "La vitesse minimale de 70 km à l'heure (art. 21.2) ne vaut que sur les autoroutes. L'art. 22.2 ne rend applicables sur les routes pour automobiles que les interdictions des art. 21.4 et 21.6 : le demi-tour, la marche arrière et la circulation en sens contraire y restent donc des infractions du quatrième degré, même si des carrefours y sont possibles.",
+        "en": "The 70 km/h minimum speed (Art. 21.2) applies only on motorways. Art. 22.2 makes only the prohibitions of Art. 21.4 and 21.6 applicable on motor roads: U-turns, reversing and driving against the direction of traffic therefore remain fourth-degree offences there, even though intersections are possible."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 21.2 en 22.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/uqtb0bclrx~hra8v386pu" },
+        { "source": "KB 30/09/2005 (indeling overtredingen), Art. 4", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+      ]
+    },
+    {
+      "id": "motorways-special-035",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Wie mag er op de pechstrook van de autosnelweg rijden?",
+        "fr": "Qui peut circuler sur la bande d'arrêt d'urgence de l'autoroute ?",
+        "en": "Who may drive on the hard shoulder of the motorway?"
+      },
+      "options": [
+        {
+          "nl": "Iedereen die bij file de eerstvolgende afrit wil bereiken.",
+          "fr": "Quiconque veut atteindre la première sortie en cas de file.",
+          "en": "Anyone who wants to reach the next exit during a traffic jam."
+        },
+        {
+          "nl": "Prioritaire voertuigen met een dringende opdracht, door politie of parket opgeroepen diensten, en takelwagens op weg naar een incident.",
+          "fr": "Les véhicules prioritaires en mission urgente, les services appelés par la police ou le parquet, et les dépanneuses qui se rendent sur un incident.",
+          "en": "Priority vehicles on an urgent mission, services summoned by the police or the public prosecutor, and tow trucks on their way to an incident."
+        },
+        {
+          "nl": "Voertuigen met pech die traag naar de eerstvolgende parking rijden.",
+          "fr": "Les véhicules en panne qui roulent lentement jusqu'au prochain parking.",
+          "en": "Broken-down vehicles driving slowly to the next parking area."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Alleen deze drie categorieën mogen op de pechstrook rijden; de opgeroepen diensten en takelwagens bovendien enkel bij sterk vertraagd of stilstaand verkeer, om een incident te bereiken. Voor elke andere bestuurder is rijden op de pechstrook een overtreding van de derde graad.",
+        "fr": "Seules ces trois catégories peuvent circuler sur la bande d'arrêt d'urgence ; les services appelés et les dépanneuses uniquement, en outre, lorsque la circulation est fortement ralentie ou arrêtée, pour atteindre un incident. Pour tout autre conducteur, circuler sur la bande d'arrêt d'urgence est une infraction du troisième degré.",
+        "en": "Only these three categories may drive on the hard shoulder; the summoned services and tow trucks moreover only when traffic is heavily slowed or at a standstill, to reach an incident. For any other driver, driving on the hard shoulder is a third-degree offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 9.7", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "KB 30/09/2005 (indeling overtredingen), Art. 3", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+      ]
+    },
+    {
+      "id": "motorways-special-036",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U rijdt met een vierwieler met motor zonder passagiersruimte (quad) die vlot 90 km per uur haalt. Mag u daarmee de autosnelweg oprijden?",
+        "fr": "Vous conduisez un quadricycle à moteur sans habitacle (quad) qui atteint aisément 90 km à l'heure. Pouvez-vous vous engager sur l'autoroute ?",
+        "en": "You are riding a motor quadricycle without a passenger compartment (quad) that easily reaches 90 km/h. May you enter the motorway with it?"
+      },
+      "options": [
+        {
+          "nl": "Nee, vierwielers met motor zonder passagiersruimte zijn er altijd verboden.",
+          "fr": "Non, les quadricycles à moteur sans habitacle y sont toujours interdits.",
+          "en": "No, motor quadricycles without a passenger compartment are always banned from it."
+        },
+        {
+          "nl": "Ja, want hij haalt meer dan 70 km per uur.",
+          "fr": "Oui, puisqu'il atteint plus de 70 km à l'heure.",
+          "en": "Yes, because it reaches more than 70 km/h."
+        },
+        {
+          "nl": "Ja, maar alleen op de rechterrijstrook.",
+          "fr": "Oui, mais uniquement sur la bande de droite.",
+          "en": "Yes, but only in the right-hand lane."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Art. 21.1 verbiedt de toegang tot de autosnelweg onder meer aan vierwielers met motor zonder passagiersruimte, net als aan landbouwvoertuigen — ook wanneer die voertuigen sneller dan 70 km per uur kunnen rijden. De 70 km per uur-voorwaarde is een bijkomende eis, geen vrijgeleide. Op autowegen geldt hetzelfde verbod (art. 22.1).",
+        "fr": "L'art. 21.1 interdit l'accès à l'autoroute notamment aux quadricycles à moteur sans habitacle, comme aux véhicules agricoles — même lorsque ces véhicules peuvent dépasser 70 km à l'heure. La condition des 70 km à l'heure est une exigence supplémentaire, pas un laissez-passer. La même interdiction vaut sur les routes pour automobiles (art. 22.1).",
+        "en": "Art. 21.1 bans from the motorway, among others, motor quadricycles without a passenger compartment, just like agricultural vehicles — even when those vehicles can exceed 70 km/h. The 70 km/h condition is an additional requirement, not a free pass. The same ban applies on motor roads (Art. 22.1)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 21.1 en 22.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/uqtb0bclrx~hra8v386pu" }
+      ]
     }
   ]
 }

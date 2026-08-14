@@ -701,6 +701,257 @@
       "citations": [
         { "source": "Wegcode (KB 01/12/1975), Art. 65.5", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
       ]
+    },
+    {
+      "id": "parking-029",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je auto is defect en kan niet meer rijden. Hoelang mag hij maximaal na elkaar op de openbare weg geparkeerd blijven staan?",
+        "fr": "Votre voiture est en panne et ne peut plus rouler. Combien de temps au maximum peut-elle rester en stationnement d'affilée sur la voie publique ?",
+        "en": "Your car has broken down and can no longer be driven. For how long at most may it stay parked continuously on the public road?"
+      },
+      "options": [
+        { "nl": "3 uur", "fr": "3 heures", "en": "3 hours" },
+        { "nl": "8 uur", "fr": "8 heures", "en": "8 hours" },
+        { "nl": "24 uur", "fr": "24 heures", "en": "24 hours" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Het is verboden een motorvoertuig dat niet meer kan rijden, of een aanhangwagen, langer dan 24 uur na elkaar op de openbare weg te laten staan (art. 27.5). De 8 uur geldt voor voertuigen boven 7,5 ton MTM binnen de bebouwde kom, de 3 uur voor reclamevoertuigen.",
+        "fr": "Il est interdit de laisser en stationnement sur la voie publique plus de 24 heures d'affilée un véhicule à moteur hors d'état de circuler ou une remorque (art. 27.5). Les 8 heures visent les véhicules de plus de 7,5 tonnes MMA en agglomération, les 3 heures les véhicules publicitaires.",
+        "en": "It is forbidden to leave a motor vehicle that can no longer be driven, or a trailer, parked on the public road for more than 24 consecutive hours (Art. 27.5). The 8-hour limit applies to vehicles over 7.5 tonnes MAM in built-up areas, the 3-hour limit to advertising vehicles."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 27.5", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-030",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Een reclamevoertuig wordt binnen de bebouwde kom op de openbare weg geparkeerd, vooral om reclame te maken. Hoelang mag dat maximaal?",
+        "fr": "Un véhicule publicitaire est mis en stationnement sur la voie publique, en agglomération, essentiellement dans un but publicitaire. Combien de temps au maximum ?",
+        "en": "An advertising vehicle is parked on the public road in a built-up area mainly to display advertising. For how long at most is that allowed?"
+      },
+      "options": [
+        { "nl": "3 uur", "fr": "3 heures", "en": "3 hours" },
+        { "nl": "8 uur", "fr": "8 heures", "en": "8 hours" },
+        { "nl": "24 uur", "fr": "24 heures", "en": "24 hours" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Reclamevoertuigen mogen hoogstens 3 uur na elkaar op de openbare weg geparkeerd staan (art. 27.5). Verwar dit niet met de 8 uur voor voertuigen boven 7,5 ton MTM binnen de bebouwde kom en de 24 uur voor defecte voertuigen en aanhangwagens.",
+        "fr": "Les véhicules publicitaires ne peuvent rester en stationnement sur la voie publique que 3 heures d'affilée au maximum (art. 27.5). À ne pas confondre avec les 8 heures pour les véhicules de plus de 7,5 tonnes MMA en agglomération et les 24 heures pour les véhicules en panne et les remorques.",
+        "en": "Advertising vehicles may stay parked on the public road for at most 3 consecutive hours (Art. 27.5). Do not confuse this with the 8 hours for vehicles over 7.5 tonnes MAM in built-up areas and the 24 hours for broken-down vehicles and trailers."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 27.5", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-031",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "B9" },
+      "text": {
+        "nl": "Je rijdt buiten de bebouwde kom op een weg waarlangs dit verkeersbord staat. Mag je er op de rijbaan parkeren?",
+        "fr": "Vous roulez en dehors d'une agglomération sur une route où ce signal est placé. Pouvez-vous y stationner sur la chaussée ?",
+        "en": "You are driving outside a built-up area on a road where this sign is placed. May you park on the carriageway there?"
+      },
+      "options": [
+        { "nl": "Ja, dit bord regelt enkel de voorrang en zegt niets over parkeren", "fr": "Oui, ce signal ne règle que la priorité et ne dit rien du stationnement", "en": "Yes, this sign only regulates priority and says nothing about parking" },
+        { "nl": "Neen, buiten de bebouwde kom is parkeren op de rijbaan van zo'n weg verboden; op de berm mag het wel", "fr": "Non, en dehors des agglomérations le stationnement sur la chaussée d'une telle route est interdit ; il reste permis sur l'accotement", "en": "No, outside built-up areas parking on the carriageway of such a road is forbidden; on the verge it remains allowed" },
+        { "nl": "Neen, op zo'n weg is zelfs stilstaan overal verboden", "fr": "Non, sur une telle route même l'arrêt est partout interdit", "en": "No, on such a road even stopping is forbidden everywhere" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord B9 duidt een voorrangsweg aan, maar heeft ook een parkeergevolg: buiten de bebouwde kom is het verboden te parkeren op de rijbaan van een openbare weg waarop dit bord staat (art. 25.1.8°). Op de berm parkeren blijft toegelaten, en kort stilstaan is niet verboden door dit bord.",
+        "fr": "Le signal B9 indique une voie prioritaire, mais il a aussi un effet sur le stationnement : en dehors des agglomérations, il est interdit de stationner sur la chaussée d'une voie publique où ce signal est placé (art. 25.1.8°). Le stationnement sur l'accotement reste permis, et l'arrêt bref n'est pas interdit par ce signal.",
+        "en": "Sign B9 marks a priority road, but it also has a parking effect: outside built-up areas it is forbidden to park on the carriageway of a public road bearing this sign (Art. 25.1.8°). Parking on the verge remains allowed, and briefly stopping is not forbidden by this sign."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 25.1.8°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-032",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "In welk geval is parkeren op de rijbaan verboden?",
+        "fr": "Dans quel cas le stationnement sur la chaussée est-il interdit ?",
+        "en": "In which case is parking on the carriageway forbidden?"
+      },
+      "options": [
+        { "nl": "Enkel wanneer de rijbaan in rijstroken is verdeeld", "fr": "Uniquement lorsque la chaussée est divisée en bandes de circulation", "en": "Only when the carriageway is divided into traffic lanes" },
+        { "nl": "Enkel tegenover een ander stilstaand of geparkeerd voertuig", "fr": "Uniquement en face d'un autre véhicule à l'arrêt ou en stationnement", "en": "Only opposite another stopped or parked vehicle" },
+        { "nl": "Zowel op een rijbaan die in rijstroken is verdeeld (tenzij een verkeersbord er parkeren toelaat) als tegenover een ander voertuig wanneer twee voertuigen elkaar daardoor moeilijk zouden kunnen kruisen", "fr": "Tant sur une chaussée divisée en bandes de circulation (sauf si un signal y autorise le stationnement) qu'en face d'un autre véhicule lorsque deux véhicules pourraient difficilement se croiser de ce fait", "en": "Both on a carriageway divided into traffic lanes (unless a road sign allows parking there) and opposite another vehicle when two vehicles would find it difficult to pass each other as a result" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Beide verboden staan in artikel 25.1: parkeren mag niet op de rijbaan wanneer die in rijstroken is verdeeld, behalve op plaatsen met een bord E9a of E9b (art. 25.1.9°), en evenmin op rijbanen met tweerichtingsverkeer tegenover een ander stilstaand of geparkeerd voertuig wanneer twee andere voertuigen elkaar daardoor moeilijk zouden kunnen kruisen.",
+        "fr": "Les deux interdictions figurent à l'article 25.1 : le stationnement est interdit sur la chaussée divisée en bandes de circulation, sauf aux endroits pourvus d'un signal E9a ou E9b (art. 25.1.9°), ainsi que sur les chaussées à deux sens en face d'un autre véhicule à l'arrêt ou en stationnement lorsque deux autres véhicules pourraient de ce fait difficilement se croiser.",
+        "en": "Both bans appear in Article 25.1: parking is forbidden on a carriageway divided into traffic lanes except where a sign E9a or E9b allows it (Art. 25.1.9°), and also on two-way carriageways opposite another stopped or parked vehicle when two other vehicles would find it difficult to pass each other as a result."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 25.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-033",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je wil even stilstaan op de rijbaan, vlak bij de top van een helling waar het zicht beperkt is. Mag dat?",
+        "fr": "Vous voulez vous arrêter un instant sur la chaussée, à proximité du sommet d'une côte où la visibilité est réduite. Est-ce permis ?",
+        "en": "You want to stop briefly on the carriageway, close to the top of a hill where visibility is limited. Is that allowed?"
+      },
+      "options": [
+        { "nl": "Ja, kort stilstaan mag daar; enkel parkeren is er verboden", "fr": "Oui, un arrêt bref y est permis ; seul le stationnement y est interdit", "en": "Yes, briefly stopping is allowed there; only parking is forbidden" },
+        { "nl": "Neen, nabij de top van een helling en in bochten met onvoldoende zicht zijn stilstaan én parkeren verboden", "fr": "Non, à proximité du sommet d'une côte et dans les virages où la visibilité est insuffisante, l'arrêt et le stationnement sont interdits", "en": "No, near the top of a hill and in bends with insufficient visibility both stopping and parking are forbidden" },
+        { "nl": "Ja, als je je vier richtingaanwijzers aanzet", "fr": "Oui, si vous allumez vos quatre indicateurs de direction", "en": "Yes, if you switch on your hazard lights" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Artikel 24 verbiedt stilstaan en parkeren op de rijbaan nabij de top van een helling en in een bocht wanneer de zichtbaarheid onvoldoende is: aankomende bestuurders zien je te laat. Hetzelfde artikel verbiedt stilstaan en parkeren onder bruggen, in tunnels en in onderdoorgangen, behoudens plaatselijke reglementering.",
+        "fr": "L'article 24 interdit l'arrêt et le stationnement sur la chaussée à proximité du sommet d'une côte et dans un virage lorsque la visibilité est insuffisante : les conducteurs qui arrivent vous voient trop tard. Le même article interdit l'arrêt et le stationnement sous les ponts, dans les tunnels et dans les passages inférieurs, sauf réglementation locale.",
+        "en": "Article 24 forbids stopping and parking on the carriageway near the top of a hill and in a bend where visibility is insufficient: approaching drivers see you too late. The same article forbids stopping and parking under bridges, in tunnels and in underpasses, save for local regulation."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 24", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-034",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je parkeert op zaterdag om 10 uur in een blauwe zone. De signalisatie vermeldt geen bijzondere voorwaarden. Moet je je parkeerschijf leggen?",
+        "fr": "Vous stationnez un samedi à 10 h dans une zone bleue. La signalisation ne mentionne aucune condition particulière. Devez-vous apposer votre disque de stationnement ?",
+        "en": "You park on a Saturday at 10 a.m. in a blue zone. The signs mention no special conditions. Must you display your parking disc?"
+      },
+      "options": [
+        { "nl": "Neen, de parkeerschijf is enkel verplicht van maandag tot en met vrijdag", "fr": "Non, le disque n'est obligatoire que du lundi au vendredi", "en": "No, the parking disc is only required from Monday to Friday" },
+        { "nl": "Ja, want ook zaterdag is een werkdag; enkel zon- en feestdagen zijn dat niet", "fr": "Oui, car le samedi est aussi un jour ouvrable ; seuls les dimanches et jours fériés ne le sont pas", "en": "Yes, because Saturday is also a working day; only Sundays and public holidays are not" },
+        { "nl": "Neen, in het weekend geldt de blauwe zone nooit", "fr": "Non, la zone bleue ne s'applique jamais le week-end", "en": "No, the blue zone never applies at the weekend" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "De parkeerschijf is in een blauwe zone voorgeschreven op werkdagen van 9 tot 18 uur (art. 27.1), en zaterdag telt als werkdag: enkel zondagen en wettelijke feestdagen zijn geen werkdagen. Dit is een klassieke valstrik op het examen.",
+        "fr": "Le disque de stationnement est prescrit en zone bleue les jours ouvrables de 9 h à 18 h (art. 27.1), et le samedi compte comme jour ouvrable : seuls les dimanches et les jours fériés légaux ne sont pas des jours ouvrables. C'est un piège classique de l'examen.",
+        "en": "The parking disc is required in a blue zone on working days from 9 a.m. to 6 p.m. (Art. 27.1), and Saturday counts as a working day: only Sundays and legal public holidays are not working days. This is a classic exam trap."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 27.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "Touring — Parkeren in een blauwe zone (\"Deze tijdsduur geldt op elke werkdag, zaterdag inbegrepen, van 9u tot 18u.\")", "url": "https://www.touring.be/nl/artikels/parkeren-in-een-blauwe-zone" }
+      ]
+    },
+    {
+      "id": "parking-035",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je hebt een gemeentelijke parkeerkaart en legt die leesbaar achter de voorruit. Moet je in een blauwe zone dan ook nog een parkeerschijf leggen?",
+        "fr": "Vous disposez d'une carte communale de stationnement et l'apposez lisiblement derrière le pare-brise. Devez-vous encore apposer un disque de stationnement en zone bleue ?",
+        "en": "You have a municipal parking card and display it legibly behind the windscreen. Must you also display a parking disc in a blue zone?"
+      },
+      "options": [
+        { "nl": "Ja, de parkeerschijf blijft in een blauwe zone altijd verplicht", "fr": "Oui, le disque reste toujours obligatoire en zone bleue", "en": "Yes, the parking disc always remains compulsory in a blue zone" },
+        { "nl": "Neen, de gemeentelijke parkeerkaart vervangt er de parkeerschijf", "fr": "Non, la carte communale de stationnement y remplace le disque", "en": "No, the municipal parking card replaces the parking disc there" },
+        { "nl": "Neen, maar dan geldt een maximum van één uur", "fr": "Non, mais un maximum d'une heure s'applique alors", "en": "No, but a one-hour maximum then applies" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "De gemeentelijke parkeerkaart, leesbaar aangebracht achter de voorruit, vervangt de parkeerschijf in de blauwe zone (art. 27.1.4). De gemeente bepaalt in haar reglement de voorwaarden en de eventuele duur die aan de kaart verbonden zijn (art. 27ter).",
+        "fr": "La carte communale de stationnement, apposée lisiblement derrière le pare-brise, remplace le disque de stationnement en zone bleue (art. 27.1.4). La commune fixe dans son règlement les conditions et la durée éventuelle attachées à la carte (art. 27ter).",
+        "en": "The municipal parking card, displayed legibly behind the windscreen, replaces the parking disc in a blue zone (Art. 27.1.4). The municipality sets in its regulations the conditions and any duration attached to the card (Art. 27ter)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 27.1.4 en 27ter", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-036",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je parkeert je motorfiets zonder zijspan haaks op de rand van de rijbaan, binnen de aangeduide parkeermarkering. Mag dat?",
+        "fr": "Vous rangez votre motocyclette sans side-car perpendiculairement au bord de la chaussée, sans dépasser le marquage de stationnement indiqué. Est-ce permis ?",
+        "en": "You park your motorcycle without a sidecar perpendicular to the edge of the carriageway, within the marked parking bay. Is that allowed?"
+      },
+      "options": [
+        { "nl": "Neen, elk voertuig moet altijd evenwijdig met de rand van de rijbaan staan, ook een motorfiets", "fr": "Non, tout véhicule doit toujours être rangé parallèlement au bord de la chaussée, même une motocyclette", "en": "No, every vehicle must always stand parallel to the edge of the carriageway, including a motorcycle" },
+        { "nl": "Ja, motorfietsen zonder zijspan of aanhangwagen mogen haaks parkeren zolang ze de aangeduide parkeermarkering niet overschrijden", "fr": "Oui, les motocyclettes sans side-car ni remorque peuvent se ranger perpendiculairement pour autant qu'elles ne dépassent pas le marquage de stationnement indiqué", "en": "Yes, motorcycles without a sidecar or trailer may park perpendicular as long as they do not exceed the marked parking bay" },
+        { "nl": "Ja, maar enkel buiten de bebouwde kom", "fr": "Oui, mais uniquement en dehors des agglomérations", "en": "Yes, but only outside built-up areas" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Voertuigen moeten in principe evenwijdig met de rand van de rijbaan opgesteld worden, maar motorfietsen zonder zijspan of aanhangwagen mogen haaks op de rand parkeren voor zover ze de aangeduide parkeermarkering niet overschrijden (art. 23.2). Fietsen en tweewielige bromfietsen moeten dan weer buiten de rijbaan opgesteld worden zonder andere weggebruikers te hinderen (art. 23.3).",
+        "fr": "Les véhicules doivent en principe être rangés parallèlement au bord de la chaussée, mais les motocyclettes sans side-car ni remorque peuvent se ranger perpendiculairement au bord pour autant qu'elles ne dépassent pas le marquage de stationnement indiqué (art. 23.2). Les bicyclettes et cyclomoteurs à deux roues doivent quant à eux être rangés en dehors de la chaussée sans gêner les autres usagers (art. 23.3).",
+        "en": "Vehicles must in principle be positioned parallel to the edge of the carriageway, but motorcycles without a sidecar or trailer may park perpendicular to the edge as long as they do not exceed the marked parking bay (Art. 23.2). Bicycles and two-wheeled mopeds, in turn, must be placed off the carriageway without hindering other road users (Art. 23.3)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 23.2 en 23.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-037",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je woont in een blauwe zone en parkeert voor je eigen inrij; je nummerplaat is leesbaar op die inrij aangebracht. Geldt de beperkte parkeertijd dan voor jou?",
+        "fr": "Vous habitez dans une zone bleue et stationnez devant votre propre accès carrossable ; votre plaque d'immatriculation y est reproduite lisiblement. La durée de stationnement limitée s'applique-t-elle à vous ?",
+        "en": "You live in a blue zone and park in front of your own driveway; your number plate is legibly displayed at that entrance. Does the limited parking time then apply to you?"
+      },
+      "options": [
+        { "nl": "Ja, de blauwe zone geldt voor iedereen, zonder uitzondering", "fr": "Oui, la zone bleue s'applique à tous, sans exception", "en": "Yes, the blue zone applies to everyone, without exception" },
+        { "nl": "Ja, maar je mag er vier uur staan in plaats van twee", "fr": "Oui, mais vous pouvez y rester quatre heures au lieu de deux", "en": "Yes, but you may stay four hours instead of two" },
+        { "nl": "Neen, de tijdsbeperkingen gelden niet voor een voertuig dat voor de eigen inrij geparkeerd staat met leesbaar aangebrachte nummerplaat", "fr": "Non, les limitations de durée ne s'appliquent pas au véhicule stationné devant son propre accès carrossable avec la plaque reproduite lisiblement", "en": "No, the time limits do not apply to a vehicle parked in front of its own driveway with the number plate legibly displayed there" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "De tijdsbeperkingen van artikel 27 gelden niet voor voertuigen die geparkeerd staan voor de inrij van hun eigenaar wanneer de nummerplaat leesbaar op die inrij is aangebracht (art. 27.6). Zonder die nummerplaat op de inrij geldt de blauwe zone wel gewoon.",
+        "fr": "Les limitations de durée de l'article 27 ne s'appliquent pas aux véhicules stationnés devant l'accès carrossable de leur propriétaire lorsque la plaque d'immatriculation est reproduite lisiblement à cet accès (art. 27.6). Sans cette plaque à l'accès, la zone bleue s'applique normalement.",
+        "en": "The time limits of Article 27 do not apply to vehicles parked in front of their owner's driveway when the number plate is legibly displayed at that entrance (Art. 27.6). Without the plate at the entrance, the blue zone applies as normal."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 27.6", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "parking-038",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je wil je tweedehandsauto verkopen en zet hem met een bordje \"te koop\" op een gewone parkeerplaats langs de openbare weg. Mag dat?",
+        "fr": "Vous voulez vendre votre voiture d'occasion et la placez avec un écriteau « à vendre » sur un emplacement de stationnement ordinaire le long de la voie publique. Est-ce permis ?",
+        "en": "You want to sell your second-hand car and put it with a \"for sale\" sign on an ordinary parking space along the public road. Is that allowed?"
+      },
+      "options": [
+        { "nl": "Neen, het is verboden op de openbare weg voertuigen ten toon te stellen om ze te koop of te huur aan te bieden", "fr": "Non, il est interdit d'exposer sur la voie publique des véhicules en vue de leur vente ou de leur location", "en": "No, it is forbidden to display vehicles on the public road in order to offer them for sale or hire" },
+        { "nl": "Ja, op een reglementaire parkeerplaats mag dat onbeperkt", "fr": "Oui, sur un emplacement réglementaire c'est permis sans limite", "en": "Yes, on a lawful parking space that is allowed without limit" },
+        { "nl": "Ja, maar hoogstens 24 uur", "fr": "Oui, mais 24 heures au maximum", "en": "Yes, but for at most 24 hours" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Artikel 25.2 verbiedt het ten toon stellen van voertuigen op de openbare weg met het oog op verkoop of verhuring. Een auto die er hoofdzakelijk staat om kopers te lokken, staat er dus onwettig, ook op een verder reglementaire parkeerplaats.",
+        "fr": "L'article 25.2 interdit d'exposer des véhicules sur la voie publique en vue de leur vente ou de leur location. Une voiture qui s'y trouve essentiellement pour attirer des acheteurs y est donc en infraction, même sur un emplacement par ailleurs réglementaire.",
+        "en": "Article 25.2 forbids displaying vehicles on the public road with a view to their sale or hire. A car standing there mainly to attract buyers is therefore unlawful, even on an otherwise lawful parking space."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 25.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
     }
   ]
 }

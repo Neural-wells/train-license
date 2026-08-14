@@ -1023,6 +1023,279 @@
       "citations": [
         { "source": "Wegcode (KB 01/12/1975), Art. 67.3 (B15, B17)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
       ]
+    },
+    {
+      "id": "priority-034",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "Op een kruispunt regelt een bevoegd persoon het verkeer. Hij beveelt u door te rijden, hoewel het verkeerslicht voor u rood is. Wat doet u?",
+        "fr": "À un carrefour, un agent qualifié règle la circulation. Il vous ordonne d'avancer alors que le feu est rouge pour vous. Que faites-vous ?",
+        "en": "At an intersection an authorised official is directing traffic. He orders you to proceed although the light is red for you. What do you do?"
+      },
+      "options": [
+        { "nl": "U volgt het bevel op en rijdt voorzichtig door: de bevelen van bevoegde personen gaan boven de verkeerslichten, de verkeersborden en de verkeersregels", "fr": "Vous suivez l'injonction et passez prudemment : les injonctions des agents qualifiés priment les signaux lumineux, les signaux routiers et les règles de circulation", "en": "You obey the order and drive on carefully: the orders of authorised officials take precedence over traffic lights, road signs and traffic rules" },
+        { "nl": "U blijft voor het rode licht wachten: een verkeerslicht gaat boven het bevel van een bevoegd persoon", "fr": "Vous restez arrêté au feu rouge : un signal lumineux prime l'injonction d'un agent qualifié", "en": "You stay stopped at the red light: a traffic light takes precedence over an authorised official's order" },
+        { "nl": "U rijdt pas door wanneer het licht groen wordt en de bevoegde persoon zijn bevel herhaalt", "fr": "Vous ne passez que lorsque le feu devient vert et que l'agent qualifié répète son injonction", "en": "You only proceed once the light turns green and the official repeats his order" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De rangorde is: bevelen van bevoegde personen, dan verkeerslichten, dan verkeersborden, dan verkeersregels. U moet het bevel dus onmiddellijk opvolgen, ook bij rood licht. Een bevel van een bevoegd persoon negeren is, net als door het rood licht rijden, een overtreding van de derde graad.",
+        "fr": "La hiérarchie est la suivante : les injonctions des agents qualifiés, puis les signaux lumineux, puis les signaux routiers, puis les règles de circulation. Vous devez donc obéir immédiatement à l'injonction, même au feu rouge. Ignorer l'injonction d'un agent qualifié constitue, comme franchir un feu rouge, une infraction du troisième degré.",
+        "en": "The hierarchy is: orders of authorised officials, then traffic lights, then road signs, then traffic rules. You must therefore obey the order immediately, even at a red light. Ignoring an authorised official's order is, like running a red light, a third-degree offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 4.2 en 6.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "KB 30/09/2005 (indeling van de overtredingen per graad)", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+      ]
+    },
+    {
+      "id": "priority-035",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Een bevoegd persoon steekt op het kruispunt zijn arm verticaal omhoog. U bevindt zich met uw voertuig al op het kruispunt. Wat moet u doen?",
+        "fr": "À un carrefour, un agent qualifié lève le bras verticalement. Vous vous trouvez déjà sur le carrefour avec votre véhicule. Que devez-vous faire ?",
+        "en": "At an intersection an authorised official raises his arm vertically. You are already on the intersection with your vehicle. What must you do?"
+      },
+      "options": [
+        { "nl": "Het kruispunt vrijmaken: dit bevel betekent stoppen voor alle weggebruikers, behalve voor wie zich al op het kruispunt bevindt", "fr": "Évacuer le carrefour : cette injonction signifie l'arrêt pour tous les usagers, sauf pour ceux qui se trouvent déjà sur le carrefour", "en": "Clear the intersection: this order means stop for all road users, except for those already on the intersection" },
+        { "nl": "Onmiddellijk stoppen waar u zich bevindt, ook midden op het kruispunt", "fr": "Vous arrêter immédiatement là où vous êtes, même au milieu du carrefour", "en": "Stop immediately where you are, even in the middle of the intersection" },
+        { "nl": "Alleen stoppen wanneer de bevoegde persoon in uw richting kijkt", "fr": "Ne vous arrêter que lorsque l'agent qualifié regarde dans votre direction", "en": "Only stop when the official is looking in your direction" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De arm verticaal opgestoken betekent stoppen voor alle weggebruikers, behalve voor wie zich al op het kruispunt bevindt: die moeten het kruispunt ontruimen. De arm of armen horizontaal uitgestrekt betekent stoppen voor de weggebruikers die naderen uit de richtingen die de armen dwarsen.",
+        "fr": "Le bras levé verticalement signifie l'arrêt pour tous les usagers, sauf pour ceux qui se trouvent déjà sur le carrefour : ceux-ci doivent l'évacuer. Le ou les bras tendus horizontalement signifient l'arrêt pour les usagers qui approchent des directions qui croisent celles indiquées par les bras.",
+        "en": "The arm raised vertically means stop for all road users, except those already on the intersection: they must clear it. The arm or arms extended horizontally mean stop for road users approaching from the directions that cross those indicated by the arms."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 4.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-036",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "signsFor": [{ "approach": "s", "code": "B1" }],
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "w", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A. De driekleurige verkeerslichten op het kruispunt zijn defect en knipperen oranjegeel. Voor u staat het omgekeerde-driehoek bord (voorrang verlenen); bestuurder B nadert van links. Wie mag eerst doorrijden?",
+        "fr": "Vous êtes le conducteur A. Les signaux lumineux tricolores du carrefour sont en panne et clignotent au jaune-orange. Devant vous se trouve le triangle inversé (céder le passage) ; le conducteur B arrive à gauche. Qui peut passer en premier ?",
+        "en": "You are driver A. The three-colour traffic lights at the intersection are out of order and flashing amber. The inverted-triangle give-way sign is posted for you; driver B approaches from the left. Who may proceed first?"
+      },
+      "options": [
+        { "nl": "Bestuurder B: bij een oranjegeel knipperlicht krijgen de voorrangsborden opnieuw hun volle waarde, dus u moet voorrang verlenen", "fr": "Le conducteur B : avec un feu clignotant jaune-orange, les signaux de priorité reprennent toute leur valeur ; vous devez donc céder le passage", "en": "Driver B: with a flashing amber light the priority signs regain their full force, so you must give way" },
+        { "nl": "U (A): de lichten zijn defect en B komt van links, dus geldt de voorrang van rechts in uw voordeel", "fr": "Vous (A) : les feux sont en panne et B vient de gauche, la priorité de droite joue donc en votre faveur", "en": "You (A): the lights are out of order and B comes from the left, so priority to the right works in your favour" },
+        { "nl": "Niemand: bij defecte verkeerslichten moeten alle bestuurders stoppen en onderling afspreken", "fr": "Personne : quand les feux sont en panne, tous les conducteurs doivent s'arrêter et s'accorder entre eux", "en": "Nobody: when the lights are out of order, all drivers must stop and agree among themselves" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Werkende verkeerslichten schakelen de voorrangsborden op dezelfde weg uit, maar die regel geldt niet voor het oranjegeel knipperlicht: dan gelden de voorrangsborden opnieuw en moet u bovendien dubbel voorzichtig zijn. Door het bord B1 moet u dus voorrang verlenen aan B, ook al komt die van links.",
+        "fr": "Des signaux lumineux en fonctionnement suspendent les signaux de priorité placés sur la même voie, mais cette règle ne vaut pas pour le feu clignotant jaune-orange : les signaux de priorité s'appliquent alors de nouveau et vous devez en outre redoubler de prudence. En raison du signal B1, vous devez donc céder le passage à B, même s'il vient de gauche.",
+        "en": "Working traffic lights suspend the priority signs on the same road, but that rule does not apply to the flashing amber light: the priority signs then apply again and you must moreover be doubly careful. Because of sign B1 you must therefore give way to B, even though he comes from the left."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 6.3, 64.1 en 67.3 (verkeersbord B1)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-037",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U rijdt in één richting rond het middeneiland van een rond plein. Aan de opritten staat geen enkel verkeersbord. Een auto nadert het plein via een oprit rechts van u. Wie heeft voorrang?",
+        "fr": "Vous circulez dans un seul sens autour de l'îlot central d'une place circulaire. Aucun signal routier n'est placé aux entrées. Une voiture aborde la place par une entrée située à votre droite. Qui a la priorité ?",
+        "en": "You are driving one way around the central island of a circular junction. There are no road signs at any of the entries. A car approaches the junction from an entry on your right. Who has priority?"
+      },
+      "options": [
+        { "nl": "U: wie al op het ronde plein rijdt, heeft altijd voorrang op wie het oprijdt", "fr": "Vous : celui qui circule déjà sur la place circulaire a toujours la priorité sur celui qui s'y engage", "en": "You: whoever is already driving on the circle always has priority over anyone entering" },
+        { "nl": "De oprijdende bestuurder: zonder verkeersborden aan de opritten is dit wettelijk geen rotonde en geldt de gewone voorrang van rechts", "fr": "Le conducteur qui s'engage : sans signaux routiers aux entrées, il ne s'agit pas légalement d'un rond-point et la priorité de droite ordinaire s'applique", "en": "The entering driver: without road signs at the entries this is legally not a roundabout, and ordinary priority to the right applies" },
+        { "nl": "De oprijdende bestuurder moet wachten, want het oprijden van het plein is een maneuver", "fr": "Le conducteur qui s'engage doit attendre, car s'engager sur la place est une manœuvre", "en": "The entering driver must wait, because entering the circle is a manoeuvre" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Een rotonde is wettelijk pas een rotonde wanneer ze aangeduid is met het bord D5 en de opritten voorzien zijn van het bord B1 of B5; alleen dan vervalt de voorrang van rechts voor wie erop rijdt. Ontbreken die borden, dan geldt de gewone regel en moet u voorrang verlenen aan de bestuurder die van rechts oprijdt.",
+        "fr": "Un rond-point n'existe légalement que lorsqu'il est signalé par le signal D5 et que ses entrées portent le signal B1 ou B5 ; ce n'est qu'alors que la priorité de droite cesse de s'appliquer à celui qui y circule. En l'absence de ces signaux, la règle ordinaire s'applique et vous devez céder le passage au conducteur qui s'engage par votre droite.",
+        "en": "Legally a roundabout only exists when it is marked with sign D5 and its entries carry sign B1 or B5; only then does priority to the right stop applying to traffic on it. Without those signs the ordinary rule applies and you must give way to the driver entering from your right."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 2.39 en 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-038",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "U staat als eerste voor een rood licht. Achter u nadert een brandweerwagen met blauwe knipperlichten en het speciaal geluidstoestel in werking. Wat doet u?",
+        "fr": "Vous êtes le premier arrêté à un feu rouge. Derrière vous, un camion de pompiers approche, feux bleus clignotants et avertisseur sonore spécial en marche. Que faites-vous ?",
+        "en": "You are first in line at a red light. Behind you a fire engine approaches with blue flashing lights and its special siren on. What do you do?"
+      },
+      "options": [
+        { "nl": "U maakt de doorgang vrij: zo nodig rijdt u voorzichtig de stopstreep voorbij, zonder de weggebruikers op het kruispunt in gevaar te brengen", "fr": "Vous dégagez le passage : au besoin, vous franchissez prudemment la ligne d'arrêt, sans mettre en danger les usagers présents sur le carrefour", "en": "You clear the way: if necessary you carefully move past the stop line, without endangering the road users on the intersection" },
+        { "nl": "U blijft vóór de stopstreep staan tot het licht groen wordt: bij rood mag u die nooit voorbijrijden", "fr": "Vous restez arrêté avant la ligne d'arrêt jusqu'au feu vert : au rouge, il est toujours interdit de la franchir", "en": "You stay before the stop line until the light turns green: at red you may never cross it" },
+        { "nl": "U steekt het kruispunt snel volledig over om de weg vrij te maken", "fr": "Vous traversez rapidement tout le carrefour pour libérer la voie", "en": "You quickly cross the whole intersection to clear the road" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Zodra het speciaal geluidstoestel een prioritair voertuig aankondigt, moet elke weggebruiker onmiddellijk de doorgang vrijmaken en voorrang verlenen. Bij een rood licht mag u daarvoor voorzichtig de stopstreep voorbijrijden, maar zonder het kruisende verkeer te hinderen of in gevaar te brengen. Deze verplichting negeren is een overtreding van de derde graad.",
+        "fr": "Dès que l'avertisseur sonore spécial annonce un véhicule prioritaire, chaque usager doit immédiatement dégager le passage et céder la priorité. À un feu rouge, vous pouvez pour cela franchir prudemment la ligne d'arrêt, mais sans gêner ni mettre en danger la circulation transversale. Ignorer cette obligation constitue une infraction du troisième degré.",
+        "en": "As soon as the special siren announces a priority vehicle, every road user must immediately clear the way and give way. At a red light you may carefully move past the stop line to do so, but without obstructing or endangering the crossing traffic. Ignoring this duty is a third-degree offence."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 38", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
+        { "source": "KB 30/09/2005 (indeling van de overtredingen per graad)", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+      ]
+    },
+    {
+      "id": "priority-039",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Een politievoertuig rijdt vóór u met blauwe knipperlichten aan, maar zonder het speciaal geluidstoestel. Welke conclusie is juist?",
+        "fr": "Un véhicule de police roule devant vous, feux bleus clignotants allumés mais sans l'avertisseur sonore spécial. Quelle conclusion est correcte ?",
+        "en": "A police vehicle is driving ahead of you with its blue flashing lights on but without the special siren. Which conclusion is correct?"
+      },
+      "options": [
+        { "nl": "Het voertuig voert niet noodzakelijk een dringende opdracht uit: de blauwe knipperlichten mogen ook bij andere opdrachten branden; alleen het speciaal geluidstoestel kondigt een dringende opdracht aan", "fr": "Le véhicule n'exécute pas nécessairement une mission urgente : les feux bleus clignotants peuvent aussi fonctionner lors d'autres missions ; seul l'avertisseur sonore spécial annonce une mission urgente", "en": "The vehicle is not necessarily on an urgent mission: the blue flashing lights may also be used on other missions; only the special siren announces an urgent mission" },
+        { "nl": "Het voertuig voert zeker een dringende opdracht uit: de blauwe knipperlichten mogen alleen dan branden", "fr": "Le véhicule exécute certainement une mission urgente : les feux bleus clignotants ne peuvent fonctionner que dans ce cas", "en": "The vehicle is certainly on an urgent mission: the blue flashing lights may only be used then" },
+        { "nl": "Het voertuig is in overtreding: blauwe knipperlichten mogen alleen samen met het speciaal geluidstoestel gebruikt worden", "fr": "Le véhicule est en infraction : les feux bleus clignotants ne peuvent être utilisés qu'avec l'avertisseur sonore spécial", "en": "The vehicle is committing an offence: blue flashing lights may only be used together with the special siren" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De blauwe knipperlichten moeten branden bij een dringende opdracht en mogen ook bij een andere opdracht gebruikt worden wanneer de aard ervan dat rechtvaardigt. Het speciaal geluidstoestel mag daarentegen alleen bij een dringende opdracht gebruikt worden; alleen dan moet u onmiddellijk de doorgang vrijmaken.",
+        "fr": "Les feux bleus clignotants doivent fonctionner lors d'une mission urgente et peuvent aussi être utilisés lors d'une autre mission lorsque sa nature le justifie. L'avertisseur sonore spécial, en revanche, ne peut être utilisé que lors d'une mission urgente ; ce n'est qu'alors que vous devez immédiatement dégager le passage.",
+        "en": "The blue flashing lights must be used on an urgent mission and may also be used on another mission when its nature justifies it. The special siren, by contrast, may only be used on an urgent mission; only then must you immediately clear the way."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 37.2 en 37.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-040",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": { "type": "sign", "code": "D5" },
+      "text": {
+        "nl": "U rijdt een rotonde op waar dit bord staat en wil ze bij de tweede afrit weer verlaten. Hoe gebruikt u de richtingsaanwijzers correct?",
+        "fr": "Vous vous engagez sur un rond-point où ce signal est placé et vous voulez le quitter à la deuxième sortie. Comment utilisez-vous correctement les indicateurs de direction ?",
+        "en": "You enter a roundabout where this sign is posted and want to leave it at the second exit. How do you use your indicators correctly?"
+      },
+      "options": [
+        { "nl": "Bij het oprijden hoeft u geen richting aan te geven; bij het verlaten gebruikt u de rechter richtingsaanwijzer", "fr": "En entrant, vous ne devez pas indiquer votre direction ; en quittant le rond-point, vous utilisez l'indicateur de direction droit", "en": "When entering you do not have to signal; when leaving the roundabout you use your right indicator" },
+        { "nl": "U bent verplicht om zowel bij het oprijden als bij het verlaten richting aan te geven", "fr": "Vous êtes obligé d'indiquer votre direction aussi bien en entrant qu'en sortant", "en": "You are required to signal both when entering and when leaving" },
+        { "nl": "Op een rotonde hoeft u nooit richting aan te geven, ook niet bij het verlaten", "fr": "Sur un rond-point, vous ne devez jamais indiquer votre direction, même pas en le quittant", "en": "On a roundabout you never have to signal, not even when leaving" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het oprijden van een rotonde wordt beschouwd als een richtingsverandering waarbij de richtingsaanwijzers niet moeten worden gebruikt; het verlaten is een richtingsverandering waarbij dat wél moet. Geef dus tijdig rechts aan wanneer u uw afrit neemt, zodat de andere weggebruikers weten wat u van plan bent.",
+        "fr": "S'engager sur un rond-point est considéré comme un changement de direction pour lequel les indicateurs de direction ne doivent pas être utilisés ; le quitter est un changement de direction pour lequel ils doivent l'être. Indiquez donc à temps votre direction vers la droite lorsque vous prenez votre sortie, afin que les autres usagers sachent ce que vous comptez faire.",
+        "en": "Entering a roundabout counts as a change of direction for which the indicators do not have to be used; leaving it is a change of direction for which they must be used. So signal right in good time when taking your exit, so other road users know what you intend."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 19.2.1°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-041",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op een rotonde met twee rijstroken rijdt u op de linkerrijstrook, naast een andere auto op de rechterrijstrook. Vóór uw afrit wil u naar de rechterrijstrook. Wat geldt?",
+        "fr": "Sur un rond-point à deux bandes de circulation, vous roulez sur la bande de gauche, à côté d'une autre voiture sur la bande de droite. Avant votre sortie, vous voulez passer sur la bande de droite. Qu'est-ce qui s'applique ?",
+        "en": "On a roundabout with two traffic lanes you are in the left lane, next to another car in the right lane. Before your exit you want to move to the right lane. What applies?"
+      },
+      "options": [
+        { "nl": "Van rijstrook veranderen is ook op de rotonde een maneuver: u moet voorrang verlenen aan de bestuurders op de rechterrijstrook en tijdig richting aangeven", "fr": "Changer de bande est aussi une manœuvre sur le rond-point : vous devez céder le passage aux conducteurs de la bande de droite et indiquer votre direction à temps", "en": "Changing lanes is a manoeuvre on the roundabout too: you must give way to the drivers in the right lane and signal in time" },
+        { "nl": "Wie de rotonde wil verlaten, heeft voorrang op wie blijft rondrijden", "fr": "Celui qui veut quitter le rond-point a la priorité sur celui qui continue d'y circuler", "en": "Whoever wants to leave the roundabout has priority over whoever keeps circulating" },
+        { "nl": "Op een rotonde is van rijstrook veranderen verboden", "fr": "Sur un rond-point, il est interdit de changer de bande", "en": "Changing lanes is prohibited on a roundabout" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Wie van rijstrook verandert, voert een maneuver uit en moet daarbij voorrang verlenen aan de andere bestuurders; dat geldt ook op een rotonde. Wie de rotonde wil verlaten, heeft dus geen voorrang op het verkeer op de rijstrook ernaast: kies daarom tijdig de juiste rijstrook.",
+        "fr": "Celui qui change de bande exécute une manœuvre et doit alors céder le passage aux autres conducteurs ; cela vaut aussi sur un rond-point. Celui qui veut quitter le rond-point n'a donc aucune priorité sur la circulation de la bande voisine : choisissez donc à temps la bonne bande.",
+        "en": "A driver changing lanes performs a manoeuvre and must give way to the other drivers; that also applies on a roundabout. Whoever wants to leave the roundabout therefore has no priority over the traffic in the adjacent lane: choose the correct lane in good time."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-042",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U moet aan een kruispunt voorrang verlenen. Wanneer mag u uw weg vervolgen?",
+        "fr": "Vous devez céder le passage à un carrefour. Quand pouvez-vous poursuivre votre route ?",
+        "en": "You must give way at an intersection. When may you proceed?"
+      },
+      "options": [
+        { "nl": "Alleen wanneer u dat kunt zonder gevaar voor een ongeval, gelet op de plaats, de snelheid en de afstand van de andere bestuurders", "fr": "Seulement lorsque vous pouvez le faire sans risque d'accident, compte tenu de la position, de la vitesse et de la distance des autres conducteurs", "en": "Only when you can do so without risk of an accident, taking into account the position, speed and distance of the other drivers" },
+        { "nl": "Zodra u vóór de andere bestuurder aan het kruispunt aangekomen bent", "fr": "Dès que vous êtes arrivé au carrefour avant l'autre conducteur", "en": "As soon as you arrived at the intersection before the other driver" },
+        { "nl": "Zodra de naderende bestuurder nog minstens 20 m van het kruispunt verwijderd is", "fr": "Dès que le conducteur qui approche se trouve encore à au moins 20 m du carrefour", "en": "As soon as the approaching driver is still at least 20 m away from the intersection" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "De bestuurder die voorrang moet verlenen, mag zijn weg pas vervolgen als hij dat kan doen zonder gevaar voor een ongeval. Wie het eerst aankomt of een vaste afstand afmeet, speelt geen rol: u beoordeelt telkens de plaats, de snelheid en de afstand van de naderende bestuurders.",
+        "fr": "Le conducteur qui doit céder le passage ne peut poursuivre sa route que s'il peut le faire sans risque d'accident. Arriver le premier ou mesurer une distance fixe ne joue aucun rôle : vous évaluez chaque fois la position, la vitesse et la distance des conducteurs qui approchent.",
+        "en": "The driver who must give way may only proceed when he can do so without risk of an accident. Arriving first or measuring off a fixed distance plays no role: you always judge the position, speed and distance of the approaching drivers."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.5", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
+    },
+    {
+      "id": "priority-043",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "scene",
+        "scene": {
+          "type": "crossroads",
+          "signsFor": [{ "approach": "w", "code": "B1" }],
+          "vehicles": [
+            { "label": "A", "from": "s", "to": "n" },
+            { "label": "B", "from": "w", "to": "e" },
+            { "label": "C", "from": "n", "to": "e" }
+          ]
+        }
+      },
+      "text": {
+        "nl": "U bent bestuurder A en rijdt rechtdoor. Voor bestuurder B, die van links komt, staat het omgekeerde-driehoek bord (voorrang verlenen). Bestuurder C komt u tegemoet en slaat links af. In welke volgorde rijden de bestuurders het kruispunt over?",
+        "fr": "Vous êtes le conducteur A et vous continuez tout droit. Le conducteur B, qui vient de votre gauche, est placé devant le triangle inversé (céder le passage). Le conducteur C vient en sens inverse et tourne à gauche. Dans quel ordre les conducteurs franchissent-ils le carrefour ?",
+        "en": "You are driver A, going straight ahead. Driver B, coming from your left, faces the inverted-triangle give-way sign. Driver C comes towards you and turns left. In what order do the drivers cross the intersection?"
+      },
+      "options": [
+        { "nl": "U (A), dan C, dan B", "fr": "Vous (A), puis C, puis B", "en": "You (A), then C, then B" },
+        { "nl": "C, dan u (A), dan B", "fr": "C, puis vous (A), puis B", "en": "C, then you (A), then B" },
+        { "nl": "U (A), dan B, dan C", "fr": "Vous (A), puis B, puis C", "en": "You (A), then B, then C" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "C slaat links af en moet u als tegemoetkomende bestuurder eerst laten doorrijden. B staat voor het bord B1 en moet voorrang verlenen aan alle bestuurders op de dwarsweg, dus zowel aan u als aan C, die vóór hem naar dezelfde uitrit rijdt. Daarom rijdt u eerst, dan C en als laatste B.",
+        "fr": "C tourne à gauche et doit d'abord vous laisser passer en tant que conducteur venant en sens inverse. B est placé devant le signal B1 et doit céder le passage à tous les conducteurs de la voie transversale, donc à vous comme à C, qui se dirige avant lui vers la même sortie. Vous passez donc en premier, puis C, et B en dernier.",
+        "en": "C is turning left and must first let you, the oncoming driver, through. B faces sign B1 and must give way to all drivers on the crossing road, so both to you and to C, who heads for the same exit before him. So you go first, then C, and B last."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 19.3.3° en 67.3 (verkeersbord B1)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+      ]
     }
   ]
 }

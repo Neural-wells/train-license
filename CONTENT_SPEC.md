@@ -15,8 +15,9 @@ project lexicon (`content/lexicon.json`) and is marked "unofficial translation" 
 
 `"FL"` = Flanders, `"BR"` = Brussels-Capital, `"WA"` = Wallonia.
 Key regional differences (verify before use):
-- Default limit outside built-up areas (non-motorway, no median): **70 km/h in FL** (since 2017), **90 km/h in WA and BR**.
+- Default limit outside built-up areas (non-motorway, no median): **70 km/h in FL** (since 2017), **70 km/h in BR** (since 01/01/2021), **90 km/h in WA only**.
 - Brussels-Capital: default **30 km/h in built-up area** region-wide since 2021 ("Stad 30"), 50/70 only where signed.
+- Motorways: minimum speed 70 km/h is **Art. 21.2**; the two-rightmost-lanes rule for buses/>3.5 t is **Art. 21.3**.
 - Exam logistics (fees, interpreters) differ per region — reading material only.
 
 A question omitting `regions` applies everywhere. If a rule differs by region, either write per-region

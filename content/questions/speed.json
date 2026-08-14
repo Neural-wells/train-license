@@ -4,18 +4,35 @@
     {
       "id": "speed-001",
       "difficulty": 1,
-      "regions": ["FL"],
+      "regions": [
+        "FL"
+      ],
       "severity": "severe",
-      "image": { "type": "sign", "code": "F3" },
+      "image": {
+        "type": "sign",
+        "code": "F3"
+      },
       "text": {
         "nl": "In het Vlaams Gewest passeert u dit verkeersbord en verlaat u de bebouwde kom. Er staan geen andere verkeersborden. Hoe snel mag u maximaal rijden?",
         "fr": "En Région flamande, vous passez ce panneau et quittez l'agglomération. Il n'y a aucun autre signal. À quelle vitesse maximale pouvez-vous rouler ?",
         "en": "In Flanders, you pass this sign and leave the built-up area. There are no other signs. What is your maximum speed?"
       },
       "options": [
-        { "nl": "70 km/u", "fr": "70 km/h", "en": "70 km/h" },
-        { "nl": "90 km/u", "fr": "90 km/h", "en": "90 km/h" },
-        { "nl": "50 km/u", "fr": "50 km/h", "en": "50 km/h" }
+        {
+          "nl": "70 km/u",
+          "fr": "70 km/h",
+          "en": "70 km/h"
+        },
+        {
+          "nl": "90 km/u",
+          "fr": "90 km/h",
+          "en": "90 km/h"
+        },
+        {
+          "nl": "50 km/u",
+          "fr": "50 km/h",
+          "en": "50 km/h"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -24,24 +41,44 @@
         "en": "Since 1 January 2017 the default limit outside built-up areas in Flanders is 70 km/h. 90 km/h applies only where explicitly signed with a C43 sign."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 11.2.2° (Vlaams Gewest)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.2.2° (Vlaams Gewest)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        }
       ]
     },
     {
       "id": "speed-002",
       "difficulty": 1,
-      "regions": ["WA"],
+      "regions": [
+        "WA"
+      ],
       "severity": "severe",
-      "image": { "type": "sign", "code": "F3" },
+      "image": {
+        "type": "sign",
+        "code": "F3"
+      },
       "text": {
         "nl": "In het Waals Gewest passeert u dit verkeersbord en verlaat u de bebouwde kom. Er staan geen andere verkeersborden. Hoe snel mag u maximaal rijden?",
         "fr": "En Région wallonne, vous passez ce panneau et quittez l'agglomération. Il n'y a aucun autre signal. À quelle vitesse maximale pouvez-vous rouler ?",
         "en": "In Wallonia, you pass this sign and leave the built-up area. There are no other signs. What is your maximum speed?"
       },
       "options": [
-        { "nl": "70 km/u", "fr": "70 km/h", "en": "70 km/h" },
-        { "nl": "90 km/u", "fr": "90 km/h", "en": "90 km/h" },
-        { "nl": "120 km/u", "fr": "120 km/h", "en": "120 km/h" }
+        {
+          "nl": "70 km/u",
+          "fr": "70 km/h",
+          "en": "70 km/h"
+        },
+        {
+          "nl": "90 km/u",
+          "fr": "90 km/h",
+          "en": "90 km/h"
+        },
+        {
+          "nl": "120 km/u",
+          "fr": "120 km/h",
+          "en": "120 km/h"
+        }
       ],
       "correct": 1,
       "explanation": {
@@ -50,24 +87,44 @@
         "en": "In Wallonia the default limit outside built-up areas remains 90 km/h on ordinary roads. The Flemish 70 km/h does not apply there; 120 km/h is reserved for motorways and separated dual carriageways."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 11.2.2°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.2.2°",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        }
       ]
     },
     {
       "id": "speed-003",
       "difficulty": 2,
-      "regions": ["BR"],
+      "regions": [
+        "BR"
+      ],
       "severity": "severe",
-      "image": { "type": "sign", "code": "F1" },
+      "image": {
+        "type": "sign",
+        "code": "F1"
+      },
       "text": {
         "nl": "U rijdt binnen de bebouwde kom in het Brussels Hoofdstedelijk Gewest. Er staan geen snelheidsborden. Hoe snel mag u maximaal rijden?",
         "fr": "Vous circulez en agglomération en Région de Bruxelles-Capitale. Il n'y a aucun signal de vitesse. À quelle vitesse maximale pouvez-vous rouler ?",
         "en": "You are driving inside a built-up area in the Brussels-Capital Region. There are no speed signs. What is your maximum speed?"
       },
       "options": [
-        { "nl": "50 km/u", "fr": "50 km/h", "en": "50 km/h" },
-        { "nl": "30 km/u", "fr": "30 km/h", "en": "30 km/h" },
-        { "nl": "20 km/u", "fr": "20 km/h", "en": "20 km/h" }
+        {
+          "nl": "50 km/u",
+          "fr": "50 km/h",
+          "en": "50 km/h"
+        },
+        {
+          "nl": "30 km/u",
+          "fr": "30 km/h",
+          "en": "30 km/h"
+        },
+        {
+          "nl": "20 km/u",
+          "fr": "20 km/h",
+          "en": "20 km/h"
+        }
       ],
       "correct": 1,
       "explanation": {
@@ -76,25 +133,48 @@
         "en": "Since 1 January 2021 ('City 30') the default limit in the Brussels built-up area is 30 km/h. 50 or 70 km/h survives only on axes where it is explicitly signed."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 11.1 (Brussels Hoofdstedelijk Gewest)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu" },
-        { "source": "Brussels Mobility — Stad 30 / Ville 30", "url": "https://mobilite-mobiliteit.brussels" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.1 (Brussels Hoofdstedelijk Gewest)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        },
+        {
+          "source": "Brussels Mobility — Stad 30 / Ville 30",
+          "url": "https://mobilite-mobiliteit.brussels"
+        }
       ]
     },
     {
       "id": "speed-004",
       "difficulty": 2,
-      "regions": ["FL"],
+      "regions": [
+        "FL"
+      ],
       "severity": "severe",
-      "image": { "type": "sign", "code": "C43-90" },
+      "image": {
+        "type": "sign",
+        "code": "C43-90"
+      },
       "text": {
         "nl": "In het Vlaams Gewest wilt u buiten de bebouwde kom 90 km/u rijden op een gewone weg. Wanneer mag dat?",
         "fr": "En Région flamande, vous voulez rouler à 90 km/h hors agglomération sur une route ordinaire. Quand est-ce permis ?",
         "en": "In Flanders, you want to drive 90 km/h outside the built-up area on an ordinary road. When is that allowed?"
       },
       "options": [
-        { "nl": "Alleen waar dit verkeersbord dat toelaat", "fr": "Uniquement là où ce panneau l'autorise", "en": "Only where this sign allows it" },
-        { "nl": "Altijd, want buiten de bebouwde kom geldt overal 90 km/u", "fr": "Toujours, car hors agglomération le 90 km/h s'applique partout", "en": "Always, because 90 km/h applies everywhere outside built-up areas" },
-        { "nl": "Nooit, 90 km/u bestaat niet meer in Vlaanderen", "fr": "Jamais, le 90 km/h n'existe plus en Flandre", "en": "Never, 90 km/h no longer exists in Flanders" }
+        {
+          "nl": "Alleen waar dit verkeersbord dat toelaat",
+          "fr": "Uniquement là où ce panneau l'autorise",
+          "en": "Only where this sign allows it"
+        },
+        {
+          "nl": "Altijd, want buiten de bebouwde kom geldt overal 90 km/u",
+          "fr": "Toujours, car hors agglomération le 90 km/h s'applique partout",
+          "en": "Always, because 90 km/h applies everywhere outside built-up areas"
+        },
+        {
+          "nl": "Nooit, 90 km/u bestaat niet meer in Vlaanderen",
+          "fr": "Jamais, le 90 km/h n'existe plus en Flandre",
+          "en": "Never, 90 km/h no longer exists in Flanders"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -103,24 +183,44 @@
         "en": "The Flemish default outside built-up areas is 70 km/h. The road authority can still allow 90 km/h locally, but it must then be indicated with a C43 sign."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 11.2.2° (Vlaams Gewest)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.2.2° (Vlaams Gewest)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        }
       ]
     },
     {
       "id": "speed-005",
       "difficulty": 1,
-      "regions": ["WA"],
+      "regions": [
+        "WA"
+      ],
       "severity": "severe",
-      "image": { "type": "sign", "code": "F1" },
+      "image": {
+        "type": "sign",
+        "code": "F1"
+      },
       "text": {
         "nl": "In Wallonië passeert u dit verkeersbord en rijdt u de bebouwde kom binnen. Er staan geen snelheidsborden. Hoe snel mag u maximaal rijden?",
         "fr": "En Wallonie, vous passez ce panneau et entrez en agglomération. Il n'y a aucun signal de vitesse. À quelle vitesse maximale pouvez-vous rouler ?",
         "en": "In Wallonia, you pass this sign and enter a built-up area. There are no speed signs. What is your maximum speed?"
       },
       "options": [
-        { "nl": "30 km/u", "fr": "30 km/h", "en": "30 km/h" },
-        { "nl": "50 km/u", "fr": "50 km/h", "en": "50 km/h" },
-        { "nl": "70 km/u", "fr": "70 km/h", "en": "70 km/h" }
+        {
+          "nl": "30 km/u",
+          "fr": "30 km/h",
+          "en": "30 km/h"
+        },
+        {
+          "nl": "50 km/u",
+          "fr": "50 km/h",
+          "en": "50 km/h"
+        },
+        {
+          "nl": "70 km/u",
+          "fr": "70 km/h",
+          "en": "70 km/h"
+        }
       ],
       "correct": 1,
       "explanation": {
@@ -129,24 +229,44 @@
         "en": "In Wallonia and Flanders the default limit inside built-up areas is 50 km/h. Sign F1 shows no number: you are expected to know which limit goes with the built-up area."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 11.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.1",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        }
       ]
     },
     {
       "id": "speed-006",
       "difficulty": 2,
-      "regions": ["BR"],
+      "regions": [
+        "BR"
+      ],
       "severity": "severe",
-      "image": { "type": "sign", "code": "C43-50" },
+      "image": {
+        "type": "sign",
+        "code": "C43-50"
+      },
       "text": {
         "nl": "In het Brussels Hoofdstedelijk Gewest rijdt u op een grote as waar dit verkeersbord staat. Hoe snel mag u daar maximaal rijden?",
         "fr": "En Région de Bruxelles-Capitale, vous roulez sur un grand axe où est placé ce panneau. À quelle vitesse maximale pouvez-vous y rouler ?",
         "en": "In the Brussels-Capital Region you are driving on a major axis where this sign is placed. What is your maximum speed there?"
       },
       "options": [
-        { "nl": "30 km/u, want in Brussel geldt altijd de stadslimiet", "fr": "30 km/h, car à Bruxelles la limite urbaine s'applique toujours", "en": "30 km/h, because the city limit always applies in Brussels" },
-        { "nl": "50 km/u, zoals het bord aangeeft", "fr": "50 km/h, comme l'indique le signal", "en": "50 km/h, as the sign indicates" },
-        { "nl": "70 km/u", "fr": "70 km/h", "en": "70 km/h" }
+        {
+          "nl": "30 km/u, want in Brussel geldt altijd de stadslimiet",
+          "fr": "30 km/h, car à Bruxelles la limite urbaine s'applique toujours",
+          "en": "30 km/h, because the city limit always applies in Brussels"
+        },
+        {
+          "nl": "50 km/u, zoals het bord aangeeft",
+          "fr": "50 km/h, comme l'indique le signal",
+          "en": "50 km/h, as the sign indicates"
+        },
+        {
+          "nl": "70 km/u",
+          "fr": "70 km/h",
+          "en": "70 km/h"
+        }
       ],
       "correct": 1,
       "explanation": {
@@ -155,14 +275,22 @@
         "en": "The Brussels 30 km/h is the default in the absence of signs. On axes where the road authority has placed a C43 sign showing 50, the signed limit of 50 km/h applies."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 11.1 en Art. 68.3 (verkeersbord C43)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
-        { "source": "Brussels Mobility — Stad 30 / Ville 30", "url": "https://mobilite-mobiliteit.brussels" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.1 en Art. 68.3 (verkeersbord C43)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Brussels Mobility — Stad 30 / Ville 30",
+          "url": "https://mobilite-mobiliteit.brussels"
+        }
       ]
     },
     {
       "id": "speed-007",
       "difficulty": 3,
-      "regions": ["FL"],
+      "regions": [
+        "FL"
+      ],
       "severity": "severe",
       "image": null,
       "text": {
@@ -171,9 +299,21 @@
         "en": "In Flanders, you are driving outside the built-up area on a road with four lanes (two per direction). The directions are separated only by road markings. There are no signs. What is your maximum speed?"
       },
       "options": [
-        { "nl": "120 km/u", "fr": "120 km/h", "en": "120 km/h" },
-        { "nl": "70 km/u", "fr": "70 km/h", "en": "70 km/h" },
-        { "nl": "90 km/u", "fr": "90 km/h", "en": "90 km/h" }
+        {
+          "nl": "120 km/u",
+          "fr": "120 km/h",
+          "en": "120 km/h"
+        },
+        {
+          "nl": "70 km/u",
+          "fr": "70 km/h",
+          "en": "70 km/h"
+        },
+        {
+          "nl": "90 km/u",
+          "fr": "90 km/h",
+          "en": "90 km/h"
+        }
       ],
       "correct": 1,
       "explanation": {
@@ -182,13 +322,18 @@
         "en": "120 km/h applies only when the directions are separated by something other than road markings (e.g. a central reservation). With markings only, the ordinary out-of-town limit applies: 70 km/h in Flanders."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 11.2.1° en 11.2.2° (Vlaams Gewest)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.2.1° en 11.2.2° (Vlaams Gewest)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        }
       ]
     },
     {
       "id": "speed-008",
       "difficulty": 3,
-      "regions": ["WA"],
+      "regions": [
+        "WA"
+      ],
       "severity": "severe",
       "image": null,
       "text": {
@@ -197,9 +342,21 @@
         "en": "In Wallonia, you are driving outside the built-up area on a dual carriageway whose directions are separated only by road markings. There are no signs. What is your maximum speed?"
       },
       "options": [
-        { "nl": "120 km/u", "fr": "120 km/h", "en": "120 km/h" },
-        { "nl": "70 km/u", "fr": "70 km/h", "en": "70 km/h" },
-        { "nl": "90 km/u", "fr": "90 km/h", "en": "90 km/h" }
+        {
+          "nl": "120 km/u",
+          "fr": "120 km/h",
+          "en": "120 km/h"
+        },
+        {
+          "nl": "70 km/u",
+          "fr": "70 km/h",
+          "en": "70 km/h"
+        },
+        {
+          "nl": "90 km/u",
+          "fr": "90 km/h",
+          "en": "90 km/h"
+        }
       ],
       "correct": 2,
       "explanation": {
@@ -208,49 +365,87 @@
         "en": "Without physical separation of the directions, the 120 km/h rule does not apply; the ordinary out-of-town limit does, which is 90 km/h in Wallonia."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 11.2.1° en 11.2.2°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.2.1° en 11.2.2°",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        }
       ]
     },
     {
       "id": "speed-009",
       "difficulty": 3,
-      "regions": ["BR"],
+      "regions": [
+        "BR"
+      ],
       "severity": "severe",
-      "image": { "type": "sign", "code": "F3" },
+      "image": {
+        "type": "sign",
+        "code": "F3"
+      },
       "text": {
         "nl": "In het Brussels Hoofdstedelijk Gewest passeert u dit verkeersbord en verlaat u de bebouwde kom, op een gewone weg zonder andere borden. Hoe snel mag u maximaal rijden?",
         "fr": "En Région de Bruxelles-Capitale, vous passez ce panneau et quittez l'agglomération, sur une route ordinaire sans autre signal. À quelle vitesse maximale pouvez-vous rouler ?",
         "en": "In the Brussels-Capital Region, you pass this sign and leave the built-up area, on an ordinary road with no other signs. What is your maximum speed?"
       },
       "options": [
-        { "nl": "70 km/u", "fr": "70 km/h", "en": "70 km/h" },
-        { "nl": "90 km/u", "fr": "90 km/h", "en": "90 km/h" },
-        { "nl": "30 km/u", "fr": "30 km/h", "en": "30 km/h" }
+        {
+          "nl": "70 km/u",
+          "fr": "70 km/h",
+          "en": "70 km/h"
+        },
+        {
+          "nl": "90 km/u",
+          "fr": "90 km/h",
+          "en": "90 km/h"
+        },
+        {
+          "nl": "30 km/u",
+          "fr": "30 km/h",
+          "en": "30 km/h"
+        }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
-        "nl": "De Brusselse 30 km/u geldt alleen binnen de bebouwde kom. Buiten de bebouwde kom is de algemene limiet in Brussel, net als in Wallonië, 90 km/u — al is bijna heel het gewest bebouwde kom.",
-        "fr": "Le 30 km/h bruxellois ne vaut qu'en agglomération. Hors agglomération, la limite générale à Bruxelles est, comme en Wallonie, de 90 km/h — même si presque toute la région est en agglomération.",
-        "en": "The Brussels 30 km/h applies only inside the built-up area. Outside it, the default limit in Brussels is, as in Wallonia, 90 km/h — although almost the entire region is built-up."
+        "nl": "De Brusselse 30 km/u geldt alleen binnen de bebouwde kom. Buiten de bebouwde kom is de algemene limiet in het Brussels Hoofdstedelijk Gewest sinds 1 januari 2021 70 km/u (Art. 11.2.2°) — 90 km/u geldt daar nergens als algemene regel.",
+        "fr": "Le 30 km/h bruxellois ne vaut qu'en agglomération. Hors agglomération, la limite générale en Région de Bruxelles-Capitale est de 70 km/h depuis le 1er janvier 2021 (art. 11.2.2°) — le 90 km/h n'y existe nulle part comme règle générale.",
+        "en": "The Brussels 30 km/h applies only inside the built-up area. Outside it, the default in the Brussels-Capital Region has been 70 km/h since 1 January 2021 (Art. 11.2.2°) — 90 km/h is not the default anywhere in the region."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 11.2.2°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.2.2° (Brussels Hoofdstedelijk Gewest, sinds 01/01/2021)",
+          "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel"
+        }
       ]
     },
     {
       "id": "speed-010",
       "difficulty": 1,
       "severity": "severe",
-      "image": { "type": "sign", "code": "F5" },
+      "image": {
+        "type": "sign",
+        "code": "F5"
+      },
       "text": {
         "nl": "U passeert dit verkeersbord en rijdt met uw personenauto de autosnelweg op. Er staan geen snelheidsborden. Hoe snel mag u maximaal rijden?",
         "fr": "Vous passez ce panneau et vous engagez sur l'autoroute avec votre voiture. Il n'y a aucun signal de vitesse. À quelle vitesse maximale pouvez-vous rouler ?",
         "en": "You pass this sign and drive your car onto the motorway. There are no speed signs. What is your maximum speed?"
       },
       "options": [
-        { "nl": "120 km/u", "fr": "120 km/h", "en": "120 km/h" },
-        { "nl": "130 km/u", "fr": "130 km/h", "en": "130 km/h" },
-        { "nl": "100 km/u", "fr": "100 km/h", "en": "100 km/h" }
+        {
+          "nl": "120 km/u",
+          "fr": "120 km/h",
+          "en": "120 km/h"
+        },
+        {
+          "nl": "130 km/u",
+          "fr": "130 km/h",
+          "en": "130 km/h"
+        },
+        {
+          "nl": "100 km/u",
+          "fr": "100 km/h",
+          "en": "100 km/h"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -259,23 +454,41 @@
         "en": "On Belgian motorways the maximum for cars is 120 km/h — in all three regions. The French 130 km/h does not apply in Belgium."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 11.2.1°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.2.1°",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        }
       ]
     },
     {
       "id": "speed-011",
       "difficulty": 2,
       "severity": "standard",
-      "image": { "type": "sign", "code": "F5" },
+      "image": {
+        "type": "sign",
+        "code": "F5"
+      },
       "text": {
         "nl": "Wat is in normale omstandigheden de minimumsnelheid op de autosnelweg?",
         "fr": "Quelle est, dans des circonstances normales, la vitesse minimale sur l'autoroute ?",
         "en": "In normal circumstances, what is the minimum speed on the motorway?"
       },
       "options": [
-        { "nl": "60 km/u", "fr": "60 km/h", "en": "60 km/h" },
-        { "nl": "70 km/u", "fr": "70 km/h", "en": "70 km/h" },
-        { "nl": "90 km/u", "fr": "90 km/h", "en": "90 km/h" }
+        {
+          "nl": "60 km/u",
+          "fr": "60 km/h",
+          "en": "60 km/h"
+        },
+        {
+          "nl": "70 km/u",
+          "fr": "70 km/h",
+          "en": "70 km/h"
+        },
+        {
+          "nl": "90 km/u",
+          "fr": "90 km/h",
+          "en": "90 km/h"
+        }
       ],
       "correct": 1,
       "explanation": {
@@ -284,7 +497,10 @@
         "en": "On the motorway you may not drive slower than 70 km/h, except when circumstances (congestion, fog, roadworks) make that speed impossible or unsafe. Vehicles unable to reach 70 km/h may not enter the motorway."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 21.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/uqtb0bclrx~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 21.2",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/uqtb0bclrx~hra8v386pu"
+        }
       ]
     },
     {
@@ -298,9 +514,21 @@
         "en": "You are driving outside the built-up area on a road with four lanes (two per direction), separated by a central reservation. It is not a motorway and there are no signs. What is your maximum speed?"
       },
       "options": [
-        { "nl": "90 km/u", "fr": "90 km/h", "en": "90 km/h" },
-        { "nl": "100 km/u", "fr": "100 km/h", "en": "100 km/h" },
-        { "nl": "120 km/u", "fr": "120 km/h", "en": "120 km/h" }
+        {
+          "nl": "90 km/u",
+          "fr": "90 km/h",
+          "en": "90 km/h"
+        },
+        {
+          "nl": "100 km/u",
+          "fr": "100 km/h",
+          "en": "100 km/h"
+        },
+        {
+          "nl": "120 km/u",
+          "fr": "120 km/h",
+          "en": "120 km/h"
+        }
       ],
       "correct": 2,
       "explanation": {
@@ -309,23 +537,41 @@
         "en": "On public roads with at least 2x2 lanes whose directions are separated by something other than road markings (e.g. a central reservation), the limit is 120 km/h — the same as on the motorway, in all regions."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 11.2.1°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.2.1°",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        }
       ]
     },
     {
       "id": "speed-013",
       "difficulty": 1,
       "severity": "severe",
-      "image": { "type": "sign", "code": "F12a" },
+      "image": {
+        "type": "sign",
+        "code": "F12a"
+      },
       "text": {
         "nl": "U passeert dit verkeersbord en rijdt een woonerf binnen. Hoe snel mag u maximaal rijden?",
         "fr": "Vous passez ce panneau et entrez dans une zone résidentielle. À quelle vitesse maximale pouvez-vous rouler ?",
         "en": "You pass this sign and enter a residential zone (woonerf). What is your maximum speed?"
       },
       "options": [
-        { "nl": "30 km/u", "fr": "30 km/h", "en": "30 km/h" },
-        { "nl": "50 km/u", "fr": "50 km/h", "en": "50 km/h" },
-        { "nl": "20 km/u", "fr": "20 km/h", "en": "20 km/h" }
+        {
+          "nl": "30 km/u",
+          "fr": "30 km/h",
+          "en": "30 km/h"
+        },
+        {
+          "nl": "50 km/u",
+          "fr": "50 km/h",
+          "en": "50 km/h"
+        },
+        {
+          "nl": "20 km/u",
+          "fr": "20 km/h",
+          "en": "20 km/h"
+        }
       ],
       "correct": 2,
       "explanation": {
@@ -334,23 +580,41 @@
         "en": "In residential and meeting zones the speed is limited to 20 km/h — not 30, as is often assumed. Pedestrians may use the full width of the road and children may play there."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 22bis", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 22bis",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
       "id": "speed-014",
       "difficulty": 2,
       "severity": "severe",
-      "image": { "type": "sign", "code": "F103" },
+      "image": {
+        "type": "sign",
+        "code": "F103"
+      },
       "text": {
         "nl": "U mag uitzonderlijk met uw voertuig een voetgangerszone inrijden, aangeduid met dit verkeersbord. Hoe snel mag u daar rijden?",
         "fr": "Vous êtes exceptionnellement autorisé à entrer avec votre véhicule dans une zone piétonne, indiquée par ce panneau. À quelle vitesse pouvez-vous y rouler ?",
         "en": "You are exceptionally allowed to drive your vehicle into a pedestrian zone, indicated by this sign. How fast may you drive there?"
       },
       "options": [
-        { "nl": "Maximaal 30 km/u", "fr": "Maximum 30 km/h", "en": "A maximum of 30 km/h" },
-        { "nl": "Maximaal 20 km/u", "fr": "Maximum 20 km/h", "en": "A maximum of 20 km/h" },
-        { "nl": "Stapvoets, en u moet voetgangers voorrang verlenen", "fr": "À l'allure du pas, en cédant le passage aux piétons", "en": "At walking pace, giving way to pedestrians" }
+        {
+          "nl": "Maximaal 30 km/u",
+          "fr": "Maximum 30 km/h",
+          "en": "A maximum of 30 km/h"
+        },
+        {
+          "nl": "Maximaal 20 km/u",
+          "fr": "Maximum 20 km/h",
+          "en": "A maximum of 20 km/h"
+        },
+        {
+          "nl": "Stapvoets, en u moet voetgangers voorrang verlenen",
+          "fr": "À l'allure du pas, en cédant le passage aux piétons",
+          "en": "At walking pace, giving way to pedestrians"
+        }
       ],
       "correct": 2,
       "explanation": {
@@ -359,23 +623,41 @@
         "en": "Drivers allowed into a pedestrian zone must drive at walking pace, give way to pedestrians and stop if necessary. Pedestrians always have priority there."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 22sexies", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 22sexies",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
       "id": "speed-015",
       "difficulty": 1,
       "severity": "severe",
-      "image": { "type": "sign", "code": "F4a" },
+      "image": {
+        "type": "sign",
+        "code": "F4a"
+      },
       "text": {
         "nl": "U passeert dit zonebord, het begin van een zone 30. Tot waar geldt de limiet van 30 km/u?",
         "fr": "Vous passez ce panneau à validité zonale, qui marque le début d'une zone 30. Jusqu'où la limite de 30 km/h s'applique-t-elle ?",
         "en": "You pass this zone sign, marking the start of a 30 km/h zone. Up to where does the 30 km/h limit apply?"
       },
       "options": [
-        { "nl": "Tot het eerstvolgende kruispunt", "fr": "Jusqu'au prochain carrefour", "en": "Until the next intersection" },
-        { "nl": "Tot het bord dat het einde van de zone aanduidt", "fr": "Jusqu'au signal qui indique la fin de la zone", "en": "Until the sign marking the end of the zone" },
-        { "nl": "Alleen tijdens de schooluren", "fr": "Uniquement pendant les heures de classe", "en": "Only during school hours" }
+        {
+          "nl": "Tot het eerstvolgende kruispunt",
+          "fr": "Jusqu'au prochain carrefour",
+          "en": "Until the next intersection"
+        },
+        {
+          "nl": "Tot het bord dat het einde van de zone aanduidt",
+          "fr": "Jusqu'au signal qui indique la fin de la zone",
+          "en": "Until the sign marking the end of the zone"
+        },
+        {
+          "nl": "Alleen tijdens de schooluren",
+          "fr": "Uniquement pendant les heures de classe",
+          "en": "Only during school hours"
+        }
       ],
       "correct": 1,
       "explanation": {
@@ -384,23 +666,44 @@
         "en": "A 30 km/h zone has zonal validity: the limit applies throughout the zone, intersection after intersection, until you pass the end sign F4b. That differs from an ordinary C43 sign, which only applies until the next intersection."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 22quater", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 22quater",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
       "id": "speed-016",
       "difficulty": 2,
       "severity": "severe",
-      "image": { "type": "signs", "codes": ["F4a", "A23"] },
+      "image": {
+        "type": "signs",
+        "codes": [
+          "F4a",
+          "A23"
+        ]
+      },
       "text": {
         "nl": "U nadert een schoolomgeving die als zone 30 is afgebakend. Het is 8u30 en kinderen komen aan bij de schoolpoort. Hoe snel mag u maximaal rijden?",
         "fr": "Vous approchez d'abords d'école aménagés en zone 30. Il est 8h30 et des enfants arrivent devant l'école. À quelle vitesse maximale pouvez-vous rouler ?",
         "en": "You approach a school environment laid out as a 30 km/h zone. It is 8:30 and children are arriving at the school gate. What is your maximum speed?"
       },
       "options": [
-        { "nl": "30 km/u, en zo nodig nog trager wegens de kinderen", "fr": "30 km/h, et moins encore si nécessaire à cause des enfants", "en": "30 km/h, and slower still if the children require it" },
-        { "nl": "50 km/u, want u bent binnen de bebouwde kom", "fr": "50 km/h, puisque vous êtes en agglomération", "en": "50 km/h, because you are inside the built-up area" },
-        { "nl": "20 km/u", "fr": "20 km/h", "en": "20 km/h" }
+        {
+          "nl": "30 km/u, en zo nodig nog trager wegens de kinderen",
+          "fr": "30 km/h, et moins encore si nécessaire à cause des enfants",
+          "en": "30 km/h, and slower still if the children require it"
+        },
+        {
+          "nl": "50 km/u, want u bent binnen de bebouwde kom",
+          "fr": "50 km/h, puisque vous êtes en agglomération",
+          "en": "50 km/h, because you are inside the built-up area"
+        },
+        {
+          "nl": "20 km/u",
+          "fr": "20 km/h",
+          "en": "20 km/h"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -409,25 +712,49 @@
         "en": "School environments are laid out as 30 km/h zones, sometimes with variable signs active only at the start and end of the school day. Moreover, Art. 10 obliges you to adapt your speed to the presence of children — 30 is a ceiling, not a target."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 2.37 en 22quater", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
-        { "source": "Wegcode (KB 01/12/1975), Art. 10.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 2.37 en 22quater",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 10.1",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu"
+        }
       ]
     },
     {
       "id": "speed-017",
       "difficulty": 3,
-      "regions": ["FL", "WA"],
+      "regions": [
+        "FL",
+        "WA"
+      ],
       "severity": "severe",
-      "image": { "type": "sign", "code": "C43-70" },
+      "image": {
+        "type": "sign",
+        "code": "C43-70"
+      },
       "text": {
         "nl": "In Vlaanderen of Wallonië staat binnen de bebouwde kom dit verkeersbord. U rijdt een kruispunt voorbij; het bord wordt niet herhaald. Hoe snel mag u nu maximaal rijden?",
         "fr": "En Flandre ou en Wallonie, ce panneau est placé en agglomération. Vous franchissez un carrefour ; le panneau n'est pas répété. À quelle vitesse maximale pouvez-vous rouler à présent ?",
         "en": "In Flanders or Wallonia, this sign is placed inside the built-up area. You pass an intersection; the sign is not repeated. What is your maximum speed now?"
       },
       "options": [
-        { "nl": "70 km/u, tot het bord dat het einde van de bebouwde kom aanduidt", "fr": "70 km/h, jusqu'au signal de fin d'agglomération", "en": "70 km/h, until the sign marking the end of the built-up area" },
-        { "nl": "50 km/u", "fr": "50 km/h", "en": "50 km/h" },
-        { "nl": "30 km/u", "fr": "30 km/h", "en": "30 km/h" }
+        {
+          "nl": "70 km/u, tot het bord dat het einde van de bebouwde kom aanduidt",
+          "fr": "70 km/h, jusqu'au signal de fin d'agglomération",
+          "en": "70 km/h, until the sign marking the end of the built-up area"
+        },
+        {
+          "nl": "50 km/u",
+          "fr": "50 km/h",
+          "en": "50 km/h"
+        },
+        {
+          "nl": "30 km/u",
+          "fr": "30 km/h",
+          "en": "30 km/h"
+        }
       ],
       "correct": 1,
       "explanation": {
@@ -436,8 +763,14 @@
         "en": "A C43 sign applies up to and including the next intersection. If it is not repeated afterwards, you fall back on the general rule of the location: inside the built-up area that is 50 km/h (in Flanders and Wallonia)."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C43)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
-        { "source": "Wegcode (KB 01/12/1975), Art. 11.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C43)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.1",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        }
       ]
     },
     {
@@ -451,9 +784,21 @@
         "en": "On the motorway there is thick fog and visibility is severely reduced. May you keep driving at 120 km/h?"
       },
       "options": [
-        { "nl": "Ja, de maximumsnelheid blijft 120 km/u", "fr": "Oui, la vitesse maximale reste de 120 km/h", "en": "Yes, the maximum speed remains 120 km/h" },
-        { "nl": "Ja, als u uw grootlicht gebruikt", "fr": "Oui, si vous utilisez vos feux de route", "en": "Yes, if you use your main-beam headlights" },
-        { "nl": "Nee, u moet uw snelheid aanpassen aan het zicht", "fr": "Non, vous devez adapter votre vitesse à la visibilité", "en": "No, you must adapt your speed to the visibility" }
+        {
+          "nl": "Ja, de maximumsnelheid blijft 120 km/u",
+          "fr": "Oui, la vitesse maximale reste de 120 km/h",
+          "en": "Yes, the maximum speed remains 120 km/h"
+        },
+        {
+          "nl": "Ja, als u uw grootlicht gebruikt",
+          "fr": "Oui, si vous utilisez vos feux de route",
+          "en": "Yes, if you use your main-beam headlights"
+        },
+        {
+          "nl": "Nee, u moet uw snelheid aanpassen aan het zicht",
+          "fr": "Non, vous devez adapter votre vitesse à la visibilité",
+          "en": "No, you must adapt your speed to the visibility"
+        }
       ],
       "correct": 2,
       "explanation": {
@@ -462,7 +807,10 @@
         "en": "The speed limit is a ceiling, not a target. Art. 10.1.1° obliges you to adjust your speed to, among other things, visibility and the weather: you must always be able to stop for a foreseeable obstacle. Main-beam headlights are also a bad idea in fog."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 10.1.1°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 10.1.1°",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu"
+        }
       ]
     },
     {
@@ -476,9 +824,21 @@
         "en": "When may you, as a driver, brake suddenly?"
       },
       "options": [
-        { "nl": "Nooit, plots remmen is altijd verboden", "fr": "Jamais, freiner brusquement est toujours interdit", "en": "Never, sudden braking is always forbidden" },
-        { "nl": "Alleen wanneer de veiligheid het vereist", "fr": "Uniquement lorsque la sécurité l'exige", "en": "Only when safety requires it" },
-        { "nl": "Altijd, u bepaalt zelf uw remgedrag", "fr": "Toujours, vous décidez vous-même de votre freinage", "en": "Always, your braking is your own decision" }
+        {
+          "nl": "Nooit, plots remmen is altijd verboden",
+          "fr": "Jamais, freiner brusquement est toujours interdit",
+          "en": "Never, sudden braking is always forbidden"
+        },
+        {
+          "nl": "Alleen wanneer de veiligheid het vereist",
+          "fr": "Uniquement lorsque la sécurité l'exige",
+          "en": "Only when safety requires it"
+        },
+        {
+          "nl": "Altijd, u bepaalt zelf uw remgedrag",
+          "fr": "Toujours, vous décidez vous-même de votre freinage",
+          "en": "Always, your braking is your own decision"
+        }
       ],
       "correct": 1,
       "explanation": {
@@ -487,7 +847,10 @@
         "en": "Art. 10.2 forbids hindering normal traffic by braking suddenly when safety does not require it. Braking for a genuine danger is of course allowed — which is why the driver behind you keeps their distance."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 10.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 10.2",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu"
+        }
       ]
     },
     {
@@ -501,9 +864,21 @@
         "en": "You are driving strikingly slowly for no reason and a long queue is forming behind you. What does the traffic code say?"
       },
       "options": [
-        { "nl": "Dat is verboden: u mag het normale verkeer niet hinderen door abnormaal traag te rijden zonder geldige reden", "fr": "C'est interdit : vous ne pouvez pas gêner la marche normale du trafic en roulant anormalement lentement sans raison valable", "en": "It is forbidden: you may not hinder normal traffic by driving abnormally slowly without a valid reason" },
-        { "nl": "Dat mag altijd: traag rijden is altijd veilig", "fr": "C'est toujours permis : rouler lentement est toujours sûr", "en": "It is always allowed: driving slowly is always safe" },
-        { "nl": "Dat is enkel op de autosnelweg verboden", "fr": "Ce n'est interdit que sur autoroute", "en": "It is only forbidden on the motorway" }
+        {
+          "nl": "Dat is verboden: u mag het normale verkeer niet hinderen door abnormaal traag te rijden zonder geldige reden",
+          "fr": "C'est interdit : vous ne pouvez pas gêner la marche normale du trafic en roulant anormalement lentement sans raison valable",
+          "en": "It is forbidden: you may not hinder normal traffic by driving abnormally slowly without a valid reason"
+        },
+        {
+          "nl": "Dat mag altijd: traag rijden is altijd veilig",
+          "fr": "C'est toujours permis : rouler lentement est toujours sûr",
+          "en": "It is always allowed: driving slowly is always safe"
+        },
+        {
+          "nl": "Dat is enkel op de autosnelweg verboden",
+          "fr": "Ce n'est interdit que sur autoroute",
+          "en": "It is only forbidden on the motorway"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -512,7 +887,10 @@
         "en": "Art. 10.2 forbids driving abnormally slowly without a valid reason, everywhere — not just on the motorway (where the 70 km/h minimum applies on top). Driving too slowly provokes dangerous overtaking."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 10.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 10.2",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu"
+        }
       ]
     },
     {
@@ -526,9 +904,21 @@
         "en": "How can you easily check that you are keeping a sufficient following distance from the vehicle in front?"
       },
       "options": [
-        { "nl": "U houdt altijd precies één wagenlengte afstand", "fr": "Vous gardez toujours exactement une longueur de voiture", "en": "You always keep exactly one car length" },
-        { "nl": "U kijkt of u de nummerplaat van uw voorligger nog kunt lezen", "fr": "Vous vérifiez si vous pouvez encore lire la plaque du véhicule qui précède", "en": "You check whether you can still read the front vehicle's number plate" },
-        { "nl": "Met de tweesecondenregel: u passeert een vast punt minstens twee seconden na uw voorligger", "fr": "Avec la règle des deux secondes : vous passez un point fixe au moins deux secondes après le véhicule qui précède", "en": "With the two-second rule: you pass a fixed point at least two seconds after the vehicle in front" }
+        {
+          "nl": "U houdt altijd precies één wagenlengte afstand",
+          "fr": "Vous gardez toujours exactement une longueur de voiture",
+          "en": "You always keep exactly one car length"
+        },
+        {
+          "nl": "U kijkt of u de nummerplaat van uw voorligger nog kunt lezen",
+          "fr": "Vous vérifiez si vous pouvez encore lire la plaque du véhicule qui précède",
+          "en": "You check whether you can still read the front vehicle's number plate"
+        },
+        {
+          "nl": "Met de tweesecondenregel: u passeert een vast punt minstens twee seconden na uw voorligger",
+          "fr": "Avec la règle des deux secondes : vous passez un point fixe au moins deux secondes après le véhicule qui précède",
+          "en": "With the two-second rule: you pass a fixed point at least two seconds after the vehicle in front"
+        }
       ],
       "correct": 2,
       "explanation": {
@@ -537,7 +927,10 @@
         "en": "Art. 10.1.2° requires a sufficient safety distance, depending on your speed; the law gives no number for cars. The two-second rule is the practical yardstick: a fixed time automatically means more distance at higher speed."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 10.1.2°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 10.1.2°",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu"
+        }
       ]
     },
     {
@@ -551,9 +944,21 @@
         "en": "It is raining hard and the road surface is wet. What do you do with your following distance?"
       },
       "options": [
-        { "nl": "U verdubbelt ze, bijvoorbeeld naar vier seconden", "fr": "Vous la doublez, par exemple à quatre secondes", "en": "You double it, for example to four seconds" },
-        { "nl": "U behoudt dezelfde afstand als bij droog weer", "fr": "Vous gardez la même distance que par temps sec", "en": "You keep the same distance as in dry weather" },
-        { "nl": "U verkleint ze om in het spoor van uw voorligger te rijden", "fr": "Vous la réduisez pour rouler dans la trace du véhicule qui précède", "en": "You reduce it to drive in the tracks of the vehicle in front" }
+        {
+          "nl": "U verdubbelt ze, bijvoorbeeld naar vier seconden",
+          "fr": "Vous la doublez, par exemple à quatre secondes",
+          "en": "You double it, for example to four seconds"
+        },
+        {
+          "nl": "U behoudt dezelfde afstand als bij droog weer",
+          "fr": "Vous gardez la même distance que par temps sec",
+          "en": "You keep the same distance as in dry weather"
+        },
+        {
+          "nl": "U verkleint ze om in het spoor van uw voorligger te rijden",
+          "fr": "Vous la réduisez pour rouler dans la trace du véhicule qui précède",
+          "en": "You reduce it to drive in the tracks of the vehicle in front"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -562,7 +967,10 @@
         "en": "On a wet surface your braking distance can easily double. Art. 10.1 obliges you to adapt both speed and distance to the conditions: speed down, following distance up — from two to about four seconds."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 10.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 10.1",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu"
+        }
       ]
     },
     {
@@ -576,9 +984,21 @@
         "en": "You are driving at 50 km/h. Roughly how many metres do you travel per second — and thus during one second of reaction time?"
       },
       "options": [
-        { "nl": "Ongeveer 9 meter", "fr": "Environ 9 mètres", "en": "About 9 metres" },
-        { "nl": "Ongeveer 14 meter", "fr": "Environ 14 mètres", "en": "About 14 metres" },
-        { "nl": "Ongeveer 25 meter", "fr": "Environ 25 mètres", "en": "About 25 metres" }
+        {
+          "nl": "Ongeveer 9 meter",
+          "fr": "Environ 9 mètres",
+          "en": "About 9 metres"
+        },
+        {
+          "nl": "Ongeveer 14 meter",
+          "fr": "Environ 14 mètres",
+          "en": "About 14 metres"
+        },
+        {
+          "nl": "Ongeveer 25 meter",
+          "fr": "Environ 25 mètres",
+          "en": "About 25 metres"
+        }
       ],
       "correct": 1,
       "explanation": {
@@ -587,7 +1007,10 @@
         "en": "50 km/h divided by 3.6 gives about 14 m/s. So during one second of reaction time you already cover some 14 metres before you even start braking — nearly four car lengths."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 10.1 (snelheid en stopafstand)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 10.1 (snelheid en stopafstand)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu"
+        }
       ]
     },
     {
@@ -601,9 +1024,21 @@
         "en": "You double your speed from 50 to 100 km/h. What happens to your braking distance?"
       },
       "options": [
-        { "nl": "Hij verdubbelt", "fr": "Elle double", "en": "It doubles" },
-        { "nl": "Hij wordt ongeveer vier keer zo lang", "fr": "Elle devient environ quatre fois plus longue", "en": "It becomes about four times as long" },
-        { "nl": "Hij blijft gelijk als u hard genoeg remt", "fr": "Elle reste identique si vous freinez assez fort", "en": "It stays the same if you brake hard enough" }
+        {
+          "nl": "Hij verdubbelt",
+          "fr": "Elle double",
+          "en": "It doubles"
+        },
+        {
+          "nl": "Hij wordt ongeveer vier keer zo lang",
+          "fr": "Elle devient environ quatre fois plus longue",
+          "en": "It becomes about four times as long"
+        },
+        {
+          "nl": "Hij blijft gelijk als u hard genoeg remt",
+          "fr": "Elle reste identique si vous freinez assez fort",
+          "en": "It stays the same if you brake hard enough"
+        }
       ],
       "correct": 1,
       "explanation": {
@@ -612,7 +1047,10 @@
         "en": "Braking distance grows with the square of speed: twice as fast means four times the braking distance. The reaction distance comes on top — together they form your stopping distance."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 10.1 (snelheid en stopafstand)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 10.1 (snelheid en stopafstand)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu"
+        }
       ]
     },
     {
@@ -626,9 +1064,21 @@
         "en": "What does your total stopping distance consist of?"
       },
       "options": [
-        { "nl": "Alleen uit de remweg", "fr": "Uniquement de la distance de freinage", "en": "Only the braking distance" },
-        { "nl": "Uit de reactieweg plus de remweg", "fr": "De la distance de réaction plus la distance de freinage", "en": "The reaction distance plus the braking distance" },
-        { "nl": "Uit de remweg plus de veiligheidsafstand", "fr": "De la distance de freinage plus la distance de sécurité", "en": "The braking distance plus the safety distance" }
+        {
+          "nl": "Alleen uit de remweg",
+          "fr": "Uniquement de la distance de freinage",
+          "en": "Only the braking distance"
+        },
+        {
+          "nl": "Uit de reactieweg plus de remweg",
+          "fr": "De la distance de réaction plus la distance de freinage",
+          "en": "The reaction distance plus the braking distance"
+        },
+        {
+          "nl": "Uit de remweg plus de veiligheidsafstand",
+          "fr": "De la distance de freinage plus la distance de sécurité",
+          "en": "The braking distance plus the safety distance"
+        }
       ],
       "correct": 1,
       "explanation": {
@@ -637,7 +1087,10 @@
         "en": "Stopping distance = reaction distance + braking distance. During your reaction time (about one second) you keep travelling; only then does braking begin. At 50 km/h the stopping distance is roughly 25 to 30 metres in good conditions."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 10.1 (snelheid en stopafstand)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 10.1 (snelheid en stopafstand)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu"
+        }
       ]
     },
     {
@@ -651,9 +1104,21 @@
         "en": "What does an average speed check (section control) measure?"
       },
       "options": [
-        { "nl": "Uw snelheid op één vast punt", "fr": "Votre vitesse en un point fixe", "en": "Your speed at one fixed point" },
-        { "nl": "Uw volgafstand tot de voorligger", "fr": "Votre distance de suivi par rapport au véhicule qui précède", "en": "Your following distance to the vehicle in front" },
-        { "nl": "Uw gemiddelde snelheid tussen twee meetpunten", "fr": "Votre vitesse moyenne entre deux points de mesure", "en": "Your average speed between two measuring points" }
+        {
+          "nl": "Uw snelheid op één vast punt",
+          "fr": "Votre vitesse en un point fixe",
+          "en": "Your speed at one fixed point"
+        },
+        {
+          "nl": "Uw volgafstand tot de voorligger",
+          "fr": "Votre distance de suivi par rapport au véhicule qui précède",
+          "en": "Your following distance to the vehicle in front"
+        },
+        {
+          "nl": "Uw gemiddelde snelheid tussen twee meetpunten",
+          "fr": "Votre vitesse moyenne entre deux points de mesure",
+          "en": "Your average speed between two measuring points"
+        }
       ],
       "correct": 2,
       "explanation": {
@@ -662,7 +1127,10 @@
         "en": "Section control calculates your average speed over an entire stretch of road, with cameras at the start and end. Briefly slowing at the camera therefore does not help: if your average over the stretch exceeds the limit, you are fined."
       },
       "citations": [
-        { "source": "Wegverkeerswet (Wet 16/03/1968), Art. 62 (automatisch werkende toestellen)", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" }
+        {
+          "source": "Wegverkeerswet (Wet 16/03/1968), Art. 62 (automatisch werkende toestellen)",
+          "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel"
+        }
       ]
     },
     {
@@ -676,9 +1144,21 @@
         "en": "You are towing a loaded trailer with your car; the vehicle combination has a maximum authorised mass (MAM) of more than 3.5 tonnes. What is your maximum speed on the motorway?"
       },
       "options": [
-        { "nl": "120 km/u, zoals elke personenauto", "fr": "120 km/h, comme toute voiture", "en": "120 km/h, like any car" },
-        { "nl": "90 km/u", "fr": "90 km/h", "en": "90 km/h" },
-        { "nl": "100 km/u", "fr": "100 km/h", "en": "100 km/h" }
+        {
+          "nl": "120 km/u, zoals elke personenauto",
+          "fr": "120 km/h, comme toute voiture",
+          "en": "120 km/h, like any car"
+        },
+        {
+          "nl": "90 km/u",
+          "fr": "90 km/h",
+          "en": "90 km/h"
+        },
+        {
+          "nl": "100 km/u",
+          "fr": "100 km/h",
+          "en": "100 km/h"
+        }
       ],
       "correct": 1,
       "explanation": {
@@ -687,7 +1167,10 @@
         "en": "Vehicles and vehicle combinations with a maximum authorised mass over 3.5 tonnes may not exceed 90 km/h on motorways and 120-roads. A heavy trailer behind your car therefore changes your speed regime."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 11.2.1°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.2.1°",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        }
       ]
     },
     {
@@ -701,9 +1184,21 @@
         "en": "Your passenger challenges you to 'show how fast the car can go'. What does the traffic code say about that?"
       },
       "options": [
-        { "nl": "Aansporen of uitdagen tot overdreven snel rijden is uitdrukkelijk verboden", "fr": "Inciter ou défier un conducteur à rouler à une vitesse excessive est expressément interdit", "en": "Inciting or challenging a driver to drive at excessive speed is expressly forbidden" },
-        { "nl": "Dat mag, zolang de bestuurder zelf beslist", "fr": "C'est permis, tant que le conducteur décide lui-même", "en": "That is allowed, as long as the driver decides for themselves" },
-        { "nl": "De Wegcode zegt daar niets over; alleen de bestuurder is verantwoordelijk", "fr": "Le code n'en dit rien ; seul le conducteur est responsable", "en": "The code says nothing about it; only the driver is responsible" }
+        {
+          "nl": "Aansporen of uitdagen tot overdreven snel rijden is uitdrukkelijk verboden",
+          "fr": "Inciter ou défier un conducteur à rouler à une vitesse excessive est expressément interdit",
+          "en": "Inciting or challenging a driver to drive at excessive speed is expressly forbidden"
+        },
+        {
+          "nl": "Dat mag, zolang de bestuurder zelf beslist",
+          "fr": "C'est permis, tant que le conducteur décide lui-même",
+          "en": "That is allowed, as long as the driver decides for themselves"
+        },
+        {
+          "nl": "De Wegcode zegt daar niets over; alleen de bestuurder is verantwoordelijk",
+          "fr": "Le code n'en dit rien ; seul le conducteur est responsable",
+          "en": "The code says nothing about it; only the driver is responsible"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -712,7 +1207,408 @@
         "en": "Art. 10.4 forbids inciting or challenging a driver to drive at excessive speed. If you take up the challenge, you of course remain punishable as the driver too."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 10.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 10.4",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "speed-029",
+      "difficulty": 3,
+      "regions": [
+        "FL"
+      ],
+      "severity": "severe",
+      "image": {
+        "type": "sign",
+        "code": "F9"
+      },
+      "text": {
+        "nl": "In Vlaanderen rijdt u buiten de bebouwde kom op een autoweg, aangeduid met dit verkeersbord. De rijbaan heeft één rijstrook per rijrichting en er staan geen snelheidsborden. Hoe snel mag u maximaal rijden?",
+        "fr": "En Flandre, vous roulez hors agglomération sur une route pour automobiles, indiquée par ce panneau. La chaussée compte une bande de circulation par sens et il n'y a aucun signal de vitesse. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "In Flanders, you are driving outside the built-up area on a motor road, indicated by this sign. The carriageway has one lane per direction and there are no speed signs. What is your maximum speed?"
+      },
+      "options": [
+        {
+          "nl": "120 km/u, zoals op de autosnelweg",
+          "fr": "120 km/h, comme sur l'autoroute",
+          "en": "120 km/h, as on the motorway"
+        },
+        {
+          "nl": "70 km/u",
+          "fr": "70 km/h",
+          "en": "70 km/h"
+        },
+        {
+          "nl": "90 km/u",
+          "fr": "90 km/h",
+          "en": "90 km/h"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Het bord F9 zegt niets over de snelheid. 120 km/u geldt alleen op autosnelwegen en op wegen met minstens 2x2 rijstroken waarvan de rijrichtingen anders dan door wegmarkeringen gescheiden zijn. Een autoweg zonder die inrichting valt terug op de algemene limiet buiten de bebouwde kom: in Vlaanderen 70 km/u.",
+        "fr": "Le signal F9 ne dit rien sur la vitesse. Le 120 km/h ne vaut que sur les autoroutes et sur les routes d'au moins 2x2 bandes dont les sens sont séparés autrement que par des marques routières. Une route pour automobiles sans cet aménagement retombe sur la limite générale hors agglomération : 70 km/h en Flandre.",
+        "en": "Sign F9 says nothing about speed. 120 km/h applies only on motorways and on roads with at least 2x2 lanes whose directions are separated by something other than road markings. A motor road without that layout falls back on the general out-of-town limit: 70 km/h in Flanders."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.2.1° en 11.2.3° (Vlaams Gewest)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 2.4 en 22",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "speed-030",
+      "difficulty": 3,
+      "regions": [
+        "WA"
+      ],
+      "severity": "severe",
+      "image": {
+        "type": "sign",
+        "code": "F9"
+      },
+      "text": {
+        "nl": "In Wallonië rijdt u buiten de bebouwde kom op een autoweg met 2x2 rijstroken; de rijrichtingen zijn enkel door wegmarkeringen gescheiden. Er staan geen snelheidsborden. Hoe snel mag u maximaal rijden?",
+        "fr": "En Wallonie, vous roulez hors agglomération sur une route pour automobiles à 2x2 bandes ; les sens de circulation ne sont séparés que par des marques routières. Il n'y a aucun signal de vitesse. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "In Wallonia, you are driving outside the built-up area on a motor road with 2x2 lanes; the directions are separated only by road markings. There are no speed signs. What is your maximum speed?"
+      },
+      "options": [
+        {
+          "nl": "90 km/u",
+          "fr": "90 km/h",
+          "en": "90 km/h"
+        },
+        {
+          "nl": "120 km/u, want het is een autoweg",
+          "fr": "120 km/h, puisque c'est une route pour automobiles",
+          "en": "120 km/h, because it is a motor road"
+        },
+        {
+          "nl": "70 km/u",
+          "fr": "70 km/h",
+          "en": "70 km/h"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Ook op een autoweg geldt 120 km/u alleen wanneer de rijrichtingen anders dan door wegmarkeringen gescheiden zijn, bijvoorbeeld door een middenberm. Met enkel markeringen geldt de gewone Waalse limiet buiten de bebouwde kom: 90 km/u. Het statuut 'autoweg' verhoogt de snelheidslimiet dus niet.",
+        "fr": "Même sur une route pour automobiles, le 120 km/h ne vaut que si les sens sont séparés autrement que par des marques routières, par exemple par un terre-plein. Avec un simple marquage, c'est la limite wallonne ordinaire hors agglomération qui s'applique : 90 km/h. Le statut de route pour automobiles n'augmente donc pas la limite.",
+        "en": "Even on a motor road, 120 km/h applies only when the directions are separated by something other than road markings, such as a central reservation. With markings only, the ordinary Walloon out-of-town limit applies: 90 km/h. The motor-road status does not raise the speed limit."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.2.1° en 11.2.2° (Waals Gewest)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "speed-031",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "F9"
+      },
+      "text": {
+        "nl": "U rijdt op een autoweg, aangeduid met dit verkeersbord. Geldt hier een minimumsnelheid, zoals op de autosnelweg?",
+        "fr": "Vous roulez sur une route pour automobiles, indiquée par ce panneau. Une vitesse minimale s'applique-t-elle ici, comme sur l'autoroute ?",
+        "en": "You are driving on a motor road, indicated by this sign. Does a minimum speed apply here, as on the motorway?"
+      },
+      "options": [
+        {
+          "nl": "Ja, ook hier mag u niet trager rijden dan 70 km/u",
+          "fr": "Oui, ici non plus vous ne pouvez pas rouler à moins de 70 km/h",
+          "en": "Yes, here too you may not drive slower than 70 km/h"
+        },
+        {
+          "nl": "Ja, u mag niet trager rijden dan 50 km/u",
+          "fr": "Oui, vous ne pouvez pas rouler à moins de 50 km/h",
+          "en": "Yes, you may not drive slower than 50 km/h"
+        },
+        {
+          "nl": "Nee, maar abnormaal traag rijden zonder geldige reden blijft overal verboden",
+          "fr": "Non, mais rouler anormalement lentement sans raison valable reste interdit partout",
+          "en": "No, but driving abnormally slowly without a valid reason remains forbidden everywhere"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "De minimumsnelheid van 70 km/u staat in art. 21.2 en geldt alleen op autosnelwegen. Art. 22.2 verklaart op autowegen enkel de verbodsbepalingen van art. 21.4 en 21.6 van toepassing — niet de minimumsnelheid. Wel verbiedt art. 10.2 overal abnormaal traag rijden zonder geldige reden.",
+        "fr": "La vitesse minimale de 70 km/h figure à l'art. 21.2 et ne vaut que sur les autoroutes. L'art. 22.2 ne rend applicables sur les routes pour automobiles que les interdictions des art. 21.4 et 21.6 — pas la vitesse minimale. L'art. 10.2 interdit toutefois partout de rouler anormalement lentement sans raison valable.",
+        "en": "The 70 km/h minimum is laid down in Art. 21.2 and applies only on motorways. Art. 22.2 makes only the prohibitions of Art. 21.4 and 21.6 applicable on motor roads — not the minimum speed. Art. 10.2 does, however, forbid driving abnormally slowly without a valid reason everywhere."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 22.2 en 21.2",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/uqtb0bclrx~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 10.2",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "speed-032",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "U bestuurt een autocar waarvan alle zitplaatsen met een veiligheidsgordel zijn uitgerust en die een snelheidsbegrenzer tot 100 km/u heeft. Hoe snel mag u maximaal rijden op de autosnelweg?",
+        "fr": "Vous conduisez un autocar dont toutes les places assises sont équipées d'une ceinture de sécurité et qui possède un limiteur de vitesse réglé à 100 km/h. À quelle vitesse maximale pouvez-vous rouler sur l'autoroute ?",
+        "en": "You are driving a coach whose seats are all fitted with a seat belt and which has a speed limiter set to 100 km/h. What is your maximum speed on the motorway?"
+      },
+      "options": [
+        {
+          "nl": "90 km/u",
+          "fr": "90 km/h",
+          "en": "90 km/h"
+        },
+        {
+          "nl": "100 km/u",
+          "fr": "100 km/h",
+          "en": "100 km/h"
+        },
+        {
+          "nl": "120 km/u",
+          "fr": "120 km/h",
+          "en": "120 km/h"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Autocars zijn op de autosnelweg in principe beperkt tot 90 km/u, maar een autocar met gordels op alle zitplaatsen én een begrenzer tot 100 km/u mag er 100 km/u rijden. Let op: op gewone 120-wegen (2x2 met middenberm) geldt die uitzondering niet en blijven autocars beperkt tot 90 km/u.",
+        "fr": "Les autocars sont en principe limités à 90 km/h sur l'autoroute, mais un autocar dont toutes les places sont équipées de ceintures et muni d'un limiteur à 100 km/h peut y rouler à 100 km/h. Attention : sur les routes ordinaires à 120 (2x2 avec terre-plein), cette exception ne vaut pas et les autocars restent limités à 90 km/h.",
+        "en": "Coaches are in principle limited to 90 km/h on the motorway, but a coach with seat belts on all seats and a limiter set to 100 km/h may drive at 100 km/h there. Note: on ordinary 120-roads (2x2 with a central reservation) that exception does not apply and coaches remain limited to 90 km/h."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.2.1°a en b",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "speed-033",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "U rijdt 120 km/u op de autosnelweg. Hoeveel meter legt u ongeveer af tijdens één seconde reactietijd — dus vóór u zelfs maar begint te remmen?",
+        "fr": "Vous roulez à 120 km/h sur l'autoroute. Combien de mètres parcourez-vous environ pendant une seconde de temps de réaction — donc avant même de commencer à freiner ?",
+        "en": "You are driving at 120 km/h on the motorway. Roughly how many metres do you cover during one second of reaction time — before you even start braking?"
+      },
+      "options": [
+        {
+          "nl": "Ongeveer 25 meter",
+          "fr": "Environ 25 mètres",
+          "en": "About 25 metres"
+        },
+        {
+          "nl": "Ongeveer 35 meter",
+          "fr": "Environ 35 mètres",
+          "en": "About 35 metres"
+        },
+        {
+          "nl": "Ongeveer 45 meter",
+          "fr": "Environ 45 mètres",
+          "en": "About 45 metres"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "120 km/u gedeeld door 3,6 geeft ongeveer 33 m per seconde; met het ezelsbruggetje (snelheid gedeeld door 10, maal 3) komt u op 36 m. Tijdens één seconde reactietijd legt u dus al zo'n 35 meter af vóór de remweg begint; de totale stopafstand loopt aan die snelheid op tot ruim 100 meter.",
+        "fr": "120 km/h divisés par 3,6 donnent environ 33 m par seconde ; avec la règle pratique (vitesse divisée par 10, fois 3) on obtient 36 m. Pendant une seconde de temps de réaction, vous parcourez donc déjà quelque 35 mètres avant que le freinage ne commence ; la distance d'arrêt totale dépasse largement 100 mètres à cette vitesse.",
+        "en": "120 km/h divided by 3.6 gives about 33 m per second; the rule of thumb (speed divided by 10, times 3) gives 36 m. So during one second of reaction time you already cover some 35 metres before braking even begins; the total stopping distance at that speed exceeds 100 metres."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 10.1 (snelheid en stopafstand)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "speed-034",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op een landweg nadert u een ruiter. Het paard wordt onrustig en toont duidelijk tekenen van angst. Wat moet u doen?",
+        "fr": "Sur un chemin de campagne, vous approchez d'un cavalier. Le cheval s'agite et manifeste des signes évidents de frayeur. Que devez-vous faire ?",
+        "en": "On a country road you approach a horse rider. The horse becomes restless and shows clear signs of fear. What must you do?"
+      },
+      "options": [
+        {
+          "nl": "Stoppen tot het dier gekalmeerd is",
+          "fr": "Vous arrêter jusqu'à ce que l'animal soit calmé",
+          "en": "Stop until the animal has calmed down"
+        },
+        {
+          "nl": "Kort claxonneren zodat de ruiter u zeker heeft opgemerkt",
+          "fr": "Donner un bref coup de klaxon pour que le cavalier vous remarque",
+          "en": "Sound your horn briefly so the rider is sure to notice you"
+        },
+        {
+          "nl": "Met een ruime boog en ongewijzigde snelheid voorbijrijden",
+          "fr": "Dépasser en faisant un large écart, sans modifier votre vitesse",
+          "en": "Pass with a wide berth at unchanged speed"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Elke bestuurder moet vertragen wanneer hij rij-, trek- of lastdieren of vee nadert, en móét stoppen wanneer die dieren tekenen van angst vertonen. Claxonneren zou het paard nog meer doen schrikken en de ruiter in gevaar brengen.",
+        "fr": "Tout conducteur doit ralentir lorsqu'il approche d'animaux de monture, de trait ou de charge, ou de bestiaux, et doit s'arrêter lorsque ces animaux manifestent des signes de frayeur. Klaxonner effraierait davantage le cheval et mettrait le cavalier en danger.",
+        "en": "Every driver must slow down when approaching riding, draught or pack animals or livestock, and must stop when those animals show signs of fear. Sounding the horn would frighten the horse further and endanger the rider."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 10.3",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/aupervujt8~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "speed-035",
+      "difficulty": 3,
+      "regions": [
+        "WA"
+      ],
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "In Wallonië trekt uw auto een aanhangwagen; de sleep heeft een maximale toegelaten massa van 4,2 ton. U rijdt buiten de bebouwde kom op een gewone weg zonder verkeersborden. Hoe snel mag u maximaal rijden?",
+        "fr": "En Wallonie, votre voiture tracte une remorque ; le train de véhicules a une masse maximale autorisée de 4,2 tonnes. Vous roulez hors agglomération sur une route ordinaire sans signaux. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "In Wallonia, your car is towing a trailer; the combination has a maximum authorised mass of 4.2 tonnes. You are driving outside the built-up area on an ordinary road with no signs. What is your maximum speed?"
+      },
+      "options": [
+        {
+          "nl": "60 km/u",
+          "fr": "60 km/h",
+          "en": "60 km/h"
+        },
+        {
+          "nl": "70 km/u",
+          "fr": "70 km/h",
+          "en": "70 km/h"
+        },
+        {
+          "nl": "90 km/u",
+          "fr": "90 km/h",
+          "en": "90 km/h"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "De 90-beperking voor voertuigen en slepen van meer dan 3,5 ton geldt alleen op autosnelwegen en 120-wegen (art. 11.2.1°). Op een gewone weg volgt zo'n sleep gewoon de algemene limiet: in Wallonië 90 km/u. Pas boven 7,5 ton MTM geldt daar wél een strengere grens van 60 km/u (art. 11.3.2°).",
+        "fr": "La limitation à 90 pour les véhicules et trains de plus de 3,5 tonnes ne vaut que sur les autoroutes et les routes à 120 (art. 11.2.1°). Sur une route ordinaire, un tel train suit simplement la limite générale : 90 km/h en Wallonie. Ce n'est qu'au-delà de 7,5 tonnes de MMA qu'une limite plus stricte de 60 km/h s'y applique (art. 11.3.2°).",
+        "en": "The 90 km/h cap for vehicles and combinations over 3.5 tonnes applies only on motorways and 120-roads (Art. 11.2.1°). On an ordinary road such a combination simply follows the general limit: 90 km/h in Wallonia. Only above 7.5 tonnes MAM does a stricter 60 km/h limit apply there (Art. 11.3.2°)."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.2.1° en 11.2.2° (Waals Gewest)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.3.2°",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "speed-036",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "U rijdt met een landbouwvoertuig op een weg voorbehouden voor landbouwvoertuigen, voetgangers, fietsers en ruiters. Hoe snel mag u daar maximaal rijden?",
+        "fr": "Vous conduisez un véhicule agricole sur un chemin réservé aux véhicules agricoles, aux piétons, aux cyclistes et aux cavaliers. À quelle vitesse maximale pouvez-vous y rouler ?",
+        "en": "You are driving an agricultural vehicle on a road reserved for agricultural vehicles, pedestrians, cyclists and horse riders. What is your maximum speed there?"
+      },
+      "options": [
+        {
+          "nl": "30 km/u",
+          "fr": "30 km/h",
+          "en": "30 km/h"
+        },
+        {
+          "nl": "Stapvoets",
+          "fr": "L'allure du pas",
+          "en": "Walking pace"
+        },
+        {
+          "nl": "50 km/u",
+          "fr": "50 km/h",
+          "en": "50 km/h"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Op deze voorbehouden wegen (aangeduid met het verkeersbord F99c) is de snelheid voor iedereen beperkt tot 30 km/u. Het gemotoriseerd verkeer, en in het bijzonder landbouwvoertuigen, moet er bovendien dubbel voorzichtig zijn voor voetgangers, fietsers en ruiters.",
+        "fr": "Sur ces chemins réservés (indiqués par le signal F99c), la vitesse est limitée à 30 km/h pour tous. La circulation motorisée, et en particulier les véhicules agricoles, doit en outre y redoubler de prudence à l'égard des piétons, cyclistes et cavaliers.",
+        "en": "On these reserved roads (indicated by sign F99c) the speed is limited to 30 km/h for everyone. Motorised traffic, and agricultural vehicles in particular, must moreover be doubly careful towards pedestrians, cyclists and horse riders."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 22octies.2 en 22octies.3",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "speed-037",
+      "difficulty": 3,
+      "regions": [
+        "FL",
+        "WA"
+      ],
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "In Vlaanderen of Wallonië staat binnen de bebouwde kom aan een schoolomgeving een variabel zonebord 'zone 30' dat alleen oplicht bij het begin en het einde van de schooldag. U passeert het om 21 uur: het bord licht niet op en er staan geen andere borden. Hoe snel mag u maximaal rijden?",
+        "fr": "En Flandre ou en Wallonie, aux abords d'une école en agglomération, un panneau zonal variable « zone 30 » ne s'allume qu'aux heures d'entrée et de sortie des classes. Vous passez à 21 heures : le panneau est éteint et il n'y a aucun autre signal. À quelle vitesse maximale pouvez-vous rouler ?",
+        "en": "In Flanders or Wallonia, at a school environment inside the built-up area, a variable '30 zone' sign lights up only at the start and end of the school day. You pass it at 9 p.m.: the sign is dark and there are no other signs. What is your maximum speed?"
+      },
+      "options": [
+        {
+          "nl": "30 km/u, een schoolomgeving blijft altijd zone 30",
+          "fr": "30 km/h, les abords d'école restent toujours une zone 30",
+          "en": "30 km/h, a school environment always remains a 30 zone"
+        },
+        {
+          "nl": "50 km/u",
+          "fr": "50 km/h",
+          "en": "50 km/h"
+        },
+        {
+          "nl": "70 km/u",
+          "fr": "70 km/h",
+          "en": "70 km/h"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Een variabel bord geldt alleen wanneer het effectief iets aanduidt. Toont het niets, dan valt u terug op de algemene regel van de plaats: binnen de bebouwde kom is dat 50 km/u in Vlaanderen en Wallonië. Tijdens de schooluren toont het bord de zone 30 (F4a met het symbool A23) en geldt wél 30 km/u.",
+        "fr": "Un panneau variable ne vaut que lorsqu'il affiche effectivement quelque chose. S'il est éteint, vous retombez sur la règle générale du lieu : en agglomération, 50 km/h en Flandre et en Wallonie. Aux heures scolaires, le panneau affiche la zone 30 (F4a avec le symbole A23) et le 30 km/h s'applique bel et bien.",
+        "en": "A variable sign only applies when it actually displays something. When it is dark, you fall back on the general rule of the location: inside the built-up area that is 50 km/h in Flanders and Wallonia. During school hours the sign displays the 30 zone (F4a with the A23 symbol) and 30 km/h does apply."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 2.37 en 22quater",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 11.1",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109/qnofdw3izy~hra8v386pu"
+        }
       ]
     }
   ]
