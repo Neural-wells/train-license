@@ -12,9 +12,21 @@
         "en": "On which side do you overtake another vehicle as a rule?"
       },
       "options": [
-        { "nl": "Links", "fr": "À gauche", "en": "On the left" },
-        { "nl": "Rechts", "fr": "À droite", "en": "On the right" },
-        { "nl": "Om het even welke kant, als het veilig is", "fr": "N'importe quel côté, si c'est sans danger", "en": "Either side, as long as it is safe" }
+        {
+          "nl": "Links",
+          "fr": "À gauche",
+          "en": "On the left"
+        },
+        {
+          "nl": "Rechts",
+          "fr": "À droite",
+          "en": "On the right"
+        },
+        {
+          "nl": "Om het even welke kant, als het veilig is",
+          "fr": "N'importe quel côté, si c'est sans danger",
+          "en": "Either side, as long as it is safe"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -23,7 +35,10 @@
         "en": "Overtaking is done on the left as a rule. Only in exceptional cases, for instance when the driver being overtaken intends to turn left, do you overtake on the right."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 16.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 16.3",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -37,9 +52,21 @@
         "en": "When may you overtake a vehicle on the right?"
       },
       "options": [
-        { "nl": "Wanneer de bestuurder ervan te kennen heeft gegeven dat hij links wil afslaan en zich naar links heeft begeven", "fr": "Lorsque son conducteur a indiqué son intention de tourner à gauche et s'est porté à gauche", "en": "When its driver has signalled the intention to turn left and has moved over to the left" },
-        { "nl": "Nooit, inhalen gebeurt altijd links", "fr": "Jamais, le dépassement s'effectue toujours à gauche", "en": "Never, overtaking is always done on the left" },
-        { "nl": "Zodra de rechterrijstrook vrij is", "fr": "Dès que la bande de circulation de droite est libre", "en": "Whenever the right-hand traffic lane is free" }
+        {
+          "nl": "Wanneer de bestuurder ervan te kennen heeft gegeven dat hij links wil afslaan en zich naar links heeft begeven",
+          "fr": "Lorsque son conducteur a indiqué son intention de tourner à gauche et s'est porté à gauche",
+          "en": "When its driver has signalled the intention to turn left and has moved over to the left"
+        },
+        {
+          "nl": "Nooit, inhalen gebeurt altijd links",
+          "fr": "Jamais, le dépassement s'effectue toujours à gauche",
+          "en": "Never, overtaking is always done on the left"
+        },
+        {
+          "nl": "Zodra de rechterrijstrook vrij is",
+          "fr": "Dès que la bande de circulation de droite est libre",
+          "en": "Whenever the right-hand traffic lane is free"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -48,7 +75,10 @@
         "en": "Overtaking is done on the right when the driver being overtaken has signalled an intention to turn left or park on the left, and has moved to the left to carry out that movement."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 16.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 16.3",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -62,9 +92,21 @@
         "en": "You are driving in a dense queue on a carriageway with two traffic lanes in your direction. The right-hand queue moves faster than the left-hand one. Are you committing an offence?"
       },
       "options": [
-        { "nl": "Nee: wanneer het verkeer in files rijdt, wordt sneller rijden dan de file links van u niet als inhalen beschouwd", "fr": "Non : lorsque la circulation s'effectue en files, rouler plus vite que la file située à votre gauche n'est pas considéré comme un dépassement", "en": "No: when traffic is moving in queues, driving faster than the queue on your left is not considered overtaking" },
-        { "nl": "Ja: rechts voorbijrijden is altijd verboden inhalen", "fr": "Oui : passer par la droite constitue toujours un dépassement interdit", "en": "Yes: passing on the right is always prohibited overtaking" },
-        { "nl": "Ja, tenzij u op een autosnelweg rijdt", "fr": "Oui, sauf si vous roulez sur une autoroute", "en": "Yes, unless you are on a motorway" }
+        {
+          "nl": "Nee: wanneer het verkeer in files rijdt, wordt sneller rijden dan de file links van u niet als inhalen beschouwd",
+          "fr": "Non : lorsque la circulation s'effectue en files, rouler plus vite que la file située à votre gauche n'est pas considéré comme un dépassement",
+          "en": "No: when traffic is moving in queues, driving faster than the queue on your left is not considered overtaking"
+        },
+        {
+          "nl": "Ja: rechts voorbijrijden is altijd verboden inhalen",
+          "fr": "Oui : passer par la droite constitue toujours un dépassement interdit",
+          "en": "Yes: passing on the right is always prohibited overtaking"
+        },
+        {
+          "nl": "Ja, tenzij u op een autosnelweg rijdt",
+          "fr": "Oui, sauf si vous roulez sur une autoroute",
+          "en": "Yes, unless you are on a motorway"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -73,7 +115,10 @@
         "en": "When traffic is dense and moving in queues on a carriageway with several lanes in the same direction, one queue moving faster than another does not count as overtaking."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 16.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 16.2",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -87,9 +132,21 @@
         "en": "Another driver is overtaking you on the left. What must you do?"
       },
       "options": [
-        { "nl": "Zo ver mogelijk rechts houden en uw snelheid niet opvoeren", "fr": "Serrer à droite le plus possible et ne pas accélérer", "en": "Keep as far right as possible and not increase your speed" },
-        { "nl": "Iets versnellen zodat het inhalen sneller voorbij is", "fr": "Accélérer légèrement pour que le dépassement soit terminé plus vite", "en": "Speed up slightly so the overtaking is over sooner" },
-        { "nl": "Kort remmen om de inhaler te verwittigen", "fr": "Freiner brièvement pour avertir celui qui dépasse", "en": "Brake briefly to warn the overtaking driver" }
+        {
+          "nl": "Zo ver mogelijk rechts houden en uw snelheid niet opvoeren",
+          "fr": "Serrer à droite le plus possible et ne pas accélérer",
+          "en": "Keep as far right as possible and not increase your speed"
+        },
+        {
+          "nl": "Iets versnellen zodat het inhalen sneller voorbij is",
+          "fr": "Accélérer légèrement pour que le dépassement soit terminé plus vite",
+          "en": "Speed up slightly so the overtaking is over sooner"
+        },
+        {
+          "nl": "Kort remmen om de inhaler te verwittigen",
+          "fr": "Freiner brièvement pour avertir celui qui dépasse",
+          "en": "Brake briefly to warn the overtaking driver"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -98,7 +155,10 @@
         "en": "Every driver about to be overtaken on the left must move as far right as possible and may not increase speed."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 16.7", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 16.7",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -112,9 +172,21 @@
         "en": "The car ahead of you slows down while approaching a pedestrian crossing where traffic is not controlled. May you overtake it?"
       },
       "options": [
-        { "nl": "Nee: het is verboden een voertuig in te halen dat een oversteekplaats nadert of ervoor stopt", "fr": "Non : il est interdit de dépasser un véhicule qui s'approche d'un passage pour piétons ou s'arrête devant celui-ci", "en": "No: it is forbidden to overtake a vehicle that is approaching or stopping at a pedestrian crossing" },
-        { "nl": "Ja, als er geen voetgangers aan het oversteken zijn", "fr": "Oui, si aucun piéton n'est en train de traverser", "en": "Yes, if no pedestrians are crossing" },
-        { "nl": "Ja, als u stapvoets voorbijrijdt", "fr": "Oui, si vous passez à l'allure du pas", "en": "Yes, if you pass at walking pace" }
+        {
+          "nl": "Nee: het is verboden een voertuig in te halen dat een oversteekplaats nadert of ervoor stopt",
+          "fr": "Non : il est interdit de dépasser un véhicule qui s'approche d'un passage pour piétons ou s'arrête devant celui-ci",
+          "en": "No: it is forbidden to overtake a vehicle that is approaching or stopping at a pedestrian crossing"
+        },
+        {
+          "nl": "Ja, als er geen voetgangers aan het oversteken zijn",
+          "fr": "Oui, si aucun piéton n'est en train de traverser",
+          "en": "Yes, if no pedestrians are crossing"
+        },
+        {
+          "nl": "Ja, als u stapvoets voorbijrijdt",
+          "fr": "Oui, si vous passez à l'allure du pas",
+          "en": "Yes, if you pass at walking pace"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -123,24 +195,45 @@
         "en": "Where traffic is not controlled by an authorised official or traffic lights, you may not overtake on the left a vehicle that is approaching or stopping at a pedestrian or cycle crossing: it can hide a crossing pedestrian from view. This is a third-degree offence."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 17.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
-        { "source": "KB 30/09/2005 (indeling van de overtredingen)", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 17.2",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "KB 30/09/2005 (indeling van de overtredingen)",
+          "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn"
+        }
       ]
     },
     {
       "id": "maneuvers-006",
       "difficulty": 2,
       "severity": "severe",
-      "image": { "type": "sign", "code": "A45" },
+      "image": {
+        "type": "sign",
+        "code": "A45"
+      },
       "text": {
         "nl": "U nadert een overweg zonder slagbomen, aangekondigd door dit verkeersbord. Mag u er een personenwagen inhalen?",
         "fr": "Vous approchez d'un passage à niveau sans barrières, annoncé par ce signal. Pouvez-vous y dépasser une voiture ?",
         "en": "You are approaching a level crossing without barriers, announced by this sign. May you overtake a car there?"
       },
       "options": [
-        { "nl": "Nee: op zo'n overweg is het inhalen van voertuigen met meer dan twee wielen verboden", "fr": "Non : sur un tel passage à niveau, le dépassement de véhicules à plus de deux roues est interdit", "en": "No: on such a level crossing, overtaking vehicles with more than two wheels is forbidden" },
-        { "nl": "Ja, wanneer er geen trein nadert", "fr": "Oui, si aucun train n'approche", "en": "Yes, when no train is approaching" },
-        { "nl": "Ja, het inhaalverbod geldt alleen voor vrachtwagens", "fr": "Oui, l'interdiction de dépasser ne vaut que pour les camions", "en": "Yes, the overtaking ban only applies to lorries" }
+        {
+          "nl": "Nee: op zo'n overweg is het inhalen van voertuigen met meer dan twee wielen verboden",
+          "fr": "Non : sur un tel passage à niveau, le dépassement de véhicules à plus de deux roues est interdit",
+          "en": "No: on such a level crossing, overtaking vehicles with more than two wheels is forbidden"
+        },
+        {
+          "nl": "Ja, wanneer er geen trein nadert",
+          "fr": "Oui, si aucun train n'approche",
+          "en": "Yes, when no train is approaching"
+        },
+        {
+          "nl": "Ja, het inhaalverbod geldt alleen voor vrachtwagens",
+          "fr": "Oui, l'interdiction de dépasser ne vaut que pour les camions",
+          "en": "Yes, the overtaking ban only applies to lorries"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -149,14 +242,20 @@
         "en": "At level crossings marked with sign A45 or A47, overtaking on the left is forbidden. Only crossings equipped with barriers or traffic lights are exempt from this ban. Overtaking at a level crossing without barriers is a third-degree offence."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 17.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
-        { "source": "KB 30/09/2005 (indeling van de overtredingen)", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 17.2",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "KB 30/09/2005 (indeling van de overtredingen)",
+          "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn"
+        }
       ]
     },
     {
       "id": "maneuvers-007",
       "difficulty": 2,
-      "severity": "severe",
+      "severity": "standard",
       "image": null,
       "text": {
         "nl": "U nadert een kruispunt waar de voorrang van rechts geldt. Mag u er een personenwagen inhalen?",
@@ -164,9 +263,21 @@
         "en": "You are approaching an intersection where priority to the right applies. May you overtake a car there?"
       },
       "options": [
-        { "nl": "Nee: inhalen is verboden op kruispunten waar u geen voorrang heeft", "fr": "Non : le dépassement est interdit aux carrefours où vous n'avez pas la priorité", "en": "No: overtaking is forbidden at intersections where you do not have priority" },
-        { "nl": "Ja, als u snel genoeg weer kan invoegen", "fr": "Oui, si vous pouvez vous rabattre assez vite", "en": "Yes, if you can move back in quickly enough" },
-        { "nl": "Ja, op een kruispunt gelden geen inhaalregels", "fr": "Oui, aucune règle de dépassement ne s'applique à un carrefour", "en": "Yes, no overtaking rules apply at an intersection" }
+        {
+          "nl": "Nee: inhalen is verboden op kruispunten waar u geen voorrang heeft",
+          "fr": "Non : le dépassement est interdit aux carrefours où vous n'avez pas la priorité",
+          "en": "No: overtaking is forbidden at intersections where you do not have priority"
+        },
+        {
+          "nl": "Ja, als u snel genoeg weer kan invoegen",
+          "fr": "Oui, si vous pouvez vous rabattre assez vite",
+          "en": "Yes, if you can move back in quickly enough"
+        },
+        {
+          "nl": "Ja, op een kruispunt gelden geen inhaalregels",
+          "fr": "Oui, aucune règle de dépassement ne s'applique à un carrefour",
+          "en": "Yes, no overtaking rules apply at an intersection"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -175,7 +286,10 @@
         "en": "At intersections where priority to the right applies and at intersections where you do not have priority, it is forbidden to overtake on the left a team, a two-wheeled motor vehicle or a vehicle with more than two wheels. If you are on a priority road, or traffic is controlled by lights or an authorised official, the ban does not apply."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 17.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 17.2",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -189,19 +303,37 @@
         "en": "You are driving on a carriageway with one traffic lane per direction and approaching a bend with limited visibility. May you overtake the vehicle ahead?"
       },
       "options": [
-        { "nl": "Nee: u zou het deel van de rijbaan voor de tegenliggers moeten gebruiken zonder te kunnen zien of er verkeer aankomt", "fr": "Non : vous devriez emprunter la partie de la chaussée destinée aux conducteurs venant en sens inverse sans voir si un véhicule arrive", "en": "No: you would have to use the part of the carriageway meant for oncoming traffic without being able to see whether anything is coming" },
-        { "nl": "Ja, als u eerst claxonneert", "fr": "Oui, si vous klaxonnez d'abord", "en": "Yes, if you sound your horn first" },
-        { "nl": "Ja, als het voertuig vóór u erg traag rijdt", "fr": "Oui, si le véhicule qui vous précède roule très lentement", "en": "Yes, if the vehicle ahead is driving very slowly" }
+        {
+          "nl": "Nee: u zou het deel van de rijbaan voor de tegenliggers moeten gebruiken zonder te kunnen zien of er verkeer aankomt",
+          "fr": "Non : vous devriez emprunter la partie de la chaussée destinée aux conducteurs venant en sens inverse sans voir si un véhicule arrive",
+          "en": "No: you would have to use the part of the carriageway meant for oncoming traffic without being able to see whether anything is coming"
+        },
+        {
+          "nl": "Ja, als u eerst claxonneert",
+          "fr": "Oui, si vous klaxonnez d'abord",
+          "en": "Yes, if you sound your horn first"
+        },
+        {
+          "nl": "Ja, als het voertuig vóór u erg traag rijdt",
+          "fr": "Oui, si le véhicule qui vous précède roule très lentement",
+          "en": "Yes, if the vehicle ahead is driving very slowly"
+        }
       ],
       "correct": 0,
       "explanation": {
-        "nl": "Bij het naderen van de top van een helling en in bochten met onvoldoende zicht is links inhalen verboden, tenzij het kan zonder de ruimte voor de tegenliggers in te nemen, bijvoorbeeld wanneer er twee rijstroken in uw rijrichting zijn. Dit is een overtreding van de derde graad.",
-        "fr": "À l'approche du sommet d'une côte et dans les virages où la visibilité est insuffisante, le dépassement par la gauche est interdit, sauf s'il peut s'effectuer sans empiéter sur la partie réservée aux conducteurs venant en sens inverse, par exemple lorsqu'il y a deux bandes dans votre sens. C'est une infraction du troisième degré.",
-        "en": "When approaching the top of a hill and in bends with insufficient visibility, overtaking on the left is forbidden unless it can be done without entering the space for oncoming traffic, for instance where there are two lanes in your direction. This is a third-degree offence."
+        "nl": "Bij het naderen van de top van een helling en in bochten met onvoldoende zicht is links inhalen verboden, tenzij het kan zonder de ruimte voor de tegenliggers in te nemen, bijvoorbeeld wanneer er twee rijstroken in uw rijrichting zijn. Dit is een overtreding van de vierde graad.",
+        "fr": "À l'approche du sommet d'une côte et dans les virages où la visibilité est insuffisante, le dépassement par la gauche est interdit, sauf s'il peut s'effectuer sans empiéter sur la partie réservée aux conducteurs venant en sens inverse, par exemple lorsqu'il y a deux bandes dans votre sens. C'est une infraction du quatrième degré.",
+        "en": "When approaching the top of a hill and in bends with insufficient visibility, overtaking on the left is forbidden unless it can be done without entering the space for oncoming traffic, for instance where there are two lanes in your direction. This is a fourth-degree offence."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 17.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
-        { "source": "KB 30/09/2005 (indeling van de overtredingen)", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 17.2",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "KB 30/09/2005 (indeling van de overtredingen)",
+          "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn"
+        }
       ]
     },
     {
@@ -215,9 +347,21 @@
         "en": "The vehicle ahead of you is itself overtaking another vehicle. May you overtake it on the left in turn?"
       },
       "options": [
-        { "nl": "Alleen wanneer de rijbaan minstens drie rijstroken in uw rijrichting telt", "fr": "Uniquement lorsque la chaussée compte au moins trois bandes de circulation dans votre sens", "en": "Only when the carriageway has at least three traffic lanes in your direction" },
-        { "nl": "Ja, dat mag altijd als u ver genoeg kan zien", "fr": "Oui, c'est toujours permis si vous voyez assez loin", "en": "Yes, that is always allowed if you can see far enough" },
-        { "nl": "Nee, dat is in alle omstandigheden verboden", "fr": "Non, c'est interdit en toutes circonstances", "en": "No, that is forbidden in all circumstances" }
+        {
+          "nl": "Alleen wanneer de rijbaan minstens drie rijstroken in uw rijrichting telt",
+          "fr": "Uniquement lorsque la chaussée compte au moins trois bandes de circulation dans votre sens",
+          "en": "Only when the carriageway has at least three traffic lanes in your direction"
+        },
+        {
+          "nl": "Ja, dat mag altijd als u ver genoeg kan zien",
+          "fr": "Oui, c'est toujours permis si vous voyez assez loin",
+          "en": "Yes, that is always allowed if you can see far enough"
+        },
+        {
+          "nl": "Nee, dat is in alle omstandigheden verboden",
+          "fr": "Non, c'est interdit en toutes circonstances",
+          "en": "No, that is forbidden in all circumstances"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -226,23 +370,41 @@
         "en": "It is forbidden to overtake a vehicle that is itself overtaking anything other than a bicycle, two-wheeled moped or two-wheeled motorcycle, except where the carriageway has three or more lanes in the direction travelled."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 17.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 17.2",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
       "id": "maneuvers-010",
       "difficulty": 3,
       "severity": "severe",
-      "image": { "type": "sign", "code": "C35" },
+      "image": {
+        "type": "sign",
+        "code": "C35"
+      },
       "text": {
         "nl": "U bent dit verkeersbord net voorbijgereden en rijdt achter een trage tractor. Mag u de tractor inhalen?",
         "fr": "Vous venez de passer ce signal et roulez derrière un tracteur lent. Pouvez-vous dépasser le tracteur ?",
         "en": "You have just passed this sign and are driving behind a slow tractor. May you overtake the tractor?"
       },
       "options": [
-        { "nl": "Nee: dit bord verbiedt het inhalen van gespannen en van voertuigen met meer dan twee wielen", "fr": "Non : ce signal interdit de dépasser les attelages et les véhicules à plus de deux roues", "en": "No: this sign forbids overtaking teams and vehicles with more than two wheels" },
-        { "nl": "Ja, trage landbouwvoertuigen mag u altijd inhalen", "fr": "Oui, les véhicules agricoles lents peuvent toujours être dépassés", "en": "Yes, slow agricultural vehicles may always be overtaken" },
-        { "nl": "Ja, zodra er geen tegenligger aankomt", "fr": "Oui, dès qu'aucun véhicule ne vient en sens inverse", "en": "Yes, as soon as there is no oncoming traffic" }
+        {
+          "nl": "Nee: dit bord verbiedt het inhalen van gespannen en van voertuigen met meer dan twee wielen",
+          "fr": "Non : ce signal interdit de dépasser les attelages et les véhicules à plus de deux roues",
+          "en": "No: this sign forbids overtaking teams and vehicles with more than two wheels"
+        },
+        {
+          "nl": "Ja, trage landbouwvoertuigen mag u altijd inhalen",
+          "fr": "Oui, les véhicules agricoles lents peuvent toujours être dépassés",
+          "en": "Yes, slow agricultural vehicles may always be overtaken"
+        },
+        {
+          "nl": "Ja, zodra er geen tegenligger aankomt",
+          "fr": "Oui, dès qu'aucun véhicule ne vient en sens inverse",
+          "en": "Yes, as soon as there is no oncoming traffic"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -251,23 +413,41 @@
         "en": "Sign C35 forbids overtaking on the left of a team or any vehicle with more than two wheels, so a tractor as well. Overtaking cyclists and two-wheeled mopeds remains allowed. The ban applies until sign C37 or the next intersection."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C35)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C35)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
       "id": "maneuvers-011",
       "difficulty": 1,
       "severity": "standard",
-      "image": { "type": "sign", "code": "C37" },
+      "image": {
+        "type": "sign",
+        "code": "C37"
+      },
       "text": {
         "nl": "Wat betekent dit verkeersbord?",
         "fr": "Que signifie ce signal routier ?",
         "en": "What does this road sign mean?"
       },
       "options": [
-        { "nl": "Einde van het inhaalverbod", "fr": "Fin de l'interdiction de dépasser", "en": "End of the overtaking prohibition" },
-        { "nl": "Begin van het inhaalverbod", "fr": "Début de l'interdiction de dépasser", "en": "Start of the overtaking prohibition" },
-        { "nl": "Einde van alle plaatselijke snelheidsbeperkingen", "fr": "Fin de toutes les limitations de vitesse locales", "en": "End of all local speed limits" }
+        {
+          "nl": "Einde van het inhaalverbod",
+          "fr": "Fin de l'interdiction de dépasser",
+          "en": "End of the overtaking prohibition"
+        },
+        {
+          "nl": "Begin van het inhaalverbod",
+          "fr": "Début de l'interdiction de dépasser",
+          "en": "Start of the overtaking prohibition"
+        },
+        {
+          "nl": "Einde van alle plaatselijke snelheidsbeperkingen",
+          "fr": "Fin de toutes les limitations de vitesse locales",
+          "en": "End of all local speed limits"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -276,7 +456,10 @@
         "en": "Sign C37 ends the overtaking prohibition introduced by sign C35. From this sign onwards, the normal overtaking rules apply again."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C37)", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C37)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -290,9 +473,21 @@
         "en": "You are overtaking a cyclist outside a built-up area. What minimum lateral distance must you leave?"
       },
       "options": [
-        { "nl": "1,5 meter", "fr": "1,5 mètre", "en": "1.5 metres" },
-        { "nl": "1 meter", "fr": "1 mètre", "en": "1 metre" },
-        { "nl": "50 centimeter", "fr": "50 centimètres", "en": "50 centimetres" }
+        {
+          "nl": "1,5 meter",
+          "fr": "1,5 mètre",
+          "en": "1.5 metres"
+        },
+        {
+          "nl": "1 meter",
+          "fr": "1 mètre",
+          "en": "1 metre"
+        },
+        {
+          "nl": "50 centimeter",
+          "fr": "50 centimètres",
+          "en": "50 centimetres"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -301,7 +496,10 @@
         "en": "When overtaking a cyclist or two-wheeled moped rider, you must leave a lateral distance of at least 1 metre inside a built-up area and at least 1.5 metres outside it."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 40ter", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 40ter",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -315,9 +513,21 @@
         "en": "In a built-up area you want to overtake a cyclist, but the street is too narrow to leave 1 metre of lateral distance. What do you do?"
       },
       "options": [
-        { "nl": "U blijft achter de fietser tot u wél voldoende afstand kan laten", "fr": "Vous restez derrière le cycliste jusqu'à pouvoir laisser une distance suffisante", "en": "You stay behind the cyclist until you can leave enough distance" },
-        { "nl": "U haalt stapvoets in met minder zijdelingse afstand", "fr": "Vous dépassez à l'allure du pas avec une distance latérale réduite", "en": "You overtake at walking pace with less lateral distance" },
-        { "nl": "U claxonneert zodat de fietser tegen de rand gaat rijden", "fr": "Vous klaxonnez pour que le cycliste serre le bord", "en": "You sound your horn so the cyclist moves to the edge" }
+        {
+          "nl": "U blijft achter de fietser tot u wél voldoende afstand kan laten",
+          "fr": "Vous restez derrière le cycliste jusqu'à pouvoir laisser une distance suffisante",
+          "en": "You stay behind the cyclist until you can leave enough distance"
+        },
+        {
+          "nl": "U haalt stapvoets in met minder zijdelingse afstand",
+          "fr": "Vous dépassez à l'allure du pas avec une distance latérale réduite",
+          "en": "You overtake at walking pace with less lateral distance"
+        },
+        {
+          "nl": "U claxonneert zodat de fietser tegen de rand gaat rijden",
+          "fr": "Vous klaxonnez pour que le cycliste serre le bord",
+          "en": "You sound your horn so the cyclist moves to the edge"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -326,7 +536,10 @@
         "en": "The minimum lateral distance of 1 metre in a built-up area is an absolute rule. If you cannot guarantee it, you may not overtake and must stay behind the cyclist."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 40ter", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 40ter",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -340,9 +553,21 @@
         "en": "You want to turn right at an intersection. How do you prepare this change of direction?"
       },
       "options": [
-        { "nl": "Tijdig de richtingaanwijzer gebruiken en zo dicht mogelijk bij de rechterrand van de rijbaan blijven", "fr": "Actionner l'indicateur de direction à temps et serrer le plus possible le bord droit de la chaussée", "en": "Use your direction indicator in good time and keep as close as possible to the right edge of the carriageway" },
-        { "nl": "Naar het midden van de rijbaan uitwijken om ruim te kunnen draaien", "fr": "Vous porter vers le milieu de la chaussée pour tourner largement", "en": "Move to the middle of the carriageway so you can take a wide turn" },
-        { "nl": "Pas op het kruispunt zelf de richtingaanwijzer aanzetten", "fr": "N'actionner l'indicateur de direction qu'une fois engagé dans le carrefour", "en": "Only switch on the indicator once you are in the intersection" }
+        {
+          "nl": "Tijdig de richtingaanwijzer gebruiken en zo dicht mogelijk bij de rechterrand van de rijbaan blijven",
+          "fr": "Actionner l'indicateur de direction à temps et serrer le plus possible le bord droit de la chaussée",
+          "en": "Use your direction indicator in good time and keep as close as possible to the right edge of the carriageway"
+        },
+        {
+          "nl": "Naar het midden van de rijbaan uitwijken om ruim te kunnen draaien",
+          "fr": "Vous porter vers le milieu de la chaussée pour tourner largement",
+          "en": "Move to the middle of the carriageway so you can take a wide turn"
+        },
+        {
+          "nl": "Pas op het kruispunt zelf de richtingaanwijzer aanzetten",
+          "fr": "N'actionner l'indicateur de direction qu'une fois engagé dans le carrefour",
+          "en": "Only switch on the indicator once you are in the intersection"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -351,7 +576,10 @@
         "en": "A driver turning right must signal the intention in good time with the direction indicator and position the vehicle as close as possible to the right edge of the carriageway, taking the corner tightly."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 19.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 19.1",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -365,9 +593,21 @@
         "en": "You are turning right. Beside you, a cyclist on the cycle path is continuing straight ahead. Who goes first?"
       },
       "options": [
-        { "nl": "De fietser: bij het veranderen van richting moet u voorrang verlenen aan de weggebruikers op de andere delen van dezelfde openbare weg", "fr": "Le cycliste : en changeant de direction, vous devez céder le passage aux usagers qui suivent les autres parties de la même voie publique", "en": "The cyclist: when changing direction you must give way to road users on the other parts of the same public road" },
-        { "nl": "U, want u rijdt op de rijbaan en de fietser op het fietspad", "fr": "Vous, car vous êtes sur la chaussée et le cycliste sur la piste cyclable", "en": "You, because you are on the carriageway and the cyclist on the cycle path" },
-        { "nl": "Wie het dichtst bij het kruispunt is", "fr": "Celui qui est le plus proche du carrefour", "en": "Whoever is closest to the intersection" }
+        {
+          "nl": "De fietser: bij het veranderen van richting moet u voorrang verlenen aan de weggebruikers op de andere delen van dezelfde openbare weg",
+          "fr": "Le cycliste : en changeant de direction, vous devez céder le passage aux usagers qui suivent les autres parties de la même voie publique",
+          "en": "The cyclist: when changing direction you must give way to road users on the other parts of the same public road"
+        },
+        {
+          "nl": "U, want u rijdt op de rijbaan en de fietser op het fietspad",
+          "fr": "Vous, car vous êtes sur la chaussée et le cycliste sur la piste cyclable",
+          "en": "You, because you are on the carriageway and the cyclist on the cycle path"
+        },
+        {
+          "nl": "Wie het dichtst bij het kruispunt is",
+          "fr": "Celui qui est le plus proche du carrefour",
+          "en": "Whoever is closest to the intersection"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -376,7 +616,10 @@
         "en": "A driver changing direction must give way to road users following the other parts of the same public road, such as cyclists on the cycle path. Check your mirrors and blind spot before turning: this is a classic accident scenario."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 19.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 19.4",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -388,8 +631,16 @@
         "scene": {
           "type": "crossroads",
           "vehicles": [
-            { "label": "A", "from": "s", "to": "w" },
-            { "label": "B", "from": "n", "to": "s" }
+            {
+              "label": "A",
+              "from": "s",
+              "to": "w"
+            },
+            {
+              "label": "B",
+              "from": "n",
+              "to": "s"
+            }
           ]
         }
       },
@@ -399,9 +650,21 @@
         "en": "You are car A and want to turn left. Car B is oncoming and going straight ahead. Who goes first?"
       },
       "options": [
-        { "nl": "Wagen B: als linksafslaande bestuurder moet u voorrang verlenen aan de tegenliggers", "fr": "La voiture B : en tournant à gauche, vous devez céder le passage aux conducteurs venant en sens inverse", "en": "Car B: as the driver turning left, you must give way to oncoming traffic" },
-        { "nl": "Wagen A: u komt voor wagen B van rechts", "fr": "La voiture A : vous venez de la droite pour la voiture B", "en": "Car A: you come from car B's right" },
-        { "nl": "Wagen A, als u uw richtingaanwijzer tijdig gebruikt", "fr": "La voiture A, si vous actionnez votre indicateur de direction à temps", "en": "Car A, provided you use your direction indicator in time" }
+        {
+          "nl": "Wagen B: als linksafslaande bestuurder moet u voorrang verlenen aan de tegenliggers",
+          "fr": "La voiture B : en tournant à gauche, vous devez céder le passage aux conducteurs venant en sens inverse",
+          "en": "Car B: as the driver turning left, you must give way to oncoming traffic"
+        },
+        {
+          "nl": "Wagen A: u komt voor wagen B van rechts",
+          "fr": "La voiture A : vous venez de la droite pour la voiture B",
+          "en": "Car A: you come from car B's right"
+        },
+        {
+          "nl": "Wagen A, als u uw richtingaanwijzer tijdig gebruikt",
+          "fr": "La voiture A, si vous actionnez votre indicateur de direction à temps",
+          "en": "Car A, provided you use your direction indicator in time"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -410,7 +673,10 @@
         "en": "A driver turning left must give way to oncoming drivers on the carriageway being left. Car B is going straight and therefore goes first; the direction indicator gives you no priority."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 19.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 19.3",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -422,8 +688,16 @@
         "scene": {
           "type": "crossroads",
           "vehicles": [
-            { "label": "A", "from": "s", "to": "w" },
-            { "label": "B", "from": "n", "to": "w" }
+            {
+              "label": "A",
+              "from": "s",
+              "to": "w"
+            },
+            {
+              "label": "B",
+              "from": "n",
+              "to": "w"
+            }
           ]
         }
       },
@@ -433,9 +707,21 @@
         "en": "You are car A and are turning left. Oncoming car B is turning right into the same side street. Who enters it first?"
       },
       "options": [
-        { "nl": "Wagen B: als linksafslaande bestuurder moet u voorrang verlenen aan de tegemoetkomende bestuurder", "fr": "La voiture B : en tournant à gauche, vous devez céder le passage au conducteur venant en sens inverse", "en": "Car B: as the driver turning left, you must give way to the oncoming driver" },
-        { "nl": "Wagen A, want u bent het kruispunt het eerst opgereden", "fr": "La voiture A, car vous vous êtes engagé le premier dans le carrefour", "en": "Car A, because you entered the intersection first" },
-        { "nl": "Geen van beiden heeft voorrang; u regelt het onderling met handgebaren", "fr": "Aucun des deux n'a la priorité ; vous vous arrangez par gestes", "en": "Neither has priority; you sort it out between yourselves with hand signals" }
+        {
+          "nl": "Wagen B: als linksafslaande bestuurder moet u voorrang verlenen aan de tegemoetkomende bestuurder",
+          "fr": "La voiture B : en tournant à gauche, vous devez céder le passage au conducteur venant en sens inverse",
+          "en": "Car B: as the driver turning left, you must give way to the oncoming driver"
+        },
+        {
+          "nl": "Wagen A, want u bent het kruispunt het eerst opgereden",
+          "fr": "La voiture A, car vous vous êtes engagé le premier dans le carrefour",
+          "en": "Car A, because you entered the intersection first"
+        },
+        {
+          "nl": "Geen van beiden heeft voorrang; u regelt het onderling met handgebaren",
+          "fr": "Aucun des deux n'a la priorité ; vous vous arrangez par gestes",
+          "en": "Neither has priority; you sort it out between yourselves with hand signals"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -444,7 +730,10 @@
         "en": "Even though car B is also turning, it remains an oncoming driver on the carriageway you are leaving. Its short right turn also crosses your long left turn: car B goes first."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 19.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 19.3",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -456,8 +745,16 @@
         "scene": {
           "type": "crossroads",
           "vehicles": [
-            { "label": "A", "from": "s", "to": "n" },
-            { "label": "B", "from": "n", "to": "e" }
+            {
+              "label": "A",
+              "from": "s",
+              "to": "n"
+            },
+            {
+              "label": "B",
+              "from": "n",
+              "to": "e"
+            }
           ]
         }
       },
@@ -467,9 +764,21 @@
         "en": "You are car A and are going straight ahead. Oncoming car B wants to turn left. Who goes first?"
       },
       "options": [
-        { "nl": "Wagen A: de linksafslaande bestuurder moet voorrang verlenen aan de tegenliggers die rechtdoor rijden", "fr": "La voiture A : le conducteur qui tourne à gauche doit céder le passage aux conducteurs venant en sens inverse qui vont tout droit", "en": "Car A: the driver turning left must give way to oncoming traffic going straight" },
-        { "nl": "Wagen B: afslaand verkeer gaat voor rechtdoorgaand verkeer", "fr": "La voiture B : le trafic qui tourne passe avant le trafic qui va tout droit", "en": "Car B: turning traffic goes before traffic going straight" },
-        { "nl": "Wagen B, als hij vóór u aan het kruispunt komt", "fr": "La voiture B, si elle atteint le carrefour avant vous", "en": "Car B, if it reaches the intersection before you" }
+        {
+          "nl": "Wagen A: de linksafslaande bestuurder moet voorrang verlenen aan de tegenliggers die rechtdoor rijden",
+          "fr": "La voiture A : le conducteur qui tourne à gauche doit céder le passage aux conducteurs venant en sens inverse qui vont tout droit",
+          "en": "Car A: the driver turning left must give way to oncoming traffic going straight"
+        },
+        {
+          "nl": "Wagen B: afslaand verkeer gaat voor rechtdoorgaand verkeer",
+          "fr": "La voiture B : le trafic qui tourne passe avant le trafic qui va tout droit",
+          "en": "Car B: turning traffic goes before traffic going straight"
+        },
+        {
+          "nl": "Wagen B, als hij vóór u aan het kruispunt komt",
+          "fr": "La voiture B, si elle atteint le carrefour avant vous",
+          "en": "Car B, if it reaches the intersection before you"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -478,7 +787,10 @@
         "en": "Car B is changing direction and must give way to oncoming drivers. You are going straight and therefore go first, but keep watching car B's movement."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 19.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 19.3",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -489,10 +801,23 @@
         "type": "scene",
         "scene": {
           "type": "crossroads",
-          "signsFor": [ { "approach": "s", "code": "B9" } ],
+          "signsFor": [
+            {
+              "approach": "s",
+              "code": "B9"
+            }
+          ],
           "vehicles": [
-            { "label": "A", "from": "s", "to": "w" },
-            { "label": "B", "from": "n", "to": "s" }
+            {
+              "label": "A",
+              "from": "s",
+              "to": "w"
+            },
+            {
+              "label": "B",
+              "from": "n",
+              "to": "s"
+            }
           ]
         }
       },
@@ -502,9 +827,21 @@
         "en": "You are car A, driving on a priority road. You want to turn left; car B is oncoming on the same road and going straight. Who goes first?"
       },
       "options": [
-        { "nl": "Wagen B: ook op een voorrangsweg moet u als linksafslaande bestuurder voorrang verlenen aan de tegenliggers", "fr": "La voiture B : même sur une route prioritaire, vous devez, en tournant à gauche, céder le passage aux conducteurs venant en sens inverse", "en": "Car B: even on a priority road, when turning left you must give way to oncoming traffic" },
-        { "nl": "Wagen A: op een voorrangsweg heeft u voorrang op alle andere bestuurders", "fr": "La voiture A : sur une route prioritaire, vous avez la priorité sur tous les autres conducteurs", "en": "Car A: on a priority road you have priority over all other drivers" },
-        { "nl": "Wagen A, omdat u het eerst begint af te slaan", "fr": "La voiture A, parce que vous entamez votre virage en premier", "en": "Car A, because you start turning first" }
+        {
+          "nl": "Wagen B: ook op een voorrangsweg moet u als linksafslaande bestuurder voorrang verlenen aan de tegenliggers",
+          "fr": "La voiture B : même sur une route prioritaire, vous devez, en tournant à gauche, céder le passage aux conducteurs venant en sens inverse",
+          "en": "Car B: even on a priority road, when turning left you must give way to oncoming traffic"
+        },
+        {
+          "nl": "Wagen A: op een voorrangsweg heeft u voorrang op alle andere bestuurders",
+          "fr": "La voiture A : sur une route prioritaire, vous avez la priorité sur tous les autres conducteurs",
+          "en": "Car A: on a priority road you have priority over all other drivers"
+        },
+        {
+          "nl": "Wagen A, omdat u het eerst begint af te slaan",
+          "fr": "La voiture A, parce que vous entamez votre virage en premier",
+          "en": "Car A, because you start turning first"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -513,7 +850,10 @@
         "en": "Sign B9 gives you priority over crossing traffic, not over oncoming drivers on the same priority road. As the driver turning left, you must let car B go first."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 19.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 19.3",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -525,8 +865,16 @@
         "scene": {
           "type": "crossroads",
           "vehicles": [
-            { "label": "A", "from": "s", "to": "w" },
-            { "label": "B", "from": "w", "to": "e" }
+            {
+              "label": "A",
+              "from": "s",
+              "to": "w"
+            },
+            {
+              "label": "B",
+              "from": "w",
+              "to": "e"
+            }
           ]
         }
       },
@@ -536,9 +884,21 @@
         "en": "You are car A and want to turn left at this intersection without signs or traffic lights. Car B approaches from your left, going straight. Who goes first?"
       },
       "options": [
-        { "nl": "Wagen A: u komt voor wagen B van rechts, en links afslaan doet daar geen afbreuk aan", "fr": "La voiture A : vous venez de la droite pour la voiture B, et tourner à gauche n'y change rien", "en": "Car A: you come from car B's right, and turning left does not change that" },
-        { "nl": "Wagen B: wie afslaat moet aan alle andere bestuurders voorrang verlenen", "fr": "La voiture B : celui qui tourne doit céder le passage à tous les autres conducteurs", "en": "Car B: a turning driver must give way to all other drivers" },
-        { "nl": "Wagen B, want rechtdoorgaand verkeer heeft altijd voorrang", "fr": "La voiture B, car le trafic qui va tout droit a toujours la priorité", "en": "Car B, because traffic going straight always has priority" }
+        {
+          "nl": "Wagen A: u komt voor wagen B van rechts, en links afslaan doet daar geen afbreuk aan",
+          "fr": "La voiture A : vous venez de la droite pour la voiture B, et tourner à gauche n'y change rien",
+          "en": "Car A: you come from car B's right, and turning left does not change that"
+        },
+        {
+          "nl": "Wagen B: wie afslaat moet aan alle andere bestuurders voorrang verlenen",
+          "fr": "La voiture B : celui qui tourne doit céder le passage à tous les autres conducteurs",
+          "en": "Car B: a turning driver must give way to all other drivers"
+        },
+        {
+          "nl": "Wagen B, want rechtdoorgaand verkeer heeft altijd voorrang",
+          "fr": "La voiture B, car le trafic qui va tout droit a toujours la priorité",
+          "en": "Car B, because traffic going straight always has priority"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -547,8 +907,14 @@
         "en": "At this uncontrolled intersection, priority to the right applies: car B must let you go because you come from its right. Turning is a change of direction, not a manoeuvre: it does not cost you your priority; you only owe way to oncoming traffic."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
-        { "source": "Wegcode (KB 01/12/1975), Art. 19.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 12.3.1",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 19.3",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -561,8 +927,16 @@
           "type": "t-junction",
           "stem": "s",
           "vehicles": [
-            { "label": "A", "from": "s", "to": "w" },
-            { "label": "B", "from": "e", "to": "w" }
+            {
+              "label": "A",
+              "from": "s",
+              "to": "w"
+            },
+            {
+              "label": "B",
+              "from": "e",
+              "to": "w"
+            }
           ]
         }
       },
@@ -572,9 +946,21 @@
         "en": "You are car A, coming out of the side street of this uncontrolled T-junction. You want to turn left; car B approaches from the right on the through road. Who goes first?"
       },
       "options": [
-        { "nl": "Wagen B: hij komt voor u van rechts, dus u moet voorrang verlenen", "fr": "La voiture B : elle vient de votre droite, vous devez donc céder le passage", "en": "Car B: it comes from your right, so you must give way" },
-        { "nl": "Wagen A: wie uit een zijstraat komt mag eerst invoegen", "fr": "La voiture A : celui qui débouche d'une rue latérale peut s'engager en premier", "en": "Car A: whoever comes out of a side street may merge first" },
-        { "nl": "Wagen A, want wagen B moet aan elk kruispunt vertragen en u doorlaten", "fr": "La voiture A, car la voiture B doit ralentir à chaque carrefour et vous laisser passer", "en": "Car A, because car B must slow down at every junction and let you through" }
+        {
+          "nl": "Wagen B: hij komt voor u van rechts, dus u moet voorrang verlenen",
+          "fr": "La voiture B : elle vient de votre droite, vous devez donc céder le passage",
+          "en": "Car B: it comes from your right, so you must give way"
+        },
+        {
+          "nl": "Wagen A: wie uit een zijstraat komt mag eerst invoegen",
+          "fr": "La voiture A : celui qui débouche d'une rue latérale peut s'engager en premier",
+          "en": "Car A: whoever comes out of a side street may merge first"
+        },
+        {
+          "nl": "Wagen A, want wagen B moet aan elk kruispunt vertragen en u doorlaten",
+          "fr": "La voiture A, car la voiture B doit ralentir à chaque carrefour et vous laisser passer",
+          "en": "Car A, because car B must slow down at every junction and let you through"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -583,7 +969,10 @@
         "en": "At a junction without signs or lights, priority to the right applies, even at a T-junction: in Belgium the through road has no automatic priority. Car B comes from the right and therefore goes first."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 12.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 12.3.1",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -595,8 +984,16 @@
         "scene": {
           "type": "crossroads",
           "vehicles": [
-            { "label": "A", "from": "s", "to": "e" },
-            { "label": "B", "from": "n", "to": "s" }
+            {
+              "label": "A",
+              "from": "s",
+              "to": "e"
+            },
+            {
+              "label": "B",
+              "from": "n",
+              "to": "s"
+            }
           ]
         }
       },
@@ -606,9 +1003,21 @@
         "en": "You are car A and are turning right. Car B is oncoming and going straight. Must you let car B go first?"
       },
       "options": [
-        { "nl": "Nee: uw wegen kruisen elkaar niet; let wel op voetgangers die de zijstraat oversteken", "fr": "Non : vos trajectoires ne se croisent pas ; attention toutefois aux piétons qui traversent la rue latérale", "en": "No: your paths do not cross; do watch for pedestrians crossing the side street" },
-        { "nl": "Ja: wie afslaat moet altijd alle tegenliggers laten voorgaan", "fr": "Oui : celui qui tourne doit toujours laisser passer tous les conducteurs venant en sens inverse", "en": "Yes: a turning driver must always let all oncoming traffic go first" },
-        { "nl": "Ja, tenzij u sneller rijdt dan wagen B", "fr": "Oui, sauf si vous roulez plus vite que la voiture B", "en": "Yes, unless you are driving faster than car B" }
+        {
+          "nl": "Nee: uw wegen kruisen elkaar niet; let wel op voetgangers die de zijstraat oversteken",
+          "fr": "Non : vos trajectoires ne se croisent pas ; attention toutefois aux piétons qui traversent la rue latérale",
+          "en": "No: your paths do not cross; do watch for pedestrians crossing the side street"
+        },
+        {
+          "nl": "Ja: wie afslaat moet altijd alle tegenliggers laten voorgaan",
+          "fr": "Oui : celui qui tourne doit toujours laisser passer tous les conducteurs venant en sens inverse",
+          "en": "Yes: a turning driver must always let all oncoming traffic go first"
+        },
+        {
+          "nl": "Ja, tenzij u sneller rijdt dan wagen B",
+          "fr": "Oui, sauf si vous roulez plus vite que la voiture B",
+          "en": "Yes, unless you are driving faster than car B"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -617,21 +1026,36 @@
         "en": "When turning right you do not cross the path of the oncoming driver going straight, so you need not let car B go first. You must still indicate in good time and give way to pedestrians and cyclists crossing the side street."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 19.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
-        { "source": "Wegcode (KB 01/12/1975), Art. 19.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 19.1",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 19.4",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
       "id": "maneuvers-023",
       "difficulty": 2,
-      "severity": "severe",
+      "severity": "standard",
       "image": {
         "type": "scene",
         "scene": {
           "type": "crossroads",
-          "signsFor": [ { "approach": "w", "code": "B1" } ],
+          "signsFor": [
+            {
+              "approach": "w",
+              "code": "B1"
+            }
+          ],
           "vehicles": [
-            { "label": "A", "from": "w", "to": "e" }
+            {
+              "label": "A",
+              "from": "w",
+              "to": "e"
+            }
           ]
         }
       },
@@ -641,19 +1065,37 @@
         "en": "You are car A, driving behind a slow van (not shown). You are approaching this intersection, where the inverted-triangle sign obliges you to give way. May you overtake the van at the intersection?"
       },
       "options": [
-        { "nl": "Nee: inhalen is verboden op kruispunten waar u geen voorrang heeft", "fr": "Non : le dépassement est interdit aux carrefours où vous n'avez pas la priorité", "en": "No: overtaking is forbidden at intersections where you do not have priority" },
-        { "nl": "Ja, als er geen verkeer van rechts komt", "fr": "Oui, si aucun véhicule n'arrive de droite", "en": "Yes, if no traffic is coming from the right" },
-        { "nl": "Ja, een bestelwagen mag u overal inhalen", "fr": "Oui, une camionnette peut être dépassée partout", "en": "Yes, a van may be overtaken anywhere" }
+        {
+          "nl": "Nee: inhalen is verboden op kruispunten waar u geen voorrang heeft",
+          "fr": "Non : le dépassement est interdit aux carrefours où vous n'avez pas la priorité",
+          "en": "No: overtaking is forbidden at intersections where you do not have priority"
+        },
+        {
+          "nl": "Ja, als er geen verkeer van rechts komt",
+          "fr": "Oui, si aucun véhicule n'arrive de droite",
+          "en": "Yes, if no traffic is coming from the right"
+        },
+        {
+          "nl": "Ja, een bestelwagen mag u overal inhalen",
+          "fr": "Oui, une camionnette peut être dépassée partout",
+          "en": "Yes, a van may be overtaken anywhere"
+        }
       ],
       "correct": 0,
       "explanation": {
-        "nl": "Het bord B1 verplicht u hier voorrang te verlenen: op zo'n kruispunt is het links inhalen van een voertuig met meer dan twee wielen verboden. Inhalen op een kruispunt zonder voorrang is een overtreding van de derde graad.",
-        "fr": "Le signal B1 vous oblige ici à céder le passage : à un tel carrefour, il est interdit de dépasser par la gauche un véhicule à plus de deux roues. Dépasser à un carrefour sans priorité est une infraction du troisième degré.",
-        "en": "Sign B1 obliges you to give way here: at such an intersection, overtaking a vehicle with more than two wheels on the left is forbidden. Overtaking at an intersection where you lack priority is a third-degree offence."
+        "nl": "Het bord B1 verplicht u hier voorrang te verlenen: op zo'n kruispunt is het links inhalen van een voertuig met meer dan twee wielen verboden.",
+        "fr": "Le signal B1 vous oblige ici à céder le passage : à un tel carrefour, il est interdit de dépasser par la gauche un véhicule à plus de deux roues.",
+        "en": "Sign B1 obliges you to give way here: at such an intersection, overtaking a vehicle with more than two wheels on the left is forbidden."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 17.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
-        { "source": "KB 30/09/2005 (indeling van de overtredingen)", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 17.2",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "KB 30/09/2005 (indeling van de overtredingen)",
+          "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn"
+        }
       ]
     },
     {
@@ -667,9 +1109,21 @@
         "en": "You are reversing out of a driveway onto the public road. What applies?"
       },
       "options": [
-        { "nl": "Achteruitrijden is een maneuver: u moet voorrang verlenen aan alle andere weggebruikers", "fr": "La marche arrière est une manœuvre : vous devez céder le passage à tous les autres usagers", "en": "Reversing is a manoeuvre: you must give way to all other road users" },
-        { "nl": "Voetgangers op het trottoir moeten wachten tot u de weg op bent", "fr": "Les piétons sur le trottoir doivent attendre que vous soyez sur la chaussée", "en": "Pedestrians on the sidewalk must wait until you are on the road" },
-        { "nl": "Alleen het verkeer dat van rechts komt heeft voorrang op u", "fr": "Seul le trafic venant de droite a la priorité sur vous", "en": "Only traffic coming from the right has priority over you" }
+        {
+          "nl": "Achteruitrijden is een maneuver: u moet voorrang verlenen aan alle andere weggebruikers",
+          "fr": "La marche arrière est une manœuvre : vous devez céder le passage à tous les autres usagers",
+          "en": "Reversing is a manoeuvre: you must give way to all other road users"
+        },
+        {
+          "nl": "Voetgangers op het trottoir moeten wachten tot u de weg op bent",
+          "fr": "Les piétons sur le trottoir doivent attendre que vous soyez sur la chaussée",
+          "en": "Pedestrians on the sidewalk must wait until you are on the road"
+        },
+        {
+          "nl": "Alleen het verkeer dat van rechts komt heeft voorrang op u",
+          "fr": "Seul le trafic venant de droite a la priorité sur vous",
+          "en": "Only traffic coming from the right has priority over you"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -678,7 +1132,10 @@
         "en": "A driver performing a manoeuvre such as reversing must give way to all other road users, including pedestrians on the sidewalk and traffic from every direction."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 12.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 12.4",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -692,9 +1149,21 @@
         "en": "You want to make a U-turn on a wide road. Who has priority during this manoeuvre?"
       },
       "options": [
-        { "nl": "Alle andere weggebruikers: keren is een maneuver", "fr": "Tous les autres usagers : le demi-tour est une manœuvre", "en": "All other road users: a U-turn is a manoeuvre" },
-        { "nl": "U, zodra u uw richtingaanwijzer gebruikt", "fr": "Vous, dès que vous actionnez votre indicateur de direction", "en": "You, as soon as you use your direction indicator" },
-        { "nl": "Alleen de tegenliggers; het verkeer achter u moet wachten", "fr": "Seuls les conducteurs venant en sens inverse ; le trafic derrière vous doit attendre", "en": "Only oncoming traffic; traffic behind you must wait" }
+        {
+          "nl": "Alle andere weggebruikers: keren is een maneuver",
+          "fr": "Tous les autres usagers : le demi-tour est une manœuvre",
+          "en": "All other road users: a U-turn is a manoeuvre"
+        },
+        {
+          "nl": "U, zodra u uw richtingaanwijzer gebruikt",
+          "fr": "Vous, dès que vous actionnez votre indicateur de direction",
+          "en": "You, as soon as you use your direction indicator"
+        },
+        {
+          "nl": "Alleen de tegenliggers; het verkeer achter u moet wachten",
+          "fr": "Seuls les conducteurs venant en sens inverse ; le trafic derrière vous doit attendre",
+          "en": "Only oncoming traffic; traffic behind you must wait"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -703,7 +1172,10 @@
         "en": "A U-turn is a manoeuvre: you must give way to all other road users, both oncoming traffic and traffic behind you. The indicator announces your manoeuvre but grants no priority."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 12.4", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 12.4",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -717,9 +1189,21 @@
         "en": "Because of roadworks your traffic lane ends further ahead and traffic there is heavily slowed. What does the traffic code prescribe?"
       },
       "options": [
-        { "nl": "Ritsen: u voegt pas vlak vóór de versmalling in, en de bestuurders op de vrije rijstrook laten beurtelings telkens één invoeger voorgaan", "fr": "La tirette : vous ne vous rabattez que juste avant le rétrécissement, et les conducteurs de la bande libre laissent alternativement passer un véhicule qui s'insère", "en": "Zipper merging: you merge only just before the narrowing, and drivers in the free lane alternately let in one merging vehicle at a time" },
-        { "nl": "Zo vroeg mogelijk invoegen; wie tot aan de versmalling doorrijdt, dringt voor", "fr": "Se rabattre le plus tôt possible ; celui qui roule jusqu'au rétrécissement resquille", "en": "Merge as early as possible; whoever drives up to the narrowing is queue-jumping" },
-        { "nl": "De vrije rijstrook heeft voorrang: u moet wachten tot ze volledig vrij is", "fr": "La bande libre a la priorité : vous devez attendre qu'elle soit entièrement dégagée", "en": "The free lane has priority: you must wait until it is completely clear" }
+        {
+          "nl": "Ritsen: u voegt pas vlak vóór de versmalling in, en de bestuurders op de vrije rijstrook laten beurtelings telkens één invoeger voorgaan",
+          "fr": "La tirette : vous ne vous rabattez que juste avant le rétrécissement, et les conducteurs de la bande libre laissent alternativement passer un véhicule qui s'insère",
+          "en": "Zipper merging: you merge only just before the narrowing, and drivers in the free lane alternately let in one merging vehicle at a time"
+        },
+        {
+          "nl": "Zo vroeg mogelijk invoegen; wie tot aan de versmalling doorrijdt, dringt voor",
+          "fr": "Se rabattre le plus tôt possible ; celui qui roule jusqu'au rétrécissement resquille",
+          "en": "Merge as early as possible; whoever drives up to the narrowing is queue-jumping"
+        },
+        {
+          "nl": "De vrije rijstrook heeft voorrang: u moet wachten tot ze volledig vrij is",
+          "fr": "La bande libre a la priorité : vous devez attendre qu'elle soit entièrement dégagée",
+          "en": "The free lane has priority: you must wait until it is completely clear"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -728,7 +1212,10 @@
         "en": "In heavily slowed traffic you should use the available lane up to the narrowing and zipper-merge there: drivers in the free lane must alternately give way to one merging driver each. Merging late is exactly what the law asks for."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 12bis", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 12bis",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -742,9 +1229,21 @@
         "en": "Where must you drive on the carriageway in normal circumstances?"
       },
       "options": [
-        { "nl": "Zo dicht mogelijk bij de rechterrand van de rijbaan", "fr": "Le plus près possible du bord droit de la chaussée", "en": "As close as possible to the right edge of the carriageway" },
-        { "nl": "In het midden van uw weghelft", "fr": "Au milieu de votre moitié de chaussée", "en": "In the middle of your half of the carriageway" },
-        { "nl": "Waar u het beste zicht heeft", "fr": "Là où vous avez la meilleure visibilité", "en": "Wherever you have the best view" }
+        {
+          "nl": "Zo dicht mogelijk bij de rechterrand van de rijbaan",
+          "fr": "Le plus près possible du bord droit de la chaussée",
+          "en": "As close as possible to the right edge of the carriageway"
+        },
+        {
+          "nl": "In het midden van uw weghelft",
+          "fr": "Au milieu de votre moitié de chaussée",
+          "en": "In the middle of your half of the carriageway"
+        },
+        {
+          "nl": "Waar u het beste zicht heeft",
+          "fr": "Là où vous avez la meilleure visibilité",
+          "en": "Wherever you have the best view"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -753,7 +1252,10 @@
         "en": "Every driver using the carriageway must keep as close as possible to its right edge, except on roundabouts or where signs provide otherwise."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 9.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 9.3.1",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -767,9 +1269,21 @@
         "en": "You are driving on a motorway with three traffic lanes. After overtaking, the right-hand lane is free. What do you do?"
       },
       "options": [
-        { "nl": "Zodra het veilig kan terugkeren naar de rechterrijstrook", "fr": "Revenir sur la bande de droite dès que cela peut se faire en sécurité", "en": "Return to the right-hand lane as soon as it is safe" },
-        { "nl": "Op de middelste rijstrook blijven rijden: dat mag zolang u de maximumsnelheid rijdt", "fr": "Rester sur la bande du milieu : c'est permis tant que vous roulez à la vitesse maximale", "en": "Stay in the middle lane: that is allowed as long as you drive at the speed limit" },
-        { "nl": "Op de linkerrijstrook blijven om volgende inhaalbewegingen voor te bereiden", "fr": "Rester sur la bande de gauche pour préparer les dépassements suivants", "en": "Stay in the left lane to prepare for further overtaking" }
+        {
+          "nl": "Zodra het veilig kan terugkeren naar de rechterrijstrook",
+          "fr": "Revenir sur la bande de droite dès que cela peut se faire en sécurité",
+          "en": "Return to the right-hand lane as soon as it is safe"
+        },
+        {
+          "nl": "Op de middelste rijstrook blijven rijden: dat mag zolang u de maximumsnelheid rijdt",
+          "fr": "Rester sur la bande du milieu : c'est permis tant que vous roulez à la vitesse maximale",
+          "en": "Stay in the middle lane: that is allowed as long as you drive at the speed limit"
+        },
+        {
+          "nl": "Op de linkerrijstrook blijven om volgende inhaalbewegingen voor te bereiden",
+          "fr": "Rester sur la bande de gauche pour préparer les dépassements suivants",
+          "en": "Stay in the left lane to prepare for further overtaking"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -778,7 +1292,10 @@
         "en": "On the motorway too, the rule is to keep as close as possible to the right edge of the carriageway: after overtaking, you return to the right-hand lane as soon as it is safe. Needlessly staying in the middle or left lane is an offence."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 9.3.1", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 9.3.1",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -792,9 +1309,21 @@
         "en": "When must you use your vehicle's lights (dipped-beam or main-beam headlights)?"
       },
       "options": [
-        { "nl": "Tussen het vallen van de avond en het aanbreken van de dag, en zodra het zicht minder dan ongeveer 200 meter bedraagt", "fr": "Entre la tombée et le lever du jour, et dès que la visibilité est inférieure à environ 200 mètres", "en": "Between dusk and dawn, and whenever visibility is less than about 200 metres" },
-        { "nl": "Alleen 's nachts buiten de bebouwde kom", "fr": "Uniquement la nuit en dehors des agglomérations", "en": "Only at night outside built-up areas" },
-        { "nl": "Alleen bij mist of hevige neerslag", "fr": "Uniquement en cas de brouillard ou de fortes précipitations", "en": "Only in fog or heavy precipitation" }
+        {
+          "nl": "Tussen het vallen van de avond en het aanbreken van de dag, en zodra het zicht minder dan ongeveer 200 meter bedraagt",
+          "fr": "Entre la tombée et le lever du jour, et dès que la visibilité est inférieure à environ 200 mètres",
+          "en": "Between dusk and dawn, and whenever visibility is less than about 200 metres"
+        },
+        {
+          "nl": "Alleen 's nachts buiten de bebouwde kom",
+          "fr": "Uniquement la nuit en dehors des agglomérations",
+          "en": "Only at night outside built-up areas"
+        },
+        {
+          "nl": "Alleen bij mist of hevige neerslag",
+          "fr": "Uniquement en cas de brouillard ou de fortes précipitations",
+          "en": "Only in fog or heavy precipitation"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -803,7 +1332,10 @@
         "en": "Between dusk and dawn, and in all circumstances where visibility is reduced to less than about 200 metres, you must use your vehicle's lights: the dipped-beam headlights or, where permitted, the main-beam headlights."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 30", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 30",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -817,9 +1349,21 @@
         "en": "You are driving at night with your main-beam headlights on an unlit road. An oncoming vehicle approaches. What do you do?"
       },
       "options": [
-        { "nl": "Tijdig overschakelen op dimlicht om de tegenligger niet te verblinden", "fr": "Passer à temps aux feux de croisement pour ne pas éblouir le conducteur venant en sens inverse", "en": "Switch to dipped-beam headlights in good time so as not to dazzle the oncoming driver" },
-        { "nl": "De grootlichten aanhouden om zelf goed te blijven zien", "fr": "Garder les feux de route pour continuer à bien voir", "en": "Keep the main beams on so you can still see well yourself" },
-        { "nl": "Alle lichten even doven tot de tegenligger voorbij is", "fr": "Éteindre tous les feux jusqu'à ce que le véhicule soit passé", "en": "Switch off all lights until the vehicle has passed" }
+        {
+          "nl": "Tijdig overschakelen op dimlicht om de tegenligger niet te verblinden",
+          "fr": "Passer à temps aux feux de croisement pour ne pas éblouir le conducteur venant en sens inverse",
+          "en": "Switch to dipped-beam headlights in good time so as not to dazzle the oncoming driver"
+        },
+        {
+          "nl": "De grootlichten aanhouden om zelf goed te blijven zien",
+          "fr": "Garder les feux de route pour continuer à bien voir",
+          "en": "Keep the main beams on so you can still see well yourself"
+        },
+        {
+          "nl": "Alle lichten even doven tot de tegenligger voorbij is",
+          "fr": "Éteindre tous les feux jusqu'à ce que le véhicule soit passé",
+          "en": "Switch off all lights until the vehicle has passed"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -828,7 +1372,10 @@
         "en": "You must replace main beam with dipped beam as soon as an oncoming vehicle approaches, so as not to dazzle its driver. The same applies when following another driver at close distance."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 30", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 30",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -842,9 +1389,21 @@
         "en": "When may you use the rear fog light?"
       },
       "options": [
-        { "nl": "Bij mist of sneeuwval die het zicht tot ongeveer 100 meter beperkt, en bij felle regen", "fr": "En cas de brouillard ou de chute de neige réduisant la visibilité à environ 100 mètres, et en cas de forte pluie", "en": "In fog or snowfall reducing visibility to about 100 metres, and in heavy rain" },
-        { "nl": "Zodra het donker is en de weg slecht verlicht is", "fr": "Dès qu'il fait noir et que la route est mal éclairée", "en": "Whenever it is dark and the road is poorly lit" },
-        { "nl": "Bij elke regenbui, ook bij motregen", "fr": "À chaque averse, même en cas de bruine", "en": "In any rain shower, even drizzle" }
+        {
+          "nl": "Bij mist of sneeuwval die het zicht tot ongeveer 100 meter beperkt, en bij felle regen",
+          "fr": "En cas de brouillard ou de chute de neige réduisant la visibilité à environ 100 mètres, et en cas de forte pluie",
+          "en": "In fog or snowfall reducing visibility to about 100 metres, and in heavy rain"
+        },
+        {
+          "nl": "Zodra het donker is en de weg slecht verlicht is",
+          "fr": "Dès qu'il fait noir et que la route est mal éclairée",
+          "en": "Whenever it is dark and the road is poorly lit"
+        },
+        {
+          "nl": "Bij elke regenbui, ook bij motregen",
+          "fr": "À chaque averse, même en cas de bruine",
+          "en": "In any rain shower, even drizzle"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -853,7 +1412,10 @@
         "en": "The rear fog light is used in fog or snowfall that limits visibility to about 100 metres and in heavy rain. In other circumstances it is forbidden, because its bright light dazzles drivers behind you."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 30.3", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 30.3",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -867,9 +1429,21 @@
         "en": "When may you use your horn inside a built-up area?"
       },
       "options": [
-        { "nl": "Alleen om een noodzakelijke waarschuwing te geven en zo een ongeval te voorkomen", "fr": "Uniquement pour donner un avertissement nécessaire afin d'éviter un accident", "en": "Only to give a necessary warning in order to prevent an accident" },
-        { "nl": "Om een trage bestuurder vóór u aan te sporen", "fr": "Pour inciter un conducteur lent devant vous à avancer", "en": "To urge on a slow driver in front of you" },
-        { "nl": "Om een bekende langs de weg te groeten", "fr": "Pour saluer une connaissance le long de la route", "en": "To greet someone you know along the road" }
+        {
+          "nl": "Alleen om een noodzakelijke waarschuwing te geven en zo een ongeval te voorkomen",
+          "fr": "Uniquement pour donner un avertissement nécessaire afin d'éviter un accident",
+          "en": "Only to give a necessary warning in order to prevent an accident"
+        },
+        {
+          "nl": "Om een trage bestuurder vóór u aan te sporen",
+          "fr": "Pour inciter un conducteur lent devant vous à avancer",
+          "en": "To urge on a slow driver in front of you"
+        },
+        {
+          "nl": "Om een bekende langs de weg te groeten",
+          "fr": "Pour saluer une connaissance le long de la route",
+          "en": "To greet someone you know along the road"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -878,7 +1452,10 @@
         "en": "Sound signals may only serve as a necessary warning and must be as short as possible. Outside built-up areas you may also use the horn to announce your intention to overtake; at night the sound signal is as a rule replaced by flashing your headlights."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 33", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 33",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -892,9 +1469,21 @@
         "en": "Which of these violations is a third-degree offence?"
       },
       "options": [
-        { "nl": "Een voertuig inhalen dat een oversteekplaats voor voetgangers nadert waar het verkeer niet geregeld wordt", "fr": "Dépasser un véhicule qui s'approche d'un passage pour piétons où la circulation n'est pas réglée", "en": "Overtaking a vehicle approaching a pedestrian crossing where traffic is not controlled" },
-        { "nl": "De richtingaanwijzer vergeten bij het veranderen van rijstrook", "fr": "Oublier l'indicateur de direction en changeant de bande de circulation", "en": "Forgetting the direction indicator when changing traffic lane" },
-        { "nl": "Op de middelste rijstrook van de autosnelweg blijven rijden terwijl rechts vrij is", "fr": "Rester sur la bande du milieu de l'autoroute alors que la droite est libre", "en": "Staying in the middle lane of the motorway while the right lane is free" }
+        {
+          "nl": "Een voertuig inhalen dat een oversteekplaats voor voetgangers nadert waar het verkeer niet geregeld wordt",
+          "fr": "Dépasser un véhicule qui s'approche d'un passage pour piétons où la circulation n'est pas réglée",
+          "en": "Overtaking a vehicle approaching a pedestrian crossing where traffic is not controlled"
+        },
+        {
+          "nl": "De richtingaanwijzer vergeten bij het veranderen van rijstrook",
+          "fr": "Oublier l'indicateur de direction en changeant de bande de circulation",
+          "en": "Forgetting the direction indicator when changing traffic lane"
+        },
+        {
+          "nl": "Op de middelste rijstrook van de autosnelweg blijven rijden terwijl rechts vrij is",
+          "fr": "Rester sur la bande du milieu de l'autoroute alors que la droite est libre",
+          "en": "Staying in the middle lane of the motorway while the right lane is free"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -903,8 +1492,14 @@
         "en": "Overtaking where it is forbidden, such as when approaching a pedestrian crossing where traffic is not controlled, directly endangers pedestrians and is therefore classified as a third-degree offence. The other two mistakes are lower-degree offences."
       },
       "citations": [
-        { "source": "KB 30/09/2005 (indeling van de overtredingen), i.s.m. Wegverkeerswet (Wet 16/03/1968), Art. 29", "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn" },
-        { "source": "Wegcode (KB 01/12/1975), Art. 17.2", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "KB 30/09/2005 (indeling van de overtredingen), i.s.m. Wegverkeerswet (Wet 16/03/1968), Art. 29",
+          "url": "https://www.wegcode.be/nl/regelgeving/2005014182~5yjza0ajqn"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 17.2",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -918,9 +1513,21 @@
         "en": "Ahead of you a tram is running on tracks in the middle of the carriageway. On which side do you overtake the tram as a rule?"
       },
       "options": [
-        { "nl": "Rechts: spoorvoertuigen die de rijbaan volgen, worden rechts ingehaald", "fr": "À droite : les véhicules sur rails qui suivent la chaussée se dépassent par la droite", "en": "On the right: rail vehicles following the carriageway are overtaken on the right" },
-        { "nl": "Links, zoals bij elk ander voertuig", "fr": "À gauche, comme pour tout autre véhicule", "en": "On the left, as with any other vehicle" },
-        { "nl": "Om het even welke kant, zolang u voldoende zijdelingse afstand laat", "fr": "N'importe quel côté, pourvu que vous laissiez une distance latérale suffisante", "en": "Either side, as long as you leave enough lateral distance" }
+        {
+          "nl": "Rechts: spoorvoertuigen die de rijbaan volgen, worden rechts ingehaald",
+          "fr": "À droite : les véhicules sur rails qui suivent la chaussée se dépassent par la droite",
+          "en": "On the right: rail vehicles following the carriageway are overtaken on the right"
+        },
+        {
+          "nl": "Links, zoals bij elk ander voertuig",
+          "fr": "À gauche, comme pour tout autre véhicule",
+          "en": "On the left, as with any other vehicle"
+        },
+        {
+          "nl": "Om het even welke kant, zolang u voldoende zijdelingse afstand laat",
+          "fr": "N'importe quel côté, pourvu que vous laissiez une distance latérale suffisante",
+          "en": "Either side, as long as you leave enough lateral distance"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -929,7 +1536,10 @@
         "en": "Unlike with ordinary vehicles, you overtake a rail vehicle following the carriageway on the right, both when it is moving and when it is stationary to let passengers on or off. At a stop without a refuge island, remember you must stop for boarding and alighting passengers."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 16.9", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 16.9",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -943,9 +1553,21 @@
         "en": "You want to overtake a tram, but you cannot do so on the right: vehicles are parked there. What may you do?"
       },
       "options": [
-        { "nl": "De tram links inhalen, op voorwaarde dat u de tegemoetkomende weggebruikers niet hindert of in gevaar brengt", "fr": "Dépasser le tram par la gauche, à condition de ne pas gêner ni mettre en danger les usagers venant en sens inverse", "en": "Overtake the tram on the left, provided you do not hinder or endanger oncoming road users" },
-        { "nl": "Niets: een tram mag u uitsluitend rechts inhalen", "fr": "Rien : un tram ne peut être dépassé que par la droite", "en": "Nothing: a tram may only ever be overtaken on the right" },
-        { "nl": "De tram links inhalen, maar dat mag alleen op een rijbaan met éénrichtingsverkeer", "fr": "Dépasser le tram par la gauche, mais uniquement sur une chaussée à sens unique", "en": "Overtake the tram on the left, but only on a one-way carriageway" }
+        {
+          "nl": "De tram links inhalen, op voorwaarde dat u de tegemoetkomende weggebruikers niet hindert of in gevaar brengt",
+          "fr": "Dépasser le tram par la gauche, à condition de ne pas gêner ni mettre en danger les usagers venant en sens inverse",
+          "en": "Overtake the tram on the left, provided you do not hinder or endanger oncoming road users"
+        },
+        {
+          "nl": "Niets: een tram mag u uitsluitend rechts inhalen",
+          "fr": "Rien : un tram ne peut être dépassé que par la droite",
+          "en": "Nothing: a tram may only ever be overtaken on the right"
+        },
+        {
+          "nl": "De tram links inhalen, maar dat mag alleen op een rijbaan met éénrichtingsverkeer",
+          "fr": "Dépasser le tram par la gauche, mais uniquement sur une chaussée à sens unique",
+          "en": "Overtake the tram on the left, but only on a one-way carriageway"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -954,7 +1576,10 @@
         "en": "Rail vehicles are overtaken on the right as a rule. Overtaking on the left is allowed when the right is impossible because of a narrow passage, a stationary or parked vehicle or another fixed obstacle, provided oncoming road users are not hindered or endangered. On one-way carriageways it is also allowed on the left when traffic conditions justify it."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 16.9", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 16.9",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -968,9 +1593,21 @@
         "en": "In which situation may you use your hazard warning lights (all direction indicators at once)?"
       },
       "options": [
-        { "nl": "Om achterliggers te wijzen op een dreigend gevaar, bijvoorbeeld wanneer u op de autosnelweg plots een filestaart nadert", "fr": "Pour signaler un danger imminent aux conducteurs qui vous suivent, par exemple lorsque vous approchez soudainement d'une fin de file sur l'autoroute", "en": "To warn drivers behind you of imminent danger, for instance when you suddenly approach the tail of a queue on the motorway" },
-        { "nl": "Om even dubbel te parkeren terwijl u snel een pakje aflevert", "fr": "Pour vous mettre brièvement en double file le temps de livrer un colis", "en": "To double-park briefly while you quickly deliver a parcel" },
-        { "nl": "Om aan te kondigen dat u traag rijdt omdat u een parkeerplaats zoekt", "fr": "Pour annoncer que vous roulez lentement parce que vous cherchez une place de stationnement", "en": "To announce that you are driving slowly because you are looking for a parking space" }
+        {
+          "nl": "Om achterliggers te wijzen op een dreigend gevaar, bijvoorbeeld wanneer u op de autosnelweg plots een filestaart nadert",
+          "fr": "Pour signaler un danger imminent aux conducteurs qui vous suivent, par exemple lorsque vous approchez soudainement d'une fin de file sur l'autoroute",
+          "en": "To warn drivers behind you of imminent danger, for instance when you suddenly approach the tail of a queue on the motorway"
+        },
+        {
+          "nl": "Om even dubbel te parkeren terwijl u snel een pakje aflevert",
+          "fr": "Pour vous mettre brièvement en double file le temps de livrer un colis",
+          "en": "To double-park briefly while you quickly deliver a parcel"
+        },
+        {
+          "nl": "Om aan te kondigen dat u traag rijdt omdat u een parkeerplaats zoekt",
+          "fr": "Pour annoncer que vous roulez lentement parce que vous cherchez une place de stationnement",
+          "en": "To announce that you are driving slowly because you are looking for a parking space"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -979,8 +1616,14 @@
         "en": "Hazard warning lights are only allowed to mark a broken-down vehicle or a load fallen onto the road, on school transport vehicles while children board or alight, and to warn other road users of imminent accident danger, such as the tail of a queue. They never make prohibited stopping or parking lawful."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 32bis", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
-        { "source": "Wegcode (KB 01/12/1975), Art. 39bis.2 en Art. 51", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 32bis",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 39bis.2 en Art. 51",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -994,9 +1637,21 @@
         "en": "Ahead of you a car slows down for a raised installation (speed plateau) on the carriageway. May you overtake it there on the left?"
       },
       "options": [
-        { "nl": "Nee: op verhoogde inrichtingen is het links inhalen van een voertuig met meer dan twee wielen verboden", "fr": "Non : sur les dispositifs surélevés, il est interdit de dépasser par la gauche un véhicule à plus de deux roues", "en": "No: on raised installations it is forbidden to overtake a vehicle with more than two wheels on the left" },
-        { "nl": "Ja, als u het plateau met aangepaste snelheid oprijdt", "fr": "Oui, si vous abordez le plateau à une vitesse adaptée", "en": "Yes, if you drive onto the plateau at a suitable speed" },
-        { "nl": "Ja, zulke plateaus veranderen niets aan de gewone inhaalregels", "fr": "Oui, de tels plateaux ne changent rien aux règles normales de dépassement", "en": "Yes, such plateaus change nothing about the normal overtaking rules" }
+        {
+          "nl": "Nee: op verhoogde inrichtingen is het links inhalen van een voertuig met meer dan twee wielen verboden",
+          "fr": "Non : sur les dispositifs surélevés, il est interdit de dépasser par la gauche un véhicule à plus de deux roues",
+          "en": "No: on raised installations it is forbidden to overtake a vehicle with more than two wheels on the left"
+        },
+        {
+          "nl": "Ja, als u het plateau met aangepaste snelheid oprijdt",
+          "fr": "Oui, si vous abordez le plateau à une vitesse adaptée",
+          "en": "Yes, if you drive onto the plateau at a suitable speed"
+        },
+        {
+          "nl": "Ja, zulke plateaus veranderen niets aan de gewone inhaalregels",
+          "fr": "Oui, de tels plateaux ne changent rien aux règles normales de dépassement",
+          "en": "Yes, such plateaus change nothing about the normal overtaking rules"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -1005,7 +1660,10 @@
         "en": "Raised installations are expressly listed among the places where overtaking on the left of a team, a two-wheeled motor vehicle or a vehicle with more than two wheels is forbidden. You may still pass a cyclist there, keeping the required lateral distance."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 17.2, 7°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 17.2, 7°",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -1019,9 +1677,21 @@
         "en": "Riding behind a cyclist, you approach an intersection where priority to the right applies. May you overtake the cyclist at that intersection?"
       },
       "options": [
-        { "nl": "Ja: het inhaalverbod op zo'n kruispunt geldt niet voor het inhalen van een fietser; u laat wel de verplichte zijdelingse afstand", "fr": "Oui : l'interdiction de dépasser à un tel carrefour ne vise pas le dépassement d'un cycliste ; vous laissez toutefois la distance latérale obligatoire", "en": "Yes: the overtaking ban at such an intersection does not cover overtaking a cyclist; you must still leave the required lateral distance" },
-        { "nl": "Nee: op een kruispunt met voorrang van rechts mag u geen enkele weggebruiker inhalen", "fr": "Non : à un carrefour où la priorité de droite s'applique, vous ne pouvez dépasser aucun usager", "en": "No: at an intersection with priority to the right you may not overtake any road user" },
-        { "nl": "Ja, en dat zou ook mogen als het een tweewielige bromfiets was", "fr": "Oui, et ce serait aussi permis s'il s'agissait d'un cyclomoteur à deux roues", "en": "Yes, and it would also be allowed if it were a two-wheeled moped" }
+        {
+          "nl": "Ja: het inhaalverbod op zo'n kruispunt geldt niet voor het inhalen van een fietser; u laat wel de verplichte zijdelingse afstand",
+          "fr": "Oui : l'interdiction de dépasser à un tel carrefour ne vise pas le dépassement d'un cycliste ; vous laissez toutefois la distance latérale obligatoire",
+          "en": "Yes: the overtaking ban at such an intersection does not cover overtaking a cyclist; you must still leave the required lateral distance"
+        },
+        {
+          "nl": "Nee: op een kruispunt met voorrang van rechts mag u geen enkele weggebruiker inhalen",
+          "fr": "Non : à un carrefour où la priorité de droite s'applique, vous ne pouvez dépasser aucun usager",
+          "en": "No: at an intersection with priority to the right you may not overtake any road user"
+        },
+        {
+          "nl": "Ja, en dat zou ook mogen als het een tweewielige bromfiets was",
+          "fr": "Oui, et ce serait aussi permis s'il s'agissait d'un cyclomoteur à deux roues",
+          "en": "Yes, and it would also be allowed if it were a two-wheeled moped"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -1030,8 +1700,14 @@
         "en": "The overtaking ban at intersections with priority to the right covers overtaking a team, a two-wheeled motor vehicle or a vehicle with more than two wheels. A bicycle is not a motor vehicle, so you may overtake it there, leaving at least 1 metre of lateral distance (1.5 metres outside built-up areas). A two-wheeled moped, however, is a two-wheeled motor vehicle and may not be overtaken there."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 17.2, 2°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" },
-        { "source": "Wegcode (KB 01/12/1975), Art. 40ter", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 17.2, 2°",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 40ter",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -1045,9 +1721,21 @@
         "en": "You are driving at night on main beam and catching up with a vehicle ahead. When must you switch to dipped beam?"
       },
       "options": [
-        { "nl": "Zodra u het voertuig op minder dan 50 meter volgt, behalve tijdens het inhalen zelf", "fr": "Dès que vous suivez le véhicule à moins de 50 mètres, sauf pendant le dépassement lui-même", "en": "As soon as you follow the vehicle at less than 50 metres, except while actually overtaking" },
-        { "nl": "Zodra u het voertuig op minder dan 100 meter volgt", "fr": "Dès que vous suivez le véhicule à moins de 100 mètres", "en": "As soon as you follow the vehicle at less than 100 metres" },
-        { "nl": "Zodra u het voertuig op minder dan 20 meter volgt", "fr": "Dès que vous suivez le véhicule à moins de 20 mètres", "en": "As soon as you follow the vehicle at less than 20 metres" }
+        {
+          "nl": "Zodra u het voertuig op minder dan 50 meter volgt, behalve tijdens het inhalen zelf",
+          "fr": "Dès que vous suivez le véhicule à moins de 50 mètres, sauf pendant le dépassement lui-même",
+          "en": "As soon as you follow the vehicle at less than 50 metres, except while actually overtaking"
+        },
+        {
+          "nl": "Zodra u het voertuig op minder dan 100 meter volgt",
+          "fr": "Dès que vous suivez le véhicule à moins de 100 mètres",
+          "en": "As soon as you follow the vehicle at less than 100 metres"
+        },
+        {
+          "nl": "Zodra u het voertuig op minder dan 20 meter volgt",
+          "fr": "Dès que vous suivez le véhicule à moins de 20 mètres",
+          "en": "As soon as you follow the vehicle at less than 20 metres"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -1056,7 +1744,10 @@
         "en": "You switch off the main beam when following another vehicle at less than 50 metres, except while overtaking. It must also give way to dipped beam when approaching oncoming traffic and where the carriageway is continuously and sufficiently lit for you to see clearly to about 100 metres."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 30.1, 1°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 30.1, 1°",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -1070,9 +1761,21 @@
         "en": "On a carriageway with three lanes in your direction, roadworks block both the left-hand and the right-hand lane. Traffic is heavily slowed and you are in the centre lane. When zipper merging, who do you give way to first?"
       },
       "options": [
-        { "nl": "Eerst aan één invoegende bestuurder van de rechterrijstrook, daarna aan één van de linkerrijstrook", "fr": "D'abord à un conducteur qui s'insère depuis la bande de droite, ensuite à un conducteur depuis la bande de gauche", "en": "First to one merging driver from the right-hand lane, then to one from the left-hand lane" },
-        { "nl": "Eerst aan één invoegende bestuurder van de linkerrijstrook, daarna aan één van de rechterrijstrook", "fr": "D'abord à un conducteur qui s'insère depuis la bande de gauche, ensuite à un conducteur depuis la bande de droite", "en": "First to one merging driver from the left-hand lane, then to one from the right-hand lane" },
-        { "nl": "Aan niemand: de vrije middenstrook heeft voorrang en de invoegers moeten wachten", "fr": "À personne : la bande centrale libre a la priorité et ceux qui s'insèrent doivent attendre", "en": "To no one: the free centre lane has priority and merging drivers must wait" }
+        {
+          "nl": "Eerst aan één invoegende bestuurder van de rechterrijstrook, daarna aan één van de linkerrijstrook",
+          "fr": "D'abord à un conducteur qui s'insère depuis la bande de droite, ensuite à un conducteur depuis la bande de gauche",
+          "en": "First to one merging driver from the right-hand lane, then to one from the left-hand lane"
+        },
+        {
+          "nl": "Eerst aan één invoegende bestuurder van de linkerrijstrook, daarna aan één van de rechterrijstrook",
+          "fr": "D'abord à un conducteur qui s'insère depuis la bande de gauche, ensuite à un conducteur depuis la bande de droite",
+          "en": "First to one merging driver from the left-hand lane, then to one from the right-hand lane"
+        },
+        {
+          "nl": "Aan niemand: de vrije middenstrook heeft voorrang en de invoegers moeten wachten",
+          "fr": "À personne : la bande centrale libre a la priorité et ceux qui s'insèrent doivent attendre",
+          "en": "To no one: the free centre lane has priority and merging drivers must wait"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -1081,7 +1784,10 @@
         "en": "In heavily slowed traffic, drivers in the free lane must, just before the narrowing, alternately give way to one merging driver. If both the left and the right lane are blocked, you first give way to one driver from the right-hand lane and then to one from the left-hand lane."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 12bis", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 12bis",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -1095,9 +1801,21 @@
         "en": "You have just changed traffic lane and your direction indicator is still on. Which statement is correct?"
       },
       "options": [
-        { "nl": "De aanduiding moet ophouden zodra de zijdelingse verplaatsing uitgevoerd is", "fr": "L'indication doit cesser dès que le déplacement latéral est effectué", "en": "The signal must stop as soon as the sideways movement has been completed" },
-        { "nl": "U laat de richtingsaanwijzer best nog even werken: zo is uw beweging extra duidelijk", "fr": "Mieux vaut laisser l'indicateur fonctionner encore un peu : votre mouvement est ainsi plus clair", "en": "Best to leave the indicator on a little longer: it makes your movement extra clear" },
-        { "nl": "Zolang de richtingsaanwijzer werkt, moeten de achterliggers u laten voorgaan", "fr": "Tant que l'indicateur fonctionne, les conducteurs qui vous suivent doivent vous laisser passer", "en": "As long as the indicator is on, drivers behind you must let you go first" }
+        {
+          "nl": "De aanduiding moet ophouden zodra de zijdelingse verplaatsing uitgevoerd is",
+          "fr": "L'indication doit cesser dès que le déplacement latéral est effectué",
+          "en": "The signal must stop as soon as the sideways movement has been completed"
+        },
+        {
+          "nl": "U laat de richtingsaanwijzer best nog even werken: zo is uw beweging extra duidelijk",
+          "fr": "Mieux vaut laisser l'indicateur fonctionner encore un peu : votre mouvement est ainsi plus clair",
+          "en": "Best to leave the indicator on a little longer: it makes your movement extra clear"
+        },
+        {
+          "nl": "Zolang de richtingsaanwijzer werkt, moeten de achterliggers u laten voorgaan",
+          "fr": "Tant que l'indicateur fonctionne, les conducteurs qui vous suivent doivent vous laisser passer",
+          "en": "As long as the indicator is on, drivers behind you must let you go first"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -1106,7 +1824,10 @@
         "en": "You announce a manoeuvre or change of direction in good time with the indicators, but the signal must stop as soon as the movement is completed: an indicator left running misleads other road users. The indicator also never gives you priority."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 13", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 13",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -1120,9 +1841,21 @@
         "en": "You are stationary in a queue on the motorway in your car. What should you know about motorcyclists riding between the queues?"
       },
       "options": [
-        { "nl": "Dat mag: zij rijden dan tussen de twee meest links gelegen rijstroken, met maximaal 50 km/u en hoogstens 20 km/u sneller dan de file", "fr": "C'est permis : ils circulent alors entre les deux bandes situées le plus à gauche, à 50 km/h maximum et au plus 20 km/h plus vite que les files", "en": "It is allowed: they then ride between the two leftmost lanes, at no more than 50 km/h and at most 20 km/h faster than the queues" },
-        { "nl": "Dat is verboden: motorfietsers moeten in de file aanschuiven zoals iedereen", "fr": "C'est interdit : les motocyclistes doivent patienter dans la file comme tout le monde", "en": "It is forbidden: motorcyclists must wait in the queue like everyone else" },
-        { "nl": "Dat mag, tussen om het even welke rijstroken en zonder snelheidsbeperking", "fr": "C'est permis, entre n'importe quelles bandes et sans limitation de vitesse", "en": "It is allowed, between any lanes and without any speed restriction" }
+        {
+          "nl": "Dat mag: zij rijden dan tussen de twee meest links gelegen rijstroken, met maximaal 50 km/u en hoogstens 20 km/u sneller dan de file",
+          "fr": "C'est permis : ils circulent alors entre les deux bandes situées le plus à gauche, à 50 km/h maximum et au plus 20 km/h plus vite que les files",
+          "en": "It is allowed: they then ride between the two leftmost lanes, at no more than 50 km/h and at most 20 km/h faster than the queues"
+        },
+        {
+          "nl": "Dat is verboden: motorfietsers moeten in de file aanschuiven zoals iedereen",
+          "fr": "C'est interdit : les motocyclistes doivent patienter dans la file comme tout le monde",
+          "en": "It is forbidden: motorcyclists must wait in the queue like everyone else"
+        },
+        {
+          "nl": "Dat mag, tussen om het even welke rijstroken en zonder snelheidsbeperking",
+          "fr": "C'est permis, entre n'importe quelles bandes et sans limitation de vitesse",
+          "en": "It is allowed, between any lanes and without any speed restriction"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -1131,7 +1864,10 @@
         "en": "For motorcyclists, riding between two lanes or queues of stationary or slow-moving vehicles does not count as overtaking. They may not exceed 50 km/h while doing so, nor go more than 20 km/h faster than the vehicles in those queues; on motorways and roads for motor vehicles they must ride between the two leftmost lanes. So check your mirrors and blind spot before changing lane there."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 16.2bis", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 16.2bis",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     },
     {
@@ -1145,9 +1881,21 @@
         "en": "You are driving on a one-way carriageway and want to turn left at the next intersection. How do you position yourself beforehand?"
       },
       "options": [
-        { "nl": "Zo dicht mogelijk bij de linkerrand van de rijbaan", "fr": "Le plus près possible du bord gauche de la chaussée", "en": "As close as possible to the left edge of the carriageway" },
-        { "nl": "Tegen het midden van de rijbaan, zoals op een rijbaan met tweerichtingsverkeer", "fr": "Vers le milieu de la chaussée, comme sur une chaussée à deux sens", "en": "Toward the middle of the carriageway, as on a two-way carriageway" },
-        { "nl": "Tegen de rechterrand, om de bocht ruim te kunnen nemen", "fr": "Contre le bord droit, pour pouvoir tourner largement", "en": "Against the right edge, so you can take a wide turn" }
+        {
+          "nl": "Zo dicht mogelijk bij de linkerrand van de rijbaan",
+          "fr": "Le plus près possible du bord gauche de la chaussée",
+          "en": "As close as possible to the left edge of the carriageway"
+        },
+        {
+          "nl": "Tegen het midden van de rijbaan, zoals op een rijbaan met tweerichtingsverkeer",
+          "fr": "Vers le milieu de la chaussée, comme sur une chaussée à deux sens",
+          "en": "Toward the middle of the carriageway, as on a two-way carriageway"
+        },
+        {
+          "nl": "Tegen de rechterrand, om de bocht ruim te kunnen nemen",
+          "fr": "Contre le bord droit, pour pouvoir tourner largement",
+          "en": "Against the right edge, so you can take a wide turn"
+        }
       ],
       "correct": 0,
       "explanation": {
@@ -1156,7 +1904,10 @@
         "en": "On a two-way carriageway you move to the left before turning left, without hindering oncoming traffic. On a one-way carriageway there is no oncoming traffic and you must keep as close as possible to the left edge. Announce the movement in good time with the left indicator."
       },
       "citations": [
-        { "source": "Wegcode (KB 01/12/1975), Art. 19.3, 2°", "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu" }
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 19.3, 2°",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
       ]
     }
   ]

@@ -1471,6 +1471,408 @@
           "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
         }
       ]
+    },
+    {
+      "id": "signs-prohibition-obligation-034",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Aan het begin van een smalle weg staat een rond wit verkeersbord met rode rand: verboden toegang voor bestuurders van voertuigen of slepen waarvan de lengte, lading inbegrepen, groter is dan 10 meter. U rijdt met een auto van 4,7 m en trekt een caravan; samen zijn ze 10,8 m lang. Mag u verder rijden?",
+        "fr": "Au début d'une route étroite se trouve un signal rond blanc à bord rouge : accès interdit aux conducteurs de véhicules ou de trains de véhicules dont la longueur, chargement compris, dépasse 10 mètres. Vous conduisez une voiture de 4,7 m et tractez une caravane ; l'ensemble mesure 10,8 m. Pouvez-vous continuer ?",
+        "en": "At the start of a narrow road stands a round white sign with a red border: no access for drivers of vehicles or combinations whose length, load included, exceeds 10 metres. You are driving a 4.7 m car towing a caravan; together they are 10.8 m long. May you continue?"
+      },
+      "options": [
+        {
+          "nl": "Nee: voor het verbod telt de lengte van de hele sleep, lading inbegrepen, en die is meer dan 10 m.",
+          "fr": "Non : c'est la longueur de tout le train de véhicules, chargement compris, qui compte, et elle dépasse 10 m.",
+          "en": "No: what counts is the length of the whole combination, load included, and that exceeds 10 m."
+        },
+        {
+          "nl": "Ja: auto en caravan blijven elk afzonderlijk onder de 10 m.",
+          "fr": "Oui : la voiture et la caravane restent chacune, prise séparément, sous les 10 m.",
+          "en": "Yes: the car and the caravan each stay under 10 m taken separately."
+        },
+        {
+          "nl": "Ja: dit verbod geldt enkel voor vrachtwagens en autocars.",
+          "fr": "Oui : cette interdiction ne concerne que les camions et les autocars.",
+          "en": "Yes: this prohibition only concerns lorries and coaches."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Het bord C25 verbiedt de toegang voor bestuurders van voertuigen of slepen waarvan de lengte, lading inbegrepen, groter is dan de aangeduide. Een auto met caravan vormt één sleep: u meet de totale lengte van de combinatie, niet elk voertuig apart.",
+        "fr": "Le signal C25 interdit l'accès aux conducteurs de véhicules ou de trains de véhicules dont la longueur, chargement compris, dépasse celle indiquée. Une voiture attelée d'une caravane forme un seul train de véhicules : c'est la longueur totale de l'ensemble qui compte, pas celle de chaque véhicule séparément.",
+        "en": "Sign C25 prohibits access for drivers of vehicles or combinations whose length, load included, exceeds the indicated figure. A car with a caravan forms one combination: you measure the total length of the combination, not each vehicle separately."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C25)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-035",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Vóór een smalle doorgang staat een rond wit verkeersbord met rode rand: verboden toegang voor bestuurders van voertuigen waarvan de breedte, lading inbegrepen, groter is dan 2,20 m. Uw bestelwagen is 1,95 m breed, maar de lading steekt uit tot een totale breedte van 2,30 m. Mag u er door?",
+        "fr": "Avant un passage étroit se trouve un signal rond blanc à bord rouge : accès interdit aux conducteurs de véhicules dont la largeur, chargement compris, dépasse 2,20 m. Votre camionnette mesure 1,95 m de large, mais le chargement déborde jusqu'à une largeur totale de 2,30 m. Pouvez-vous passer ?",
+        "en": "Before a narrow passage stands a round white sign with a red border: no access for drivers of vehicles whose width, load included, exceeds 2.20 m. Your van is 1.95 m wide, but the load protrudes to a total width of 2.30 m. May you pass?"
+      },
+      "options": [
+        {
+          "nl": "Nee: met lading bent u 2,30 m breed en dus breder dan de aangeduide 2,20 m.",
+          "fr": "Non : avec le chargement vous mesurez 2,30 m et dépassez donc les 2,20 m indiqués.",
+          "en": "No: with the load you are 2.30 m wide and therefore wider than the indicated 2.20 m."
+        },
+        {
+          "nl": "Ja: enkel de breedte van het voertuig zelf telt, en die is 1,95 m.",
+          "fr": "Oui : seule compte la largeur du véhicule lui-même, soit 1,95 m.",
+          "en": "Yes: only the width of the vehicle itself counts, and that is 1.95 m."
+        },
+        {
+          "nl": "Ja: voertuigen tot de algemene maximumbreedte van 2,55 m mogen overal door.",
+          "fr": "Oui : les véhicules restant sous la largeur maximale générale de 2,55 m peuvent passer partout.",
+          "en": "Yes: vehicles under the general maximum width of 2.55 m may pass everywhere."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bij het bord C27 telt de breedte lading inbegrepen: 2,30 m is hier te breed. De 2,55 m is de algemene maximumbreedte van voertuigen uit het technisch reglement; een verkeersbord kan plaatselijk een lagere grens opleggen.",
+        "fr": "Pour le signal C27, c'est la largeur chargement compris qui compte : 2,30 m est ici trop large. Les 2,55 m sont la largeur maximale générale des véhicules selon le règlement technique ; un signal routier peut imposer localement une limite inférieure.",
+        "en": "For sign C27 the width including the load counts: 2.30 m is too wide here. The 2.55 m figure is the general maximum vehicle width from the technical regulation; a road sign can impose a lower local limit."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C27)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Technisch reglement (KB 15/03/1968), Art. 32bis (maximale breedte 2,55 m)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1968031501~fhniyzocos"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-036",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C3"
+      },
+      "text": {
+        "nl": "Een straat is met dit verkeersbord afgesloten. Onder het bord hangt een onderbord met het opschrift 'uitgezonderd plaatselijk verkeer'. Wie mag de straat NIET inrijden?",
+        "fr": "Une rue est fermée par ce signal. Sous le signal figure un panneau additionnel portant la mention « excepté circulation locale ». Qui ne peut PAS s'engager dans la rue ?",
+        "en": "A street is closed off by this sign. Below the sign hangs a panel reading 'local traffic excepted'. Who may NOT enter the street?"
+      },
+      "options": [
+        {
+          "nl": "Een automobilist die de straat als sluipweg gebruikt om een file te vermijden.",
+          "fr": "Un automobiliste qui utilise la rue comme itinéraire de délestage pour éviter un embouteillage.",
+          "en": "A motorist using the street as a shortcut to avoid a traffic jam."
+        },
+        {
+          "nl": "Een koerier die een pakje levert bij een bewoner.",
+          "fr": "Un livreur qui dépose un colis chez un habitant.",
+          "en": "A courier delivering a parcel to a resident."
+        },
+        {
+          "nl": "Een fietser die de straat enkel als doorsteek gebruikt.",
+          "fr": "Un cycliste qui ne fait que traverser la rue.",
+          "en": "A cyclist merely passing through the street."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "'Plaatselijk verkeer' omvat de voertuigen van de bewoners en hun bezoekers, leveringen, geregelde diensten voor gemeenschappelijk vervoer, voertuigen voor onderhoud en toezicht wanneer hun opdracht dit rechtvaardigt, prioritaire voertuigen, én fietsers en ruiters. Fietsers mogen er dus ook gewoon door; doorgaand autoverkeer niet.",
+        "fr": "La « circulation locale » comprend les véhicules des riverains et de leurs visiteurs, les livraisons, les services réguliers de transport en commun, les véhicules d'entretien et de surveillance lorsque leur mission le justifie, les véhicules prioritaires, ainsi que les cyclistes et les cavaliers. Un cycliste peut donc simplement traverser ; le trafic automobile de transit, non.",
+        "en": "'Local traffic' covers vehicles of residents and their visitors, deliveries, regular public transport services, maintenance and inspection vehicles when their task justifies it, priority vehicles, plus cyclists and horse riders. A cyclist may therefore simply pass through; through car traffic may not."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 2.47 ('uitgezonderd plaatselijk verkeer')",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C3)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-037",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": null,
+      "text": {
+        "nl": "U rijdt een zone binnen. Op het witte zonebord staat een snelheidsbeperking van 30 km per uur afgebeeld. Daarna passeert u meerdere kruispunten; het bord wordt nergens herhaald en u ziet geen bord dat het einde van de zone aanduidt. Wat geldt na die kruispunten?",
+        "fr": "Vous entrez dans une zone. Le panneau zonal blanc représente une limitation de vitesse à 30 km à l'heure. Vous franchissez ensuite plusieurs carrefours ; le signal n'est répété nulle part et vous ne voyez aucun signal indiquant la fin de la zone. Que s'applique-t-il après ces carrefours ?",
+        "en": "You enter a zone. The white zonal board shows a speed limit of 30 km per hour. You then pass several intersections; the sign is not repeated anywhere and you see no sign marking the end of the zone. What applies after those intersections?"
+      },
+      "options": [
+        {
+          "nl": "Nog altijd maximaal 30 km per uur: een zonale beperking blijft gelden tot ze door een eindezonebord wordt opgeheven.",
+          "fr": "Toujours 30 km à l'heure au maximum : une limitation zonale reste valable jusqu'au signal de fin de zone.",
+          "en": "Still 30 km per hour at most: a zonal limit remains in force until it is lifted by an end-of-zone sign."
+        },
+        {
+          "nl": "De beperking verviel aan het eerste kruispunt, zoals bij een gewoon snelheidsbord.",
+          "fr": "La limitation a pris fin au premier carrefour, comme pour un signal de vitesse ordinaire.",
+          "en": "The limit lapsed at the first intersection, as with an ordinary speed sign."
+        },
+        {
+          "nl": "Maximaal 50 km per uur zodra u twee kruispunten voorbij bent.",
+          "fr": "50 km à l'heure au maximum dès que vous avez passé deux carrefours.",
+          "en": "50 km per hour at most once you have passed two intersections."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Verkeersborden met zonale geldigheid gelden in de hele zone, ook voorbij kruispunten, tot aan het bord dat het einde van de zone aanduidt. Een gewoon snelheidsbord geldt daarentegen maar tot en met het volgende kruispunt.",
+        "fr": "Les signaux à validité zonale s'appliquent dans toute la zone, même au-delà des carrefours, jusqu'au signal indiquant la fin de la zone. Un signal de vitesse ordinaire, en revanche, ne vaut que jusqu'au carrefour suivant inclus.",
+        "en": "Signs with zonal validity apply throughout the zone, including beyond intersections, until the sign marking the end of the zone. An ordinary speed sign, by contrast, applies only up to and including the next intersection."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 65.5 (zonale geldigheid)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C43)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-038",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C9"
+      },
+      "text": {
+        "nl": "Dit bord staat aan het begin van een straat. U stapt van uw tweewielige bromfiets af en leidt hem aan de hand de straat in. Mag dat?",
+        "fr": "Ce signal se trouve à l'entrée d'une rue. Vous descendez de votre cyclomoteur à deux roues et le conduisez à la main dans la rue. Est-ce permis ?",
+        "en": "This sign stands at the start of a street. You get off your two-wheeled moped and push it by hand into the street. Is that allowed?"
+      },
+      "options": [
+        {
+          "nl": "Ja: wie een tweewielige bromfiets aan de hand leidt, wordt gelijkgesteld met een voetganger en is geen bestuurder.",
+          "fr": "Oui : qui conduit à la main un cyclomoteur à deux roues est assimilé à un piéton et n'est pas un conducteur.",
+          "en": "Yes: someone pushing a two-wheeled moped by hand is treated as a pedestrian and is not a driver."
+        },
+        {
+          "nl": "Nee: het verbod geldt voor de bromfiets zelf, of u er nu op rijdt of hem duwt.",
+          "fr": "Non : l'interdiction vise le cyclomoteur lui-même, que vous rouliez dessus ou que vous le poussiez.",
+          "en": "No: the ban applies to the moped itself, whether you ride it or push it."
+        },
+        {
+          "nl": "Enkel als de motor is afgezet én u op het trottoir loopt.",
+          "fr": "Seulement si le moteur est coupé et que vous marchez sur le trottoir.",
+          "en": "Only if the engine is switched off and you walk on the pavement."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Dit verbodsbord richt zich tot bestuurders van bromfietsen. Wie een fiets, een gemotoriseerd rijwiel of een tweewielige bromfiets aan de hand leidt, wordt door de wegcode gelijkgesteld met een voetganger en valt dus niet onder dit verbod.",
+        "fr": "Ce signal d'interdiction s'adresse aux conducteurs de cyclomoteurs. Qui conduit à la main une bicyclette, un cycle motorisé ou un cyclomoteur à deux roues est assimilé par le code de la route à un piéton et n'est donc pas visé par cette interdiction.",
+        "en": "This prohibition sign addresses drivers of mopeds. Someone pushing a bicycle, a motorised cycle or a two-wheeled moped by hand is equated with a pedestrian by the traffic code and therefore does not fall under this ban."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 2.46 (voetgangers)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C9)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-039",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op een verkeersgeleider midden op de rijbaan staat een rond blauw bord met een witte pijl die schuin naar beneden naar rechts wijst, in een hoek van ongeveer 45 graden. Wat moet u doen?",
+        "fr": "Sur un dispositif de guidage au milieu de la chaussée se trouve un signal rond bleu avec une flèche blanche pointant en oblique vers le bas, à droite, sous un angle d'environ 45 degrés. Que devez-vous faire ?",
+        "en": "On a traffic island in the middle of the carriageway stands a round blue sign with a white arrow pointing obliquely downwards to the right, at an angle of about 45 degrees. What must you do?"
+      },
+      "options": [
+        {
+          "nl": "De hindernis voorbijrijden langs de kant die de pijl aanwijst, hier dus rechts.",
+          "fr": "Contourner l'obstacle du côté indiqué par la flèche, donc ici à droite.",
+          "en": "Pass the obstacle on the side the arrow indicates, so here on the right."
+        },
+        {
+          "nl": "Aan het volgende kruispunt verplicht rechts afslaan.",
+          "fr": "Tourner obligatoirement à droite au prochain carrefour.",
+          "en": "Turn right without fail at the next intersection."
+        },
+        {
+          "nl": "Niets: een schuin geplaatste pijl heeft geen reglementaire betekenis.",
+          "fr": "Rien : une flèche placée en oblique n'a pas de valeur réglementaire.",
+          "en": "Nothing: an obliquely placed arrow has no regulatory meaning."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Dit is het gebodsbord dat verplicht de door de pijl aangeduide richting te volgen. Staat het op een hindernis of verkeersgeleider, dan wijst de niet-gebogen pijl schuin naar de grond onder ongeveer 45 graden en moet u langs die kant voorbijrijden.",
+        "fr": "Il s'agit du signal d'obligation de suivre la direction indiquée par la flèche. Placé sur un obstacle ou un dispositif de guidage, la flèche non courbée pointe vers le sol sous un angle d'environ 45 degrés et vous devez passer de ce côté.",
+        "en": "This is the mandatory sign requiring you to follow the direction shown by the arrow. When placed on an obstacle or traffic island, the straight arrow points towards the ground at about 45 degrees and you must pass on that side."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 69 (verkeersbord D1)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "MB 11/10/1976 (plaatsingsvoorwaarden verkeersborden)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1976101105~j6siwtihko"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-040",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "sign",
+        "code": "C23"
+      },
+      "text": {
+        "nl": "Dit bord staat aan het begin van een straat, met daaronder een onderbord met het opschrift '5,5 t'. U rijdt met een lichte vrachtwagen met een maximale toegelaten massa van 7 ton; vandaag weegt hij met lading 4 ton. Mag u de straat inrijden?",
+        "fr": "Ce signal se trouve à l'entrée d'une rue, avec en dessous un panneau additionnel portant l'inscription « 5,5 t ». Vous conduisez un petit camion d'une masse maximale autorisée de 7 tonnes ; aujourd'hui, il pèse 4 tonnes avec son chargement. Pouvez-vous entrer dans la rue ?",
+        "en": "This sign stands at the start of a street, with a panel below it reading '5.5 t'. You are driving a light lorry with a maximum authorised mass of 7 tonnes; today it weighs 4 tonnes with its load. May you enter the street?"
+      },
+      "options": [
+        {
+          "nl": "Ja: het opschrift beperkt het verbod tot voertuigen waarvan de massa in beladen toestand — het werkelijke gewicht — meer dan 5,5 ton bedraagt.",
+          "fr": "Oui : l'inscription limite l'interdiction aux véhicules dont la masse en charge — le poids réel — dépasse 5,5 tonnes.",
+          "en": "Yes: the inscription limits the ban to vehicles whose laden mass — the actual weight — exceeds 5.5 tonnes."
+        },
+        {
+          "nl": "Nee: de maximale toegelaten massa op het inschrijvingsbewijs telt, en die is hoger dan 5,5 ton.",
+          "fr": "Non : c'est la masse maximale autorisée du certificat d'immatriculation qui compte, et elle dépasse 5,5 tonnes.",
+          "en": "No: the maximum authorised mass on the registration certificate counts, and that exceeds 5.5 tonnes."
+        },
+        {
+          "nl": "Nee: dit bord verbiedt elk voertuig dat voor goederenvervoer gebouwd is, ongeacht het gewicht.",
+          "fr": "Non : ce signal interdit tout véhicule construit pour le transport de marchandises, quel que soit son poids.",
+          "en": "No: this sign bans every vehicle built for the transport of goods, regardless of its weight."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bij dit verbodsbord voor voertuigen gebouwd voor goederenvervoer beperkt een opschrift op het onderbord het verbod tot bestuurders van voertuigen waarvan de massa in beladen toestand — het werkelijke gewicht op dat ogenblik — hoger is dan de aangeduide massa (Art. 68.3, C23). Let op: onder een snelheidsbord verwijst een massa-opschrift wél naar de maximale toegelaten massa.",
+        "fr": "Pour ce signal d'interdiction visant les véhicules construits pour le transport de marchandises, une inscription sur le panneau additionnel limite l'interdiction aux conducteurs de véhicules dont la masse en charge — le poids réel à ce moment — dépasse la masse indiquée (art. 68.3, C23). Attention : sous un signal de vitesse, une inscription de masse renvoie en revanche à la masse maximale autorisée.",
+        "en": "For this prohibition sign aimed at goods vehicles, an inscription on the panel limits the ban to drivers of vehicles whose laden mass — the actual weight at that moment — exceeds the indicated mass (Art. 68.3, C23). Note: under a speed sign, a mass inscription refers to the maximum authorised mass instead."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C23 met onderbord)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-041",
+      "difficulty": 3,
+      "severity": "severe",
+      "image": {
+        "type": "sign",
+        "code": "C43-70"
+      },
+      "text": {
+        "nl": "Dit bord staat langs een gewestweg, met daaronder een onderbord met het opschrift '+3,5 t'. U rijdt met een lege lichte vrachtwagen: maximale toegelaten massa 7 ton, werkelijk gewicht vandaag 3 ton. Geldt deze snelheidsbeperking voor u?",
+        "fr": "Ce signal se trouve le long d'une route régionale, avec en dessous un panneau additionnel portant l'inscription « +3,5 t ». Vous conduisez un petit camion à vide : masse maximale autorisée de 7 tonnes, poids réel de 3 tonnes aujourd'hui. Cette limitation de vitesse s'applique-t-elle à vous ?",
+        "en": "This sign stands along a regional road, with a panel below it reading '+3.5 t'. You are driving an empty light lorry: maximum authorised mass 7 tonnes, actual weight today 3 tonnes. Does this speed limit apply to you?"
+      },
+      "options": [
+        {
+          "nl": "Ja: bij een snelheidsbord met massa-opschrift telt de maximale toegelaten massa, en die is hoger dan 3,5 ton.",
+          "fr": "Oui : pour un signal de vitesse avec inscription de masse, c'est la masse maximale autorisée qui compte, et elle dépasse 3,5 tonnes.",
+          "en": "Yes: for a speed sign with a mass inscription, the maximum authorised mass counts, and it exceeds 3.5 tonnes."
+        },
+        {
+          "nl": "Nee: mijn voertuig weegt vandaag maar 3 ton en blijft dus onder de aangeduide massa.",
+          "fr": "Non : mon véhicule ne pèse que 3 tonnes aujourd'hui et reste donc sous la masse indiquée.",
+          "en": "No: my vehicle only weighs 3 tonnes today and thus stays under the indicated mass."
+        },
+        {
+          "nl": "Nee: zo'n onderbord geldt enkel voor voertuigen met aanhangwagen.",
+          "fr": "Non : un tel panneau additionnel ne vise que les véhicules avec remorque.",
+          "en": "No: such a panel only concerns vehicles towing a trailer."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Wanneer op een onderbord bij een snelheidsbord een massa is aangeduid, geldt de beperking voor voertuigen waarvan de maximale toegelaten massa hoger is dan de aangeduide; het werkelijke gewicht speelt geen rol. Dat is het omgekeerde van sommige toegangsverboden, waar juist de massa in beladen toestand telt.",
+        "fr": "Lorsqu'une masse est indiquée sur un panneau additionnel sous un signal de vitesse, la limitation s'applique aux véhicules dont la masse maximale autorisée dépasse la masse indiquée ; le poids réel ne joue aucun rôle. C'est l'inverse de certaines interdictions d'accès, où c'est la masse en charge qui compte.",
+        "en": "When a mass is indicated on a panel under a speed sign, the limit applies to vehicles whose maximum authorised mass exceeds the indicated figure; the actual weight plays no role. That is the reverse of some access bans, where the laden mass counts instead."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C43 met onderbord)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
+    },
+    {
+      "id": "signs-prohibition-obligation-042",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": {
+        "type": "signs",
+        "codes": [
+          "C11",
+          "D7"
+        ]
+      },
+      "text": {
+        "nl": "U fietst en ziet deze twee borden, elk aan het begin van een andere weg. Wat is het verschil tussen het linkse en het rechtse bord?",
+        "fr": "Vous êtes à vélo et voyez ces deux signaux, chacun à l'entrée d'une route différente. Quelle est la différence entre le signal de gauche et celui de droite ?",
+        "en": "You are cycling and see these two signs, each at the start of a different road. What is the difference between the left and the right sign?"
+      },
+      "options": [
+        {
+          "nl": "Het linkse verbiedt fietsers de toegang; het rechtse verplicht fietsers net om dat fietspad te gebruiken.",
+          "fr": "Celui de gauche interdit l'accès aux cyclistes ; celui de droite oblige au contraire les cyclistes à emprunter cette piste cyclable.",
+          "en": "The left one denies cyclists access; the right one, on the contrary, obliges cyclists to use that cycle path."
+        },
+        {
+          "nl": "Ze betekenen hetzelfde: beide duiden een fietspad aan.",
+          "fr": "Ils signifient la même chose : tous deux indiquent une piste cyclable.",
+          "en": "They mean the same thing: both indicate a cycle path."
+        },
+        {
+          "nl": "Het linkse waarschuwt voor overstekende fietsers; het rechtse verbiedt fietsers de toegang.",
+          "fr": "Celui de gauche avertit de la traversée de cyclistes ; celui de droite interdit l'accès aux cyclistes.",
+          "en": "The left one warns of crossing cyclists; the right one denies cyclists access."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Vorm en kleur bepalen de betekenis: een rond wit bord met rode rand is een verbodsbord (verboden toegang voor bestuurders van rijwielen, C11), een rond blauw bord een gebodsbord (verplicht fietspad, D7). Waarschuwen voor overstekende fietsers gebeurt met een driehoekig gevaarsbord.",
+        "fr": "La forme et la couleur déterminent le sens : un signal rond blanc à bord rouge est un signal d'interdiction (accès interdit aux conducteurs de cycles, C11), un signal rond bleu un signal d'obligation (piste cyclable obligatoire, D7). La traversée de cyclistes est annoncée par un signal de danger triangulaire.",
+        "en": "Shape and colour determine the meaning: a round white sign with a red border is a prohibition sign (no access for cycles, C11), a round blue sign a mandatory sign (compulsory cycle path, D7). Crossing cyclists are announced by a triangular danger sign."
+      },
+      "citations": [
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 68.3 (verkeersbord C11)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        },
+        {
+          "source": "Wegcode (KB 01/12/1975), Art. 69 (verkeersbord D7)",
+          "url": "https://www.wegcode.be/nl/regelgeving/1975120109~hra8v386pu"
+        }
+      ]
     }
   ]
 }
