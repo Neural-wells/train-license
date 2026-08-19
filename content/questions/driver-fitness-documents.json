@@ -1193,6 +1193,265 @@
         { "source": "Wegverkeerswet (wet 16/03/1968), Art. 38", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" },
         { "source": "GOCA Vlaanderen — Wijziging van de wet betreffende de politie over het wegverkeer (01/07/2026)", "url": "https://www.gocavlaanderen.be/news-item/wijziging-van-de-wet-betreffende-de-politie-over-het-wegverkeer" }
       ]
+    },
+    {
+      "id": "driver-fitness-documents-048",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op een droge weg houd je twee seconden afstand van je voorligger. Het begint stevig te regenen. Welke volgafstand houd je nu aan?",
+        "fr": "Sur route sèche, vous gardez deux secondes de distance avec le véhicule qui vous précède. Il commence à pleuvoir fort. Quelle distance gardez-vous maintenant ?",
+        "en": "On a dry road you keep a two-second gap to the vehicle ahead. It starts raining hard. What following distance do you keep now?"
+      },
+      "options": [
+        { "nl": "Ongeveer twee seconden: nat of droog wegdek maakt daarvoor geen verschil", "fr": "Environ deux secondes : chaussée sèche ou mouillée, cela ne change rien", "en": "About two seconds: a wet or dry surface makes no difference to the rule" },
+        { "nl": "Ongeveer vier seconden: het dubbele van bij droog weer", "fr": "Environ quatre secondes : le double du temps sec", "en": "About four seconds: double the dry-weather gap" },
+        { "nl": "Ongeveer één seconde, want iedereen rijdt nu trager", "fr": "Environ une seconde, car tout le monde roule maintenant plus lentement", "en": "About one second, since everyone is driving slower now" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Op een nat wegdek wordt je remweg veel langer en heb je minder grip. De tweesecondenregel is een minimum voor droog weer; bij regen verdubbel je naar ongeveer vier seconden. Zo voldoe je aan de plicht om voldoende afstand te houden om niet te moeten remmen als je voorligger vertraagt (art. 10.1, 2°).",
+        "fr": "Sur chaussée mouillée, votre distance de freinage s'allonge fortement et vous avez moins d'adhérence. La règle des deux secondes est un minimum par temps sec ; sous la pluie, doublez à environ quatre secondes. Vous respectez ainsi l'obligation de garder une distance suffisante pour ne pas devoir freiner si le véhicule qui vous précède ralentit (art. 10.1, 2°).",
+        "en": "On a wet surface your braking distance becomes much longer and you have less grip. The two-second rule is a minimum for dry weather; in rain you double it to about four seconds. That way you meet the duty to keep enough distance so you do not have to brake when the vehicle ahead slows down (Art. 10.1, 2°)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 10.1, 2°", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "VSV — afstand houden", "url": "https://www.veiligverkeer.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-049",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je wil op de autosnelweg van rijstrook veranderen. In je binnen- en buitenspiegel zie je niemand. Wat doe je vóór je van rijstrook verandert?",
+        "fr": "Sur autoroute, vous voulez changer de bande de circulation. Dans vos rétroviseurs intérieur et extérieur, vous ne voyez personne. Que faites-vous avant de changer de bande ?",
+        "en": "On the motorway you want to change lanes. In your interior and exterior mirrors you see no one. What do you do before changing lanes?"
+      },
+      "options": [
+        { "nl": "Je kijkt ook nog over je schouder: er kan iemand in je dode hoek rijden", "fr": "Vous jetez encore un coup d'œil par-dessus l'épaule : quelqu'un peut se trouver dans votre angle mort", "en": "You also glance over your shoulder: someone may be riding in your blind spot" },
+        { "nl": "Je verandert van rijstrook: je spiegels tonen dat de strook vrij is", "fr": "Vous changez de bande : vos rétroviseurs montrent que la bande est libre", "en": "You change lanes: your mirrors show that the lane is clear" },
+        { "nl": "Je zet tijdig je richtingaanwijzer aan en wisselt heel geleidelijk, zodat de anderen kunnen reageren", "fr": "Vous mettez votre clignotant à temps et changez très progressivement, pour que les autres puissent réagir", "en": "You switch your indicator on in time and change very gradually, so that the others can react" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Naast en schuin achter je auto blijft een dode hoek die je spiegels niet tonen; dat je in je spiegels niets ziet, bewijst dus niet dat de strook vrij is. De schouderblik is de laatste controle. Van rijstrook veranderen is bovendien een maneuver: je moet voorrang verlenen aan de bestuurders die zich al op die strook bevinden (art. 12.4) — een richtingaanwijzer alleen geeft je dat recht niet.",
+        "fr": "À côté et en oblique derrière votre voiture subsiste un angle mort que vos rétroviseurs ne montrent pas ; ne rien voir dans les rétroviseurs ne prouve donc pas que la bande est libre. Le coup d'œil par-dessus l'épaule est le dernier contrôle. Changer de bande est en outre une manœuvre : vous devez céder le passage aux conducteurs qui se trouvent déjà sur cette bande (art. 12.4) — le clignotant seul ne vous en donne pas le droit.",
+        "en": "Beside and diagonally behind your car remains a blind spot your mirrors do not show; seeing nothing in your mirrors therefore does not prove the lane is clear. The shoulder check is the final verification. Changing lanes is moreover a maneuver: you must give way to the drivers already on that lane (Art. 12.4) — an indicator alone does not give you that right."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.4", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "VSV — de dode hoek", "url": "https://www.veiligverkeer.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-050",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je nadert een rood verkeerslicht. Hoe rijd je het zuinigst?",
+        "fr": "Vous approchez d'un feu rouge. Comment conduisez-vous le plus économiquement ?",
+        "en": "You are approaching a red traffic light. What is the most economical way to drive?"
+      },
+      "options": [
+        { "nl": "Je schakelt naar neutraal en laat de wagen in vrijloop naar het licht bollen", "fr": "Vous passez au point mort et laissez la voiture rouler en roue libre jusqu'au feu", "en": "You shift into neutral and let the car coast in freewheel up to the light" },
+        { "nl": "Je houdt je snelheid aan en remt pas vlak vóór het licht", "fr": "Vous maintenez votre vitesse et ne freinez que juste avant le feu", "en": "You keep your speed up and only brake just before the light" },
+        { "nl": "Je lost tijdig het gaspedaal en laat de wagen op de versnelling uitbollen", "fr": "Vous relâchez l'accélérateur à temps et laissez la voiture ralentir sur le rapport engagé", "en": "You release the accelerator early and let the car slow down in gear" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Als je het gaspedaal lost terwijl de wagen op de versnelling blijft, sluit een moderne motor de brandstoftoevoer volledig af: je verbruikt dan niets. In neutraal blijft de motor stationair brandstof verbruiken én heb je minder controle over het voertuig. Laat aankomen en pas vlak voor het licht remmen vernietigt bewegingsenergie die je gratis had kunnen gebruiken.",
+        "fr": "Si vous relâchez l'accélérateur en laissant le rapport engagé, un moteur moderne coupe complètement l'alimentation en carburant : vous ne consommez alors rien. Au point mort, le moteur continue de consommer au ralenti et vous avez moins de contrôle sur le véhicule. Arriver vite et ne freiner qu'au dernier moment détruit une énergie de mouvement que vous auriez pu utiliser gratuitement.",
+        "en": "If you release the accelerator while the car stays in gear, a modern engine cuts the fuel supply completely: you then consume nothing. In neutral the engine keeps burning fuel at idle and you have less control over the vehicle. Arriving fast and braking only at the last moment destroys kinetic energy you could have used for free."
+      },
+      "citations": [
+        { "source": "FOD Mobiliteit en Vervoer — zuinig rijden (ecodriving)", "url": "https://mobilit.belgium.be" },
+        { "source": "VSV — milieuvriendelijk rijden", "url": "https://www.veiligverkeer.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-051",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Hoe vaak en in welke omstandigheden controleer je best de bandenspanning van je auto?",
+        "fr": "À quelle fréquence et dans quelles conditions vérifiez-vous de préférence la pression des pneus de votre voiture ?",
+        "en": "How often and under what conditions should you check your car's tire pressure?"
+      },
+      "options": [
+        { "nl": "Ongeveer maandelijks, wanneer de banden koud zijn", "fr": "Environ une fois par mois, quand les pneus sont froids", "en": "About once a month, when the tires are cold" },
+        { "nl": "Eén keer per jaar, bij het jaarlijkse onderhoud van de wagen", "fr": "Une fois par an, lors de l'entretien annuel de la voiture", "en": "Once a year, during the car's annual service" },
+        { "nl": "Wekelijks, en het best meteen na een lange rit op de autosnelweg", "fr": "Chaque semaine, et de préférence juste après un long trajet sur autoroute", "en": "Weekly, and preferably right after a long motorway drive" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Controleer de bandenspanning ongeveer één keer per maand en vóór een lange rit, altijd op koude banden: warme banden geven een te hoge meetwaarde. Een te lage spanning verlengt de remweg, verslechtert de wegligging én verhoogt het brandstofverbruik.",
+        "fr": "Vérifiez la pression des pneus environ une fois par mois et avant un long trajet, toujours à froid : des pneus chauds donnent une valeur trop élevée. Une pression trop basse allonge la distance de freinage, dégrade la tenue de route et augmente la consommation de carburant.",
+        "en": "Check the tire pressure about once a month and before a long trip, always on cold tires: warm tires give a reading that is too high. Underinflation lengthens the braking distance, worsens road holding and raises fuel consumption."
+      },
+      "citations": [
+        { "source": "VSV — veilige voertuigen en banden", "url": "https://www.veiligverkeer.be" },
+        { "source": "FOD Mobiliteit en Vervoer — zuinig rijden (ecodriving)", "url": "https://mobilit.belgium.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-052",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je staat met je auto te wachten aan een gesloten overweg. Het wachten zal enkele minuten duren. Wat doe je met de motor?",
+        "fr": "Vous attendez en voiture devant un passage à niveau fermé. L'attente durera quelques minutes. Que faites-vous du moteur ?",
+        "en": "You are waiting in your car at a closed level crossing. The wait will take several minutes. What do you do with the engine?"
+      },
+      "options": [
+        { "nl": "Je laat hem stationair draaien: telkens opnieuw starten verbruikt meer", "fr": "Vous le laissez tourner au ralenti : redémarrer à chaque fois consomme davantage", "en": "You let it idle: restarting every time uses more fuel" },
+        { "nl": "Je zet hem af zolang je stilstaat", "fr": "Vous le coupez tant que vous êtes à l'arrêt", "en": "You switch it off while you are stationary" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Je mag de motor niet in vrijloop laten draaien terwijl je stilstaat, behalve in geval van noodzaak (art. 8.6). Dat een herstart meer verbruikt dan stationair draaien is bovendien een misvatting: bij een moderne motor loont afzetten al na enkele tientallen seconden stilstand.",
+        "fr": "Vous ne pouvez pas laisser tourner le moteur au ralenti pendant un arrêt, sauf en cas de nécessité (art. 8.6). L'idée qu'un redémarrage consomme plus que le ralenti est d'ailleurs une idée reçue : avec un moteur moderne, couper le contact est déjà rentable après quelques dizaines de secondes d'arrêt.",
+        "en": "You may not let the engine run at idle while stationary, except in case of necessity (Art. 8.6). The idea that restarting uses more fuel than idling is moreover a misconception: with a modern engine, switching off already pays after a few dozen seconds of standstill."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 8.6", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "FOD Mobiliteit en Vervoer — zuinig rijden (ecodriving)", "url": "https://mobilit.belgium.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-053",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Na je vakantie laat je de lege dakkoffer op je auto zitten. Wat is het gevolg voor het brandstofverbruik?",
+        "fr": "Après vos vacances, vous laissez le coffre de toit vide sur votre voiture. Quelle est la conséquence pour la consommation de carburant ?",
+        "en": "After your holiday you leave the empty roof box on your car. What is the effect on fuel consumption?"
+      },
+      "options": [
+        { "nl": "Geen gevolg: een lege dakkoffer weegt bijna niets en telt dus nauwelijks mee", "fr": "Aucune conséquence : un coffre de toit vide ne pèse presque rien et ne compte donc guère", "en": "No effect: an empty roof box weighs almost nothing and therefore hardly counts" },
+        { "nl": "Het verbruik daalt licht doordat de wagen gestroomlijnder wordt", "fr": "La consommation baisse légèrement car la voiture est plus profilée", "en": "Consumption drops slightly because the car becomes more streamlined" },
+        { "nl": "Het verbruik stijgt door de extra luchtweerstand, vooral bij hoge snelheid", "fr": "La consommation augmente à cause de la résistance à l'air accrue, surtout à haute vitesse", "en": "Consumption rises because of the extra air resistance, especially at high speed" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Bij een dakkoffer is niet het gewicht maar de luchtweerstand de grote boosdoener: op autosnelwegsnelheid kan het verbruik ruwweg tien tot twintig procent hoger liggen, ook met een lege koffer. Haal dakkoffer en fietsenrek er dus af zodra je ze niet meer gebruikt.",
+        "fr": "Avec un coffre de toit, le grand coupable n'est pas le poids mais la résistance à l'air : à vitesse d'autoroute, la consommation peut être supérieure d'environ dix à vingt pour cent, même avec un coffre vide. Retirez donc coffre de toit et porte-vélos dès que vous ne les utilisez plus.",
+        "en": "With a roof box the main culprit is not the weight but the air resistance: at motorway speed, consumption can be roughly ten to twenty percent higher, even with an empty box. So remove the roof box and bicycle carrier as soon as you no longer use them."
+      },
+      "citations": [
+        { "source": "FOD Mobiliteit en Vervoer — zuinig rijden (ecodriving)", "url": "https://mobilit.belgium.be" },
+        { "source": "VSV — milieuvriendelijk rijden", "url": "https://www.veiligverkeer.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-054",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je rijdt op de autosnelweg achter een vrachtwagen. Sommige bestuurders rijden vlak achter hem, 'in zijn zog', om brandstof te sparen. Wat doe jij?",
+        "fr": "Sur autoroute, vous roulez derrière un camion. Certains conducteurs se collent juste derrière lui, « dans son sillage », pour économiser du carburant. Que faites-vous ?",
+        "en": "On the motorway you are driving behind a truck. Some drivers tuck in right behind it, 'in its slipstream', to save fuel. What do you do?"
+      },
+      "options": [
+        { "nl": "Je volgt dichter dan twee seconden: in het zog zijn luchtweerstand en verbruik het laagst", "fr": "Vous suivez à moins de deux secondes : dans le sillage, la résistance à l'air et la consommation sont les plus faibles", "en": "You follow closer than two seconds: in the slipstream, air resistance and consumption are lowest" },
+        { "nl": "Je vergroot je afstand: zo zie je meer van de weg en blijf je zichtbaar", "fr": "Vous augmentez votre distance : vous voyez mieux la route et vous restez visible", "en": "You increase your distance: you see more of the road and you stay visible" },
+        { "nl": "Je houdt exact twee seconden aan: de regel is dezelfde achter elk voertuig", "fr": "Vous gardez exactement deux secondes : la règle est la même derrière chaque véhicule", "en": "You keep exactly two seconds: the rule is the same behind every vehicle" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Achter een vrachtwagen neem je juist méér afstand dan de minimale twee seconden: zijn hoge, brede laadbak ontneemt je elk zicht op de weg vóór hem, en wie zo dicht volgt dat hij de spiegels van de vrachtwagen niet meer ziet, zit in de dode hoek van de chauffeur. De volgafstand moet altijd volstaan om een aanrijding te vermijden als je voorligger plots vertraagt (art. 10.1, 2°) — een besparing rechtvaardigt dat risico nooit.",
+        "fr": "Derrière un camion, prenez justement plus que les deux secondes minimales : sa caisse haute et large vous masque toute la route devant lui, et celui qui suit de si près qu'il ne voit plus les rétroviseurs du camion se trouve dans l'angle mort du chauffeur. La distance de sécurité doit toujours suffire pour éviter une collision si le véhicule qui précède ralentit soudainement (art. 10.1, 2°) — une économie ne justifie jamais ce risque.",
+        "en": "Behind a truck you should allow more than the minimum two seconds: its high, wide body hides the entire road ahead of it, and anyone following so closely that they can no longer see the truck's mirrors is sitting in the driver's blind spot. Your following distance must always be enough to avoid a collision if the vehicle ahead suddenly slows (Art. 10.1, 2°) — a fuel saving never justifies that risk."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 10.1, 2°", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "VSV — afstand houden en de dode hoek", "url": "https://www.veiligverkeer.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-055",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je rijdt in dichte mist en ziet minder dan 100 meter ver. Hoe rijd je?",
+        "fr": "Vous roulez dans un brouillard dense et voyez à moins de 100 mètres. Comment roulez-vous ?",
+        "en": "You are driving in dense fog and can see less than 100 metres ahead. How do you drive?"
+      },
+      "options": [
+        { "nl": "Met grootlichten aan, zodat je in de mist zo ver mogelijk vóór je uit ziet", "fr": "Avec les feux de route allumés, pour voir le plus loin possible devant vous dans le brouillard", "en": "With main beam on, so that you can see as far ahead as possible in the fog" },
+        { "nl": "Met de waarschuwingsknipperlichten aan, zodat anderen je eerder opmerken", "fr": "Avec les feux de détresse allumés, pour que les autres vous remarquent plus tôt", "en": "With your hazard lights on, so that others notice you sooner" },
+        { "nl": "Met dimlichten en achtermistlicht, trager en met extra afstand", "fr": "Avec les feux de croisement et le feu arrière de brouillard, plus lentement et de plus loin", "en": "With dipped beam and rear fog light, slower and at a greater distance" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Bij mist die de zichtbaarheid tot minder dan ongeveer 100 meter beperkt, moet je het achtermistlicht gebruiken; mistlichten vooraan mogen dan ook (art. 30.3). Grootlichten zijn in mist contraproductief: het licht weerkaatst op de druppels en verblindt jezelf. Pas bovendien je snelheid en afstand aan het beperkte zicht aan (art. 10.1).",
+        "fr": "Quand le brouillard réduit la visibilité à moins d'environ 100 mètres, vous devez utiliser le feu arrière de brouillard ; les feux de brouillard avant sont alors également permis (art. 30.3). Les feux de route sont contre-productifs dans le brouillard : la lumière se réfléchit sur les gouttelettes et vous éblouit vous-même. Adaptez en outre votre vitesse et votre distance à la visibilité réduite (art. 10.1).",
+        "en": "When fog limits visibility to less than about 100 metres, you must use the rear fog light; front fog lights are then also permitted (Art. 30.3). Main beam is counterproductive in fog: the light reflects off the droplets and dazzles you. Also adapt your speed and distance to the reduced visibility (Art. 10.1)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 30.3", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 10.1", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-056",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Bij hevige regen op de autosnelweg voelt je stuur plots heel licht aan: je banden verliezen contact met het wegdek (aquaplaning). Wat doe je?",
+        "fr": "Sous une pluie battante sur l'autoroute, votre volant devient soudain très léger : vos pneus perdent le contact avec la chaussée (aquaplanage). Que faites-vous ?",
+        "en": "In heavy rain on the motorway your steering suddenly feels very light: your tires are losing contact with the road surface (aquaplaning). What do you do?"
+      },
+      "options": [
+        { "nl": "Je lost het gaspedaal en houdt het stuur recht, zonder bruuske bewegingen", "fr": "Vous relâchez l'accélérateur et gardez le volant droit, sans gestes brusques", "en": "You ease off the accelerator and keep the steering wheel straight, without abrupt movements" },
+        { "nl": "Je remt meteen krachtig om zo snel mogelijk opnieuw grip op het wegdek te krijgen", "fr": "Vous freinez immédiatement et fermement pour retrouver au plus vite l'adhérence sur la chaussée", "en": "You brake hard at once to regain grip on the road surface as quickly as possible" },
+        { "nl": "Je stuurt kordaat naar de rechterrijstrook, waar minder water ligt", "fr": "Vous braquez fermement vers la bande de droite, où il y a moins d'eau", "en": "You steer firmly to the right-hand lane, where there is less water" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bij aquaplaning drijven je banden op een waterlaag: remmen of sturen heeft dan geen effect en maakt het voertuig onbestuurbaar zodra de grip terugkeert. Los daarom rustig het gaspedaal, houd het stuur recht en wacht tot de banden opnieuw contact maken. Voorkomen doe je door je snelheid aan het weer aan te passen (art. 10.1) en je bandenspanning op peil te houden.",
+        "fr": "En cas d'aquaplanage, vos pneus flottent sur une couche d'eau : freiner ou braquer n'a alors aucun effet et rend le véhicule incontrôlable dès que l'adhérence revient. Relâchez donc calmement l'accélérateur, gardez le volant droit et attendez que les pneus reprennent contact. On le prévient en adaptant sa vitesse aux conditions météo (art. 10.1) et en maintenant la bonne pression des pneus.",
+        "en": "During aquaplaning your tires float on a layer of water: braking or steering then has no effect and makes the vehicle uncontrollable the moment grip returns. So calmly release the accelerator, keep the steering wheel straight and wait until the tires regain contact. You prevent it by adapting your speed to the weather (Art. 10.1) and keeping your tires properly inflated."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 10.1", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "AWSR — conduire sous la pluie", "url": "https://www.awsr.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-057",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Tijdens een lange avondrit worden je oogleden zwaar, je gaapt en je schrikt op omdat je even naar de rand van je rijstrook afdreef. Wat doe je?",
+        "fr": "Lors d'un long trajet en soirée, vos paupières deviennent lourdes, vous bâillez et vous sursautez parce que vous avez dérivé vers le bord de votre bande. Que faites-vous ?",
+        "en": "During a long evening drive your eyelids grow heavy, you yawn, and you startle because you briefly drifted toward the edge of your lane. What do you do?"
+      },
+      "options": [
+        { "nl": "Je zet het raam open en de radio luider tot aan de volgende afrit", "fr": "Vous ouvrez la fenêtre et montez le son de la radio jusqu'à la prochaine sortie", "en": "You open the window and turn the radio up until the next exit" },
+        { "nl": "Je stopt op de eerstvolgende veilige plaats en rust eerst uit", "fr": "Vous vous arrêtez au premier endroit sûr et vous vous reposez d'abord", "en": "You stop at the next safe place and rest first" },
+        { "nl": "Je vertraagt en vergroot je volgafstand om het risico te compenseren", "fr": "Vous ralentissez et augmentez votre distance de sécurité pour compenser le risque", "en": "You slow down and increase your following distance to compensate for the risk" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Zware oogleden, gapen en afdrijven binnen de rijstrook zijn typische voortekenen van een microslaap: enkele seconden bewusteloosheid, aan 120 km/u goed voor honderden meters blind rijden. Frisse lucht of muziek helpt hooguit enkele minuten en trager rijden neemt het risico niet weg — een bestuurder moet voortdurend in staat zijn om te sturen (art. 8.3). Alleen stoppen en rusten (een powernap) helpt echt.",
+        "fr": "Paupières lourdes, bâillements et dérive dans la bande sont les signes typiques d'un micro-sommeil imminent : quelques secondes d'inconscience, soit des centaines de mètres en aveugle à 120 km/h. L'air frais ou la musique n'aide que quelques minutes et ralentir ne supprime pas le risque — un conducteur doit être constamment en état de conduire (art. 8.3). Seuls l'arrêt et le repos (une courte sieste) aident vraiment.",
+        "en": "Heavy eyelids, yawning and drifting within your lane are the typical warning signs of a microsleep: a few seconds of unconsciousness, which at 120 km/h means hundreds of metres driven blind. Fresh air or music helps for a few minutes at most and slowing down does not remove the risk — a driver must be constantly able to drive (Art. 8.3). Only stopping and resting (a power nap) really helps."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 8.3", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "VSV — vermoeidheid achter het stuur", "url": "https://www.veiligverkeer.be" }
+      ]
     }
   ]
 }

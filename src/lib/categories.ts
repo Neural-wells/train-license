@@ -93,7 +93,7 @@ export const CATEGORIES: CategoryMeta[] = [
   },
   {
     slug: "driver-fitness-documents",
-    reading: ["driver-vehicle","fitness-alcohol","accidents-emergencies"],
+    reading: ["driver-vehicle","fitness-alcohol","accidents-emergencies","eco-defensive"],
     icon: "🪪",
     title: {
       nl: "Rijgeschiktheid, documenten & voertuig",

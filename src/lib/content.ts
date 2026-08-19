@@ -92,6 +92,7 @@ const READING_SLUGS = [
   "driver-vehicle",
   "fitness-alcohol",
   "accidents-emergencies",
+  "eco-defensive",
   "exam-guide",
 ];
 
