@@ -63,8 +63,8 @@
       },
       "options": [
         { "nl": "De rijbaan versmalt langs beide kanten", "fr": "La chaussée est rétrécie des deux côtés", "en": "The carriageway narrows on both sides" },
-        { "nl": "De rijbaan versmalt alleen langs rechts", "fr": "La chaussée est rétrécie uniquement à droite", "en": "The carriageway narrows on the right only" },
-        { "nl": "Smalle doorgang: u moet voorrang verlenen aan de tegenliggers", "fr": "Passage étroit : vous devez céder le passage aux conducteurs venant en sens opposé", "en": "Narrow passage: you must give way to oncoming traffic" }
+        { "nl": "De rijbaan versmalt alleen langs de rechterkant", "fr": "La chaussée est rétrécie uniquement du côté droit", "en": "The carriageway narrows on the right-hand side only" },
+        { "nl": "Smalle doorgang waar de tegenliggers voorrang hebben", "fr": "Passage étroit où les conducteurs venant en face ont la priorité", "en": "A narrow passage where oncoming drivers have priority" }
       ],
       "correct": 0,
       "explanation": {
@@ -87,9 +87,9 @@
         "en": "What does this danger warning sign announce?"
       },
       "options": [
-        { "nl": "Een lage brug met beperkte doorrijhoogte", "fr": "Un pont bas à hauteur limitée", "en": "A low bridge with limited headroom" },
-        { "nl": "Een overweg met slagbomen", "fr": "Un passage à niveau avec barrières", "en": "A level crossing with barriers" },
-        { "nl": "Een beweegbare brug", "fr": "Un pont mobile", "en": "A movable bridge" }
+        { "nl": "Een kaai of een oever langs de weg", "fr": "Un quai ou une berge le long de la route", "en": "A quay or riverbank beside the road" },
+        { "nl": "Een overweg die met slagbomen is uitgerust", "fr": "Un passage à niveau équipé de barrières", "en": "A level crossing fitted with barriers" },
+        { "nl": "Een beweegbare brug over een waterweg", "fr": "Un pont mobile au-dessus d'une voie d'eau", "en": "A movable bridge over a waterway" }
       ],
       "correct": 2,
       "explanation": {
@@ -137,9 +137,9 @@
         "en": "What does this sign mean?"
       },
       "options": [
-        { "nl": "Oversteekplaats voor voetgangers", "fr": "Passage pour piétons", "en": "A pedestrian crossing" },
-        { "nl": "Plaats waar speciaal veel kinderen komen, bijvoorbeeld aan een school", "fr": "Endroit spécialement fréquenté par des enfants, par exemple près d'une école", "en": "A place especially frequented by children, for example near a school" },
-        { "nl": "Speelstraat: verboden voor doorgaand verkeer", "fr": "Rue réservée au jeu : interdite au trafic de transit", "en": "A play street: closed to through traffic" }
+        { "nl": "Een oversteekplaats voor voetgangers even verderop", "fr": "Un passage pour piétons un peu plus loin", "en": "A pedestrian crossing a little further on" },
+        { "nl": "Een plaats waar speciaal veel kinderen komen", "fr": "Un endroit spécialement fréquenté par des enfants", "en": "A place especially frequented by children" },
+        { "nl": "Een speelstraat die verboden is voor doorgaand verkeer", "fr": "Une rue réservée au jeu, interdite au trafic de transit", "en": "A play street closed to through traffic" }
       ],
       "correct": 1,
       "explanation": {
@@ -162,9 +162,9 @@
         "en": "What does this sign announce?"
       },
       "options": [
-        { "nl": "Werken op of langs de weg", "fr": "Des travaux sur ou le long de la chaussée", "en": "Roadworks on or beside the road" },
-        { "nl": "Een file", "fr": "Une file", "en": "A traffic jam" },
-        { "nl": "Een verhoogde inrichting op de rijbaan", "fr": "Un dispositif surélevé sur la chaussée", "en": "A raised traffic-calming device on the carriageway" }
+        { "nl": "Werken op of langs de rijbaan", "fr": "Des travaux sur ou le long de la chaussée", "en": "Roadworks on or beside the carriageway" },
+        { "nl": "Een file die zich verderop vormt", "fr": "Une file qui se forme un peu plus loin", "en": "A traffic jam building up further on" },
+        { "nl": "Een verhoogde inrichting op de rijbaan", "fr": "Un dispositif surélevé sur la chaussée", "en": "A raised device installed on the carriageway" }
       ],
       "correct": 0,
       "explanation": {
@@ -187,9 +187,9 @@
         "en": "What does this sign announce?"
       },
       "options": [
-        { "nl": "Een overweg met slagbomen", "fr": "Un passage à niveau avec barrières", "en": "A level crossing with barriers" },
-        { "nl": "Het einde van de voorrangsweg", "fr": "La fin de la voie prioritaire", "en": "The end of the priority road" },
-        { "nl": "Verkeerslichten", "fr": "Des signaux lumineux de circulation", "en": "Traffic lights ahead" }
+        { "nl": "Een overweg met slagbomen even verderop", "fr": "Un passage à niveau avec barrières un peu plus loin", "en": "A level crossing with barriers ahead" },
+        { "nl": "Het einde van de voorrangsweg waarop u rijdt", "fr": "La fin de la voie prioritaire que vous suivez", "en": "The end of the priority road you are driving on" },
+        { "nl": "Verkeerslichten op korte afstand vóór u", "fr": "Des signaux lumineux à courte distance devant vous", "en": "Traffic lights a short distance ahead of you" }
       ],
       "correct": 2,
       "explanation": {
@@ -237,9 +237,9 @@
         "en": "What does this sign announce?"
       },
       "options": [
-        { "nl": "Een file", "fr": "Une file", "en": "A traffic jam ahead" },
-        { "nl": "Een inhaalverbod", "fr": "Une interdiction de dépasser", "en": "A no-overtaking restriction" },
-        { "nl": "Werken op de weg", "fr": "Des travaux sur la chaussée", "en": "Roadworks" }
+        { "nl": "Een file op enige afstand vóór u", "fr": "Une file à quelque distance devant vous", "en": "A traffic jam some distance ahead of you" },
+        { "nl": "Werken op korte afstand vóór u", "fr": "Des travaux à courte distance devant vous", "en": "Roadworks a short distance ahead of you" },
+        { "nl": "Verkeer in beide richtingen verderop", "fr": "Une circulation dans les deux sens plus loin", "en": "Two-way traffic further along the road" }
       ],
       "correct": 0,
       "explanation": {
@@ -262,9 +262,9 @@
         "en": "What does this sign mean?"
       },
       "options": [
-        { "nl": "Een gevaar dat niet door een speciaal symbool wordt bepaald; het onderbord duidt de aard van het gevaar aan", "fr": "Un danger non défini par un symbole spécial ; le panneau additionnel indique la nature du danger", "en": "A danger not defined by a special symbol; the supplementary panel indicates the nature of the danger" },
-        { "nl": "Het einde van alle gevaren", "fr": "La fin de tous les dangers", "en": "The end of all dangers" },
-        { "nl": "Verboden toegang voor iedere bestuurder", "fr": "Accès interdit à tout conducteur", "en": "No entry for all drivers" }
+        { "nl": "Een gevaar waarvoor geen specifiek symbool bestaat", "fr": "Un danger pour lequel il n'existe pas de symbole spécifique", "en": "A danger for which no specific symbol exists" },
+        { "nl": "Het einde van alle eerder aangekondigde gevaren", "fr": "La fin de tous les dangers annoncés précédemment", "en": "The end of all the previously signposted dangers" },
+        { "nl": "Een weggedeelte dat verboden is voor iedere bestuurder", "fr": "Un tronçon de route interdit à tout conducteur", "en": "A stretch of road closed to every driver" }
       ],
       "correct": 0,
       "explanation": {
@@ -287,9 +287,9 @@
         "en": "What must you do at this sign?"
       },
       "options": [
-        { "nl": "Alleen voorrang verlenen aan de bestuurders die van rechts komen", "fr": "Céder le passage uniquement aux conducteurs venant de droite", "en": "Give way only to drivers coming from the right" },
-        { "nl": "Voorrang verlenen aan iedere bestuurder op de kruisende weg, zowel van links als van rechts", "fr": "Céder le passage à tout conducteur circulant sur la voie que vous croisez, venant de gauche comme de droite", "en": "Give way to every driver on the road you are crossing, from both left and right" },
-        { "nl": "Altijd volledig stoppen, ook als er niemand nadert", "fr": "Toujours marquer l'arrêt complet, même si personne n'approche", "en": "Always come to a complete stop, even when nobody is approaching" }
+        { "nl": "Alleen voorrang verlenen aan de bestuurders die van rechts komen", "fr": "Céder le passage aux seuls conducteurs venant de droite", "en": "Give way only to drivers coming from the right" },
+        { "nl": "Voorrang verlenen aan de bestuurders die van links én van rechts komen", "fr": "Céder le passage aux conducteurs venant de gauche comme de droite", "en": "Give way to the drivers coming from both left and right" },
+        { "nl": "Volledig stoppen, ook wanneer er geen enkele bestuurder nadert", "fr": "Marquer l'arrêt complet, même si aucun conducteur n'approche", "en": "Stop completely, even when no other driver is approaching" }
       ],
       "correct": 1,
       "explanation": {
@@ -312,9 +312,9 @@
         "en": "You pass this sign. What does it mean?"
       },
       "options": [
-        { "nl": "U rijdt op een voorrangsweg en hebt voorrang op de volgende kruispunten, totdat een bord het einde van de voorrangsweg aanduidt", "fr": "Vous circulez sur une voie prioritaire et avez la priorité aux carrefours suivants, jusqu'au signal indiquant la fin de la voie prioritaire", "en": "You are on a priority road and have priority at the following intersections, until a sign marks the end of the priority road" },
-        { "nl": "Op het volgende kruispunt geldt de voorrang van rechts", "fr": "Au prochain carrefour, la priorité de droite est applicable", "en": "Priority to the right applies at the next intersection" },
-        { "nl": "U moet op het volgende kruispunt voorrang verlenen", "fr": "Vous devez céder le passage au prochain carrefour", "en": "You must give way at the next intersection" }
+        { "nl": "U hebt voorrang op alle volgende kruispunten", "fr": "Vous avez la priorité à tous les carrefours suivants", "en": "You have priority at all the following intersections" },
+        { "nl": "Op het volgende kruispunt geldt de voorrang van rechts", "fr": "Au prochain carrefour, la priorité de droite s'applique", "en": "Priority to the right applies at the next intersection" },
+        { "nl": "U hebt alleen op het eerstvolgende kruispunt voorrang", "fr": "Vous n'avez la priorité qu'au prochain carrefour", "en": "You have priority at the next intersection only" }
       ],
       "correct": 0,
       "explanation": {
@@ -438,9 +438,9 @@
         "en": "What is the difference between these two signs?"
       },
       "options": [
-        { "nl": "Het linkse bord (driehoek) kondigt een oversteekplaats voor voetgangers aan op ongeveer 150 m; het rechtse staat ter hoogte van de oversteekplaats zelf", "fr": "Le signal de gauche (triangle) annonce un passage pour piétons à environ 150 m ; celui de droite est placé à hauteur du passage même", "en": "The left sign (triangle) announces a pedestrian crossing about 150 m ahead; the right one stands at the crossing itself" },
-        { "nl": "Ze betekenen precies hetzelfde en staan op dezelfde plaats", "fr": "Ils signifient exactement la même chose et sont placés au même endroit", "en": "They mean exactly the same thing and stand in the same place" },
-        { "nl": "Het rechtse bord kondigt de oversteekplaats op afstand aan; het linkse staat ter plaatse", "fr": "Le signal de droite annonce le passage à distance ; celui de gauche est placé sur place", "en": "The right sign announces the crossing at a distance; the left one stands at the spot" }
+        { "nl": "Het linkse bord kondigt de oversteekplaats op ongeveer 150 m aan; het rechtse staat ter hoogte van de oversteekplaats zelf", "fr": "Le signal de gauche annonce le passage à environ 150 m ; celui de droite est placé à hauteur du passage même", "en": "The left sign announces the crossing about 150 m ahead; the right one stands at the crossing itself" },
+        { "nl": "Het rechtse bord kondigt de oversteekplaats op ongeveer 150 m aan; het linkse staat ter hoogte van de oversteekplaats zelf", "fr": "Le signal de droite annonce le passage à environ 150 m ; celui de gauche est placé à hauteur du passage même", "en": "The right sign announces the crossing about 150 m ahead; the left one stands at the crossing itself" },
+        { "nl": "Beide borden staan ter hoogte van de oversteekplaats zelf en verschillen alleen in vorm", "fr": "Les deux signaux sont placés à hauteur du passage même et ne diffèrent que par leur forme", "en": "Both signs stand at the crossing itself and differ only in their shape" }
       ],
       "correct": 0,
       "explanation": {
@@ -488,7 +488,7 @@
         "en": "You approach a level crossing without barriers and without lights. What must you do?"
       },
       "options": [
-        { "nl": "U hebt voorrang, want er zijn geen slagbomen", "fr": "Vous avez la priorité, puisqu'il n'y a pas de barrières", "en": "You have priority, since there are no barriers" },
+        { "nl": "U hebt voorrang op de spoorvoertuigen, omdat de overweg geen slagbomen heeft", "fr": "Vous avez la priorité sur les véhicules sur rails, puisque le passage n'a pas de barrières", "en": "You have priority over the rail vehicles, because the crossing has no barriers" },
         { "nl": "U mag pas oversteken nadat u zich ervan vergewist hebt dat er geen spoorvoertuig nadert", "fr": "Vous ne pouvez traverser qu'après vous être assuré qu'aucun véhicule sur rails n'approche", "en": "You may only cross after making sure that no rail vehicle is approaching" },
         { "nl": "U moet altijd volledig stoppen, zoals bij een stopbord", "fr": "Vous devez toujours marquer l'arrêt complet, comme à un signal stop", "en": "You must always come to a complete stop, as at a stop sign" }
       ],
@@ -513,11 +513,10 @@
         "en": "Beyond the level crossing, traffic is at a standstill. The barriers are open and no train is approaching. May you enter the crossing?"
       },
       "options": [
-        { "nl": "Nee, niet als het verkeer zo belemmerd is dat u waarschijnlijk op de overweg zou moeten stoppen", "fr": "Non, pas si la circulation est entravée au point que vous devriez probablement vous arrêter sur le passage à niveau", "en": "No, not if traffic is blocked such that you would probably have to stop on the crossing" },
-        { "nl": "Ja, zolang de slagbomen open zijn mag u altijd oprijden", "fr": "Oui, tant que les barrières sont ouvertes, vous pouvez toujours vous engager", "en": "Yes, as long as the barriers are open you may always enter" },
-        { "nl": "Ja, als u snel genoeg oversteekt", "fr": "Oui, si vous traversez assez vite", "en": "Yes, if you cross quickly enough" }
+        { "nl": "Ja: zolang de slagbomen open zijn en er geen trein nadert, mag u doorrijden", "fr": "Oui : tant que les barrières sont ouvertes et qu'aucun train n'approche, vous pouvez avancer", "en": "Yes: as long as the barriers are open and no train approaches, you may drive on" },
+        { "nl": "Nee: u mag niet oprijden als u waarschijnlijk op de overweg zou moeten stoppen", "fr": "Non : vous ne pouvez pas vous engager si vous risquez de devoir vous arrêter sur le passage", "en": "No: you may not enter if you would probably have to stop on the crossing" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "U mag een overweg niet oprijden wanneer het verkeer zodanig belemmerd is dat u er waarschijnlijk op zou moeten stoppen. Stilstaan op een overweg is levensgevaarlijk: wacht ervóór tot de doorgang volledig vrij is.",
         "fr": "Vous ne pouvez pas vous engager sur un passage à niveau lorsque la circulation est entravée au point que vous devriez probablement vous y arrêter. S'immobiliser sur un passage à niveau est extrêmement dangereux : attendez avant le passage que la sortie soit entièrement dégagée.",
@@ -538,9 +537,9 @@
         "en": "What is the difference between these two signs?"
       },
       "options": [
-        { "nl": "Bij het rechtse bord (STOP) moet u altijd volledig stoppen; bij het linkse moet u voorrang verlenen, maar hoeft u niet noodzakelijk te stoppen", "fr": "Au signal de droite (STOP), vous devez toujours marquer l'arrêt complet ; au signal de gauche, vous devez céder le passage, sans nécessairement vous arrêter", "en": "At the right sign (STOP) you must always come to a complete stop; at the left sign you must give way, but do not necessarily have to stop" },
-        { "nl": "Er is geen verschil: beide verplichten een volledige stop", "fr": "Il n'y a pas de différence : les deux imposent un arrêt complet", "en": "There is no difference: both require a complete stop" },
-        { "nl": "Het linkse bord is strenger: het verplicht een stop, het rechtse alleen voorrang verlenen", "fr": "Le signal de gauche est plus strict : il impose l'arrêt, celui de droite seulement de céder le passage", "en": "The left sign is stricter: it requires a stop, the right one only giving way" }
+        { "nl": "Bij het rechtse bord moet u altijd volledig stoppen; bij het linkse hoeft dat alleen om voorrang te kunnen verlenen", "fr": "Au signal de droite, vous devez toujours marquer l'arrêt complet ; au signal de gauche, l'arrêt n'est requis que pour céder le passage", "en": "At the right sign you must always stop completely; at the left one stopping is only required to give way" },
+        { "nl": "Bij het linkse bord moet u altijd volledig stoppen; bij het rechtse hoeft dat alleen om voorrang te kunnen verlenen", "fr": "Au signal de gauche, vous devez toujours marquer l'arrêt complet ; au signal de droite, l'arrêt n'est requis que pour céder le passage", "en": "At the left sign you must always stop completely; at the right one stopping is only required to give way" },
+        { "nl": "Beide borden verplichten een volledige stop; ze verschillen alleen in de plaats waar u moet stilstaan", "fr": "Les deux signaux imposent un arrêt complet ; ils ne diffèrent que par l'endroit où il faut s'immobiliser", "en": "Both signs require a complete stop; they differ only in where you must come to a standstill" }
       ],
       "correct": 0,
       "explanation": {
@@ -563,9 +562,9 @@
         "en": "Where must you stop at this sign?"
       },
       "options": [
-        { "nl": "Altijd exact ter hoogte van het verkeersbord, ook zonder zicht op het kruispunt", "fr": "Toujours exactement à hauteur du signal, même sans visibilité sur le carrefour", "en": "Always exactly level with the sign, even without a view of the intersection" },
-        { "nl": "Ter hoogte van de stopstreep; is er geen, dan vóór het kruispunt op een plaats waar u de kruisende weg goed kunt overzien", "fr": "À hauteur de la ligne d'arrêt ; à défaut, avant le carrefour, à un endroit d'où vous voyez bien la voie que vous croisez", "en": "At the stop line; if there is none, before the intersection at a spot where you can see the crossing road well" },
-        { "nl": "Pas op het kruispunt zelf, waar u het beste zicht hebt", "fr": "Seulement sur le carrefour même, là où la visibilité est la meilleure", "en": "Only on the intersection itself, where visibility is best" }
+        { "nl": "Altijd exact ter hoogte van het bord, ook als u de kruisende weg daar niet kunt overzien", "fr": "Toujours exactement à hauteur du signal, même si vous ne voyez pas bien la voie transversale de là", "en": "Always exactly level with the sign itself, even if you cannot see the crossing road from there" },
+        { "nl": "Ter hoogte van de stopstreep; ontbreekt die, dan vóór het kruispunt op een plaats met goed zicht", "fr": "À hauteur de la ligne d'arrêt ; à défaut, avant le carrefour, à un endroit offrant une bonne visibilité", "en": "At the stop line; if there is none, before the intersection at a spot with a good view" },
+        { "nl": "Net voorbij de rand van het kruispunt, waar u de kruisende weg het best kunt overzien", "fr": "Juste au-delà du bord du carrefour, là où vous voyez le mieux la voie transversale", "en": "Just past the edge of the intersection, where you can see the crossing road best" }
       ],
       "correct": 1,
       "explanation": {
@@ -613,9 +612,9 @@
         "en": "You pass this sign. What applies at the next intersection without signs or traffic lights?"
       },
       "options": [
-        { "nl": "De voorrang van rechts", "fr": "La priorité de droite", "en": "Priority to the right" },
-        { "nl": "U behoudt voorrang: het bord bevestigt de voorrangsweg", "fr": "Vous conservez la priorité : le signal confirme la voie prioritaire", "en": "You keep priority: the sign confirms the priority road" },
-        { "nl": "U moet stoppen zoals bij een stopbord", "fr": "Vous devez vous arrêter comme à un signal stop", "en": "You must stop as at a stop sign" }
+        { "nl": "Daar geldt opnieuw de voorrang van rechts", "fr": "La priorité de droite s'y applique de nouveau", "en": "Priority to the right applies there again" },
+        { "nl": "U behoudt er voorrang op het kruisende verkeer", "fr": "Vous y conservez la priorité sur le trafic transversal", "en": "You keep priority over the crossing traffic" },
+        { "nl": "U moet er stoppen en voorrang verlenen", "fr": "Vous devez vous y arrêter et céder le passage", "en": "You must stop there and give way to traffic" }
       ],
       "correct": 0,
       "explanation": {
@@ -638,9 +637,9 @@
         "en": "Who does this sign apply to and what does it allow?"
       },
       "options": [
-        { "nl": "Alle bestuurders mogen bij rood licht rechts afslaan", "fr": "Tous les conducteurs peuvent tourner à droite au feu rouge", "en": "All drivers may turn right at a red light" },
-        { "nl": "Fietsers en speed pedelecs mogen het rode of oranjegele licht voorbijrijden om rechts af te slaan, mits ze voorrang verlenen aan de andere weggebruikers", "fr": "Les cyclistes et speed pedelecs peuvent franchir le feu rouge ou jaune-orange pour tourner à droite, à condition de céder le passage aux autres usagers", "en": "Cyclists and speed pedelecs may pass the red or amber light to turn right, provided they give way to other road users" },
-        { "nl": "Fietsers krijgen voorrang wanneer ze bij rood licht rechts afslaan", "fr": "Les cyclistes obtiennent la priorité lorsqu'ils tournent à droite au feu rouge", "en": "Cyclists are given priority when they turn right at a red light" }
+        { "nl": "Alle bestuurders, ook automobilisten, mogen bij rood licht rechts afslaan na voorrang te verlenen", "fr": "Tous les conducteurs, y compris les automobilistes, peuvent tourner à droite au feu rouge après avoir cédé le passage", "en": "All drivers, including motorists, may turn right at the red light after giving way" },
+        { "nl": "Fietsers en speed pedelecs mogen bij rood licht rechts afslaan na voorrang te verlenen", "fr": "Les cyclistes et speed pedelecs peuvent tourner à droite au feu rouge après avoir cédé le passage", "en": "Cyclists and speed pedelecs may turn right at the red light after giving way" },
+        { "nl": "Fietsers en speed pedelecs mogen bij rood licht rechtdoor rijden na voorrang te verlenen", "fr": "Les cyclistes et speed pedelecs peuvent continuer tout droit au feu rouge après avoir cédé le passage", "en": "Cyclists and speed pedelecs may ride straight on at the red light after giving way" }
       ],
       "correct": 1,
       "explanation": {
@@ -673,9 +672,9 @@
         "en": "You are driver A, approaching the intersection; the sign shown stands on your approach. Driver B comes from the left and goes straight ahead. Who may proceed first?"
       },
       "options": [
-        { "nl": "Bestuurder B: u moet voorrang verlenen aan iedere bestuurder op de kruisende weg, ook aan wie van links komt", "fr": "Le conducteur B : vous devez céder le passage à tout conducteur sur la voie que vous croisez, même venant de gauche", "en": "Driver B: you must give way to every driver on the crossing road, including from the left" },
+        { "nl": "Bestuurder B: u moet voorrang verlenen aan het verkeer uit beide richtingen", "fr": "Le conducteur B : vous devez céder le passage à la circulation des deux sens", "en": "Driver B: you must give way to the traffic from both directions" },
         { "nl": "U (A): bestuurder B komt van links en moet u voorrang verlenen", "fr": "Vous (A) : le conducteur B vient de gauche et doit vous céder le passage", "en": "You (A): driver B comes from the left and must give way to you" },
-        { "nl": "De bestuurder die het eerst aan het kruispunt komt", "fr": "Le conducteur qui arrive le premier au carrefour", "en": "Whoever reaches the intersection first" }
+        { "nl": "De bestuurder die het kruispunt het eerst bereikt, mag eerst doorrijden", "fr": "Le conducteur qui atteint le carrefour en premier peut passer d'abord", "en": "The driver who arrives at the intersection first may proceed first" }
       ],
       "correct": 0,
       "explanation": {
@@ -698,9 +697,9 @@
         "en": "Traffic is moving very slowly. At the narrowing announced by this sign, your traffic lane ends. How do you merge?"
       },
       "options": [
-        { "nl": "U voegt zo vroeg mogelijk in; wie tot vooraan doorrijdt, begaat een overtreding", "fr": "Vous vous insérez le plus tôt possible ; celui qui roule jusqu'au bout commet une infraction", "en": "You merge as early as possible; anyone driving to the front commits an offence" },
-        { "nl": "De bestuurders op de doorlopende rijstrook hebben voorrang; u wacht tot iemand u vrijwillig laat invoegen", "fr": "Les conducteurs de la bande libre ont la priorité ; vous attendez que quelqu'un vous laisse volontairement passer", "en": "Drivers in the continuing lane have priority; you wait until someone voluntarily lets you in" },
-        { "nl": "U ritst: u rijdt door tot aan de versmalling en voegt daar in; wie op de vrije rijstrook rijdt, laat telkens één invoeger voorgaan", "fr": "Vous appliquez la tirette : vous roulez jusqu'au rétrécissement et vous vous y insérez ; chaque conducteur de la bande libre laisse passer un véhicule qui s'insère", "en": "You zipper merge: you drive up to the narrowing and merge there; each driver in the free lane lets one merging vehicle go ahead" }
+        { "nl": "U voegt zo vroeg mogelijk in; tot vooraan doorrijden geldt als voordringen", "fr": "Vous vous insérez le plus tôt possible ; rouler jusqu'au bout revient à forcer le passage", "en": "You merge as early as possible; driving on to the front is regarded as pushing in" },
+        { "nl": "U wacht tot een bestuurder op de doorlopende rijstrook u vrijwillig laat invoegen; die rijstrook heeft voorrang", "fr": "Vous attendez qu'un conducteur de la bande libre vous laisse volontairement passer ; cette bande a la priorité", "en": "You wait until a driver in the continuing lane voluntarily lets you in; that lane has priority" },
+        { "nl": "U rijdt door tot aan de versmalling en voegt daar in; de vrije rijstrook laat telkens één voertuig voor", "fr": "Vous roulez jusqu'au rétrécissement et vous y insérez ; la bande libre laisse passer un véhicule à la fois", "en": "You drive on to the narrowing and merge there; the free lane lets one vehicle in at a time" }
       ],
       "correct": 2,
       "explanation": {
@@ -723,9 +722,9 @@
         "en": "Beyond this sign lies a cycle crossing, without traffic lights. A cyclist is about to cross. Who has priority?"
       },
       "options": [
-        { "nl": "U, maar u moet de oversteekplaats met matige snelheid naderen en de fietser niet in gevaar brengen", "fr": "Vous, mais vous devez approcher du passage à allure modérée et ne pas mettre le cycliste en danger", "en": "You, but you must approach the crossing at moderate speed and not endanger the cyclist" },
-        { "nl": "De fietser: op een oversteekplaats heeft hij altijd voorrang, zoals een voetganger op een zebrapad", "fr": "Le cycliste : sur un passage, il a toujours la priorité, comme un piéton sur un passage pour piétons", "en": "The cyclist: on a crossing he always has priority, like a pedestrian on a zebra crossing" },
-        { "nl": "Niemand: beiden moeten stoppen", "fr": "Personne : les deux doivent s'arrêter", "en": "Nobody: both must stop" }
+        { "nl": "U: de fietser moet voorrang verlenen, maar u nadert de oversteekplaats met matige snelheid", "fr": "Vous : le cycliste doit céder le passage, mais vous approchez du passage à allure modérée", "en": "You: the cyclist must give way, but you approach the crossing at moderate speed" },
+        { "nl": "De fietser: op een oversteekplaats heeft hij voorrang, zoals een voetganger op een zebrapad", "fr": "Le cycliste : sur un passage, il a la priorité, comme un piéton sur un passage pour piétons", "en": "The cyclist: on a crossing he has priority, like a pedestrian on a zebra crossing" },
+        { "nl": "Geen van beiden: wie het eerst aan de oversteekplaats komt, steekt het eerst over", "fr": "Aucun des deux : celui qui arrive le premier au passage traverse le premier", "en": "Neither of you: whoever arrives at the crossing first crosses first" }
       ],
       "correct": 0,
       "explanation": {
@@ -748,9 +747,8 @@
         "en": "You reach this sign and see no traffic in any direction. Must you stop?"
       },
       "options": [
-        { "nl": "Ja: bij dit bord moet u altijd volledig stoppen, ook als er geen verkeer nadert", "fr": "Oui : à ce signal, vous devez toujours marquer l'arrêt complet, même si aucun véhicule n'approche", "en": "Yes: at this sign you must always come to a complete stop, even when no traffic is approaching" },
-        { "nl": "Nee: als de kruisende weg vrij is, mag u traag doorrijden", "fr": "Non : si la voie que vous croisez est libre, vous pouvez passer lentement", "en": "No: if the crossing road is clear, you may drive on slowly" },
-        { "nl": "Alleen bij slechte zichtbaarheid", "fr": "Uniquement par mauvaise visibilité", "en": "Only in poor visibility" }
+        { "nl": "Ja: dit bord verplicht altijd een volledige stop, ook zonder enig ander verkeer", "fr": "Oui : ce signal impose toujours un arrêt complet, même sans aucun autre trafic", "en": "Yes: this sign always requires a complete stop, even without any other traffic" },
+        { "nl": "Nee: als de kruisende weg volledig vrij is, mag u traag doorrijden", "fr": "Non : si la voie que vous croisez est entièrement libre, vous pouvez passer lentement", "en": "No: if the crossing road is completely clear, you may drive on slowly" }
       ],
       "correct": 0,
       "explanation": {
@@ -773,9 +771,9 @@
         "en": "What is the difference between these two signs?"
       },
       "options": [
-        { "nl": "Het linkse bord geeft voorrang op alle volgende kruispunten, tot het einde van de voorrangsweg wordt aangeduid; het rechtse alleen op het eerstvolgende kruispunt", "fr": "Le signal de gauche donne la priorité à tous les carrefours suivants, jusqu'au signal indiquant la fin de la voie prioritaire ; celui de droite uniquement au prochain carrefour", "en": "The left sign gives priority at all following intersections, until the end of the priority road is signposted; the right one only at the next intersection" },
-        { "nl": "Ze betekenen hetzelfde: voorrang tot het einde van de weg", "fr": "Ils signifient la même chose : priorité jusqu'à la fin de la route", "en": "They mean the same: priority until the end of the road" },
-        { "nl": "Het rechtse bord geeft voorrang tot het einde van de voorrangsweg; het linkse alleen op het volgende kruispunt", "fr": "Le signal de droite donne la priorité jusqu'à la fin de la voie prioritaire ; celui de gauche uniquement au prochain carrefour", "en": "The right sign gives priority until the end of the priority road; the left one only at the next intersection" }
+        { "nl": "Het linkse bord geeft voorrang tot het einde van de voorrangsweg; het rechtse alleen op het eerstvolgende kruispunt", "fr": "Le signal de gauche donne la priorité jusqu'à la fin de la voie prioritaire ; celui de droite uniquement au prochain carrefour", "en": "The left sign gives priority until the end of the priority road; the right one only at the next intersection" },
+        { "nl": "Het rechtse bord geeft voorrang tot het einde van de voorrangsweg; het linkse alleen op het eerstvolgende kruispunt", "fr": "Le signal de droite donne la priorité jusqu'à la fin de la voie prioritaire ; celui de gauche uniquement au prochain carrefour", "en": "The right sign gives priority until the end of the priority road; the left one only at the next intersection" },
+        { "nl": "Beide borden geven voorrang op elk kruispunt, tot een eindbord ze opheft", "fr": "Les deux signaux donnent la priorité à chaque carrefour, jusqu'à ce qu'un signal de fin les lève", "en": "Both signs give priority at every intersection, until an end sign lifts them" }
       ],
       "correct": 0,
       "explanation": {
@@ -799,8 +797,8 @@
       },
       "options": [
         { "nl": "Voorrang verlenen aan de bestuurders die uit de tegenovergestelde richting komen", "fr": "Céder le passage aux conducteurs venant en sens opposé", "en": "Give way to the drivers coming from the opposite direction" },
-        { "nl": "Doorrijden: u hebt voorrang op de tegenliggers", "fr": "Passer : vous avez la priorité sur les conducteurs venant en sens opposé", "en": "Drive on: you have priority over oncoming traffic" },
-        { "nl": "Stoppen en wachten op de instructies van een bevoegd persoon", "fr": "Vous arrêter et attendre les instructions d'un agent qualifié", "en": "Stop and wait for the instructions of an authorised official" }
+        { "nl": "Doorrijden: de tegenliggers moeten u voorrang verlenen", "fr": "Passer : les conducteurs venant en face doivent vous céder le passage", "en": "Drive on: the oncoming drivers must give way to you" },
+        { "nl": "Wie de smalle doorgang het eerst bereikt, mag er het eerst door", "fr": "Celui qui atteint le passage étroit en premier peut le franchir en premier", "en": "Whoever reaches the narrow passage first may drive through it first" }
       ],
       "correct": 0,
       "explanation": {
@@ -833,9 +831,9 @@
         "en": "You are driver A; the sign shown stands on your approach. Driver B approaches from the left. Who may proceed first?"
       },
       "options": [
-        { "nl": "U (A): het bord herinnert eraan dat de voorrang van rechts geldt, en u komt voor B van rechts", "fr": "Vous (A) : le signal rappelle que la priorité de droite s'applique, et vous venez de la droite pour B", "en": "You (A): the sign reminds you that priority to the right applies, and you come from B's right" },
-        { "nl": "Bestuurder B: het bord verplicht u voorrang te verlenen", "fr": "Le conducteur B : le signal vous oblige à céder le passage", "en": "Driver B: the sign requires you to give way" },
-        { "nl": "Bestuurder B: wie rechtdoor rijdt, heeft op zo'n kruispunt altijd voorrang", "fr": "Le conducteur B : celui qui va tout droit a toujours la priorité à un tel carrefour", "en": "Driver B: whoever goes straight ahead always has priority at such an intersection" }
+        { "nl": "U (A): hier geldt de voorrang van rechts, en u komt voor B van rechts", "fr": "Vous (A) : la priorité de droite s'applique ici, et vous venez de la droite de B", "en": "You (A): priority to the right applies here, and you come from B's right" },
+        { "nl": "Bestuurder B: het bord verplicht u voorrang te verlenen aan de kruisende weg", "fr": "Le conducteur B : le signal vous oblige à céder le passage à la voie transversale", "en": "Driver B: the sign requires you to give way to the crossing road" },
+        { "nl": "Bestuurder B: wie rechtdoor rijdt, heeft op zo'n kruispunt voorrang", "fr": "Le conducteur B : celui qui va tout droit a la priorité à un tel carrefour", "en": "Driver B: traffic going straight ahead has priority at such an intersection" }
       ],
       "correct": 0,
       "explanation": {
@@ -858,9 +856,9 @@
         "en": "You approach an intersection with traffic lights. The light turns steady amber while you can still stop safely before the stop line. What must you do?"
       },
       "options": [
-        { "nl": "Stoppen vóór de stopstreep: het vast oranjegeel licht verbiedt de stopstreep voorbij te rijden zolang u nog veilig kunt stoppen", "fr": "Vous arrêter avant la ligne d'arrêt : le feu jaune-orange fixe interdit de franchir la ligne d'arrêt tant que vous pouvez encore vous arrêter en sécurité", "en": "Stop before the stop line: the steady amber light forbids crossing the stop line as long as you can still stop safely" },
-        { "nl": "Versnellen om het kruispunt over te steken voordat het licht rood wordt", "fr": "Accélérer pour franchir le carrefour avant que le feu ne passe au rouge", "en": "Accelerate to cross the intersection before the light turns red" },
-        { "nl": "In hetzelfde tempo doorrijden: oranjegeel is enkel een waarschuwing", "fr": "Continuer à la même allure : le jaune-orange n'est qu'un avertissement", "en": "Continue at the same pace: amber is only a warning" }
+        { "nl": "Stoppen vóór de stopstreep: dat kan hier nog op veilige wijze", "fr": "Vous arrêter avant la ligne d'arrêt : vous pouvez encore le faire en sécurité", "en": "Stop before the stop line: you can still do so safely here" },
+        { "nl": "Versnellen zodat u het kruispunt vóór het rode licht verlaat", "fr": "Accélérer pour franchir le carrefour avant le passage au rouge", "en": "Accelerate so that you clear the intersection before the light turns red" },
+        { "nl": "In hetzelfde tempo doorrijden: oranjegeel waarschuwt enkel voor het rode licht", "fr": "Continuer à la même allure : le jaune-orange n'annonce que le feu rouge", "en": "Continue at the same pace: amber only announces the coming red light" }
       ],
       "correct": 0,
       "explanation": {
@@ -908,9 +906,9 @@
         "en": "At the intersection only a green arrow pointing left is lit for your direction. You want to go straight ahead. May you proceed?"
       },
       "options": [
-        { "nl": "Nee: verkeerslichten met pijlen gelden alleen voor de richting die de pijlen aanwijzen; om rechtdoor te rijden moet u wachten", "fr": "Non : les feux à flèches ne valent que pour la direction indiquée par les flèches ; pour continuer tout droit, vous devez attendre", "en": "No: arrow lights apply only to the direction the arrows indicate; to go straight ahead you must wait" },
-        { "nl": "Ja: een groene pijl heeft dezelfde betekenis als een gewoon groen licht en geldt voor alle richtingen", "fr": "Oui : une flèche verte a la même signification qu'un feu vert ordinaire et vaut pour toutes les directions", "en": "Yes: a green arrow has the same meaning as an ordinary green light and applies to all directions" },
-        { "nl": "Ja, op voorwaarde dat het kruispunt volledig vrij is", "fr": "Oui, à condition que le carrefour soit entièrement dégagé", "en": "Yes, provided the intersection is completely clear" }
+        { "nl": "Nee: de groene pijl geldt alleen voor de richting die ze aanwijst; u moet wachten", "fr": "Non : la flèche verte ne vaut que pour la direction qu'elle indique ; vous devez attendre", "en": "No: the green arrow only applies to the direction it indicates; you must wait" },
+        { "nl": "Ja: een groene pijl heeft voor alle richtingen dezelfde betekenis als een gewoon groen licht", "fr": "Oui : une flèche verte a, pour toutes les directions, la même signification qu'un feu vert ordinaire", "en": "Yes: a green arrow has the same meaning as an ordinary green light for every direction" },
+        { "nl": "Ja: u mag rechtdoor rijden op voorwaarde dat het kruispunt volledig vrij is", "fr": "Oui : vous pouvez continuer tout droit à condition que le carrefour soit entièrement dégagé", "en": "Yes: you may go straight ahead provided the intersection is completely clear" }
       ],
       "correct": 0,
       "explanation": {
@@ -933,9 +931,9 @@
         "en": "You are waiting in your car at a red light. Beside the carriageway, a traffic light showing the illuminated silhouette of a bicycle turns green. May you set off?"
       },
       "options": [
-        { "nl": "Nee: zulke lichten gelden alleen voor fietsers en bestuurders van tweewielige bromfietsen; u wacht tot uw eigen licht groen wordt", "fr": "Non : ces feux ne valent que pour les cyclistes et les conducteurs de cyclomoteurs à deux roues ; vous attendez que votre propre feu passe au vert", "en": "No: such lights apply only to cyclists and riders of two-wheeled mopeds; you wait until your own light turns green" },
-        { "nl": "Ja: het groene licht geldt voor alle bestuurders die in dezelfde richting rijden", "fr": "Oui : le feu vert vaut pour tous les conducteurs circulant dans la même direction", "en": "Yes: the green light applies to all drivers travelling in the same direction" },
-        { "nl": "Ja, maar alleen om rechts af te slaan en na voorrang te verlenen", "fr": "Oui, mais uniquement pour tourner à droite et après avoir cédé le passage", "en": "Yes, but only to turn right and after giving way" }
+        { "nl": "Nee: dat licht geldt alleen voor fietsers en tweewielige bromfietsen; u wacht op uw eigen licht", "fr": "Non : ce feu ne vaut que pour les cyclistes et les cyclomoteurs à deux roues ; vous attendez votre propre feu", "en": "No: that light applies only to cyclists and two-wheeled mopeds; you wait for your own light" },
+        { "nl": "Ja: een groen licht naast de rijbaan geldt voor alle bestuurders die dezelfde richting volgen", "fr": "Oui : un feu vert placé à côté de la chaussée vaut pour tous les conducteurs suivant la même direction", "en": "Yes: a green light beside the carriageway applies to every driver going in the same direction" },
+        { "nl": "Ja, maar alleen om rechts af te slaan en na voorrang te verlenen aan het kruisende verkeer", "fr": "Oui, mais uniquement pour tourner à droite et après avoir cédé le passage au trafic transversal", "en": "Yes, but only to turn right and after giving way to the crossing traffic" }
       ],
       "correct": 0,
       "explanation": {
@@ -959,9 +957,9 @@
         "en": "You are waiting in the middle of the intersection to turn left. At the exit of the intersection a separately placed green arrow pointing left lights up. What does this light mean?"
       },
       "options": [
-        { "nl": "Het tegenliggend verkeer wordt door een rood licht tegengehouden, zodat u het kruispunt kunt ontruimen door uw beweging naar links te voltooien", "fr": "La circulation venant en sens inverse est arrêtée par un feu rouge, afin que vous puissiez évacuer le carrefour en achevant votre mouvement vers la gauche", "en": "Oncoming traffic is being held back by a red light, so that you can clear the intersection by completing your left turn" },
-        { "nl": "Alle bestuurders op het kruispunt zijn verplicht links af te slaan", "fr": "Tous les conducteurs présents sur le carrefour sont obligés de tourner à gauche", "en": "All drivers on the intersection are obliged to turn left" },
-        { "nl": "Het tegenliggend verkeer heeft nog groen: u moet op een voldoende grote opening blijven wachten", "fr": "La circulation venant en sens inverse a encore le feu vert : vous devez continuer à attendre une ouverture suffisante", "en": "Oncoming traffic still has green: you must keep waiting for a large enough gap" }
+        { "nl": "Het tegenliggend verkeer wordt door een rood licht tegengehouden, zodat u uw beweging naar links kunt voltooien", "fr": "La circulation venant en face est retenue par un feu rouge, pour que vous puissiez achever votre virage à gauche", "en": "Oncoming traffic is held back by a red light so you can complete your left turn" },
+        { "nl": "Alle bestuurders die zich nog op het kruispunt bevinden, zijn verplicht links af te slaan", "fr": "Tous les conducteurs encore présents sur le carrefour sont obligés de tourner à gauche", "en": "All drivers still on the intersection are obliged to turn left and clear it that way" },
+        { "nl": "Het tegenliggend verkeer heeft nog groen: u moet op een voldoende grote opening blijven wachten", "fr": "La circulation venant en face a encore le vert : vous devez continuer à attendre une ouverture suffisante", "en": "Oncoming traffic still has green: you must keep waiting for a large enough gap" }
       ],
       "correct": 0,
       "explanation": {
@@ -984,7 +982,7 @@
         "en": "At an intersection without road signs a flashing amber light operates for all directions. What does it mean?"
       },
       "options": [
-        { "nl": "U mag het licht voorbijrijden met dubbele voorzichtigheid; de voorrangsregels blijven gelden, hier dus de voorrang van rechts", "fr": "Vous pouvez franchir le feu en redoublant de prudence ; les règles de priorité restent applicables, donc ici la priorité de droite", "en": "You may pass the light with double caution; the priority rules remain in force, so here priority to the right" },
+        { "nl": "U mag het licht met dubbele voorzichtigheid voorbijrijden; hier geldt dus de voorrang van rechts", "fr": "Vous pouvez franchir le feu en redoublant de prudence ; la priorité de droite s'applique donc ici", "en": "You may pass the light with double caution; priority to the right therefore applies here" },
         { "nl": "U moet stoppen zoals bij een rood licht en mag pas doorrijden wanneer het kruispunt volledig vrij is", "fr": "Vous devez vous arrêter comme à un feu rouge et ne repartir que lorsque le carrefour est entièrement dégagé", "en": "You must stop as at a red light and may only continue when the intersection is completely clear" },
         { "nl": "Het knipperlicht heft de voorrang van rechts op: het verkeer op de breedste weg gaat voor", "fr": "Le feu clignotant supprime la priorité de droite : la circulation sur la voie la plus large passe en premier", "en": "The flashing light cancels priority to the right: traffic on the widest road goes first" }
       ],
@@ -1034,9 +1032,9 @@
         "en": "Both signs relate to a level crossing. Which statement about their placement is correct?"
       },
       "options": [
-        { "nl": "Het linkse bord staat op ongeveer 150 m vóór de overweg; het rechtse staat aan of in de onmiddellijke nabijheid van de overweg zelf", "fr": "Le signal de gauche est placé à environ 150 m avant le passage à niveau ; celui de droite est placé au passage même ou à proximité immédiate", "en": "The left sign is placed about 150 m before the level crossing; the right one stands at or in the immediate vicinity of the crossing itself" },
-        { "nl": "Beide borden staan op ongeveer 150 m vóór de overweg", "fr": "Les deux signaux sont placés à environ 150 m avant le passage à niveau", "en": "Both signs are placed about 150 m before the level crossing" },
-        { "nl": "Het linkse bord staat aan de overweg zelf; het rechtse kondigt de overweg op afstand aan", "fr": "Le signal de gauche est placé au passage même ; celui de droite annonce le passage à distance", "en": "The left sign stands at the crossing itself; the right one announces the crossing at a distance" }
+        { "nl": "Het linkse bord staat op ongeveer 150 m vóór de overweg; het rechtse aan de overweg zelf", "fr": "Le signal de gauche est placé à environ 150 m avant le passage ; celui de droite au passage même", "en": "The left sign stands about 150 m before the crossing; the right one at the crossing itself" },
+        { "nl": "Het rechtse bord staat op ongeveer 150 m vóór de overweg; het linkse aan de overweg zelf", "fr": "Le signal de droite est placé à environ 150 m avant le passage ; celui de gauche au passage même", "en": "The right sign stands about 150 m before the crossing; the left one at the crossing itself" },
+        { "nl": "Beide borden staan op ongeveer 150 m vóór de overweg die ze aankondigen", "fr": "Les deux signaux sont placés à environ 150 m avant le passage qu'ils annoncent", "en": "Both signs are placed about 150 m before the level crossing they announce" }
       ],
       "correct": 0,
       "explanation": {
@@ -1059,9 +1057,9 @@
         "en": "What is the difference between these two signs?"
       },
       "options": [
-        { "nl": "Het linkse bord kondigt het einde van de voorrangsweg aan op de bij benadering aangeduide afstand; het rechtse staat op de plaats waar de voorrangsweg werkelijk eindigt", "fr": "Le signal de gauche annonce la fin de la voie prioritaire à la distance indiquée approximativement ; celui de droite est placé à l'endroit où la voie prioritaire prend réellement fin", "en": "The left sign announces the end of the priority road at the approximate distance indicated; the right one stands where the priority road actually ends" },
-        { "nl": "Ze betekenen hetzelfde en staan allebei op de plaats waar de voorrangsweg eindigt", "fr": "Ils signifient la même chose et sont tous deux placés à l'endroit où la voie prioritaire prend fin", "en": "They mean the same thing and both stand where the priority road ends" },
-        { "nl": "Het rechtse bord kondigt het einde op afstand aan; het linkse staat op de plaats zelf", "fr": "Le signal de droite annonce la fin à distance ; celui de gauche est placé sur place", "en": "The right sign announces the end at a distance; the left one stands at the spot" }
+        { "nl": "Het linkse bord kondigt het einde aan op de aangeduide afstand; het rechtse duidt het einde zelf aan", "fr": "Le signal de gauche annonce la fin à la distance indiquée ; celui de droite indique la fin même", "en": "The left sign announces the end at the stated distance; the right one marks the actual end" },
+        { "nl": "Het rechtse bord kondigt het einde aan op de aangeduide afstand; het linkse duidt het einde zelf aan", "fr": "Le signal de droite annonce la fin à la distance indiquée ; celui de gauche indique la fin même", "en": "The right sign announces the end at the stated distance; the left one marks the actual end" },
+        { "nl": "Beide borden betekenen hetzelfde en staan op de plaats waar de voorrangsweg eindigt", "fr": "Les deux signaux signifient la même chose et sont placés là où la voie prioritaire prend fin", "en": "The two signs mean the same thing and both stand where the priority road ends" }
       ],
       "correct": 0,
       "explanation": {
@@ -1084,9 +1082,8 @@
         "en": "You are driving on a priority road and pass this sign. A little further on, but still before the sign that marks the actual end of the priority road, there is an intersection. Do you still have priority there?"
       },
       "options": [
-        { "nl": "Ja: dit bord kondigt het einde alleen maar aan; de voorrangsweg eindigt pas aan het bord dat het einde zelf aanduidt", "fr": "Oui : ce signal ne fait qu'annoncer la fin ; la voie prioritaire ne prend fin qu'au signal qui en indique la fin même", "en": "Yes: this sign only announces the end; the priority road ends only at the sign that marks the end itself" },
-        { "nl": "Nee: vanaf dit bord geldt op elk kruispunt opnieuw de voorrang van rechts", "fr": "Non : à partir de ce signal, la priorité de droite s'applique de nouveau à chaque carrefour", "en": "No: from this sign onward, priority to the right applies again at every intersection" },
-        { "nl": "Nee: u moet er stoppen en voorrang verlenen aan het verkeer uit beide richtingen", "fr": "Non : vous devez vous y arrêter et céder le passage à la circulation venant des deux sens", "en": "No: you must stop there and give way to traffic from both directions" }
+        { "nl": "Ja: dit bord kondigt het einde alleen aan; tot aan het eindbord behoudt u voorrang", "fr": "Oui : ce signal ne fait qu'annoncer la fin ; jusqu'au signal de fin, vous conservez la priorité", "en": "Yes: this sign only announces the end; until the end sign you keep priority" },
+        { "nl": "Nee: vanaf dit bord geldt op elk kruispunt opnieuw de voorrang van rechts", "fr": "Non : à partir de ce signal, la priorité de droite s'applique de nouveau à chaque carrefour", "en": "No: from this sign onward, priority to the right applies again at every intersection" }
       ],
       "correct": 0,
       "explanation": {

@@ -12,9 +12,9 @@
         "en": "You see this sign along the carriageway. May you stop briefly here to let a passenger out?"
       },
       "options": [
-        { "nl": "Ja, dit verkeersbord verbiedt enkel het parkeren", "fr": "Oui, ce signal n'interdit que le stationnement", "en": "Yes, this sign prohibits parking only" },
-        { "nl": "Nee, stilstaan en parkeren zijn hier beide verboden", "fr": "Non, l'arrêt et le stationnement sont tous deux interdits ici", "en": "No, both stopping and parking are prohibited here" },
-        { "nl": "Ja, maar alleen buiten de spitsuren", "fr": "Oui, mais uniquement en dehors des heures de pointe", "en": "Yes, but only outside peak hours" }
+        { "nl": "Ja, dit bord verbiedt enkel het parkeren, niet het stilstaan", "fr": "Oui, ce signal n'interdit que le stationnement, pas l'arrêt", "en": "Yes, this sign prohibits only parking, not stopping" },
+        { "nl": "Nee, dit bord verbiedt zowel het stilstaan als het parkeren", "fr": "Non, ce signal interdit à la fois l'arrêt et le stationnement", "en": "No, this sign prohibits both stopping and parking" },
+        { "nl": "Ja, maar enkel om te laden en te lossen, niet voor passagiers", "fr": "Oui, mais uniquement pour charger et décharger, pas pour les passagers", "en": "Yes, but only to load and unload, not for passengers" }
       ],
       "correct": 0,
       "explanation": {
@@ -38,9 +38,9 @@
         "en": "What does this sign mean?"
       },
       "options": [
-        { "nl": "Parkeerverbod; stilstaan blijft toegelaten", "fr": "Stationnement interdit ; l'arrêt reste autorisé", "en": "No parking; stopping remains allowed" },
-        { "nl": "Stilstaan en parkeren verboden", "fr": "Arrêt et stationnement interdits", "en": "No stopping or parking" },
-        { "nl": "Einde van een parkeerzone", "fr": "Fin d'une zone de stationnement", "en": "End of a parking zone" }
+        { "nl": "Parkeren verboden; kort stilstaan blijft toegelaten", "fr": "Stationnement interdit ; l'arrêt bref reste autorisé", "en": "No parking; brief stopping remains allowed" },
+        { "nl": "Stilstaan en parkeren beide verboden", "fr": "Arrêt et stationnement tous deux interdits", "en": "Both stopping and parking prohibited" },
+        { "nl": "Parkeerverbod van de 1e tot de 15e van de maand", "fr": "Stationnement interdit du 1er au 15 du mois", "en": "No parking from the 1st to the 15th of the month" }
       ],
       "correct": 1,
       "explanation": {
@@ -63,9 +63,9 @@
         "en": "This sign stands at the start of a street, without a supplementary panel. How far does the parking prohibition apply?"
       },
       "options": [
-        { "nl": "Tot het volgende kruispunt, aan de kant van de weg waar het bord staat", "fr": "Jusqu'au prochain carrefour, du côté de la voie où le signal est placé", "en": "Until the next intersection, on the side of the road where the sign is placed" },
-        { "nl": "In de hele straat, aan beide kanten van de rijbaan", "fr": "Dans toute la rue, des deux côtés de la chaussée", "en": "In the whole street, on both sides of the carriageway" },
-        { "nl": "Over een afstand van 100 meter na het bord", "fr": "Sur une distance de 100 mètres après le signal", "en": "Over a distance of 100 metres after the sign" }
+        { "nl": "Tot het volgende kruispunt, aan de kant waar het bord is aangebracht", "fr": "Jusqu'au prochain carrefour, du côté où le signal est placé", "en": "Until the next intersection, on the side where the sign is placed" },
+        { "nl": "Tot het volgende kruispunt, aan beide kanten van de rijbaan", "fr": "Jusqu'au prochain carrefour, des deux côtés de la chaussée", "en": "Until the next intersection, on both sides of the carriageway" },
+        { "nl": "In alle straten van de zone, tot aan het eindezonebord", "fr": "Dans toutes les rues de la zone, jusqu'au signal de fin de zone", "en": "In every street of the zone, until the end-of-zone sign" }
       ],
       "correct": 0,
       "explanation": {
@@ -90,7 +90,7 @@
       "options": [
         { "nl": "Parkeerverbod van de 1e tot de 15e van de maand", "fr": "Stationnement interdit du 1er au 15 du mois", "en": "No parking from the 1st to the 15th of the month" },
         { "nl": "Parkeerverbod van de 16e tot het einde van de maand", "fr": "Stationnement interdit du 16 à la fin du mois", "en": "No parking from the 16th to the end of the month" },
-        { "nl": "Parkeren beperkt tot 15 minuten", "fr": "Stationnement limité à 15 minutes", "en": "Parking limited to 15 minutes" }
+        { "nl": "Beurtelings parkeren dat elke halve maand van kant wisselt", "fr": "Stationnement alterné qui change de côté chaque quinzaine", "en": "Alternate-side parking that changes sides every half month" }
       ],
       "correct": 0,
       "explanation": {
@@ -113,9 +113,9 @@
         "en": "Today is the 20th of the month. May you park on the side of the road where this sign is placed?"
       },
       "options": [
-        { "nl": "Ja, het verbod geldt enkel van de 1e tot de 15e", "fr": "Oui, l'interdiction ne vaut que du 1er au 15", "en": "Yes, the prohibition only applies from the 1st to the 15th" },
+        { "nl": "Ja, het verbod geldt enkel van de 1e tot de 15e van de maand", "fr": "Oui, l'interdiction ne vaut que du 1er au 15 du mois", "en": "Yes, the prohibition applies only from the 1st to the 15th of the month" },
         { "nl": "Nee, het verbod geldt van de 16e tot het einde van de maand", "fr": "Non, l'interdiction vaut du 16 à la fin du mois", "en": "No, the prohibition applies from the 16th to the end of the month" },
-        { "nl": "Ja, mits gebruik van de parkeerschijf", "fr": "Oui, à condition d'utiliser le disque de stationnement", "en": "Yes, provided you use the parking disc" }
+        { "nl": "Nee, het verbod geldt hier de hele maand door", "fr": "Non, l'interdiction vaut ici pendant tout le mois", "en": "No, the prohibition applies here during the whole month" }
       ],
       "correct": 1,
       "explanation": {
@@ -139,8 +139,8 @@
       },
       "options": [
         { "nl": "Parkeren toegelaten", "fr": "Stationnement autorisé", "en": "Parking allowed" },
-        { "nl": "Parkeren enkel voor houders van een bewonerskaart", "fr": "Stationnement réservé aux titulaires d'une carte de riverain", "en": "Parking only for holders of a resident parking card" },
-        { "nl": "Betalend parkeren verplicht", "fr": "Stationnement payant obligatoire", "en": "Paid parking mandatory" }
+        { "nl": "Parkeren verplicht", "fr": "Stationnement obligatoire", "en": "Parking compulsory" },
+        { "nl": "Enkel betalend parkeren", "fr": "Stationnement payant uniquement", "en": "Paid parking only" }
       ],
       "correct": 0,
       "explanation": {
@@ -163,9 +163,9 @@
         "en": "May you park a delivery van, built for the transport of goods, where this sign is placed?"
       },
       "options": [
-        { "nl": "Ja, elk motorvoertuig mag hier parkeren", "fr": "Oui, tout véhicule à moteur peut y stationner", "en": "Yes, any motor vehicle may park here" },
-        { "nl": "Nee, het parkeren is voorbehouden aan motorfietsen, personenauto's, auto's voor dubbelgebruik en minibussen", "fr": "Non, le stationnement est réservé aux motocyclettes, voitures, voitures mixtes et minibus", "en": "No, parking is reserved for motorcycles, cars, dual-purpose cars and minibuses" },
-        { "nl": "Ja, als de bestelwagen minder dan 3,5 ton weegt", "fr": "Oui, si la camionnette pèse moins de 3,5 tonnes", "en": "Yes, if the van weighs less than 3.5 tonnes" }
+        { "nl": "Ja, elke bestelwagen tot 3,5 ton mag hier parkeren", "fr": "Oui, toute camionnette jusqu'à 3,5 tonnes peut y stationner", "en": "Yes, any delivery van up to 3.5 tonnes may park here" },
+        { "nl": "Nee, voertuigen gebouwd voor goederenvervoer zijn hier uitgesloten", "fr": "Non, les véhicules conçus pour le transport de marchandises en sont exclus", "en": "No, vehicles built for the transport of goods are excluded here" },
+        { "nl": "Nee, enkel personenauto's mogen hier staan, zelfs motorfietsen niet", "fr": "Non, seules les voitures peuvent y stationner, pas même les motocyclettes", "en": "No, only passenger cars may park here, not even motorcycles" }
       ],
       "correct": 1,
       "explanation": {
@@ -189,7 +189,7 @@
       },
       "options": [
         { "nl": "Volledig op de berm of op het trottoir", "fr": "Entièrement sur l'accotement ou sur le trottoir", "en": "Entirely on the verge or on the sidewalk" },
-        { "nl": "Volledig op de rijbaan", "fr": "Entièrement sur la chaussée", "en": "Entirely on the carriageway" },
+        { "nl": "Volledig op de rijbaan, langs de rand", "fr": "Entièrement sur la chaussée, le long du bord", "en": "Entirely on the carriageway, along its edge" },
         { "nl": "Half op de rijbaan, half op het trottoir", "fr": "À moitié sur la chaussée, à moitié sur le trottoir", "en": "Half on the carriageway, half on the sidewalk" }
       ],
       "correct": 0,
@@ -215,7 +215,7 @@
       "options": [
         { "nl": "Aan de kant van de gebouwen met onpare huisnummers", "fr": "Du côté des immeubles portant des numéros impairs", "en": "On the side of the buildings with odd house numbers" },
         { "nl": "Aan de kant van de gebouwen met pare huisnummers", "fr": "Du côté des immeubles portant des numéros pairs", "en": "On the side of the buildings with even house numbers" },
-        { "nl": "Elke dag beurtelings aan een andere kant", "fr": "Chaque jour alternativement d'un côté différent", "en": "On a different side alternating each day" }
+        { "nl": "Aan de kant van de weg waar het zonebord is aangebracht", "fr": "Du côté de la voie où le signal zonal est placé", "en": "On the side of the road where the zonal sign is placed" }
       ],
       "correct": 0,
       "explanation": {
@@ -239,9 +239,8 @@
         "en": "You enter a zone indicated by this zonal sign. Does the parking prohibition end at the next intersection?"
       },
       "options": [
-        { "nl": "Nee, het verbod geldt in de hele zone tot aan het eindezonebord", "fr": "Non, l'interdiction vaut dans toute la zone jusqu'au signal de fin de zone", "en": "No, the prohibition applies in the whole zone until the end-of-zone sign" },
-        { "nl": "Ja, zoals bij elk verkeersbord betreffende het parkeren", "fr": "Oui, comme pour tout signal relatif au stationnement", "en": "Yes, as with any parking sign" },
-        { "nl": "Ja, tenzij het bord na het kruispunt herhaald wordt", "fr": "Oui, sauf si le signal est répété après le carrefour", "en": "Yes, unless the sign is repeated after the intersection" }
+        { "nl": "Nee, het geldt in alle straten van de zone tot je het eindezonebord voorbijrijdt", "fr": "Non, elle vaut dans toutes les rues de la zone jusqu'à ce que vous passiez le signal de fin de zone", "en": "No, it applies in every street of the zone until you pass the end-of-zone sign" },
+        { "nl": "Ja, het eindigt daar net zoals een parkeerverbod zonder zonale geldigheid", "fr": "Oui, elle y prend fin comme une interdiction de stationner sans validité zonale", "en": "Yes, it ends there just like a parking prohibition without zonal validity" }
       ],
       "correct": 0,
       "explanation": {
@@ -317,9 +316,9 @@
         "en": "What does this sign mean?"
       },
       "options": [
-        { "nl": "Begin van een zone waarin de snelheid beperkt is tot 30 km per uur, tot aan het eindezonebord", "fr": "Commencement d'une zone dans laquelle la vitesse est limitée à 30 km à l'heure, jusqu'au signal de fin de zone", "en": "Start of a zone in which speed is limited to 30 km/h, until the end-of-zone sign" },
-        { "nl": "Aanbevolen snelheid van 30 km per uur", "fr": "Vitesse conseillée de 30 km à l'heure", "en": "Recommended speed of 30 km/h" },
-        { "nl": "Snelheidsbeperking van 30 km per uur, enkel in de straat waar het bord staat", "fr": "Limitation à 30 km à l'heure, uniquement dans la rue où le signal est placé", "en": "30 km/h limit, only in the street where the sign stands" }
+        { "nl": "Snelheid beperkt tot 30 km per uur in alle straten van de zone", "fr": "Vitesse limitée à 30 km à l'heure dans toutes les rues de la zone", "en": "Speed limited to 30 km/h in all the streets of the zone" },
+        { "nl": "Snelheid beperkt tot 30 km per uur tot aan het volgende kruispunt", "fr": "Vitesse limitée à 30 km à l'heure jusqu'au prochain carrefour", "en": "Speed limited to 30 km/h until the next intersection" },
+        { "nl": "Aanbevolen snelheid van 30 km per uur in de hele zone", "fr": "Vitesse conseillée de 30 km à l'heure dans toute la zone", "en": "Recommended speed of 30 km/h throughout the zone" }
       ],
       "correct": 0,
       "explanation": {
@@ -344,9 +343,9 @@
         "en": "You pass this sign but remain within the built-up area, in Flanders or Wallonia. There are no other speed signs. What is your maximum speed?"
       },
       "options": [
-        { "nl": "30 km per uur, de zone blijft gelden", "fr": "30 km à l'heure, la zone reste d'application", "en": "30 km/h, the zone still applies" },
+        { "nl": "30 km per uur: de bebouwde kom blijft een zone 30", "fr": "30 km à l'heure : l'agglomération reste une zone 30", "en": "30 km/h, because the built-up area remains a 30 zone" },
         { "nl": "50 km per uur, de algemene limiet binnen de bebouwde kom", "fr": "50 km à l'heure, la limite générale en agglomération", "en": "50 km/h, the general limit within the built-up area" },
-        { "nl": "70 km per uur", "fr": "70 km à l'heure", "en": "70 km/h" }
+        { "nl": "70 km per uur: de limiet buiten de bebouwde kom geldt weer", "fr": "70 km à l'heure : la limite hors agglomération s'applique à nouveau", "en": "70 km/h, because the limit outside the built-up area applies again" }
       ],
       "correct": 1,
       "explanation": {
@@ -370,9 +369,9 @@
         "en": "You enter a motorway past this sign. Does a minimum speed apply?"
       },
       "options": [
-        { "nl": "Nee, er geldt enkel een maximumsnelheid", "fr": "Non, seule une vitesse maximale s'applique", "en": "No, only a maximum speed applies" },
-        { "nl": "Ja, je moet ten minste 70 km per uur rijden", "fr": "Oui, vous devez rouler à au moins 70 km à l'heure", "en": "Yes, you must drive at least 70 km/h" },
-        { "nl": "Ja, je moet ten minste 90 km per uur rijden", "fr": "Oui, vous devez rouler à au moins 90 km à l'heure", "en": "Yes, you must drive at least 90 km/h" }
+        { "nl": "Nee, er geldt enkel een maximum van 120 km per uur", "fr": "Non, seule une vitesse maximale de 120 km à l'heure s'applique", "en": "No, only a maximum speed of 120 km/h applies there" },
+        { "nl": "Ja, je moet er minstens 70 km per uur rijden", "fr": "Oui, vous devez y rouler à au moins 70 km à l'heure", "en": "Yes, you must drive at least 70 km/h there" },
+        { "nl": "Ja, je moet er minstens 90 km per uur rijden", "fr": "Oui, vous devez y rouler à au moins 90 km à l'heure", "en": "Yes, you must drive at least 90 km/h there" }
       ],
       "correct": 1,
       "explanation": {
@@ -396,11 +395,11 @@
         "en": "What does this sign indicate?"
       },
       "options": [
+        { "nl": "Een tunnel met een lengte van meer dan 300 meter", "fr": "Un tunnel d'une longueur de plus de 300 mètres", "en": "A tunnel longer than 300 metres" },
         { "nl": "Een tunnel met een lengte van meer dan 500 meter", "fr": "Un tunnel d'une longueur de plus de 500 mètres", "en": "A tunnel longer than 500 metres" },
-        { "nl": "Een ondergrondse parkeergarage", "fr": "Un parking souterrain", "en": "An underground car park" },
-        { "nl": "Een doorgang met beperkte hoogte", "fr": "Un passage à hauteur limitée", "en": "A passage with limited height" }
+        { "nl": "Een tunnel met een lengte van meer dan 1.000 meter", "fr": "Un tunnel d'une longueur de plus de 1 000 mètres", "en": "A tunnel longer than 1,000 metres" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Het verkeersbord F8 duidt een tunnel aan met een lengte van meer dan 500 meter. Houd er voldoende afstand en zet je lichten aan.",
         "fr": "Le signal F8 indique un tunnel d'une longueur de plus de 500 mètres. Gardez-y une distance suffisante et allumez vos feux.",
@@ -421,9 +420,9 @@
         "en": "You are driving on a motor road, indicated by this sign. May you park along the carriageway?"
       },
       "options": [
-        { "nl": "Nee, stilstaan en parkeren zijn er verboden, behalve op aangeduide parkeerplaatsen", "fr": "Non, l'arrêt et le stationnement y sont interdits, sauf sur les emplacements de stationnement indiqués", "en": "No, stopping and parking are prohibited there, except in signed parking areas" },
-        { "nl": "Ja, op de gelijkgrondse berm", "fr": "Oui, sur l'accotement de plain-pied", "en": "Yes, on the level verge" },
-        { "nl": "Ja, buiten de spitsuren", "fr": "Oui, en dehors des heures de pointe", "en": "Yes, outside peak hours" }
+        { "nl": "Nee, parkeren mag er enkel op de aangeduide parkeerplaatsen", "fr": "Non, le stationnement n'y est permis que sur les emplacements indiqués", "en": "No, parking is allowed there only in marked parking areas" },
+        { "nl": "Ja, op de gelijkgrondse berm mag je er parkeren", "fr": "Oui, vous pouvez y stationner sur l'accotement de plain-pied", "en": "Yes, you may park there on the level verge" },
+        { "nl": "Ja, als je volledig buiten de rijbaan blijft", "fr": "Oui, si vous restez entièrement en dehors de la chaussée", "en": "Yes, provided you stay entirely off the carriageway" }
       ],
       "correct": 0,
       "explanation": {
@@ -446,11 +445,11 @@
         "en": "You enter a residential zone (woonerf) past this sign. What is your maximum speed?"
       },
       "options": [
+        { "nl": "Stapvoets", "fr": "À l'allure du pas", "en": "At walking pace" },
         { "nl": "20 km per uur", "fr": "20 km à l'heure", "en": "20 km/h" },
-        { "nl": "30 km per uur", "fr": "30 km à l'heure", "en": "30 km/h" },
-        { "nl": "50 km per uur", "fr": "50 km à l'heure", "en": "50 km/h" }
+        { "nl": "30 km per uur", "fr": "30 km à l'heure", "en": "30 km/h" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Binnen een woonerf of erf is de snelheid beperkt tot 20 km per uur. Voetgangers mogen er de hele breedte van de openbare weg gebruiken en spelen is er toegelaten; bestuurders mogen hen niet in gevaar brengen.",
         "fr": "Dans une zone résidentielle ou une zone de rencontre, la vitesse est limitée à 20 km à l'heure. Les piétons peuvent y utiliser toute la largeur de la voie publique et les jeux y sont autorisés ; les conducteurs ne peuvent pas les mettre en danger.",
@@ -471,9 +470,9 @@
         "en": "You want to park your car in a residential zone (woonerf). Where is that allowed?"
       },
       "options": [
-        { "nl": "Enkel op de plaatsen die afgebakend zijn met wegmarkeringen of met de letter P", "fr": "Uniquement aux emplacements délimités par des marques routières ou par la lettre P", "en": "Only in spaces marked out by road markings or with the letter P" },
-        { "nl": "Overal waar je het verkeer niet hindert", "fr": "Partout où vous ne gênez pas la circulation", "en": "Anywhere you do not obstruct traffic" },
-        { "nl": "Nergens, parkeren is er altijd verboden", "fr": "Nulle part, le stationnement y est toujours interdit", "en": "Nowhere, parking is always prohibited there" }
+        { "nl": "Enkel op plaatsen die gemarkeerd zijn met de letter P", "fr": "Uniquement aux emplacements marqués de la lettre P", "en": "Only in spaces marked out with the letter P" },
+        { "nl": "Enkel rechts ten opzichte van je rijrichting", "fr": "Uniquement à droite par rapport au sens de votre marche", "en": "Only on the right side, in your direction of travel" },
+        { "nl": "Overal waar je 3 meter vrije doorgang overlaat", "fr": "Partout où vous laissez 3 mètres de passage libre", "en": "Anywhere you leave 3 metres of free passage" }
       ],
       "correct": 0,
       "explanation": {
@@ -496,9 +495,9 @@
         "en": "This sign indicates a carriageway with a bus lane. May a tourist coach use the bus lane?"
       },
       "options": [
-        { "nl": "Nee, de busstrook is voorbehouden aan onder meer voertuigen van geregelde diensten voor gemeenschappelijk vervoer, taxi's en schoolvervoer", "fr": "Non, la bande bus est réservée notamment aux véhicules des services réguliers de transport en commun, aux taxis et au transport scolaire", "en": "No, the bus lane is reserved for, among others, regular public transport vehicles, taxis and school transport" },
-        { "nl": "Ja, elke autobus of autocar mag de busstrook gebruiken", "fr": "Oui, tout autobus ou autocar peut utiliser la bande bus", "en": "Yes, any bus or coach may use the bus lane" },
-        { "nl": "Ja, maar enkel tijdens de spitsuren", "fr": "Oui, mais uniquement pendant les heures de pointe", "en": "Yes, but only during peak hours" }
+        { "nl": "Nee, een autocar hoort niet bij de daar toegelaten voertuigen", "fr": "Non, un autocar ne fait pas partie des véhicules qui y sont admis", "en": "No, a coach is not among the vehicles permitted there" },
+        { "nl": "Ja, elke autobus en autocar mag de busstrook volgen", "fr": "Oui, tout autobus et autocar peut suivre la bande bus", "en": "Yes, every bus and coach may follow the bus lane" },
+        { "nl": "Ja, maar enkel om passagiers te laten in- en uitstappen", "fr": "Oui, mais uniquement pour l'embarquement et le débarquement des passagers", "en": "Yes, but only to let its passengers get on and off" }
       ],
       "correct": 0,
       "explanation": {
@@ -522,9 +521,9 @@
         "en": "What does this sign mean?"
       },
       "options": [
-        { "nl": "Openbare weg met eenrichtingsverkeer: je kruist er geen tegenliggers, tenzij een onderbord een uitzondering maakt", "fr": "Voie publique à sens unique : vous n'y croisez pas de circulation en sens inverse, sauf exception indiquée par un panneau additionnel", "en": "One-way road: you will not meet oncoming traffic, unless a supplementary panel makes an exception" },
-        { "nl": "Voorrang ten opzichte van de bestuurders uit de tegenovergestelde richting", "fr": "Priorité de passage par rapport aux conducteurs venant en sens opposé", "en": "Priority over drivers coming from the opposite direction" },
-        { "nl": "Verplichting de door de pijl aangeduide richting te volgen", "fr": "Obligation de suivre la direction indiquée par la flèche", "en": "Mandatory direction: follow the arrow" }
+        { "nl": "Openbare weg met eenrichtingsverkeer", "fr": "Voie publique à sens unique", "en": "A public road with one-way traffic" },
+        { "nl": "Verplichte rijrichting, aangeduid door de pijl", "fr": "Direction obligatoire indiquée par la flèche", "en": "A mandatory direction shown by the arrow" },
+        { "nl": "Voorrang op de tegenliggers", "fr": "Priorité sur les conducteurs venant en face", "en": "Priority over oncoming drivers" }
       ],
       "correct": 0,
       "explanation": {
@@ -547,9 +546,9 @@
         "en": "What does this sign mean?"
       },
       "options": [
-        { "nl": "Doodlopende weg, behalve voor voetgangers en fietsers", "fr": "Voie sans issue, excepté pour les piétons et les cyclistes", "en": "Dead end, except for pedestrians and cyclists" },
-        { "nl": "Weg voorbehouden voor voetgangers en fietsers", "fr": "Chemin réservé aux piétons et aux cyclistes", "en": "Road reserved for pedestrians and cyclists" },
-        { "nl": "Verboden toegang voor voetgangers en fietsers", "fr": "Accès interdit aux piétons et aux cyclistes", "en": "No access for pedestrians and cyclists" }
+        { "nl": "Doodlopende weg, uitgezonderd voor voetgangers en fietsers", "fr": "Voie sans issue, excepté pour les piétons et les cyclistes", "en": "Dead end, except for pedestrians and cyclists" },
+        { "nl": "Verboden toegang, uitgezonderd voor voetgangers en fietsers", "fr": "Accès interdit, excepté pour les piétons et les cyclistes", "en": "No entry, except for pedestrians and cyclists" },
+        { "nl": "Weg voorbehouden voor voetgangers en fietsers", "fr": "Chemin réservé aux piétons et aux cyclistes", "en": "Road reserved for pedestrians and cyclists" }
       ],
       "correct": 0,
       "explanation": {
@@ -572,9 +571,9 @@
         "en": "What is the difference between these two signs?"
       },
       "options": [
-        { "nl": "Het eerste is een gevaarsbord dat een oversteekplaats aankondigt; het tweede duidt de plaats van de oversteekplaats zelf aan", "fr": "Le premier est un signal de danger annonçant un passage pour piétons ; le second indique l'endroit même du passage", "en": "The first is a danger warning sign announcing a pedestrian crossing; the second indicates the location of the crossing itself" },
-        { "nl": "Ze betekenen precies hetzelfde", "fr": "Ils ont exactement la même signification", "en": "They mean exactly the same thing" },
-        { "nl": "Het eerste geldt enkel binnen de bebouwde kom, het tweede erbuiten", "fr": "Le premier ne vaut qu'en agglomération, le second en dehors", "en": "The first applies only within the built-up area, the second outside it" }
+        { "nl": "Het eerste kondigt de oversteekplaats aan; het tweede duidt de oversteekplaats zelf aan", "fr": "Le premier annonce le passage pour piétons ; le second indique le passage lui-même", "en": "The first announces the crossing ahead; the second marks the crossing itself" },
+        { "nl": "Het eerste geldt enkel binnen de bebouwde kom; het tweede enkel erbuiten", "fr": "Le premier ne vaut qu'en agglomération ; le second uniquement en dehors", "en": "The first applies only inside the built-up area; the second outside it" },
+        { "nl": "Het eerste verplicht je te stoppen; het tweede vraagt enkel te vertragen", "fr": "Le premier vous oblige à vous arrêter ; le second demande seulement de ralentir", "en": "The first requires you to stop; the second only to moderate your speed" }
       ],
       "correct": 0,
       "explanation": {
@@ -598,9 +597,9 @@
         "en": "You approach this sign. What must you do?"
       },
       "options": [
-        { "nl": "Mijn snelheid matigen: het bord staat ter hoogte van een verhoogde inrichting op de rijbaan", "fr": "Modérer ma vitesse : le signal est placé à hauteur d'un dispositif surélevé sur la chaussée", "en": "Moderate my speed: the sign stands at a raised traffic-calming device on the carriageway" },
-        { "nl": "Stoppen en voorrang verlenen", "fr": "M'arrêter et céder le passage", "en": "Stop and give way" },
-        { "nl": "Niets: het bord waarschuwt enkel voor een gevaar op afstand", "fr": "Rien : le signal ne fait qu'annoncer un danger à distance", "en": "Nothing: the sign only warns of a danger some distance away" }
+        { "nl": "Vertragen: het bord staat ter hoogte van een verhoogde inrichting", "fr": "Ralentir : le signal est placé à hauteur d'un dispositif surélevé", "en": "Slow down: the sign stands at the raised device itself" },
+        { "nl": "Vertragen: het bord kondigt een verhoogde inrichting op 150 meter aan", "fr": "Ralentir : le signal annonce un dispositif surélevé à 150 mètres", "en": "Slow down: the sign announces a raised device 150 metres ahead" },
+        { "nl": "Stoppen en voorrang verlenen aan de bestuurders uit de tegenrichting", "fr": "Vous arrêter et céder le passage aux conducteurs venant en sens inverse", "en": "Stop and give way to drivers coming from the opposite side" }
       ],
       "correct": 0,
       "explanation": {
@@ -624,9 +623,9 @@
         "en": "What is the lane indicated by this sign for?"
       },
       "options": [
-        { "nl": "Als noodstopstrook voor voertuigen met bijvoorbeeld falende remmen", "fr": "De piste de détresse pour les véhicules dont les freins lâchent, par exemple", "en": "As an emergency escape lane for vehicles with failing brakes, for example" },
-        { "nl": "Als parkeerstrook voor korte pauzes", "fr": "De bande de stationnement pour de courtes pauses", "en": "As a parking strip for short breaks" },
-        { "nl": "Als inhaalstrook voor traag verkeer", "fr": "De bande de dépassement pour le trafic lent", "en": "As an overtaking lane for slow traffic" }
+        { "nl": "Als noodstopstrook om een voertuig met falende remmen te stoppen", "fr": "De piste de détresse pour immobiliser un véhicule aux freins défaillants", "en": "As an escape lane to halt a vehicle whose brakes are failing" },
+        { "nl": "Als pechstrook om er met een defect voertuig stil te staan", "fr": "De bande d'arrêt d'urgence pour un véhicule en panne", "en": "As a hard shoulder for standing with a broken-down vehicle" },
+        { "nl": "Als inhaalstrook om traag verkeer voorbij te rijden", "fr": "De bande de dépassement pour doubler le trafic lent", "en": "As a climbing lane for passing slow-moving traffic" }
       ],
       "correct": 0,
       "explanation": {
@@ -650,8 +649,8 @@
       },
       "options": [
         { "nl": "Voetgangers, fietsers, ruiters en bestuurders van speed pedelecs", "fr": "Les piétons, cyclistes, cavaliers et conducteurs de speed pedelecs", "en": "Pedestrians, cyclists, horse riders and speed pedelec riders" },
-        { "nl": "Alle bestuurders, met een maximum van 30 km per uur", "fr": "Tous les conducteurs, avec un maximum de 30 km à l'heure", "en": "All drivers, with a maximum of 30 km/h" },
-        { "nl": "Enkel voetgangers", "fr": "Uniquement les piétons", "en": "Pedestrians only" }
+        { "nl": "Voetgangers en fietsers; ruiters en speed pedelecs zijn er verboden", "fr": "Les piétons et cyclistes ; cavaliers et speed pedelecs y sont interdits", "en": "Pedestrians and cyclists; horse riders and speed pedelecs are banned" },
+        { "nl": "Alle bestuurders, op voorwaarde dat ze niet sneller dan 30 km per uur rijden", "fr": "Tous les conducteurs, à condition de ne pas dépasser 30 km à l'heure", "en": "All road users, provided they drive no faster than 30 km/h" }
       ],
       "correct": 0,
       "explanation": {
@@ -675,9 +674,9 @@
         "en": "As a delivery driver you are exceptionally allowed to enter a pedestrian zone. How fast may you drive there?"
       },
       "options": [
-        { "nl": "Stapvoets, en je moet voorrang verlenen aan de voetgangers", "fr": "À l'allure du pas, en cédant le passage aux piétons", "en": "At walking pace, and you must give way to pedestrians" },
-        { "nl": "Maximaal 20 km per uur", "fr": "Au maximum 20 km à l'heure", "en": "At most 20 km/h" },
-        { "nl": "Maximaal 30 km per uur", "fr": "Au maximum 30 km à l'heure", "en": "At most 30 km/h" }
+        { "nl": "Stapvoets, zonder de voetgangers te hinderen", "fr": "À l'allure du pas, sans gêner les piétons", "en": "At walking pace, without hindering the pedestrians" },
+        { "nl": "Maximaal 20 km per uur, zoals in een woonerf", "fr": "20 km à l'heure au maximum, comme dans une zone résidentielle", "en": "At most 20 km/h, the same limit as in a residential zone" },
+        { "nl": "Maximaal 30 km per uur, zoals in een fietszone", "fr": "30 km à l'heure au maximum, comme dans une zone cyclable", "en": "At most 30 km/h, the same limit as in a cycle zone" }
       ],
       "correct": 0,
       "explanation": {
@@ -700,9 +699,9 @@
         "en": "You are driving a car in a cycle zone and approach a slower cyclist. May you overtake them?"
       },
       "options": [
-        { "nl": "Nee, in een fietszone mogen motorvoertuigen fietsers niet inhalen", "fr": "Non, dans une zone cyclable, les véhicules à moteur ne peuvent pas dépasser les cyclistes", "en": "No, in a cycle zone motor vehicles may not overtake cyclists" },
-        { "nl": "Ja, als je voldoende zijdelingse afstand houdt", "fr": "Oui, si vous gardez une distance latérale suffisante", "en": "Yes, if you keep sufficient lateral distance" },
-        { "nl": "Ja, maar enkel links", "fr": "Oui, mais uniquement par la gauche", "en": "Yes, but only on the left" }
+        { "nl": "Nee, motorvoertuigen mogen er fietsers niet inhalen", "fr": "Non, les véhicules à moteur ne peuvent pas y dépasser les cyclistes", "en": "No, motor vehicles may not overtake cyclists there" },
+        { "nl": "Ja, als je minstens 1 meter zijdelingse afstand houdt", "fr": "Oui, si vous gardez au moins 1 mètre de distance latérale", "en": "Yes, if you keep at least 1 metre of lateral distance" },
+        { "nl": "Ja, als je daarbij onder de 30 km per uur blijft", "fr": "Oui, si vous restez sous les 30 km à l'heure ce faisant", "en": "Yes, if you stay under 30 km/h while overtaking" }
       ],
       "correct": 0,
       "explanation": {
@@ -726,9 +725,9 @@
         "en": "A solid white line divides the carriageway into two traffic lanes. May you cross that line to overtake?"
       },
       "options": [
-        { "nl": "Nee, een doorlopende streep mag je niet overschrijden en er ook niet overheen rijden", "fr": "Non, une ligne continue ne peut être ni franchie ni chevauchée", "en": "No, a solid line may not be crossed or straddled" },
-        { "nl": "Ja, als er geen tegenligger aankomt", "fr": "Oui, s'il n'y a pas de circulation en sens inverse", "en": "Yes, if no oncoming traffic is approaching" },
-        { "nl": "Ja, maar enkel om een fietser in te halen", "fr": "Oui, mais uniquement pour dépasser un cycliste", "en": "Yes, but only to overtake a cyclist" }
+        { "nl": "Nee, je mag ze overschrijden noch er overheen rijden", "fr": "Non, vous ne pouvez ni la franchir ni la chevaucher", "en": "No, you may neither cross nor straddle it" },
+        { "nl": "Ja, wanneer er geen tegenligger in zicht is", "fr": "Oui, lorsqu'aucun véhicule n'arrive en sens inverse", "en": "Yes, when there is no oncoming traffic in sight" },
+        { "nl": "Ja, maar enkel om een fietser of bromfietser in te halen", "fr": "Oui, mais uniquement pour dépasser un cycliste ou un cyclomotoriste", "en": "Yes, but only to overtake a cyclist or moped rider" }
       ],
       "correct": 0,
       "explanation": {
@@ -751,9 +750,9 @@
         "en": "The traffic lanes are separated by a broken white line. What does that mean?"
       },
       "options": [
-        { "nl": "Je mag de streep overschrijden om in te halen, links af te slaan of van rijstrook te veranderen", "fr": "Vous pouvez franchir la ligne pour dépasser, tourner à gauche ou changer de bande", "en": "You may cross the line to overtake, turn left or change lanes" },
-        { "nl": "Je mag de streep nooit overschrijden", "fr": "Vous ne pouvez jamais franchir la ligne", "en": "You may never cross the line" },
-        { "nl": "De rijstrook is voorbehouden voor autobussen", "fr": "La bande est réservée aux autobus", "en": "The lane is reserved for buses" }
+        { "nl": "Je mag ze overschrijden om in te halen of van rijstrook te veranderen", "fr": "Vous pouvez la franchir pour dépasser ou changer de bande", "en": "You may cross it to overtake or to change lanes" },
+        { "nl": "Je mag ze enkel overschrijden om links af te slaan", "fr": "Vous ne pouvez la franchir que pour tourner à gauche", "en": "You may cross it only in order to turn left" },
+        { "nl": "Je mag ze enkel overschrijden om een hindernis te ontwijken", "fr": "Vous ne pouvez la franchir que pour éviter un obstacle", "en": "You may cross it only to drive around an obstacle" }
       ],
       "correct": 0,
       "explanation": {
@@ -776,9 +775,9 @@
         "en": "A broken yellow line is painted on the curb. What does this marking mean?"
       },
       "options": [
-        { "nl": "Parkeren is er verboden; stilstaan blijft toegelaten", "fr": "Le stationnement y est interdit ; l'arrêt reste autorisé", "en": "Parking is prohibited there; stopping remains allowed" },
-        { "nl": "Stilstaan en parkeren zijn er beide verboden", "fr": "L'arrêt et le stationnement y sont tous deux interdits", "en": "Both stopping and parking are prohibited there" },
-        { "nl": "De plaats is voorbehouden voor taxi's", "fr": "L'emplacement est réservé aux taxis", "en": "The space is reserved for taxis" }
+        { "nl": "Parkeren is er langs die streep verboden; stilstaan blijft toegelaten", "fr": "Le stationnement est interdit le long de cette ligne ; l'arrêt reste autorisé", "en": "Parking is prohibited along that line; stopping stays allowed" },
+        { "nl": "Stilstaan en parkeren zijn er langs die streep beide verboden", "fr": "L'arrêt et le stationnement y sont tous deux interdits le long de cette ligne", "en": "Both stopping and parking are prohibited along that line" },
+        { "nl": "Parkeren is er langs die streep beperkt tot 30 minuten", "fr": "Le stationnement le long de cette ligne y est limité à 30 minutes", "en": "Parking along that line is limited to 30 minutes" }
       ],
       "correct": 0,
       "explanation": {
@@ -801,9 +800,9 @@
         "en": "At the end of a side street you see a transverse line formed by white triangles (shark's teeth), points facing you. What must you do?"
       },
       "options": [
-        { "nl": "Voorrang verlenen aan de bestuurders op de weg die je nadert", "fr": "Céder le passage aux conducteurs circulant sur la voie dont vous approchez", "en": "Give way to the drivers on the road you are approaching" },
-        { "nl": "Altijd volledig stoppen, zoals bij een stopbord", "fr": "Toujours marquer l'arrêt complet, comme devant un signal stop", "en": "Always come to a complete stop, as at a stop sign" },
-        { "nl": "Niets: de markering duidt enkel een wegversmalling aan", "fr": "Rien : la marque n'indique qu'un rétrécissement de la chaussée", "en": "Nothing: the marking only indicates a road narrowing" }
+        { "nl": "Voorrang verlenen aan de bestuurders op de weg die je nadert", "fr": "Céder le passage aux conducteurs de la voie dont vous approchez", "en": "Give way to the drivers on the road you are approaching" },
+        { "nl": "Stoppen en pas verder rijden wanneer de weg volledig vrij is", "fr": "Marquer l'arrêt et ne repartir que lorsque la voie est tout à fait libre", "en": "Stop, and move on only once the road is completely clear" },
+        { "nl": "Vertragen: de markering kondigt een verhoogde inrichting aan", "fr": "Ralentir : la marque annonce un dispositif surélevé", "en": "Slow down: the marking announces a raised device ahead" }
       ],
       "correct": 0,
       "explanation": {
@@ -827,8 +826,8 @@
       },
       "options": [
         { "nl": "Vóór de stopstreep", "fr": "Avant la ligne d'arrêt", "en": "Before the stop line" },
-        { "nl": "Ter hoogte van het verkeersbord, ook als dat voorbij de streep staat", "fr": "À hauteur du signal, même s'il se trouve au-delà de la ligne", "en": "Level with the sign, even if it stands beyond the line" },
-        { "nl": "Op het kruispunt zelf, waar je goed zicht hebt", "fr": "Sur le carrefour même, là où vous avez une bonne visibilité", "en": "On the intersection itself, where you have a good view" }
+        { "nl": "Ter hoogte van het stopbord", "fr": "À hauteur du signal stop", "en": "Level with the stop sign" },
+        { "nl": "Op het kruispunt zelf", "fr": "Sur le carrefour même", "en": "On the intersection itself" }
       ],
       "correct": 0,
       "explanation": {
@@ -851,9 +850,9 @@
         "en": "How do you recognise a pedestrian crossing on the road surface?"
       },
       "options": [
-        { "nl": "Aan witte banden, evenwijdig met de as van de rijbaan", "fr": "À des bandes blanches, parallèles à l'axe de la chaussée", "en": "By white stripes parallel to the axis of the carriageway" },
-        { "nl": "Aan twee onderbroken strepen van witte vierkanten", "fr": "À deux lignes discontinues formées de carrés blancs", "en": "By two broken lines of white squares" },
-        { "nl": "Aan een doorlopende gele streep dwars over de rijbaan", "fr": "À une ligne jaune continue en travers de la chaussée", "en": "By a solid yellow line across the carriageway" }
+        { "nl": "Aan witte banden evenwijdig met de as van de rijbaan", "fr": "À des bandes blanches parallèles à l'axe de la chaussée", "en": "By white stripes parallel to the axis of the carriageway" },
+        { "nl": "Aan twee onderbroken strepen van witte vierkanten op de rijbaan", "fr": "À deux lignes discontinues de carrés blancs sur la chaussée", "en": "By two broken lines formed of white squares on the carriageway" },
+        { "nl": "Aan witte banden dwars op de as van de rijbaan", "fr": "À des bandes blanches perpendiculaires à l'axe de la chaussée", "en": "By white stripes at right angles to the axis of the carriageway" }
       ],
       "correct": 0,
       "explanation": {
@@ -877,9 +876,9 @@
         "en": "You are waiting at a red light in a lane marked with a white arrow pointing left. You actually want to go straight ahead. What must you do?"
       },
       "options": [
-        { "nl": "Op het kruispunt de richting van de pijl volgen en dus links afslaan", "fr": "Suivre au carrefour la direction de la flèche et donc tourner à gauche", "en": "Follow the direction of the arrow at the intersection and therefore turn left" },
-        { "nl": "Toch rechtdoor rijden: de pijlen zijn slechts een aanbeveling", "fr": "Continuer quand même tout droit : les flèches ne sont qu'une recommandation", "en": "Go straight ahead anyway: the arrows are only a recommendation" },
-        { "nl": "Achteruitrijden om van rijstrook te veranderen", "fr": "Reculer pour changer de bande de circulation", "en": "Reverse to change lanes" }
+        { "nl": "De richting van de pijl volgen en dus links afslaan", "fr": "Suivre la direction de la flèche et donc tourner à gauche", "en": "Follow the direction of the arrow and turn left" },
+        { "nl": "Toch rechtdoor rijden: de pijlen zijn maar een aanbeveling", "fr": "Continuer tout droit : les flèches ne sont qu'une recommandation", "en": "Go straight ahead: the arrows are only a recommendation" },
+        { "nl": "Rechtdoor rijden wanneer het verkeer achter je dat toelaat", "fr": "Continuer tout droit lorsque le trafic derrière vous le permet", "en": "Go straight ahead when the traffic behind you allows it" }
       ],
       "correct": 0,
       "explanation": {
@@ -902,9 +901,9 @@
         "en": "In the middle of the carriageway lie two parallel white lines: on your side a continuous line, on the other side a broken line. A slow agricultural vehicle is driving ahead of you. May you overtake?"
       },
       "options": [
-        { "nl": "Nee: je houdt enkel rekening met de streep aan jouw kant, en een doorlopende streep mag je niet overschrijden", "fr": "Non : vous ne tenez compte que de la ligne située de votre côté, et une ligne continue ne peut pas être franchie", "en": "No: you only take account of the line on your side, and a continuous line may not be crossed" },
-        { "nl": "Ja: zodra er ook een onderbroken streep ligt, is inhalen toegelaten", "fr": "Oui : dès qu'il y a aussi une ligne discontinue, le dépassement est autorisé", "en": "Yes: as soon as there is also a broken line, overtaking is allowed" },
-        { "nl": "Ja: de dubbele streep duidt alleen het midden van de rijbaan aan", "fr": "Oui : la double ligne ne fait qu'indiquer le milieu de la chaussée", "en": "Yes: the double line merely marks the middle of the carriageway" }
+        { "nl": "Nee: enkel de streep aan jouw kant telt hier, en die is doorlopend", "fr": "Non : seule compte ici la ligne de votre côté, et elle est continue", "en": "No: only the line on your own side counts here, and it is continuous" },
+        { "nl": "Ja: zodra er ook een onderbroken streep ligt, mag je inhalen", "fr": "Oui : dès qu'une ligne discontinue est présente, vous pouvez dépasser", "en": "Yes: as soon as a broken line is present, you may overtake" },
+        { "nl": "Ja: de dubbele streep duidt enkel het midden van de rijbaan aan", "fr": "Oui : la double ligne ne fait qu'indiquer le milieu de la chaussée", "en": "Yes: the double line merely marks the middle of the carriageway" }
       ],
       "correct": 0,
       "explanation": {
@@ -927,9 +926,9 @@
         "en": "Along the edge of the carriageway you see in one place a continuous white line and, a little further on, a broken yellow line on the kerb. What is the difference?"
       },
       "options": [
-        { "nl": "De witte streep maakt de werkelijke rand van de rijbaan zichtbaar; langs de gele streep is parkeren op de rijbaan verboden", "fr": "La ligne blanche rend visible le bord réel de la chaussée ; le long de la ligne jaune, le stationnement sur la chaussée est interdit", "en": "The white line marks the actual edge of the carriageway; along the yellow line, parking on the carriageway is prohibited" },
-        { "nl": "Beide strepen duiden hetzelfde parkeerverbod aan", "fr": "Les deux lignes indiquent la même interdiction de stationner", "en": "Both lines indicate the same parking prohibition" },
-        { "nl": "De witte streep verbiedt het parkeren; de gele duidt enkel de rand van de rijbaan aan", "fr": "La ligne blanche interdit le stationnement ; la jaune ne fait qu'indiquer le bord de la chaussée", "en": "The white line prohibits parking; the yellow one merely marks the edge of the carriageway" }
+        { "nl": "De witte duidt de rand van de rijbaan aan; langs de gele is parkeren verboden", "fr": "La blanche indique le bord de la chaussée ; le long de la jaune, stationner est interdit", "en": "The white one marks the edge of the carriageway; parking is banned along the yellow one" },
+        { "nl": "De witte verbiedt het parkeren op de rijbaan; de gele duidt enkel de rand ervan aan", "fr": "La blanche interdit le stationnement sur la chaussée ; la jaune n'en indique que le bord", "en": "The white one bans parking on the carriageway; the yellow one merely marks its actual edge" },
+        { "nl": "Langs beide is parkeren verboden; de gele verbiedt ook het stilstaan", "fr": "Le long des deux, stationner est interdit ; la jaune interdit aussi l'arrêt", "en": "Parking is banned along both; the yellow one also prohibits stopping" }
       ],
       "correct": 0,
       "explanation": {
@@ -953,9 +952,9 @@
         "en": "In the middle of the road lies a track for trams and buses, bounded by broad continuous white lines. Traffic is at a standstill. May you use that track with your car to pass the queue?"
       },
       "options": [
-        { "nl": "Nee: je mag die bedding niet volgen; je mag ze enkel dwarsen aan een kruispunt, om een eigendom te bereiken of om een hindernis te ontwijken", "fr": "Non : vous ne pouvez pas suivre ce site ; vous pouvez uniquement le traverser à un carrefour, pour atteindre une propriété ou pour contourner un obstacle", "en": "No: you may not drive along that track; you may only cross it at an intersection, to reach a property or to avoid an obstacle" },
-        { "nl": "Ja: buiten de spitsuren mag iedereen erop rijden", "fr": "Oui : en dehors des heures de pointe, tout le monde peut y rouler", "en": "Yes: outside peak hours anyone may drive on it" },
-        { "nl": "Ja: kort vóór een kruispunt mag je erop voorsorteren zoals op een busstrook", "fr": "Oui : juste avant un carrefour, vous pouvez vous y présélectionner comme sur une bande bus", "en": "Yes: just before an intersection you may move onto it to presort, as on a bus lane" }
+        { "nl": "Nee: je mag de bedding niet volgen, enkel oversteken", "fr": "Non : vous ne pouvez pas suivre ce site, seulement le traverser", "en": "No: you may not drive along the track, only cross it" },
+        { "nl": "Ja: om voor te sorteren vlak vóór het kruispunt", "fr": "Oui : pour vous présélectionner juste avant le carrefour", "en": "Yes: to get in lane just before the next intersection" },
+        { "nl": "Ja: bij stilstaand verkeer mag je ze voorzichtig volgen", "fr": "Oui : lorsque le trafic est à l'arrêt, vous pouvez le suivre prudemment", "en": "Yes: when traffic is at a standstill you may follow it carefully" }
       ],
       "correct": 0,
       "explanation": {
@@ -979,9 +978,9 @@
         "en": "At roadworks you see orange lines on the road surface that divide the lanes differently from the still partly visible white markings. What do those orange lines mean?"
       },
       "options": [
-        { "nl": "Het zijn bindende voorlopige markeringen die het verkeer langs de werken leiden; ze hebben dezelfde betekenis als de overeenkomstige witte strepen", "fr": "Ce sont des marques provisoires contraignantes qui canalisent la circulation le long des travaux ; elles ont la même signification que les lignes blanches correspondantes", "en": "They are binding temporary markings channelling traffic past the works; they have the same meaning as the corresponding white lines" },
-        { "nl": "Ze zijn louter informatief: alleen de witte markeringen blijven gelden", "fr": "Elles sont purement informatives : seules les marques blanches restent valables", "en": "They are purely informative: only the white markings remain in force" },
-        { "nl": "Ze gelden enkel voor de werfvoertuigen", "fr": "Elles ne valent que pour les véhicules du chantier", "en": "They apply only to the works vehicles" }
+        { "nl": "Ze zijn bindend en vervangen tijdelijk de witte markeringen", "fr": "Elles sont contraignantes et remplacent provisoirement les marques blanches", "en": "They are binding and temporarily replace the white markings" },
+        { "nl": "Ze zijn louter informatief: de witte markeringen blijven gelden", "fr": "Elles sont purement informatives : les marques blanches restent valables", "en": "They are merely informative: the white markings remain in force" },
+        { "nl": "Ze gelden enkel waar de witte markeringen volledig verwijderd zijn", "fr": "Elles ne valent que là où les marques blanches ont été entièrement effacées", "en": "They apply only where the white markings have been fully removed" }
       ],
       "correct": 0,
       "explanation": {
@@ -1005,9 +1004,9 @@
         "en": "To the right of your lane lies a lane bearing the word 'BUS' in large white letters; it is separated from your lane by a broad broken white line. You want to turn right at the next intersection. May you move onto that lane with your car?"
       },
       "options": [
-        { "nl": "Ja, maar enkel om vlak vóór het kruispunt voor te sorteren en van richting te veranderen", "fr": "Oui, mais uniquement pour vous présélectionner juste avant le carrefour et changer de direction", "en": "Yes, but only to get in lane just before the intersection and change direction" },
-        { "nl": "Nee: alleen bussen mogen ooit op die strook komen", "fr": "Non : seuls les bus peuvent jamais s'engager sur cette bande", "en": "No: only buses may ever enter that lane" },
-        { "nl": "Ja: bij druk verkeer mag je ze als gewone extra rijstrook gebruiken", "fr": "Oui : en cas de trafic dense, vous pouvez l'utiliser comme bande supplémentaire ordinaire", "en": "Yes: in heavy traffic you may use it as an ordinary extra lane" }
+        { "nl": "Ja, maar enkel om vlak vóór het kruispunt voor te sorteren", "fr": "Oui, mais uniquement pour vous présélectionner juste avant le carrefour", "en": "Yes, but only to get in lane just before the intersection" },
+        { "nl": "Nee, je moet rechts afslaan vanaf je eigen rijstrook", "fr": "Non, vous devez tourner à droite depuis votre propre bande", "en": "No, you must make the right turn from your own lane" },
+        { "nl": "Ja, bij druk verkeer mag je ze als gewone rijstrook gebruiken", "fr": "Oui, en trafic dense vous pouvez l'utiliser comme bande ordinaire", "en": "Yes, in heavy traffic you may use it as an ordinary through lane" }
       ],
       "correct": 0,
       "explanation": {
@@ -1030,9 +1029,9 @@
         "en": "You are cycling on a road where this sign indicates a bus lane. When may you, as a cyclist, ride on that bus lane?"
       },
       "options": [
-        { "nl": "Alleen wanneer het symbool van een fiets op het bord of op een onderbord is aangebracht", "fr": "Uniquement lorsque le symbole d'une bicyclette figure sur le signal ou sur un panneau additionnel", "en": "Only when the symbol of a bicycle appears on the sign or on a supplementary panel" },
-        { "nl": "Altijd: fietsers mogen elke busstrook volgen", "fr": "Toujours : les cyclistes peuvent suivre toute bande bus", "en": "Always: cyclists may follow any bus lane" },
-        { "nl": "Nooit: een busstrook is uitsluitend voor bussen", "fr": "Jamais : une bande bus est exclusivement réservée aux bus", "en": "Never: a bus lane is exclusively for buses" }
+        { "nl": "Enkel als een fietssymbool op het bord of op een onderbord staat", "fr": "Uniquement si un symbole de vélo figure sur le signal ou sur un panneau additionnel", "en": "Only when a bicycle symbol appears on the sign or on a panel below it" },
+        { "nl": "Enkel wanneer er geen fietspad langs de rijbaan ligt", "fr": "Uniquement lorsqu'aucune piste cyclable ne longe la chaussée", "en": "Only when there is no cycle path alongside the carriageway" },
+        { "nl": "Zodra je er de bussen niet hindert", "fr": "Dès que vous n'y gênez pas les autobus", "en": "Whenever you do not hinder the buses that use the lane" }
       ],
       "correct": 0,
       "explanation": {
@@ -1055,9 +1054,9 @@
         "en": "On a road with three lanes in your direction, signs above the lanes indicate with arrows and place names which direction each lane follows. Your destination hangs above the middle lane. May you leave the right-hand lane?"
       },
       "options": [
-        { "nl": "Ja: je mag de rijstrook volgen die met jouw richting overeenstemt, maar nadien moet je opnieuw rechts gaan rijden zodra dat kan", "fr": "Oui : vous pouvez suivre la bande qui correspond à votre direction, mais vous devez ensuite reprendre votre place à droite dès que possible", "en": "Yes: you may follow the lane matching your direction, but afterwards you must move back to the right as soon as possible" },
-        { "nl": "Nee: je moet altijd zo dicht mogelijk bij de rechterrand van de rijbaan blijven", "fr": "Non : vous devez toujours rester le plus près possible du bord droit de la chaussée", "en": "No: you must always stay as close as possible to the right edge of the carriageway" },
-        { "nl": "Ja, en je mag nadien gewoon op de middelste rijstrook blijven rijden", "fr": "Oui, et vous pouvez ensuite simplement continuer sur la bande du milieu", "en": "Yes, and afterwards you may simply keep driving in the middle lane" }
+        { "nl": "Ja, en zodra het kan neem je je plaats rechts weer in", "fr": "Oui, et dès que possible vous reprenez votre place à droite", "en": "Yes, and as soon as possible you move back to the right" },
+        { "nl": "Nee, je moet zo dicht mogelijk bij de rechterrand blijven", "fr": "Non, vous devez rester le plus près possible du bord droit", "en": "No, you must keep as close as possible to the right-hand edge" },
+        { "nl": "Ja, en je mag daarna gewoon op de middelste rijstrook blijven", "fr": "Oui, et vous pouvez ensuite rester sur la bande du milieu", "en": "Yes, and afterwards you may simply stay in the middle lane" }
       ],
       "correct": 0,
       "explanation": {
@@ -1081,9 +1080,9 @@
         "en": "This sign stands along a road outside a limited-time parking zone (blue zone). A supplementary panel depicts a parking disc. Must you use your parking disc when parking?"
       },
       "options": [
-        { "nl": "Ja: het onderbord maakt het gebruik van de schijf hier verplicht, zoals in een blauwe zone", "fr": "Oui : le panneau additionnel rend le disque obligatoire ici, comme dans une zone bleue", "en": "Yes: the panel makes the disc mandatory here, just as in a blue zone" },
-        { "nl": "Nee: een parkeerschijf is enkel verplicht binnen een blauwe zone", "fr": "Non : le disque de stationnement n'est obligatoire qu'à l'intérieur d'une zone bleue", "en": "No: a parking disc is only mandatory inside a blue zone" },
-        { "nl": "Nee: zo'n onderbord is slechts een aanbeveling", "fr": "Non : un tel panneau additionnel n'est qu'une recommandation", "en": "No: such a panel is merely a recommendation" }
+        { "nl": "Ja, het onderbord maakt de schijf hier verplicht, zoals in een blauwe zone", "fr": "Oui, le panneau additionnel rend le disque obligatoire ici, comme en zone bleue", "en": "Yes, the panel makes the disc mandatory here, as inside a blue zone" },
+        { "nl": "Nee, een parkeerschijf is enkel verplicht binnen een blauwe zone", "fr": "Non, le disque n'est obligatoire qu'à l'intérieur d'une zone bleue", "en": "No, a parking disc is required only inside a blue zone" },
+        { "nl": "Nee, zo'n onderbord is enkel een aanbeveling om de schijf te gebruiken", "fr": "Non, un tel panneau n'est qu'une recommandation d'utiliser le disque", "en": "No, such a panel is merely a recommendation to use the disc" }
       ],
       "correct": 0,
       "explanation": {
@@ -1106,9 +1105,9 @@
         "en": "You are parked in a half-monthly alternate-side parking zone, indicated by this sign, on the side of the odd house numbers. It is the 15th of the month, 9 p.m. What applies?"
       },
       "options": [
-        { "nl": "Je had al van kant moeten veranderen: dat moet op de laatste dag van elke periode gebeuren tussen 19.30 uur en 20 uur", "fr": "Vous auriez déjà dû changer de côté : cela doit se faire le dernier jour de chaque période entre 19 h 30 et 20 heures", "en": "You should already have changed sides: that must be done on the last day of each period between 7.30 p.m. and 8 p.m." },
-        { "nl": "Je mag blijven staan tot middernacht: de nieuwe periode begint pas op de 16e", "fr": "Vous pouvez rester jusqu'à minuit : la nouvelle période ne commence que le 16", "en": "You may stay until midnight: the new period only starts on the 16th" },
-        { "nl": "Je moet pas vóór 22 uur van kant veranderen", "fr": "Vous ne devez changer de côté qu'avant 22 heures", "en": "You only have to change sides before 10 p.m." }
+        { "nl": "Je had al van kant moeten veranderen tussen 19.30 uur en 20 uur", "fr": "Vous auriez déjà dû changer de côté entre 19 h 30 et 20 heures", "en": "You should already have changed sides between 7.30 p.m. and 8 p.m." },
+        { "nl": "Je mag tot middernacht blijven staan, dan begint de nieuwe periode", "fr": "Vous pouvez rester jusqu'à minuit, quand la nouvelle période commence", "en": "You may stay there until midnight, when the new period begins" },
+        { "nl": "Je hebt nog tot 22 uur om van kant te veranderen", "fr": "Vous avez encore jusqu'à 22 heures pour changer de côté", "en": "You still have until 10 p.m. to change to the other side" }
       ],
       "correct": 0,
       "explanation": {
@@ -1131,9 +1130,9 @@
         "en": "What is the difference between the left and the right sign?"
       },
       "options": [
-        { "nl": "Het linkse verbiedt het parkeren van de 1e tot de 15e, enkel aan de kant waar het staat; het rechtse voert een zone in waar het parkeren elke halve maand van kant wisselt, aan beide kanten van de straat", "fr": "Celui de gauche interdit le stationnement du 1er au 15, uniquement du côté où il est placé ; celui de droite instaure une zone où le stationnement change de côté chaque quinzaine, des deux côtés de la rue", "en": "The left one prohibits parking from the 1st to the 15th, only on the side where it stands; the right one introduces a zone where parking alternates sides every half month, affecting both sides of the street" },
-        { "nl": "Ze betekenen hetzelfde: parkeerverbod in de eerste helft van de maand", "fr": "Ils signifient la même chose : stationnement interdit pendant la première quinzaine du mois", "en": "They mean the same thing: no parking during the first half of the month" },
-        { "nl": "Het linkse verbiedt het parkeren de hele maand; het rechtse enkel op werkdagen", "fr": "Celui de gauche interdit le stationnement tout le mois ; celui de droite uniquement les jours ouvrables", "en": "The left one prohibits parking all month; the right one only on working days" }
+        { "nl": "Het linkse geldt aan één kant van één straat; het rechtse voert beurtelings parkeren in voor een hele zone", "fr": "Celui de gauche vaut d'un seul côté d'une seule rue ; celui de droite instaure le stationnement alterné dans toute une zone", "en": "The left one applies on one side of one street; the right one sets alternate-side parking for a whole zone" },
+        { "nl": "Ze betekenen hetzelfde: parkeerverbod tijdens de eerste helft van de maand aan de kant waar ze staan", "fr": "Ils signifient la même chose : stationnement interdit la première quinzaine du côté où ils sont placés", "en": "They mean the same thing: no parking during the first half of the month on the side where they are placed" },
+        { "nl": "Het linkse verbiedt het parkeren de hele maand; het rechtse enkel tijdens de eerste helft van de maand", "fr": "Celui de gauche interdit le stationnement tout le mois ; celui de droite seulement la première quinzaine", "en": "The left one prohibits parking during the whole month; the right one only during the first half of the month" }
       ],
       "correct": 0,
       "explanation": {
