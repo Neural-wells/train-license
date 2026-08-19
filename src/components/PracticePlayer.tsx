@@ -5,6 +5,7 @@ import type { Locale, Question } from "@/lib/types";
 import { t } from "@/lib/i18n";
 import { Feedback, OptionButton, QuestionImageView, postAnswers, recordLocalAnswer } from "./QuestionCard";
 import QuestionBadges from "./QuestionBadges";
+import { shuffle } from "@/lib/shuffle";
 
 export default function PracticePlayer({ questions, locale }: { questions: Question[]; locale: Locale }) {
   const order = useMemo(() => shuffle(questions), [questions]);
@@ -13,6 +14,14 @@ export default function PracticePlayer({ questions, locale }: { questions: Quest
   const [checked, setChecked] = useState(false);
   const [nCorrect, setNCorrect] = useState(0);
   const [done, setDone] = useState(false);
+
+  // Display options in a random order (stable per question view); state keeps ORIGINAL indices.
+  const current = order[Math.min(idx, Math.max(0, order.length - 1))];
+  const perm = useMemo(
+    () => (current ? shuffle([...current.options.keys()]) : []),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [current?.id]
+  );
 
   if (order.length === 0) return <p className="text-neutral-500">{t("noQuestions", locale)}</p>;
 
@@ -79,19 +88,20 @@ export default function PracticePlayer({ questions, locale }: { questions: Quest
       <h2 className="text-lg font-semibold leading-snug mb-4">{q.text[locale]}</h2>
 
       <div className="space-y-2.5">
-        {q.options.map((opt, i) => {
+        {perm.map((orig) => {
+          const opt = q.options[orig];
           let state: "idle" | "selected" | "correct" | "wrong" = "idle";
           if (checked) {
-            if (i === q.correct) state = "correct";
-            else if (i === chosen) state = "wrong";
-          } else if (i === chosen) state = "selected";
+            if (orig === q.correct) state = "correct";
+            else if (orig === chosen) state = "wrong";
+          } else if (orig === chosen) state = "selected";
           return (
             <OptionButton
-              key={i}
+              key={orig}
               label={opt[locale]}
               state={state}
               disabled={checked}
-              onClick={() => setChosen(i)}
+              onClick={() => setChosen(orig)}
             />
           );
         })}
@@ -121,11 +131,3 @@ export default function PracticePlayer({ questions, locale }: { questions: Quest
   );
 }
 
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}

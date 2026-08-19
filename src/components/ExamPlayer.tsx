@@ -1,6 +1,7 @@
 "use client";
 
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { shuffle } from "@/lib/shuffle";
 import type { Locale, Question, Region } from "@/lib/types";
 import { t } from "@/lib/i18n";
 import { Feedback, OptionButton, QuestionImageView, postAnswers, recordLocalAnswer } from "./QuestionCard";
@@ -74,6 +75,14 @@ export default function ExamPlayer({
     }).catch(() => {});
   }, [finished, questions, answers, region, locale]);
 
+  // Display options in a random order; state keeps ORIGINAL indices.
+  const currentQ = questions[Math.min(idx, questions.length - 1)];
+  const perm = useMemo(
+    () => (currentQ ? shuffle([...currentQ.options.keys()]) : []),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [currentQ?.id]
+  );
+
   if (questions.length === 0) return <p className="text-neutral-500">{t("noQuestions", locale)}</p>;
 
   if (finished) {
@@ -141,13 +150,13 @@ export default function ExamPlayer({
       <h2 className="text-lg font-semibold leading-snug mb-4">{q.text[locale]}</h2>
 
       <div className="space-y-2.5">
-        {q.options.map((opt, i) => (
+        {perm.map((orig) => (
           <OptionButton
-            key={i}
-            label={opt[locale]}
-            state={i === chosen ? "selected" : "idle"}
+            key={orig}
+            label={q.options[orig][locale]}
+            state={orig === chosen ? "selected" : "idle"}
             disabled={false}
-            onClick={() => setChosen(i)}
+            onClick={() => setChosen(orig)}
           />
         ))}
       </div>
