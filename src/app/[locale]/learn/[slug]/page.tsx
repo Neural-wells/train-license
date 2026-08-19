@@ -2,6 +2,7 @@ import { marked } from "marked";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getReadingChapter } from "@/lib/content";
+import { CURRICULUM } from "@/lib/curriculum";
 import { isLocale, t } from "@/lib/i18n";
 
 export default async function ChapterPage({
@@ -13,12 +14,13 @@ export default async function ChapterPage({
   if (!isLocale(locale)) notFound();
   const chapter = await getReadingChapter(slug);
   if (!chapter) notFound();
+  const unit = CURRICULUM.find((u) => u.chapter === slug);
 
   return (
     <article className="max-w-2xl mx-auto space-y-8">
       <div>
-        <Link href={`/${locale}/learn`} className="text-sm text-blue-600 underline">
-          ← {t("learn", locale)}
+        <Link href={`/${locale}`} className="text-sm text-blue-600 underline">
+          ← {t("appName", locale)}
         </Link>
         <h1 className="text-2xl font-bold mt-2">{chapter.title[locale]}</h1>
       </div>
@@ -48,6 +50,25 @@ export default async function ChapterPage({
           )}
         </section>
       ))}
+      {unit?.practice && (
+        <div className="pt-4 border-t border-neutral-200 dark:border-neutral-800 flex justify-center">
+          {unit.practice === "exam" ? (
+            <Link
+              href={`/${locale}/exam`}
+              className="px-6 py-3 rounded-xl bg-blue-600 text-white font-medium hover:bg-blue-700"
+            >
+              🎓 {t("startExam", locale)}
+            </Link>
+          ) : (
+            <Link
+              href={`/${locale}/practice/${unit.practice}`}
+              className="px-6 py-3 rounded-xl bg-blue-600 text-white font-medium hover:bg-blue-700"
+            >
+              ✏️ {t("practice", locale)}
+            </Link>
+          )}
+        </div>
+      )}
     </article>
   );
 }

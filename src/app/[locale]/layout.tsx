@@ -20,9 +20,7 @@ export default async function LocaleLayout({
   const [user, region] = await Promise.all([getSessionUser(), getRegion()]);
 
   const nav = [
-    { href: `/${locale}/practice`, label: t("practice", locale) },
     { href: `/${locale}/exam`, label: t("exam", locale) },
-    { href: `/${locale}/learn`, label: t("learn", locale) },
     { href: `/${locale}/lexicon`, label: t("lexicon", locale) },
     { href: `/${locale}/stats`, label: t("stats", locale) },
   ];
