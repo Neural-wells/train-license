@@ -80,7 +80,9 @@ export async function getReadingChapters(): Promise<ReadingChapter[]> {
 
 const READING_SLUGS = [
   "road-basics",
-  "traffic-signs",
+  "signs-danger-priority",
+  "signs-prohibition-obligation",
+  "signs-parking-indication",
   "priority",
   "speed",
   "maneuvers",
