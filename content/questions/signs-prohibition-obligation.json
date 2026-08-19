@@ -18,7 +18,7 @@
         {
           "nl": "De straat is in beide richtingen verboden voor iedere bestuurder.",
           "fr": "L'accès à la rue est interdit dans les deux sens à tout conducteur.",
-          "en": "The street is closed to all drivers in both directions."
+          "en": "The street is closed to every driver, in both directions."
         },
         {
           "nl": "Verboden richting: u mag de straat langs deze kant niet inrijden.",
@@ -26,9 +26,9 @@
           "en": "No entry: you may not enter the street from this side."
         },
         {
-          "nl": "Einde van alle plaatselijke verbodsbepalingen.",
-          "fr": "Fin de toutes les interdictions locales.",
-          "en": "End of all local prohibitions."
+          "nl": "De straat inrijden mag alleen voor plaatselijk verkeer en bewoners.",
+          "fr": "L'accès à la rue n'est autorisé qu'à la circulation locale et aux riverains.",
+          "en": "Entering the street is allowed only for local traffic and residents."
         }
       ],
       "correct": 1,
@@ -105,19 +105,19 @@
       },
       "options": [
         {
-          "nl": "Ze betekenen hetzelfde: de weg is volledig afgesloten.",
-          "fr": "Ils signifient la même chose : la voie est entièrement fermée.",
-          "en": "They mean the same thing: the road is completely closed."
+          "nl": "Beide borden sluiten de weg volledig af, in beide richtingen.",
+          "fr": "Les deux signaux ferment la voie complètement, dans les deux sens.",
+          "en": "Both signs close the road completely, in both directions."
         },
         {
-          "nl": "Het eerste bord (links) geldt voor alle bestuurders, het tweede (rechts) enkel voor motorvoertuigen.",
-          "fr": "Le premier panneau (à gauche) s'applique à tous les conducteurs, le second (à droite) uniquement aux véhicules à moteur.",
-          "en": "The first sign (left) applies to all drivers, the second (right) only to motor vehicles."
+          "nl": "Het linkse bord verbiedt de toegang in beide richtingen; het rechtse alleen langs uw kant.",
+          "fr": "Le signal de gauche interdit l'accès dans les deux sens ; celui de droite uniquement de votre côté.",
+          "en": "The left sign prohibits entry in both directions; the right one only from your side."
         },
         {
-          "nl": "Het eerste bord (links) verbiedt het inrijden enkel langs uw kant; het tweede (rechts) verbiedt de toegang in beide richtingen.",
-          "fr": "Le premier panneau (à gauche) interdit l'accès uniquement de votre côté ; le second (à droite) interdit l'accès dans les deux sens.",
-          "en": "The first sign (left) prohibits entry only from your side; the second (right) closes the road in both directions."
+          "nl": "Het linkse bord verbiedt de toegang alleen langs uw kant; het rechtse in beide richtingen.",
+          "fr": "Le signal de gauche interdit l'accès uniquement de votre côté ; celui de droite dans les deux sens.",
+          "en": "The left sign prohibits entry only from your side; the right one in both directions."
         }
       ],
       "correct": 2,
@@ -148,19 +148,19 @@
       },
       "options": [
         {
-          "nl": "Nee: het verbod geldt voor iedere bestuurder, dus ook voor fietsers.",
-          "fr": "Non : l'interdiction s'applique à tout conducteur, donc aussi aux cyclistes.",
-          "en": "No: the prohibition applies to every driver, including cyclists."
+          "nl": "Nee: het verbod geldt voor iedere bestuurder, ook voor fietsers.",
+          "fr": "Non : l'interdiction s'applique à tout conducteur, y compris les cyclistes.",
+          "en": "No: the prohibition applies to every driver, cyclists included."
         },
         {
-          "nl": "Ja: fietsers mogen een verboden richting altijd inrijden.",
-          "fr": "Oui : les cyclistes peuvent toujours emprunter un sens interdit.",
-          "en": "Yes: cyclists may always enter a no-entry street."
+          "nl": "Ja: fietsers mogen in een eenrichtingsstraat altijd tegen de rijrichting in rijden.",
+          "fr": "Oui : les cyclistes peuvent toujours rouler à contresens dans une rue à sens unique.",
+          "en": "Yes: cyclists may always ride against the flow in a one-way street."
         },
         {
-          "nl": "Ja, op voorwaarde dat u uiterst rechts rijdt.",
-          "fr": "Oui, à condition de rouler le plus à droite possible.",
-          "en": "Yes, provided you keep as far right as possible."
+          "nl": "Ja, op voorwaarde dat u zo dicht mogelijk bij de rechterrand rijdt.",
+          "fr": "Oui, à condition de rouler le plus près possible du bord droit.",
+          "en": "Yes, provided you keep as far to the right as possible."
         }
       ],
       "correct": 0,
@@ -195,19 +195,19 @@
       },
       "options": [
         {
-          "nl": "Ja: het bord geldt enkel voor vrachtauto's.",
-          "fr": "Oui : le signal ne vise que les camions.",
-          "en": "Yes: the sign only applies to lorries."
+          "nl": "Ja: het bord geldt alleen voor vrachtauto's en autobussen.",
+          "fr": "Oui : le signal ne vise que les camions et les autobus.",
+          "en": "Yes: the sign applies only to lorries and buses."
         },
         {
-          "nl": "Nee: de toegang is verboden voor bestuurders van motorvoertuigen met meer dan twee wielen.",
-          "fr": "Non : l'accès est interdit aux conducteurs de véhicules à moteur à plus de deux roues.",
-          "en": "No: access is prohibited for drivers of motor vehicles with more than two wheels."
+          "nl": "Nee: het geldt voor motorvoertuigen met meer dan twee wielen.",
+          "fr": "Non : il vise les véhicules à moteur à plus de deux roues.",
+          "en": "No: it applies to motor vehicles with more than two wheels."
         },
         {
-          "nl": "Ja: het bord verbiedt alleen de toegang voor motorfietsen.",
-          "fr": "Oui : le signal n'interdit l'accès qu'aux motocyclettes.",
-          "en": "Yes: the sign only prohibits access for motorcycles."
+          "nl": "Ja: het bord verbiedt alleen de toegang voor motorfietsen, niet voor auto's.",
+          "fr": "Oui : le signal n'interdit l'accès qu'aux motocyclettes, pas aux voitures.",
+          "en": "Yes: the sign prohibits access only for motorcycles, not for cars."
         }
       ],
       "correct": 1,
@@ -324,19 +324,14 @@
       },
       "options": [
         {
-          "nl": "Nee: het verbod geldt ook voor wie zijn fiets duwt.",
-          "fr": "Non : l'interdiction s'applique aussi à celui qui pousse son vélo.",
-          "en": "No: the prohibition also applies to someone pushing a bicycle."
+          "nl": "Nee: het verbod geldt ook voor wie zijn fiets aan de hand leidt.",
+          "fr": "Non : l'interdiction vise aussi celui qui pousse son vélo à la main.",
+          "en": "No: the prohibition also covers anyone pushing a bicycle by hand."
         },
         {
-          "nl": "Ja: wie zijn fiets aan de hand leidt, is een voetganger en valt niet onder dit verbod.",
-          "fr": "Oui : celui qui conduit son vélo à la main est un piéton et n'est pas visé par cette interdiction.",
-          "en": "Yes: someone pushing a bicycle by hand is a pedestrian and is not covered by this prohibition."
-        },
-        {
-          "nl": "Alleen als er een trottoir aanwezig is.",
-          "fr": "Uniquement s'il y a un trottoir.",
-          "en": "Only if there is a sidewalk."
+          "nl": "Ja: wie zijn fiets aan de hand leidt, is een voetganger en geen bestuurder.",
+          "fr": "Oui : qui conduit son vélo à la main est un piéton et non un conducteur.",
+          "en": "Yes: pushing a bicycle makes you a pedestrian, not a driver."
         }
       ],
       "correct": 1,
@@ -414,19 +409,19 @@
       },
       "options": [
         {
-          "nl": "Nee: de maximale toegelaten massa van het voertuig is bepalend.",
-          "fr": "Non : c'est la masse maximale autorisée du véhicule qui compte.",
-          "en": "No: the vehicle's maximum authorised mass is decisive."
+          "nl": "Nee: de maximale toegelaten massa op het inschrijvingsbewijs is bepalend.",
+          "fr": "Non : c'est la masse maximale autorisée du certificat d'immatriculation qui est déterminante.",
+          "en": "No: the maximum authorised mass on the registration certificate is decisive."
         },
         {
-          "nl": "Nee: vrachtauto's mogen dit bord nooit voorbijrijden.",
-          "fr": "Non : les camions ne peuvent jamais franchir ce signal.",
-          "en": "No: lorries may never pass this sign."
+          "nl": "Nee: vrachtauto's mogen dit bord nooit voorbijrijden, ongeacht hun werkelijke gewicht.",
+          "fr": "Non : les camions ne peuvent jamais franchir ce signal, quel que soit leur poids réel.",
+          "en": "No: lorries may never pass this sign, regardless of their actual weight."
         },
         {
-          "nl": "Ja: het bord geldt voor de werkelijke massa in beladen toestand, niet voor de maximale toegelaten massa.",
-          "fr": "Oui : le signal vise la masse réelle en charge, pas la masse maximale autorisée.",
-          "en": "Yes: the sign refers to the actual laden mass, not the maximum authorised mass."
+          "nl": "Ja: het bord gaat over de werkelijke massa in beladen toestand op dit ogenblik.",
+          "fr": "Oui : le signal vise la masse réelle en charge à cet instant.",
+          "en": "Yes: the sign refers to the actual laden mass at this moment."
         }
       ],
       "correct": 2,
@@ -462,14 +457,9 @@
           "en": "No: the height is measured including the load."
         },
         {
-          "nl": "Ja: alleen de hoogte van het voertuig zelf telt.",
-          "fr": "Oui : seule la hauteur du véhicule lui-même compte.",
-          "en": "Yes: only the height of the vehicle itself counts."
-        },
-        {
-          "nl": "Ja, op voorwaarde dat u stapvoets rijdt.",
-          "fr": "Oui, à condition de rouler au pas.",
-          "en": "Yes, provided you drive at walking pace."
+          "nl": "Ja: alleen de hoogte van het voertuig zelf telt, niet die van de lading.",
+          "fr": "Oui : seule la hauteur du véhicule lui-même compte, pas celle du chargement.",
+          "en": "Yes: only the height of the vehicle itself counts, not that of the load."
         }
       ],
       "correct": 0,
@@ -500,19 +490,14 @@
       },
       "options": [
         {
-          "nl": "Nee: het verbod geldt voor alle motorvoertuigen.",
-          "fr": "Non : l'interdiction s'applique à tous les véhicules à moteur.",
-          "en": "No: the prohibition applies to all motor vehicles."
+          "nl": "Nee: het verbod geldt voor elk motorvoertuig, ook voor personenauto's.",
+          "fr": "Non : l'interdiction s'applique à tout véhicule à moteur, y compris les voitures.",
+          "en": "No: the prohibition applies to every motor vehicle, including cars."
         },
         {
-          "nl": "Ja: het verbod geldt enkel voor voertuigen gebruikt voor het vervoer van zaken (goederen).",
-          "fr": "Oui : l'interdiction ne vise que les véhicules utilisés pour le transport de choses (marchandises).",
-          "en": "Yes: the prohibition only covers vehicles used for the transport of goods."
-        },
-        {
-          "nl": "Nee, tenzij een onderbord personenauto's toelaat.",
-          "fr": "Non, sauf si un panneau additionnel autorise les voitures.",
-          "en": "No, unless a supplementary panel admits cars."
+          "nl": "Ja: het bord geldt enkel voor voertuigen gebruikt voor het vervoer van zaken.",
+          "fr": "Oui : le signal ne vise que les véhicules utilisés pour le transport de choses.",
+          "en": "Yes: the sign only concerns vehicles used for transporting goods."
         }
       ],
       "correct": 1,
@@ -629,19 +614,19 @@
       },
       "options": [
         {
-          "nl": "Verbod om aan het volgende kruispunt links af te slaan.",
+          "nl": "Verbod om aan het eerstvolgende kruispunt links af te slaan.",
           "fr": "Interdiction de tourner à gauche au prochain carrefour.",
-          "en": "No left turn at the next intersection."
+          "en": "No left turn at the next intersection you reach."
         },
         {
           "nl": "Verbod om te keren, vanaf het bord tot en met het volgende kruispunt.",
-          "fr": "Interdiction de faire demi-tour, à partir du signal jusqu'au prochain carrefour inclus.",
+          "fr": "Interdiction de faire demi-tour, du signal jusqu'au prochain carrefour inclus.",
           "en": "No U-turn, from the sign up to and including the next intersection."
         },
         {
-          "nl": "Verbod om in te halen tot het volgende kruispunt.",
-          "fr": "Interdiction de dépasser jusqu'au prochain carrefour.",
-          "en": "No overtaking until the next intersection."
+          "nl": "Verbod om een motorvoertuig in te halen tot en met het volgende kruispunt.",
+          "fr": "Interdiction de dépasser un véhicule à moteur jusqu'au prochain carrefour inclus.",
+          "en": "No overtaking of any motor vehicle up to and including the next intersection."
         }
       ],
       "correct": 1,
@@ -674,17 +659,12 @@
         {
           "nl": "Ja: het verbod gold slechts tot en met dat kruispunt.",
           "fr": "Oui : l'interdiction ne valait que jusqu'à ce carrefour inclus.",
-          "en": "Yes: the prohibition only applied up to and including that intersection."
+          "en": "Yes: the ban applied only up to and including that intersection."
         },
         {
-          "nl": "Nee: het verbod geldt tot een eindbord het opheft.",
-          "fr": "Non : l'interdiction vaut jusqu'à ce qu'un signal de fin la lève.",
-          "en": "No: the prohibition applies until an end sign lifts it."
-        },
-        {
-          "nl": "Nee: het verbod geldt tot het einde van de bebouwde kom.",
-          "fr": "Non : l'interdiction vaut jusqu'à la fin de l'agglomération.",
-          "en": "No: the prohibition applies until the end of the built-up area."
+          "nl": "Nee: het verbod blijft gelden tot een eindbord het uitdrukkelijk opheft.",
+          "fr": "Non : l'interdiction reste valable jusqu'à ce qu'un signal de fin la lève expressément.",
+          "en": "No: the ban remains in force until an end sign expressly lifts it."
         }
       ],
       "correct": 0,
@@ -719,19 +699,19 @@
       },
       "options": [
         {
-          "nl": "Nee: voorbij dit bord mag u geen enkel voertuig inhalen.",
-          "fr": "Non : au-delà de ce signal, vous ne pouvez dépasser aucun véhicule.",
-          "en": "No: past this sign you may not overtake any vehicle."
+          "nl": "Nee: voorbij dit bord mag u geen enkel ander voertuig inhalen, ook geen fietser.",
+          "fr": "Non : au-delà de ce signal, vous ne pouvez dépasser aucun autre véhicule, pas même un cycliste.",
+          "en": "No: beyond this sign you may not overtake any other vehicle, not even a cyclist."
         },
         {
-          "nl": "Nee, tenzij de fietser op een fietspad rijdt.",
-          "fr": "Non, sauf si le cycliste circule sur une piste cyclable.",
-          "en": "No, unless the cyclist is riding on a cycle path."
+          "nl": "Nee, tenzij de fietser op een gemarkeerd fietspad rijdt.",
+          "fr": "Non, sauf si le cycliste circule sur une piste cyclable marquée.",
+          "en": "No, unless the cyclist is riding on a marked cycle path."
         },
         {
-          "nl": "Ja: het verbod geldt enkel voor het links inhalen van gespannen en voertuigen met meer dan twee wielen.",
-          "fr": "Oui : l'interdiction ne vise que le dépassement par la gauche des véhicules attelés et des véhicules à plus de deux roues.",
-          "en": "Yes: the ban only covers overtaking on the left of horse-drawn vehicles and vehicles with more than two wheels."
+          "nl": "Ja: het verbod geldt enkel voor het inhalen van voertuigen met meer dan twee wielen.",
+          "fr": "Oui : l'interdiction ne vise que le dépassement des véhicules à plus de deux roues.",
+          "en": "Yes: the ban only covers overtaking vehicles with more than two wheels."
         }
       ],
       "correct": 2,
@@ -766,19 +746,19 @@
       },
       "options": [
         {
-          "nl": "Vanaf het bord tot en met het volgende kruispunt.",
+          "nl": "Vanaf het bord tot en met het eerstvolgende kruispunt.",
           "fr": "À partir du signal jusqu'au prochain carrefour inclus.",
           "en": "From the sign up to and including the next intersection."
         },
         {
-          "nl": "Tot het bord dat het einde van het inhaalverbod aanduidt, ook al passeert u meerdere kruispunten zonder herhaling van het bord.",
-          "fr": "Jusqu'au signal indiquant la fin de l'interdiction de dépasser, même si vous franchissez plusieurs carrefours sans répétition du signal.",
-          "en": "Until the sign marking the end of the overtaking ban, even if you pass several intersections without the sign being repeated."
+          "nl": "Tot het eindbord, ook voorbij kruispunten waar het bord niet wordt herhaald.",
+          "fr": "Jusqu'au signal de fin, même au-delà des carrefours sans répétition du signal.",
+          "en": "Until the end sign, even past intersections where it is not repeated."
         },
         {
-          "nl": "Over een vaste afstand van 500 meter.",
-          "fr": "Sur une distance fixe de 500 mètres.",
-          "en": "Over a fixed distance of 500 metres."
+          "nl": "Over een vaste afstand van 500 meter voorbij het bord.",
+          "fr": "Sur une distance fixe de 500 mètres au-delà du signal.",
+          "en": "Over a fixed distance of 500 metres beyond the sign."
         }
       ],
       "correct": 0,
@@ -809,19 +789,19 @@
       },
       "options": [
         {
-          "nl": "Begin van een inhaalverbod.",
-          "fr": "Début d'une interdiction de dépasser.",
-          "en": "Start of an overtaking ban."
+          "nl": "Het begin van een weggedeelte waar inhalen verboden is.",
+          "fr": "Le début d'un tronçon où le dépassement est interdit.",
+          "en": "The start of a stretch of road where overtaking is banned."
         },
         {
-          "nl": "Einde van het eerder opgelegde inhaalverbod.",
-          "fr": "Fin de l'interdiction de dépasser imposée précédemment.",
-          "en": "End of the previously imposed overtaking ban."
+          "nl": "Het einde van het eerder opgelegde inhaalverbod.",
+          "fr": "La fin de l'interdiction de dépasser imposée précédemment.",
+          "en": "The end of the overtaking ban imposed earlier."
         },
         {
-          "nl": "Einde van alle plaatselijke verbodsbepalingen.",
-          "fr": "Fin de toutes les interdictions locales.",
-          "en": "End of all local prohibitions."
+          "nl": "Het einde van alle plaatselijke verbodsbepalingen tegelijk.",
+          "fr": "La fin de toutes les interdictions locales à la fois.",
+          "en": "The end of all local prohibitions at the same time."
         }
       ],
       "correct": 1,
@@ -852,19 +832,19 @@
       },
       "options": [
         {
-          "nl": "Verbod om sneller te rijden dan 50 km per uur, vanaf het bord.",
-          "fr": "Interdiction de circuler à une vitesse supérieure à 50 km à l'heure, à partir du signal.",
-          "en": "You may not drive faster than 50 km/h from the sign onwards."
+          "nl": "U mag niet sneller rijden dan 50 km per uur.",
+          "fr": "Vous ne pouvez pas rouler à plus de 50 km à l'heure.",
+          "en": "You may not drive faster than 50 km per hour."
         },
         {
-          "nl": "Verplichting om minstens 50 km per uur te rijden.",
-          "fr": "Obligation de rouler à au moins 50 km à l'heure.",
-          "en": "You must drive at least 50 km/h."
+          "nl": "U moet een snelheid van minstens 50 km per uur aanhouden.",
+          "fr": "Vous devez maintenir une vitesse d'au moins 50 km à l'heure.",
+          "en": "You must maintain a speed of at least 50 km per hour."
         },
         {
-          "nl": "Aanbevolen snelheid van 50 km per uur.",
-          "fr": "Vitesse conseillée de 50 km à l'heure.",
-          "en": "A recommended speed of 50 km/h."
+          "nl": "50 km per uur wordt aanbevolen, maar is niet verplicht.",
+          "fr": "50 km à l'heure est une vitesse conseillée, non obligatoire.",
+          "en": "You are advised, but not obliged, to drive 50 km per hour."
         }
       ],
       "correct": 0,
@@ -895,19 +875,19 @@
       },
       "options": [
         {
-          "nl": "Altijd tot het eindebord dat de beperking opheft; kruispunten hebben geen invloed.",
-          "fr": "Toujours jusqu'au signal de fin qui lève la limitation ; les carrefours n'ont aucune influence.",
-          "en": "Always until the end sign lifting the limit; intersections have no effect."
+          "nl": "Tot het eindbord dat de beperking opheft; tussenliggende kruispunten hebben geen invloed.",
+          "fr": "Jusqu'au signal de fin qui lève la limitation ; les carrefours intermédiaires n'ont aucun effet.",
+          "en": "Until the end-of-limit sign that lifts it; intersections in between have no effect."
         },
         {
-          "nl": "Slechts 100 meter voorbij het bord.",
-          "fr": "Seulement 100 mètres au-delà du signal.",
-          "en": "Only 100 metres past the sign."
+          "nl": "Slechts over de eerste 100 meter voorbij het bord, tenzij het bord wordt herhaald.",
+          "fr": "Seulement sur les 100 premiers mètres au-delà du signal, sauf si le signal est répété.",
+          "en": "Only over the first 100 metres beyond the sign, unless the sign is repeated."
         },
         {
-          "nl": "Tot en met het volgende kruispunt, tot een ander bord met een snelheidsbeperking, of tot het bord dat het begin of einde van een bebouwde kom aanduidt.",
-          "fr": "Jusqu'au prochain carrefour inclus, jusqu'à un autre signal de limitation de vitesse, ou jusqu'au signal indiquant le début ou la fin d'une agglomération.",
-          "en": "Up to and including the next intersection, until another speed limit sign, or until the sign marking the beginning or end of a built-up area."
+          "nl": "Tot en met het volgende kruispunt, tenzij een ander bord ze eerder beëindigt.",
+          "fr": "Jusqu'au prochain carrefour inclus, sauf si un autre signal y met fin plus tôt.",
+          "en": "Up to and including the next intersection, unless another sign ends it earlier."
         }
       ],
       "correct": 2,
@@ -938,14 +918,14 @@
       },
       "options": [
         {
-          "nl": "Ja: de beperking blijft gelden tot een eindebord ze opheft.",
-          "fr": "Oui : la limitation reste valable jusqu'à un signal de fin qui la lève.",
+          "nl": "Ja: de beperking blijft gelden tot een eindbord ze opheft.",
+          "fr": "Oui : la limitation reste valable jusqu'à ce qu'un signal de fin la lève.",
           "en": "Yes: the limit remains in force until an end sign lifts it."
         },
         {
-          "nl": "Nee: het verbod eindigt aan het kruispunt; daarna geldt opnieuw de algemene snelheidsregel.",
-          "fr": "Non : l'interdiction prend fin au carrefour ; ensuite, la règle générale de vitesse s'applique à nouveau.",
-          "en": "No: the prohibition ends at the intersection; after that the general speed rule applies again."
+          "nl": "Nee: het verbod eindigde aan het kruispunt dat u bent overgestoken.",
+          "fr": "Non : l'interdiction a pris fin au carrefour que vous avez franchi.",
+          "en": "No: the prohibition ended at the intersection you crossed."
         },
         {
           "nl": "Ja: de beperking geldt tot het einde van de bebouwde kom.",
@@ -1035,11 +1015,6 @@
       },
       "options": [
         {
-          "nl": "90 km per uur.",
-          "fr": "90 km à l'heure.",
-          "en": "90 km/h."
-        },
-        {
           "nl": "50 km per uur.",
           "fr": "50 km à l'heure.",
           "en": "50 km/h."
@@ -1048,9 +1023,14 @@
           "nl": "70 km per uur.",
           "fr": "70 km à l'heure.",
           "en": "70 km/h."
+        },
+        {
+          "nl": "90 km per uur.",
+          "fr": "90 km à l'heure.",
+          "en": "90 km/h."
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "nl": "Na het bord C45 geldt opnieuw de algemene snelheidsregel. In Vlaanderen is dat buiten de bebouwde kom, op wegen zonder fysieke scheiding van de rijrichtingen, 70 km per uur (sinds 2017); in Wallonië en Brussel is dat 90 km per uur.",
         "fr": "Après le signal C45, la règle générale de vitesse s'applique à nouveau. En Flandre, elle est de 70 km à l'heure en dehors des agglomérations sur les routes sans séparation physique des sens de circulation (depuis 2017) ; en Wallonie et à Bruxelles, elle est de 90 km à l'heure.",
@@ -1087,14 +1067,14 @@
           "en": "End of all local prohibitions imposed on moving vehicles."
         },
         {
-          "nl": "Einde van de voorrangsweg.",
-          "fr": "Fin de la voie prioritaire.",
-          "en": "End of the priority road."
+          "nl": "Einde van de voorrangsweg waarop u rijdt.",
+          "fr": "Fin de la voie prioritaire sur laquelle vous circulez.",
+          "en": "End of the priority road you are driving on."
         },
         {
-          "nl": "Einde van de bebouwde kom.",
-          "fr": "Fin de l'agglomération.",
-          "en": "End of the built-up area."
+          "nl": "Einde van de bebouwde kom waar u doorheen rijdt.",
+          "fr": "Fin de l'agglomération que vous êtes en train de traverser.",
+          "en": "End of the built-up area you have been driving through."
         }
       ],
       "correct": 0,
@@ -1128,19 +1108,19 @@
       },
       "options": [
         {
-          "nl": "Ja: dat bord beëindigt alle verbodsborden, ook die over parkeren.",
-          "fr": "Oui : ce panneau met fin à tous les signaux d'interdiction, y compris ceux relatifs au stationnement.",
-          "en": "Yes: that sign ends all prohibitory signs, including those about parking."
+          "nl": "Ja: dat bord beëindigt elk verbodsbord, ook de parkeerverboden.",
+          "fr": "Oui : ce signal met fin à tout signal d'interdiction, y compris de stationnement.",
+          "en": "Yes: that sign ends every prohibitory sign, including the parking bans."
         },
         {
-          "nl": "Nee: dat bord beëindigt enkel de plaatselijke verbodsbepalingen voor voertuigen in beweging; regels over stilstaan en parkeren blijven gelden.",
-          "fr": "Non : ce panneau ne met fin qu'aux interdictions locales imposées aux véhicules en mouvement ; les règles d'arrêt et de stationnement restent d'application.",
-          "en": "No: that sign only ends local prohibitions on moving vehicles; stopping and parking rules remain in force."
+          "nl": "Nee: dat bord beëindigt alleen verboden opgelegd aan voertuigen in beweging.",
+          "fr": "Non : ce signal ne met fin qu'aux interdictions imposées aux véhicules en mouvement.",
+          "en": "No: that sign only ends prohibitions imposed on moving vehicles."
         },
         {
-          "nl": "Ja, maar enkel buiten de bebouwde kom.",
-          "fr": "Oui, mais uniquement en dehors des agglomérations.",
-          "en": "Yes, but only outside built-up areas."
+          "nl": "Ja, maar alleen waar de straat buiten de bebouwde kom ligt.",
+          "fr": "Oui, mais uniquement là où la rue se trouve hors agglomération.",
+          "en": "Yes, but only where the street lies outside a built-up area."
         }
       ],
       "correct": 1,
@@ -1223,14 +1203,14 @@
           "en": "You must follow one of the directions indicated by the arrows."
         },
         {
-          "nl": "De aangeduide richtingen zijn enkel een aanbeveling.",
-          "fr": "Les directions indiquées ne sont qu'une recommandation.",
-          "en": "The indicated directions are only a recommendation."
+          "nl": "De aangeduide richtingen zijn louter een aanbeveling, geen verplichting.",
+          "fr": "Les directions indiquées ne sont qu'une recommandation, pas une obligation.",
+          "en": "The directions shown are merely a recommendation, not an obligation."
         },
         {
-          "nl": "Het bord kondigt een eenrichtingsstraat aan.",
-          "fr": "Le signal annonce une rue à sens unique.",
-          "en": "The sign announces a one-way street."
+          "nl": "Het bord kondigt het begin van een eenrichtingsstraat aan.",
+          "fr": "Le signal annonce le début d'une rue à sens unique.",
+          "en": "The sign announces the start of a one-way street ahead."
         }
       ],
       "correct": 0,
@@ -1261,19 +1241,19 @@
       },
       "options": [
         {
-          "nl": "U hebt voorrang op de bestuurders die al op de rotonde rijden.",
-          "fr": "Vous avez priorité sur les conducteurs qui circulent déjà sur le rond-point.",
-          "en": "You have priority over drivers already on the roundabout."
+          "nl": "U hebt voorrang op alle bestuurders die al op de rotonde rijden.",
+          "fr": "Vous avez la priorité sur tous les conducteurs qui circulent déjà sur le rond-point.",
+          "en": "You have priority over all the drivers already driving on the roundabout."
         },
         {
-          "nl": "Verplicht rondgaand verkeer: u moet de richting van de pijlen rond het middeneiland volgen.",
-          "fr": "Sens giratoire obligatoire : vous devez suivre le sens des flèches autour de l'îlot central.",
-          "en": "Mandatory circulation: you must follow the direction of the arrows around the central island."
+          "nl": "U moet de richting van de pijlen rond het middeneiland volgen.",
+          "fr": "Vous devez suivre le sens des flèches autour de l'îlot central.",
+          "en": "You must follow the direction of the arrows around the central island."
         },
         {
-          "nl": "Verboden de rotonde op te rijden.",
-          "fr": "Interdiction de s'engager sur le rond-point.",
-          "en": "It is prohibited to enter the roundabout."
+          "nl": "U mag de rotonde pas oprijden wanneer ze volledig vrij is.",
+          "fr": "Vous ne pouvez vous engager sur le rond-point que lorsqu'il est entièrement dégagé.",
+          "en": "You may not enter the roundabout until it is completely clear."
         }
       ],
       "correct": 1,
@@ -1354,19 +1334,19 @@
       },
       "options": [
         {
-          "nl": "Alleen op het deel aangeduid met het tweede bord (rechts).",
-          "fr": "Uniquement sur la partie indiquée par le second panneau (à droite).",
-          "en": "Only on the part marked by the second sign (right)."
+          "nl": "Alleen op het deel aangeduid met het rechtse bord.",
+          "fr": "Uniquement sur la partie indiquée par le signal de droite.",
+          "en": "Only on the part marked by the sign on the right."
         },
         {
-          "nl": "Op beide delen.",
-          "fr": "Sur les deux parties.",
-          "en": "On both parts."
+          "nl": "Op beide afgebeelde delen van de openbare weg.",
+          "fr": "Sur les deux parties représentées de la voie publique.",
+          "en": "On both parts of the public road shown here."
         },
         {
-          "nl": "Alleen op het deel aangeduid met het eerste bord (links).",
-          "fr": "Uniquement sur la partie indiquée par le premier panneau (à gauche).",
-          "en": "Only on the part marked by the first sign (left)."
+          "nl": "Alleen op het deel aangeduid met het linkse bord.",
+          "fr": "Uniquement sur la partie indiquée par le signal de gauche.",
+          "en": "Only on the part marked by the sign on the left."
         }
       ],
       "correct": 2,
@@ -1397,19 +1377,19 @@
       },
       "options": [
         {
-          "nl": "Ja, als u voetgangers voorrang geeft.",
-          "fr": "Oui, si vous cédez le passage aux piétons.",
-          "en": "Yes, if you give way to pedestrians."
+          "nl": "Ja, op voorwaarde dat u voorrang verleent aan de voetgangers op het pad.",
+          "fr": "Oui, à condition de céder le passage aux piétons sur le chemin.",
+          "en": "Yes, provided you give way to the pedestrians on the path."
         },
         {
-          "nl": "Nee: het pad is een verplichte weg voor voetgangers en is voor hen voorbehouden.",
-          "fr": "Non : ce chemin est obligatoire pour les piétons et leur est réservé.",
-          "en": "No: the path is a compulsory path for pedestrians and is reserved for them."
+          "nl": "Nee: deze verplichte weg is uitsluitend voor voetgangers voorbehouden.",
+          "fr": "Non : ce chemin obligatoire est réservé aux seuls piétons.",
+          "en": "No: this compulsory path is reserved for pedestrians only."
         },
         {
-          "nl": "Ja: een gebodsbord verplicht alleen voetgangers en verbiedt anderen niets.",
-          "fr": "Oui : un signal d'obligation n'oblige que les piétons et n'interdit rien aux autres.",
-          "en": "Yes: a mandatory sign only obliges pedestrians and prohibits nothing for others."
+          "nl": "Ja: het bord verplicht alleen voetgangers en verbiedt fietsers niets.",
+          "fr": "Oui : le signal n'oblige que les piétons et n'interdit rien aux cyclistes.",
+          "en": "Yes: the sign obliges pedestrians but prohibits nothing for cyclists."
         }
       ],
       "correct": 1,
@@ -1484,19 +1464,19 @@
       },
       "options": [
         {
-          "nl": "Nee: voor het verbod telt de lengte van de hele sleep, lading inbegrepen, en die is meer dan 10 m.",
-          "fr": "Non : c'est la longueur de tout le train de véhicules, chargement compris, qui compte, et elle dépasse 10 m.",
-          "en": "No: what counts is the length of the whole combination, load included, and that exceeds 10 m."
+          "nl": "Nee: de lengte van de hele sleep, lading inbegrepen, is bepalend.",
+          "fr": "Non : la longueur de tout le train de véhicules, chargement compris, est déterminante.",
+          "en": "No: the length of the whole combination, load included, is decisive."
         },
         {
           "nl": "Ja: auto en caravan blijven elk afzonderlijk onder de 10 m.",
           "fr": "Oui : la voiture et la caravane restent chacune, prise séparément, sous les 10 m.",
-          "en": "Yes: the car and the caravan each stay under 10 m taken separately."
+          "en": "Yes: the car and the caravan each remain under 10 m taken separately."
         },
         {
-          "nl": "Ja: dit verbod geldt enkel voor vrachtwagens en autocars.",
-          "fr": "Oui : cette interdiction ne concerne que les camions et les autocars.",
-          "en": "Yes: this prohibition only concerns lorries and coaches."
+          "nl": "Ja: dit verbod geldt enkel voor vrachtwagens, autobussen en autocars.",
+          "fr": "Oui : cette interdiction ne concerne que les camions, autobus et autocars.",
+          "en": "Yes: this prohibition only concerns lorries, buses and coaches."
         }
       ],
       "correct": 0,
@@ -1524,9 +1504,9 @@
       },
       "options": [
         {
-          "nl": "Nee: met lading bent u 2,30 m breed en dus breder dan de aangeduide 2,20 m.",
-          "fr": "Non : avec le chargement vous mesurez 2,30 m et dépassez donc les 2,20 m indiqués.",
-          "en": "No: with the load you are 2.30 m wide and therefore wider than the indicated 2.20 m."
+          "nl": "Nee: met lading bent u 2,30 m breed, meer dan het bord toelaat.",
+          "fr": "Non : avec le chargement, vous mesurez 2,30 m, plus que ne le permet le signal.",
+          "en": "No: with the load you are 2.30 m wide, more than the sign allows."
         },
         {
           "nl": "Ja: enkel de breedte van het voertuig zelf telt, en die is 1,95 m.",
@@ -1572,18 +1552,18 @@
       "options": [
         {
           "nl": "Een automobilist die de straat als sluipweg gebruikt om een file te vermijden.",
-          "fr": "Un automobiliste qui utilise la rue comme itinéraire de délestage pour éviter un embouteillage.",
+          "fr": "Un automobiliste qui utilise la rue comme raccourci pour éviter un embouteillage.",
           "en": "A motorist using the street as a shortcut to avoid a traffic jam."
         },
         {
-          "nl": "Een koerier die een pakje levert bij een bewoner.",
-          "fr": "Un livreur qui dépose un colis chez un habitant.",
-          "en": "A courier delivering a parcel to a resident."
+          "nl": "Een koerier die een pakje levert bij een bewoner van de straat.",
+          "fr": "Un livreur qui dépose un colis chez un habitant de la rue.",
+          "en": "A courier delivering a parcel to a resident of the street."
         },
         {
-          "nl": "Een fietser die de straat enkel als doorsteek gebruikt.",
-          "fr": "Un cycliste qui ne fait que traverser la rue.",
-          "en": "A cyclist merely passing through the street."
+          "nl": "Een fietser die enkel door de straat rijdt zonder er te stoppen.",
+          "fr": "Un cycliste qui ne fait que traverser la rue sans s'y arrêter.",
+          "en": "A cyclist who merely rides through the street without stopping there."
         }
       ],
       "correct": 0,
@@ -1615,9 +1595,9 @@
       },
       "options": [
         {
-          "nl": "Nog altijd maximaal 30 km per uur: een zonale beperking blijft gelden tot ze door een eindezonebord wordt opgeheven.",
-          "fr": "Toujours 30 km à l'heure au maximum : une limitation zonale reste valable jusqu'au signal de fin de zone.",
-          "en": "Still 30 km per hour at most: a zonal limit remains in force until it is lifted by an end-of-zone sign."
+          "nl": "Nog altijd maximaal 30 km per uur, tot een bord het einde van de zone aanduidt.",
+          "fr": "Toujours 30 km à l'heure au maximum, jusqu'au signal qui indique la fin de la zone.",
+          "en": "Still 30 km per hour at most, until a sign marks the end of the zone."
         },
         {
           "nl": "De beperking verviel aan het eerste kruispunt, zoals bij een gewoon snelheidsbord.",
@@ -1625,9 +1605,9 @@
           "en": "The limit lapsed at the first intersection, as with an ordinary speed sign."
         },
         {
-          "nl": "Maximaal 50 km per uur zodra u twee kruispunten voorbij bent.",
-          "fr": "50 km à l'heure au maximum dès que vous avez passé deux carrefours.",
-          "en": "50 km per hour at most once you have passed two intersections."
+          "nl": "Maximaal 50 km per uur zodra u twee kruispunten in de zone voorbij bent.",
+          "fr": "50 km à l'heure au maximum dès que vous avez passé deux carrefours dans la zone.",
+          "en": "50 km per hour at most, once you have passed two intersections in the zone."
         }
       ],
       "correct": 0,
@@ -1662,19 +1642,14 @@
       },
       "options": [
         {
-          "nl": "Ja: wie een tweewielige bromfiets aan de hand leidt, wordt gelijkgesteld met een voetganger en is geen bestuurder.",
-          "fr": "Oui : qui conduit à la main un cyclomoteur à deux roues est assimilé à un piéton et n'est pas un conducteur.",
-          "en": "Yes: someone pushing a two-wheeled moped by hand is treated as a pedestrian and is not a driver."
+          "nl": "Ja: wie een tweewielige bromfiets aan de hand leidt, is een voetganger.",
+          "fr": "Oui : qui conduit à la main un cyclomoteur à deux roues est un piéton.",
+          "en": "Yes: pushing a two-wheeled moped by hand makes you a pedestrian."
         },
         {
           "nl": "Nee: het verbod geldt voor de bromfiets zelf, of u er nu op rijdt of hem duwt.",
-          "fr": "Non : l'interdiction vise le cyclomoteur lui-même, que vous rouliez dessus ou que vous le poussiez.",
-          "en": "No: the ban applies to the moped itself, whether you ride it or push it."
-        },
-        {
-          "nl": "Enkel als de motor is afgezet én u op het trottoir loopt.",
-          "fr": "Seulement si le moteur est coupé et que vous marchez sur le trottoir.",
-          "en": "Only if the engine is switched off and you walk on the pavement."
+          "fr": "Non : l'interdiction vise le cyclomoteur lui-même, conduit ou poussé à la main.",
+          "en": "No: the ban applies to the moped itself, whether ridden or pushed by hand."
         }
       ],
       "correct": 0,
@@ -1708,17 +1683,17 @@
         {
           "nl": "De hindernis voorbijrijden langs de kant die de pijl aanwijst, hier dus rechts.",
           "fr": "Contourner l'obstacle du côté indiqué par la flèche, donc ici à droite.",
-          "en": "Pass the obstacle on the side the arrow indicates, so here on the right."
+          "en": "Pass the obstacle on the side the arrow indicates, here the right."
         },
         {
-          "nl": "Aan het volgende kruispunt verplicht rechts afslaan.",
-          "fr": "Tourner obligatoirement à droite au prochain carrefour.",
-          "en": "Turn right without fail at the next intersection."
+          "nl": "Aan het eerstvolgende kruispunt verplicht rechts afslaan.",
+          "fr": "Tourner obligatoirement à droite au prochain carrefour que vous atteignez.",
+          "en": "Turn right without fail at the next intersection you reach."
         },
         {
-          "nl": "Niets: een schuin geplaatste pijl heeft geen reglementaire betekenis.",
-          "fr": "Rien : une flèche placée en oblique n'a pas de valeur réglementaire.",
-          "en": "Nothing: an obliquely placed arrow has no regulatory meaning."
+          "nl": "Niets: een schuin geplaatste pijl heeft geen enkele reglementaire betekenis.",
+          "fr": "Rien : une flèche placée en oblique n'a aucune valeur réglementaire.",
+          "en": "Nothing: an arrow placed at an angle has no regulatory meaning at all."
         }
       ],
       "correct": 0,
@@ -1753,19 +1728,19 @@
       },
       "options": [
         {
-          "nl": "Ja: het opschrift beperkt het verbod tot voertuigen waarvan de massa in beladen toestand — het werkelijke gewicht — meer dan 5,5 ton bedraagt.",
-          "fr": "Oui : l'inscription limite l'interdiction aux véhicules dont la masse en charge — le poids réel — dépasse 5,5 tonnes.",
-          "en": "Yes: the inscription limits the ban to vehicles whose laden mass — the actual weight — exceeds 5.5 tonnes."
+          "nl": "Ja: het onderbord beperkt het verbod tot voertuigen die nu werkelijk meer dan 5,5 ton wegen.",
+          "fr": "Oui : le panneau limite l'interdiction aux véhicules pesant réellement plus de 5,5 tonnes en ce moment.",
+          "en": "Yes: the panel limits the ban to vehicles actually weighing more than 5.5 tonnes now."
         },
         {
-          "nl": "Nee: de maximale toegelaten massa op het inschrijvingsbewijs telt, en die is hoger dan 5,5 ton.",
-          "fr": "Non : c'est la masse maximale autorisée du certificat d'immatriculation qui compte, et elle dépasse 5,5 tonnes.",
-          "en": "No: the maximum authorised mass on the registration certificate counts, and that exceeds 5.5 tonnes."
+          "nl": "Nee: de maximale toegelaten massa op het inschrijvingsbewijs telt, en die bedraagt 7 ton.",
+          "fr": "Non : c'est la masse maximale autorisée du certificat d'immatriculation qui compte, soit 7 tonnes.",
+          "en": "No: the maximum authorised mass on the registration certificate counts, and that is 7 tonnes."
         },
         {
-          "nl": "Nee: dit bord verbiedt elk voertuig dat voor goederenvervoer gebouwd is, ongeacht het gewicht.",
-          "fr": "Non : ce signal interdit tout véhicule construit pour le transport de marchandises, quel que soit son poids.",
-          "en": "No: this sign bans every vehicle built for the transport of goods, regardless of its weight."
+          "nl": "Nee: dit bord verbiedt elk voertuig voor goederenvervoer, ongeacht de massa op het onderbord.",
+          "fr": "Non : ce signal interdit tout véhicule de transport de marchandises, quelle que soit la masse indiquée.",
+          "en": "No: the sign bans every goods vehicle, regardless of the mass shown on the panel."
         }
       ],
       "correct": 0,
@@ -1796,19 +1771,19 @@
       },
       "options": [
         {
-          "nl": "Ja: bij een snelheidsbord met massa-opschrift telt de maximale toegelaten massa, en die is hoger dan 3,5 ton.",
-          "fr": "Oui : pour un signal de vitesse avec inscription de masse, c'est la masse maximale autorisée qui compte, et elle dépasse 3,5 tonnes.",
-          "en": "Yes: for a speed sign with a mass inscription, the maximum authorised mass counts, and it exceeds 3.5 tonnes."
+          "nl": "Ja: bij een snelheidsbord telt de maximale toegelaten massa, en die bedraagt hier 7 ton.",
+          "fr": "Oui : pour un signal de vitesse, c'est la masse maximale autorisée qui compte, soit ici 7 tonnes.",
+          "en": "Yes: under a speed sign, the maximum authorised mass counts, and that is 7 tonnes here."
         },
         {
-          "nl": "Nee: mijn voertuig weegt vandaag maar 3 ton en blijft dus onder de aangeduide massa.",
-          "fr": "Non : mon véhicule ne pèse que 3 tonnes aujourd'hui et reste donc sous la masse indiquée.",
-          "en": "No: my vehicle only weighs 3 tonnes today and thus stays under the indicated mass."
+          "nl": "Nee: het voertuig weegt vandaag werkelijk maar 3 ton en blijft onder de aangeduide massa.",
+          "fr": "Non : le véhicule ne pèse réellement que 3 tonnes aujourd'hui et reste sous la masse indiquée.",
+          "en": "No: the vehicle actually weighs only 3 tonnes today and stays under the indicated mass."
         },
         {
-          "nl": "Nee: zo'n onderbord geldt enkel voor voertuigen met aanhangwagen.",
-          "fr": "Non : un tel panneau additionnel ne vise que les véhicules avec remorque.",
-          "en": "No: such a panel only concerns vehicles towing a trailer."
+          "nl": "Nee: zo'n onderbord geldt enkel voor voertuigen die een aanhangwagen trekken.",
+          "fr": "Non : un tel panneau ne vise que les véhicules qui tractent une remorque.",
+          "en": "No: a panel like that only concerns vehicles that are towing a trailer."
         }
       ],
       "correct": 0,
@@ -1842,19 +1817,19 @@
       },
       "options": [
         {
-          "nl": "Het linkse verbiedt fietsers de toegang; het rechtse verplicht fietsers net om dat fietspad te gebruiken.",
-          "fr": "Celui de gauche interdit l'accès aux cyclistes ; celui de droite oblige au contraire les cyclistes à emprunter cette piste cyclable.",
-          "en": "The left one denies cyclists access; the right one, on the contrary, obliges cyclists to use that cycle path."
+          "nl": "Het linkse bord verbiedt fietsers de toegang; het rechtse verplicht hen het fietspad te gebruiken.",
+          "fr": "Le signal de gauche interdit l'accès aux cyclistes ; celui de droite les oblige à emprunter la piste cyclable.",
+          "en": "The left sign denies cyclists access; the right one obliges them to use the cycle path."
         },
         {
-          "nl": "Ze betekenen hetzelfde: beide duiden een fietspad aan.",
-          "fr": "Ils signifient la même chose : tous deux indiquent une piste cyclable.",
-          "en": "They mean the same thing: both indicate a cycle path."
+          "nl": "Het rechtse bord verbiedt fietsers de toegang; het linkse verplicht hen het fietspad te gebruiken.",
+          "fr": "Le signal de droite interdit l'accès aux cyclistes ; celui de gauche les oblige à emprunter la piste cyclable.",
+          "en": "The right sign denies cyclists access; the left one obliges them to use the cycle path."
         },
         {
-          "nl": "Het linkse waarschuwt voor overstekende fietsers; het rechtse verbiedt fietsers de toegang.",
-          "fr": "Celui de gauche avertit de la traversée de cyclistes ; celui de droite interdit l'accès aux cyclistes.",
-          "en": "The left one warns of crossing cyclists; the right one denies cyclists access."
+          "nl": "Ze betekenen hetzelfde: beide borden duiden een fietspad voor fietsers aan.",
+          "fr": "Ils signifient la même chose : les deux signaux indiquent une piste cyclable pour les cyclistes.",
+          "en": "They mean the same thing: both signs indicate a cycle path meant for cyclists."
         }
       ],
       "correct": 0,

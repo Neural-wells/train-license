@@ -13,22 +13,22 @@
       },
       "options": [
         {
-          "nl": "Je nadert met matige snelheid en verleent voorrang aan de voetganger.",
-          "fr": "Vous approchez à allure modérée et cédez le passage au piéton.",
-          "en": "You approach at moderate speed and give way to the pedestrian."
+          "nl": "Je nadert met matige snelheid; de voetganger moet wachten, zoals aan een oversteekplaats voor fietsers.",
+          "fr": "Vous approchez à allure modérée ; le piéton doit attendre, comme à un passage pour cyclistes.",
+          "en": "You approach at moderate speed; the pedestrian must wait, as at a cycle crossing."
         },
         {
-          "nl": "Je rijdt door: de voetganger is nog niet aan het oversteken.",
-          "fr": "Vous continuez : le piéton n'a pas encore commencé à traverser.",
-          "en": "You drive on: the pedestrian has not started crossing yet."
+          "nl": "Je nadert met matige snelheid en laat de voetganger voorgaan.",
+          "fr": "Vous approchez à allure modérée et laissez le piéton s'engager.",
+          "en": "You approach at moderate speed and let the pedestrian go first."
         },
         {
-          "nl": "Je claxonneert om de voetganger te waarschuwen en rijdt door.",
-          "fr": "Vous klaxonnez pour avertir le piéton et poursuivez votre route.",
-          "en": "You sound your horn to warn the pedestrian and drive on."
+          "nl": "Je rijdt door; voorrang geldt pas zodra de voetganger zich effectief op de oversteekplaats bevindt.",
+          "fr": "Vous poursuivez ; la priorité ne s'applique que lorsque le piéton se trouve effectivement sur le passage.",
+          "en": "You drive on; priority only applies once the pedestrian is actually on the crossing."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Aan een oversteekplaats waar het verkeer niet geregeld wordt, mag je slechts met matige snelheid naderen en moet je voorrang verlenen aan voetgangers die zich erop bevinden of op het punt staan zich erop te begeven. Voorrang van voetgangers negeren is een overtreding van de derde graad.",
         "fr": "À un passage où la circulation n'est pas réglée, vous ne pouvez approcher qu'à allure modérée et vous devez céder le passage aux piétons qui s'y trouvent ou sont sur le point de s'y engager. Ignorer la priorité des piétons est une infraction du troisième degré.",
@@ -50,22 +50,22 @@
       },
       "options": [
         {
-          "nl": "Nee, inhalen bij het naderen van een oversteekplaats waar het verkeer niet geregeld wordt, is verboden.",
-          "fr": "Non, il est interdit de dépasser à l'approche d'un passage où la circulation n'est pas réglée.",
-          "en": "No, overtaking while approaching a crossing where traffic is not controlled is prohibited."
+          "nl": "Ja, als je vertraagt en je er zeker van bent dat geen voetganger wil oversteken.",
+          "fr": "Oui, si vous ralentissez et êtes certain qu'aucun piéton ne veut traverser.",
+          "en": "Yes, provided you slow down and make certain that no pedestrian is waiting to cross."
         },
         {
-          "nl": "Ja, als je geen voetgangers op of naast de oversteekplaats ziet.",
-          "fr": "Oui, si vous ne voyez aucun piéton sur le passage ou à proximité.",
-          "en": "Yes, if you see no pedestrians on or near the crossing."
+          "nl": "Nee, bij het naderen van een oversteekplaats waar het verkeer niet geregeld wordt, mag je niet inhalen.",
+          "fr": "Non, à l'approche d'un passage où la circulation n'est pas réglée, vous ne pouvez pas dépasser.",
+          "en": "No, while approaching a crossing where traffic is not controlled, you may not overtake."
         },
         {
-          "nl": "Ja, als je snel genoeg voorbij de oversteekplaats kan zijn.",
-          "fr": "Oui, si vous pouvez franchir le passage assez rapidement.",
-          "en": "Yes, if you can clear the crossing quickly enough."
+          "nl": "Nee, tenzij je de oversteekplaats volledig kan vrijmaken vóór de andere auto ze bereikt.",
+          "fr": "Non, sauf si vous pouvez franchir et libérer complètement le passage avant que l'autre voiture ne l'atteigne.",
+          "en": "No, unless you can pass and clear the crossing completely before the other car reaches it."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Je mag een voertuig niet inhalen wanneer het een oversteekplaats voor voetgangers of fietsers nadert waar het verkeer niet geregeld wordt: de ingehaalde auto kan je zicht op overstekende voetgangers volledig ontnemen. Dit is een overtreding van de derde graad.",
         "fr": "Vous ne pouvez pas dépasser un véhicule qui s'approche d'un passage pour piétons ou pour cyclistes où la circulation n'est pas réglée : le véhicule dépassé peut masquer complètement les piétons qui traversent. C'est une infraction du troisième degré.",
@@ -87,22 +87,22 @@
       },
       "options": [
         {
-          "nl": "Je vertraagt en stopt zo nodig: tegenover blinden met een witte stok moet je dubbel voorzichtig zijn.",
-          "fr": "Vous ralentissez et vous vous arrêtez au besoin : vous devez redoubler de prudence envers les aveugles munis d'une canne blanche.",
-          "en": "You slow down and stop if necessary: you must be doubly careful toward blind persons with a white cane."
+          "nl": "Je vertraagt, maar buiten een oversteekplaats moet de voetganger jou laten voorgaan.",
+          "fr": "Vous ralentissez, mais en dehors d'un passage pour piétons, le piéton doit vous laisser passer.",
+          "en": "You slow down, but away from a pedestrian crossing the pedestrian must let you pass first."
         },
         {
-          "nl": "Je claxonneert kort zodat de persoon weet dat je eraan komt.",
-          "fr": "Vous klaxonnez brièvement pour que la personne sache que vous arrivez.",
-          "en": "You sound your horn briefly so the person knows you are coming."
+          "nl": "Je wijkt zo ver mogelijk uit en rijdt voorbij zonder te stoppen, om geen verwarring te scheppen.",
+          "fr": "Vous vous écartez le plus possible et passez sans vous arrêter, pour ne pas créer de confusion.",
+          "en": "You swerve out as far as possible and pass without stopping, so as not to create confusion."
         },
         {
-          "nl": "Je rijdt gewoon door: er is hier geen oversteekplaats voor voetgangers.",
-          "fr": "Vous continuez simplement : il n'y a pas de passage pour piétons à cet endroit.",
-          "en": "You simply drive on: there is no pedestrian crossing here."
+          "nl": "Je vertraagt en stopt zo nodig om de persoon te laten oversteken.",
+          "fr": "Vous ralentissez et vous vous arrêtez au besoin pour laisser traverser la personne.",
+          "en": "You slow down and stop if necessary to let the person cross."
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "nl": "De wegcode verplicht bestuurders dubbel voorzichtig te zijn tegenover kinderen, bejaarden en personen met een handicap, in het bijzonder blinden met een witte of gele stok. Vertraag en stop indien nodig, ook buiten een oversteekplaats.",
         "fr": "Le code de la route oblige les conducteurs à redoubler de prudence envers les enfants, les personnes âgées et les personnes handicapées, en particulier les aveugles munis d'une canne blanche ou jaune. Ralentissez et arrêtez-vous au besoin, même en dehors d'un passage.",
@@ -124,22 +124,22 @@
       },
       "options": [
         {
-          "nl": "Plaats waar speciaal veel kinderen komen: je vertraagt en bent dubbel voorzichtig.",
-          "fr": "Endroit spécialement fréquenté par des enfants : vous ralentissez et redoublez de prudence.",
-          "en": "Area especially frequented by children: you slow down and are doubly careful."
+          "nl": "Oversteekplaats voor voetgangers op korte afstand: je vertraagt en laat wachtende voetgangers voorgaan.",
+          "fr": "Passage pour piétons à courte distance : vous ralentissez et laissez passer les piétons qui attendent.",
+          "en": "Pedestrian crossing a short distance ahead: you slow down and let waiting pedestrians go first."
         },
         {
-          "nl": "Oversteekplaats voor voetgangers op korte afstand.",
-          "fr": "Passage pour piétons à courte distance.",
-          "en": "Pedestrian crossing a short distance ahead."
+          "nl": "Plaats waar speciaal veel kinderen komen: je vertraagt en verdubbelt je aandacht.",
+          "fr": "Endroit spécialement fréquenté par des enfants : vous ralentissez et redoublez d'attention.",
+          "en": "Area especially frequented by children: you slow down and double your attention."
         },
         {
-          "nl": "Verboden toegang voor voetgangers.",
-          "fr": "Accès interdit aux piétons.",
-          "en": "No access for pedestrians."
+          "nl": "Begin van een schoolomgeving: je mag tot het einde ervan niet sneller dan 30 km/u rijden.",
+          "fr": "Début d'abords d'école : vous ne pouvez pas dépasser 30 km/h jusqu'à la fin de ceux-ci.",
+          "en": "Start of a school environment: you may not drive faster than 30 km/h until its end."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Het gevaarsbord A23 waarschuwt voor een plaats waar speciaal veel kinderen komen, zoals een school of speelplein. Kinderen zijn onvoorspelbaar: verlaag je snelheid en wees dubbel voorzichtig.",
         "fr": "Le signal de danger A23 avertit d'un endroit spécialement fréquenté par des enfants, comme une école ou une plaine de jeux. Les enfants sont imprévisibles : réduisez votre vitesse et redoublez de prudence.",
@@ -161,22 +161,22 @@
       },
       "options": [
         {
-          "nl": "De voetgangers: wie van richting verandert, moet voorrang verlenen aan voetgangers die de rijbaan oversteken die hij gaat oprijden.",
-          "fr": "Les piétons : le conducteur qui change de direction doit céder le passage aux piétons qui traversent la chaussée sur laquelle il va s'engager.",
-          "en": "The pedestrians: a driver changing direction must give way to pedestrians crossing the carriageway they are about to enter."
+          "nl": "Jij: voetgangers mogen pas beginnen oversteken wanneer de rijbaan volledig vrij is.",
+          "fr": "Vous : les piétons ne peuvent commencer à traverser que lorsque la chaussée est entièrement libre.",
+          "en": "You: pedestrians may only start to cross the carriageway once it is completely clear."
         },
         {
-          "nl": "Jij: voetgangers moeten wachten tot de rijbaan volledig vrij is.",
-          "fr": "Vous : les piétons doivent attendre que la chaussée soit entièrement libre.",
-          "en": "You: pedestrians must wait until the carriageway is completely clear."
+          "nl": "De voetgangers, maar enkel wanneer daar een oversteekplaats voor voetgangers gemarkeerd is.",
+          "fr": "Les piétons, mais uniquement lorsqu'un passage pour piétons y est marqué sur la chaussée.",
+          "en": "The pedestrians, but only where a marked pedestrian crossing crosses the carriageway."
         },
         {
-          "nl": "Wie het kruispunt het eerst heeft bereikt.",
-          "fr": "Celui qui a atteint le carrefour en premier.",
-          "en": "Whoever reached the intersection first."
+          "nl": "De voetgangers: wie van richting verandert, laat hen eerst de rijbaan vrijmaken.",
+          "fr": "Les piétons : le conducteur qui change de direction les laisse d'abord libérer la chaussée.",
+          "en": "The pedestrians: a driver changing direction lets them clear the carriageway first."
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "nl": "Een bestuurder die van richting verandert, moet voorrang verlenen aan de voetgangers die de rijbaan oversteken die hij gaat oprijden. Deze regel geldt ongeacht of er een oversteekplaats is gemarkeerd.",
         "fr": "Un conducteur qui change de direction doit céder le passage aux piétons qui traversent la chaussée sur laquelle il va s'engager. Cette règle s'applique qu'un passage pour piétons soit marqué ou non.",
@@ -198,22 +198,22 @@
       },
       "options": [
         {
-          "nl": "Stoppen, zodat de reizigers in alle veiligheid het trottoir of de berm kunnen bereiken.",
-          "fr": "Vous arrêter, pour que les voyageurs puissent atteindre le trottoir ou l'accotement en toute sécurité.",
-          "en": "Stop, so the passengers can reach the sidewalk or verge in complete safety."
+          "nl": "Stapvoets voorbijrijden en minstens één meter afstand houden van de tram.",
+          "fr": "Passer à l'allure du pas en gardant au moins un mètre de distance par rapport au tram.",
+          "en": "Pass at walking pace while keeping at least one metre of distance from the tram."
         },
         {
-          "nl": "Met matige snelheid voorbijrijden en extra afstand houden van de tram.",
-          "fr": "Passer à allure modérée en gardant une distance supplémentaire par rapport au tram.",
-          "en": "Pass at moderate speed while keeping extra distance from the tram."
+          "nl": "Stoppen tot de reizigers het trottoir of de berm hebben bereikt.",
+          "fr": "Vous arrêter jusqu'à ce que les voyageurs aient atteint le trottoir ou l'accotement.",
+          "en": "Stop until the passengers have reached the sidewalk or the verge."
         },
         {
-          "nl": "Claxonneren en stapvoets doorrijden.",
-          "fr": "Klaxonner et poursuivre à l'allure du pas.",
-          "en": "Sound your horn and continue at walking pace."
+          "nl": "Vertragen; stoppen hoeft alleen wanneer reizigers vlak vóór je oversteken.",
+          "fr": "Ralentir ; vous ne devez vous arrêter que lorsque des voyageurs traversent juste devant vous.",
+          "en": "Slow down; you only have to stop when passengers are crossing right in front of you."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Bij afwezigheid van een vluchtheuvel aan de halte moet de bestuurder die rijdt langs de kant waar de reizigers in- of uitstappen, stoppen zodat zij veilig het voertuig, het trottoir of de berm kunnen bereiken. Enkel vertragen volstaat niet.",
         "fr": "En l'absence d'îlot à l'arrêt, le conducteur qui circule du côté où les voyageurs montent ou descendent doit s'arrêter pour qu'ils puissent atteindre en sécurité le véhicule, le trottoir ou l'accotement. Ralentir seulement ne suffit pas.",
@@ -235,19 +235,19 @@
       },
       "options": [
         {
-          "nl": "Minstens 1 meter binnen de bebouwde kom en minstens 1,5 meter buiten de bebouwde kom.",
+          "nl": "Minstens 1 meter binnen en minstens 1,5 meter buiten de bebouwde kom.",
           "fr": "Au moins 1 mètre en agglomération et au moins 1,5 mètre hors agglomération.",
-          "en": "At least 1 metre in a built-up area and at least 1.5 metres outside a built-up area."
+          "en": "At least 1 metre in and at least 1.5 metres outside built-up areas."
         },
         {
-          "nl": "Minstens 0,5 meter, zowel binnen als buiten de bebouwde kom.",
-          "fr": "Au moins 0,5 mètre, en agglomération comme hors agglomération.",
-          "en": "At least 0.5 metres, both inside and outside built-up areas."
+          "nl": "Minstens 1 meter binnen en minstens 2 meter buiten de bebouwde kom.",
+          "fr": "Au moins 1 mètre en agglomération et au moins 2 mètres hors agglomération.",
+          "en": "At least 1 metre in and at least 2 metres outside built-up areas."
         },
         {
-          "nl": "Minstens 1 meter, zowel binnen als buiten de bebouwde kom.",
-          "fr": "Au moins 1 mètre, en agglomération comme hors agglomération.",
-          "en": "At least 1 metre, both inside and outside built-up areas."
+          "nl": "Minstens 1,5 meter binnen en minstens 2 meter buiten de bebouwde kom.",
+          "fr": "Au moins 1,5 mètre en agglomération et au moins 2 mètres hors agglomération.",
+          "en": "At least 1.5 metres in and at least 2 metres outside built-up areas."
         }
       ],
       "correct": 0,
@@ -272,22 +272,22 @@
       },
       "options": [
         {
-          "nl": "Ja, maar ze moeten achter elkaar gaan rijden wanneer kruisen niet mogelijk is en, buiten de bebouwde kom, wanneer een achteropkomend voertuig nadert.",
-          "fr": "Oui, mais ils doivent se remettre en file lorsque le croisement n'est pas possible et, hors agglomération, à l'approche d'un véhicule venant de l'arrière.",
-          "en": "Yes, but they must ride single file when passing oncoming traffic is not possible and, outside built-up areas, when a vehicle approaches from behind."
+          "nl": "Ja, maar binnen de bebouwde kom gaan ze achter elkaar rijden zodra een achteropkomend voertuig nadert.",
+          "fr": "Oui, mais en agglomération ils se remettent en file dès qu'un véhicule s'approche par l'arrière.",
+          "en": "Yes, but inside built-up areas they move to single file when a vehicle approaches from behind."
         },
         {
-          "nl": "Nee, fietsers moeten op de rijbaan altijd achter elkaar rijden.",
-          "fr": "Non, sur la chaussée les cyclistes doivent toujours rouler en file indienne.",
-          "en": "No, on the carriageway cyclists must always ride single file."
+          "nl": "Ja, maar buiten de bebouwde kom gaan ze achter elkaar rijden zodra een achteropkomend voertuig nadert.",
+          "fr": "Oui, mais hors agglomération ils se remettent en file dès qu'un véhicule s'approche par l'arrière.",
+          "en": "Yes, but outside built-up areas they move to single file when a vehicle approaches from behind."
         },
         {
-          "nl": "Ja, altijd en zonder enige beperking.",
-          "fr": "Oui, toujours et sans aucune restriction.",
-          "en": "Yes, always and without any restriction."
+          "nl": "Nee, naast elkaar rijden mag enkel op het fietspad, niet op de rijbaan.",
+          "fr": "Non, rouler de front n'est permis que sur la piste cyclable, pas sur la chaussée.",
+          "en": "No, riding two abreast is only allowed on the cycle path, not on the carriageway."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Fietsers op de rijbaan mogen met twee naast elkaar rijden. Ze moeten achter elkaar gaan rijden wanneer het kruisen met tegenliggers niet mogelijk is, en buiten de bebouwde kom ook wanneer een achteropkomend voertuig nadert.",
         "fr": "Les cyclistes sur la chaussée peuvent rouler à deux de front. Ils doivent se remettre en file lorsque le croisement n'est pas possible et, hors agglomération, également à l'approche d'un véhicule venant de l'arrière.",
@@ -309,19 +309,19 @@
       },
       "options": [
         {
-          "nl": "Ja, als het fietspad berijdbaar is, moet de fietser het volgen.",
-          "fr": "Oui, si la piste cyclable est praticable, le cycliste doit l'emprunter.",
-          "en": "Yes, if the cycle path is passable, the cyclist must use it."
+          "nl": "Ja, een berijdbaar fietspad dat in zijn rijrichting gesignaleerd is, moet hij volgen.",
+          "fr": "Oui, une piste cyclable praticable et signalée dans son sens de circulation doit être empruntée.",
+          "en": "Yes, a passable cycle path signed in the cyclist's direction of travel must be used."
         },
         {
-          "nl": "Nee, het fietspad is een aanbeveling; de fietser mag ook op de rijbaan rijden.",
-          "fr": "Non, la piste cyclable est une recommandation ; le cycliste peut aussi rouler sur la chaussée.",
-          "en": "No, the cycle path is a recommendation; the cyclist may also ride on the carriageway."
+          "nl": "Nee, enkel buiten de bebouwde kom; binnen de kom mag hij ook op de rijbaan rijden.",
+          "fr": "Non, uniquement hors agglomération ; en agglomération il peut aussi rouler sur la chaussée.",
+          "en": "No, only outside built-up areas; inside them the cyclist may also use the carriageway."
         },
         {
-          "nl": "Alleen buiten de bebouwde kom.",
-          "fr": "Uniquement hors agglomération.",
-          "en": "Only outside built-up areas."
+          "nl": "Enkel wie trager dan 25 km/u rijdt; snellere fietsers mogen op de rijbaan.",
+          "fr": "Seulement en roulant à moins de 25 km/h ; les cyclistes plus rapides peuvent prendre la chaussée.",
+          "en": "Only when riding slower than 25 km/h; faster cyclists may use the carriageway."
         }
       ],
       "correct": 0,
@@ -346,22 +346,22 @@
       },
       "options": [
         {
-          "nl": "Nee, de fietser moet voorrang verlenen; jij moet de oversteekplaats wel met matige snelheid naderen en fietsers die al oversteken niet in gevaar brengen.",
-          "fr": "Non, le cycliste doit céder le passage ; vous devez toutefois approcher à allure modérée et ne pas mettre en danger les cyclistes déjà engagés.",
-          "en": "No, the cyclist must give way; you must however approach at moderate speed and not endanger cyclists already crossing."
+          "nl": "Ja, op een oversteekplaats voor fietsers geldt dezelfde voorrang als op een zebrapad.",
+          "fr": "Oui, sur un passage pour cyclistes, la même priorité s'applique que sur un passage pour piétons.",
+          "en": "Yes, at a cycle crossing the same priority applies as at a zebra crossing."
         },
         {
-          "nl": "Ja, op een oversteekplaats voor fietsers hebben fietsers dezelfde voorrang als voetgangers op een zebrapad.",
-          "fr": "Oui, sur un passage pour cyclistes, les cyclistes ont la même priorité que les piétons sur un passage pour piétons.",
-          "en": "Yes, at a cycle crossing cyclists have the same priority as pedestrians on a zebra crossing."
+          "nl": "Nee, de fietser die wil oversteken moet voorrang verlenen aan het verkeer op de rijbaan.",
+          "fr": "Non, le cycliste qui veut traverser doit céder le passage à la circulation sur la chaussée.",
+          "en": "No, the cyclist who wants to cross must give way to the traffic on the carriageway."
         },
         {
-          "nl": "Ja, maar alleen binnen de bebouwde kom.",
-          "fr": "Oui, mais uniquement en agglomération.",
-          "en": "Yes, but only in built-up areas."
+          "nl": "Nee, behalve wanneer de fietser van rechts komt: dan geldt de voorrang van rechts.",
+          "fr": "Non, sauf lorsque le cycliste vient de la droite : la priorité de droite s'applique alors.",
+          "en": "No, except when the cyclist comes from the right: priority to the right then applies."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Anders dan bij een oversteekplaats voor voetgangers heeft een fietser die wil oversteken op een niet-geregelde oversteekplaats voor fietsers géén voorrang. Jij moet wel met matige snelheid naderen en wie al aan het oversteken is niet in gevaar brengen of hinderen.",
         "fr": "Contrairement au passage pour piétons, un cycliste qui veut traverser sur un passage pour cyclistes non réglé n'a pas la priorité. Vous devez toutefois approcher à allure modérée et ne pas mettre en danger ni gêner ceux qui traversent déjà.",
@@ -383,19 +383,19 @@
       },
       "options": [
         {
-          "nl": "Rechts afslaan terwijl het licht rood of oranjegeel is, mits voorrang te verlenen aan de andere weggebruikers.",
-          "fr": "Tourner à droite alors que le feu est rouge ou jaune-orange, à condition de céder le passage aux autres usagers.",
-          "en": "Turn right while the light is red or amber, provided they give way to other road users."
+          "nl": "Rechts afslaan terwijl het licht rood of oranjegeel is, mits voorrang aan de andere weggebruikers.",
+          "fr": "Tourner à droite alors que le feu est rouge ou jaune-orange, en cédant le passage aux autres usagers.",
+          "en": "Turn right while the light is red or amber, giving way to the other road users."
         },
         {
-          "nl": "Rechtdoor rijden terwijl het licht rood is.",
-          "fr": "Continuer tout droit alors que le feu est rouge.",
-          "en": "Go straight ahead while the light is red."
+          "nl": "Rechtdoor rijden terwijl het licht rood of oranjegeel is, mits voorrang aan de andere weggebruikers.",
+          "fr": "Continuer tout droit alors que le feu est rouge ou jaune-orange, en cédant le passage aux autres usagers.",
+          "en": "Go straight ahead while the light is red or amber, giving way to the other road users."
         },
         {
-          "nl": "Rechts afslaan door het rode licht en daarbij zelf voorrang krijgen van de andere weggebruikers.",
-          "fr": "Tourner à droite au feu rouge en ayant lui-même la priorité sur les autres usagers.",
-          "en": "Turn right through the red light while having priority over other road users."
+          "nl": "Rechts afslaan terwijl het licht rood is, waarbij de andere weggebruikers hem doorgang moeten verlenen.",
+          "fr": "Tourner à droite alors que le feu est rouge, les autres usagers devant le laisser passer.",
+          "en": "Turn right while the light is red, with the other road users having to let him through."
         }
       ],
       "correct": 0,
@@ -420,19 +420,19 @@
       },
       "options": [
         {
-          "nl": "Zij mogen rechtdoor rijden terwijl het licht rood of oranjegeel is, mits voorrang te verlenen aan de andere weggebruikers.",
-          "fr": "Ils peuvent continuer tout droit alors que le feu est rouge ou jaune-orange, à condition de céder le passage aux autres usagers.",
-          "en": "They may go straight ahead while the light is red or amber, provided they give way to other road users."
+          "nl": "Zij mogen rechtdoor rijden terwijl het licht rood of oranjegeel is, mits voorrang aan de anderen.",
+          "fr": "Ils peuvent continuer tout droit alors que le feu est rouge ou jaune-orange, en cédant le passage aux autres.",
+          "en": "They may go straight ahead while the light is red or amber, giving way to the others."
         },
         {
-          "nl": "Zij mogen in alle richtingen door het rode licht rijden.",
-          "fr": "Ils peuvent franchir le feu rouge dans toutes les directions.",
-          "en": "They may pass the red light in any direction."
+          "nl": "Zij mogen rechts afslaan terwijl het licht rood of oranjegeel is, mits voorrang aan de anderen.",
+          "fr": "Ils peuvent tourner à droite alors que le feu est rouge ou jaune-orange, en cédant le passage aux autres.",
+          "en": "They may turn right while the light is red or amber, giving way to the others."
         },
         {
-          "nl": "Zij moeten hier afstappen en te voet oversteken.",
-          "fr": "Ils doivent descendre de vélo et traverser à pied.",
-          "en": "They must dismount here and cross on foot."
+          "nl": "Hun verkeerslicht springt enkele seconden vroeger op groen dan dat van het overige verkeer.",
+          "fr": "Leur feu de circulation passe au vert quelques secondes plus tôt que celui du reste du trafic.",
+          "en": "Their traffic light turns green a few seconds earlier than that of the rest of the traffic."
         }
       ],
       "correct": 0,
@@ -457,22 +457,22 @@
       },
       "options": [
         {
-          "nl": "Maximaal 30 km/u en je mag fietsers niet inhalen.",
-          "fr": "Maximum 30 km/h et vous ne pouvez pas dépasser les cyclistes.",
-          "en": "Maximum 30 km/h and you may not overtake cyclists."
+          "nl": "Maximaal 30 km/u; fietsers inhalen mag met minstens 1 meter zijdelingse afstand.",
+          "fr": "Maximum 30 km/h ; dépasser les cyclistes est permis avec au moins 1 mètre de distance latérale.",
+          "en": "Maximum 30 km/h; overtaking cyclists is allowed with at least 1 metre of lateral distance."
         },
         {
-          "nl": "Maximaal 50 km/u en je mag fietsers voorzichtig inhalen.",
-          "fr": "Maximum 50 km/h et vous pouvez dépasser prudemment les cyclistes.",
-          "en": "Maximum 50 km/h and you may carefully overtake cyclists."
+          "nl": "Maximaal 30 km/u; fietsers inhalen is er voor motorvoertuigen verboden.",
+          "fr": "Maximum 30 km/h ; y dépasser les cyclistes est interdit aux véhicules à moteur.",
+          "en": "Maximum 30 km/h; overtaking cyclists there is prohibited for motor vehicles."
         },
         {
-          "nl": "Maximaal 30 km/u; fietsers inhalen mag als je minstens 1 meter afstand laat.",
-          "fr": "Maximum 30 km/h ; dépasser les cyclistes est permis si vous laissez au moins 1 mètre.",
-          "en": "Maximum 30 km/h; overtaking cyclists is allowed if you leave at least 1 metre."
+          "nl": "Maximaal 20 km/u; fietsers inhalen is er voor motorvoertuigen verboden.",
+          "fr": "Maximum 20 km/h ; y dépasser les cyclistes est interdit aux véhicules à moteur.",
+          "en": "Maximum 20 km/h; overtaking cyclists there is prohibited for motor vehicles."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "In een fietszone mogen fietsers de volledige breedte van hun rijstrook gebruiken. Motorvoertuigen mogen er nooit sneller rijden dan 30 km/u en mogen fietsers niet inhalen, ook niet met voldoende zijdelingse afstand.",
         "fr": "Dans une zone cyclable, les cyclistes peuvent utiliser toute la largeur de leur bande. Les véhicules à moteur ne peuvent jamais y dépasser 30 km/h et ne peuvent pas dépasser les cyclistes, même avec une distance latérale suffisante.",
@@ -494,22 +494,22 @@
       },
       "options": [
         {
-          "nl": "Een bromfiets klasse B: op wegen waar meer dan 50 km/u geldt, moet de bestuurder het verplichte fietspad volgen; waar 50 km/u of minder geldt, mag hij kiezen.",
-          "fr": "Un cyclomoteur classe B : sur les routes où plus de 50 km/h est autorisé, le conducteur doit suivre la piste cyclable obligatoire ; où 50 km/h ou moins s'applique, il a le choix.",
-          "en": "A class B moped: on roads where more than 50 km/h applies, the rider must use the compulsory cycle path; where 50 km/h or less applies, they may choose."
+          "nl": "Een gewoon rijwiel.",
+          "fr": "Un cycle ordinaire.",
+          "en": "An ordinary cycle."
         },
         {
-          "nl": "Een gewoon rijwiel: de bestuurder moet altijd het fietspad volgen.",
-          "fr": "Un cycle ordinaire : le conducteur doit toujours suivre la piste cyclable.",
-          "en": "An ordinary cycle: the rider must always use the cycle path."
+          "nl": "Een bromfiets klasse A.",
+          "fr": "Un cyclomoteur classe A.",
+          "en": "A class A moped."
         },
         {
-          "nl": "Een bromfiets klasse A: hij mag maximaal 25 km/u rijden.",
-          "fr": "Un cyclomoteur classe A : il peut rouler à 25 km/h maximum.",
-          "en": "A class A moped: it may ride at 25 km/h maximum."
+          "nl": "Een bromfiets klasse B.",
+          "fr": "Un cyclomoteur classe B.",
+          "en": "A class B moped."
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "nl": "De speed pedelec is juridisch een subcategorie van de bromfiets klasse B. Op wegen waar de toegelaten snelheid hoger is dan 50 km/u moet de bestuurder het gemarkeerde fietspad volgen; op wegen met 50 km/u of minder mag hij kiezen tussen fietspad en rijbaan, tenzij onderborden het anders regelen.",
         "fr": "Le speed pedelec est juridiquement une sous-catégorie du cyclomoteur classe B. Sur les routes où la vitesse autorisée dépasse 50 km/h, le conducteur doit suivre la piste cyclable marquée ; à 50 km/h ou moins, il peut choisir entre la piste cyclable et la chaussée, sauf indication contraire par panneaux additionnels.",
@@ -531,19 +531,19 @@
       },
       "options": [
         {
-          "nl": "Linkse bord: deel van de weg voorbehouden voor voetgangers, fietsers en tweewielige bromfietsen klasse A, elk in een eigen vak; rechtse bord: voetgangers en fietsers delen samen hetzelfde deel.",
-          "fr": "Panneau de gauche : partie de la voie réservée aux piétons, cyclistes et cyclomoteurs à deux roues classe A, chacun dans sa partie ; panneau de droite : les piétons et les cyclistes partagent la même partie.",
-          "en": "Left-hand sign: part of the road reserved for pedestrians, cyclists and two-wheeled class A mopeds, each in their own section; right-hand sign: pedestrians and cyclists share the same section."
+          "nl": "Bij het linkse bord krijgen voetgangers, fietsers en bromfietsers klasse A elk een eigen vak; bij het rechtse delen voetgangers en fietsers hetzelfde deel.",
+          "fr": "Avec le panneau de gauche, piétons, cyclistes et cyclomoteurs classe A ont chacun leur partie ; avec celui de droite, piétons et cyclistes partagent la même partie.",
+          "en": "With the left-hand sign, pedestrians, cyclists and class A mopeds each get their own section; with the right-hand one, pedestrians and cyclists share the same part."
         },
         {
-          "nl": "Beide borden laten ook bromfietsen klasse B toe, het rechtse bord alleen buiten de bebouwde kom.",
-          "fr": "Les deux panneaux admettent aussi les cyclomoteurs classe B, celui de droite uniquement hors agglomération.",
-          "en": "Both signs also allow class B mopeds, the right-hand one only outside built-up areas."
+          "nl": "Bij het linkse bord delen voetgangers en fietsers hetzelfde deel; bij het rechtse krijgen voetgangers, fietsers en bromfietsers klasse A elk een eigen vak.",
+          "fr": "Avec le panneau de gauche, piétons et cyclistes partagent la même partie ; avec celui de droite, piétons, cyclistes et cyclomoteurs classe A ont chacun leur partie.",
+          "en": "With the left-hand sign, pedestrians and cyclists share the same part; with the right-hand one, pedestrians, cyclists and class A mopeds each get their own section."
         },
         {
-          "nl": "Het rechtse bord duidt een verplicht fietspad aan waar voetgangers verboden zijn.",
-          "fr": "Le panneau de droite indique une piste cyclable obligatoire où les piétons sont interdits.",
-          "en": "The right-hand sign indicates a compulsory cycle path where pedestrians are prohibited."
+          "nl": "Beide borden duiden één door alle gebruikers gedeeld deel aan; alleen laat het rechtse bord ook bromfietsers klasse A toe.",
+          "fr": "Les deux panneaux indiquent une même partie partagée par tous les usagers ; seul celui de droite admet aussi les cyclomoteurs classe A.",
+          "en": "Both signs indicate one section shared by all users; the only difference is that the right-hand sign also admits class A mopeds."
         }
       ],
       "correct": 0,
@@ -568,19 +568,19 @@
       },
       "options": [
         {
-          "nl": "Klasse A kan door de constructie maximaal 25 km/u rijden, klasse B maximaal 45 km/u.",
-          "fr": "La classe A ne peut, par construction, dépasser 25 km/h ; la classe B, 45 km/h.",
+          "nl": "Klasse A is door de constructie beperkt tot 25 km/u, klasse B tot 45 km/u.",
+          "fr": "La classe A est limitée par construction à 25 km/h, la classe B à 45 km/h.",
           "en": "Class A is limited by design to 25 km/h, class B to 45 km/h."
         },
         {
-          "nl": "Klasse A kan maximaal 45 km/u rijden, klasse B maximaal 25 km/u.",
-          "fr": "La classe A peut rouler à 45 km/h maximum, la classe B à 25 km/h maximum.",
-          "en": "Class A can ride at 45 km/h maximum, class B at 25 km/h maximum."
+          "nl": "Klasse A is door de constructie beperkt tot 45 km/u, klasse B tot 25 km/u.",
+          "fr": "La classe A est limitée par construction à 45 km/h, la classe B à 25 km/h.",
+          "en": "Class A is limited by design to 45 km/h, class B to 25 km/h."
         },
         {
-          "nl": "Klasse A heeft twee wielen, klasse B heeft er drie of vier.",
-          "fr": "La classe A a deux roues, la classe B en a trois ou quatre.",
-          "en": "Class A has two wheels, class B has three or four."
+          "nl": "Klasse A is door de constructie beperkt tot 25 km/u, klasse B tot 50 km/u.",
+          "fr": "La classe A est limitée par construction à 25 km/h, la classe B à 50 km/h.",
+          "en": "Class A is limited by design to 25 km/h, class B to 50 km/h."
         }
       ],
       "correct": 0,
@@ -605,22 +605,22 @@
       },
       "options": [
         {
-          "nl": "Ja, bestuurder én passagier moeten een valhelm dragen, bij klasse A en klasse B.",
+          "nl": "Alleen op een bromfiets klasse B; een klasse A haalt hoogstens 25 km/u en valt buiten de helmplicht.",
+          "fr": "Seulement sur un cyclomoteur classe B ; une classe A ne dépasse pas 25 km/h et échappe à l'obligation du casque.",
+          "en": "Only on a class B moped; a class A does no more than 25 km/h and falls outside the helmet obligation."
+        },
+        {
+          "nl": "Ja, maar enkel de bestuurder; voor de passagier is de valhelm aanbevolen, niet verplicht.",
+          "fr": "Oui, mais uniquement le conducteur ; pour le passager, le casque est recommandé, pas obligatoire.",
+          "en": "Yes, but only the rider; for the passenger the helmet is recommended, not compulsory."
+        },
+        {
+          "nl": "Ja, bestuurder én passagier moeten een valhelm dragen, zowel bij klasse A als bij klasse B.",
           "fr": "Oui, le conducteur et le passager doivent porter un casque, pour la classe A comme pour la classe B.",
-          "en": "Yes, both rider and passenger must wear a helmet, for class A and class B."
-        },
-        {
-          "nl": "Alleen op een bromfiets klasse B is een helm verplicht.",
-          "fr": "Le casque n'est obligatoire que sur un cyclomoteur classe B.",
-          "en": "A helmet is only compulsory on a class B moped."
-        },
-        {
-          "nl": "Alleen buiten de bebouwde kom is een helm verplicht.",
-          "fr": "Le casque n'est obligatoire qu'en dehors des agglomérations.",
-          "en": "A helmet is only compulsory outside built-up areas."
+          "en": "Yes, both rider and passenger must wear a helmet, on class A as well as class B."
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "nl": "Bestuurders en passagiers van bromfietsen (klasse A en B) moeten een valhelm dragen. Ook speed pedelec-bestuurders dragen een helm; voor hen volstaat een geschikte fietshelm die de slapen en het achterhoofd beschermt.",
         "fr": "Les conducteurs et passagers de cyclomoteurs (classes A et B) doivent porter un casque de protection. Les conducteurs de speed pedelecs portent aussi un casque ; pour eux, un casque de vélo adapté protégeant les tempes et l'arrière de la tête suffit.",
@@ -716,22 +716,22 @@
       },
       "options": [
         {
-          "nl": "Nee, alleen prioritaire voertuigen en houders van een vergunning mogen er dan in, en zij rijden stapvoets.",
-          "fr": "Non, seuls les véhicules prioritaires et les titulaires d'une autorisation peuvent alors y entrer, et ils roulent à l'allure du pas.",
-          "en": "No, only priority vehicles and permit holders may enter then, and they drive at walking pace."
+          "nl": "Ja, iedereen mag erin, op voorwaarde dat je stapvoets rijdt en voetgangers laat voorgaan.",
+          "fr": "Oui, tout le monde peut y entrer, à condition de rouler à l'allure du pas et de laisser passer les piétons.",
+          "en": "Yes, anyone may enter, provided you drive at walking pace and let pedestrians go first."
         },
         {
-          "nl": "Ja, bewoners mogen er altijd gewoon in- en uitrijden.",
-          "fr": "Oui, les riverains peuvent toujours y entrer et en sortir librement.",
-          "en": "Yes, residents may always drive in and out freely."
+          "nl": "Nee, enkel bewoners van de straat mogen er dan stapvoets in- en uitrijden.",
+          "fr": "Non, seuls les riverains de la rue peuvent alors y entrer et en sortir à l'allure du pas.",
+          "en": "No, only residents of the street may then drive in and out at walking pace."
         },
         {
-          "nl": "Ja, iedereen mag erin, op voorwaarde dat je stapvoets rijdt.",
-          "fr": "Oui, tout le monde peut y entrer, à condition de rouler à l'allure du pas.",
-          "en": "Yes, anyone may enter, provided they drive at walking pace."
+          "nl": "Nee, enkel prioritaire voertuigen en houders van een vergunning mogen er dan stapvoets rijden.",
+          "fr": "Non, seuls les véhicules prioritaires et les titulaires d'une autorisation peuvent alors y rouler à l'allure du pas.",
+          "en": "No, only priority vehicles and permit holders may then drive there at walking pace."
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "nl": "Tijdens de aangegeven uren is een schoolstraat voorbehouden voor voetgangers, fietsers en speed pedelecs. Alleen prioritaire voertuigen (als hun opdracht het rechtvaardigt) en houders van een vergunning van de wegbeheerder mogen er dan rijden, stapvoets en met voorrang voor voetgangers en fietsers.",
         "fr": "Pendant les heures indiquées, une rue scolaire est réservée aux piétons, aux cyclistes et aux speed pedelecs. Seuls les véhicules prioritaires (si la nature de leur mission le justifie) et les titulaires d'une autorisation du gestionnaire de voirie peuvent alors y circuler, à l'allure du pas et en cédant le passage aux piétons et cyclistes.",
@@ -790,22 +790,22 @@
       },
       "options": [
         {
-          "nl": "Voetgangers mogen de ganse breedte van de weg gebruiken, kinderen mogen er spelen en parkeren mag alleen op afgebakende of gemarkeerde plaatsen.",
-          "fr": "Les piétons peuvent utiliser toute la largeur de la voie, les jeux d'enfants y sont autorisés et le stationnement n'est permis qu'aux emplacements délimités ou marqués.",
-          "en": "Pedestrians may use the full width of the road, children may play there and parking is only allowed in delimited or marked spaces."
+          "nl": "Voetgangers houden zich langs de kant van de weg en parkeren mag overal waar de doorgang vrij blijft.",
+          "fr": "Les piétons se tiennent sur le côté de la voie et le stationnement est permis partout où le passage reste libre.",
+          "en": "Pedestrians keep to the side of the road and parking is allowed anywhere the passage stays clear."
         },
         {
-          "nl": "Voetgangers moeten op het trottoir blijven en parkeren mag overal waar het niemand hindert.",
-          "fr": "Les piétons doivent rester sur le trottoir et le stationnement est permis partout où il ne gêne personne.",
-          "en": "Pedestrians must stay on the sidewalk and parking is allowed anywhere it does not hinder anyone."
+          "nl": "Voetgangers mogen de ganse breedte van de weg gebruiken en parkeren mag enkel op afgebakende of gemarkeerde plaatsen.",
+          "fr": "Les piétons peuvent utiliser toute la largeur de la voie et le stationnement n'est permis qu'aux emplacements délimités ou marqués.",
+          "en": "Pedestrians may use the full width of the road and parking is only allowed in delimited or marked spaces."
         },
         {
-          "nl": "Spelen op de weg is verboden en parkeren is er volledig verboden.",
-          "fr": "Jouer sur la voie est interdit et le stationnement y est totalement interdit.",
-          "en": "Playing on the road is prohibited and parking is completely prohibited."
+          "nl": "Voetgangers mogen de ganse breedte van de weg gebruiken, maar parkeren is er overal in de zone volledig verboden.",
+          "fr": "Les piétons peuvent utiliser toute la largeur de la voie, mais le stationnement y est totalement interdit partout dans la zone.",
+          "en": "Pedestrians may use the full width of the road, but parking anywhere inside the zone is completely prohibited."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "In een woonerf mogen voetgangers de ganse breedte van de openbare weg gebruiken en zijn spelen toegelaten; bestuurders mogen hen niet in gevaar brengen en moeten zo nodig stoppen. Parkeren mag alleen op plaatsen die met markeringen of een 'P' zijn aangeduid.",
         "fr": "Dans une zone résidentielle, les piétons peuvent utiliser toute la largeur de la voie publique et les jeux y sont autorisés ; les conducteurs ne peuvent pas les mettre en danger et doivent s'arrêter au besoin. Le stationnement n'est permis qu'aux emplacements indiqués par des marques ou la lettre « P ».",
@@ -827,22 +827,22 @@
       },
       "options": [
         {
-          "nl": "Alleen als een fiets op het bord is afgebeeld; je rijdt dan stapvoets, verleent voorrang aan de voetgangers en stapt af bij grote drukte.",
-          "fr": "Uniquement si un vélo figure sur le signal ; vous roulez alors à l'allure du pas, cédez le passage aux piétons et mettez pied à terre en cas de forte affluence.",
-          "en": "Only if a bicycle is shown on the sign; you then ride at walking pace, give way to pedestrians and dismount when it is very crowded."
+          "nl": "Ja, fietsers mogen er altijd in, op voorwaarde dat ze stapvoets rijden en voetgangers voor laten gaan.",
+          "fr": "Oui, les cyclistes peuvent toujours y entrer, à condition de rouler au pas et de céder le passage aux piétons.",
+          "en": "Yes, cyclists may always enter, provided they ride at walking pace and give way to pedestrians."
         },
         {
-          "nl": "Ja, fietsers hebben altijd toegang tot voetgangerszones.",
-          "fr": "Oui, les cyclistes ont toujours accès aux zones piétonnes.",
-          "en": "Yes, cyclists always have access to pedestrian zones."
+          "nl": "Alleen als het bord fietsers uitdrukkelijk toelaat; je rijdt er dan stapvoets.",
+          "fr": "Uniquement si le signal admet expressément les cyclistes ; vous y roulez alors à l'allure du pas.",
+          "en": "Only if the sign expressly admits cyclists; you then ride at walking pace."
         },
         {
-          "nl": "Nee, fietsen is in een voetgangerszone altijd verboden.",
-          "fr": "Non, rouler à vélo est toujours interdit dans une zone piétonne.",
-          "en": "No, cycling is always prohibited in a pedestrian zone."
+          "nl": "Alleen buiten de uren waarop leveringen toegelaten zijn, zoals vermeld op het bord.",
+          "fr": "Uniquement en dehors des heures où les livraisons sont autorisées, comme indiqué sur le signal.",
+          "en": "Only outside the hours during which deliveries are allowed, as indicated on the sign."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Fietsers mogen een voetgangerszone alleen in als het bord F103 dat aangeeft, eventueel beperkt tot bepaalde uren. Zij rijden er stapvoets, mogen voetgangers niet in gevaar brengen of hinderen, verlenen hen voorrang en stappen af wanneer de drukte het fietsen bemoeilijkt.",
         "fr": "Les cyclistes ne peuvent entrer dans une zone piétonne que si le signal F103 l'indique, éventuellement pendant certaines heures. Ils y roulent à l'allure du pas, ne peuvent pas mettre en danger ni gêner les piétons, leur cèdent le passage et mettent pied à terre lorsque l'affluence rend la circulation à vélo difficile.",
@@ -864,19 +864,19 @@
       },
       "options": [
         {
-          "nl": "Alleen de categorieën waarvan het symbool op het bord staat; daarnaast onder meer prioritaire voertuigen en voertuigen met een vergunning van de wegbeheerder (bv. onderhoud, aangelanden).",
-          "fr": "Uniquement les catégories dont le symbole figure sur le signal ; en outre, notamment les véhicules prioritaires et les véhicules munis d'une autorisation du gestionnaire de voirie (p. ex. entretien, riverains).",
-          "en": "Only the categories whose symbol appears on the sign; in addition, among others, priority vehicles and vehicles with a permit from the road authority (e.g. maintenance, adjacent residents)."
+          "nl": "De categorieën waarvan het symbool op het bord staat, plus onder meer voertuigen met een vergunning van de wegbeheerder.",
+          "fr": "Les catégories dont le symbole figure sur le panneau, plus notamment les véhicules munis d'une autorisation du gestionnaire de voirie.",
+          "en": "The categories whose symbol appears on the sign, plus among others vehicles with a permit from the road authority."
         },
         {
-          "nl": "Alle bestuurders, op voorwaarde dat ze stapvoets rijden.",
-          "fr": "Tous les conducteurs, à condition de rouler à l'allure du pas.",
-          "en": "All drivers, provided they drive at walking pace."
+          "nl": "Alle bestuurders, op voorwaarde dat ze stapvoets rijden en de andere gebruikers niet hinderen.",
+          "fr": "Tous les conducteurs, à condition de rouler à l'allure du pas et de ne pas gêner les autres usagers.",
+          "en": "All drivers, provided they drive at walking pace and do not hinder the other users."
         },
         {
-          "nl": "Alleen voetgangers; alle voertuigen zijn er verboden.",
-          "fr": "Uniquement les piétons ; tous les véhicules y sont interdits.",
-          "en": "Only pedestrians; all vehicles are prohibited there."
+          "nl": "Alleen de categorieën waarvan het symbool op het bord staat; elk ander voertuig is er zonder uitzondering verboden.",
+          "fr": "Uniquement les catégories dont le symbole figure sur le panneau ; tout autre véhicule y est interdit sans exception.",
+          "en": "Only the categories whose symbol appears on the sign; every other vehicle is prohibited there without any exception."
         }
       ],
       "correct": 0,
@@ -901,19 +901,19 @@
       },
       "options": [
         {
-          "nl": "Vertragen en zo nodig stoppen, zodat de bus de halteplaats kan verlaten.",
+          "nl": "Vertragen en zo nodig stoppen, zodat de bus zijn halteplaats kan verlaten.",
           "fr": "Ralentir et au besoin vous arrêter, pour que l'autobus puisse quitter son arrêt.",
-          "en": "Slow down and stop if necessary, so the bus can leave its stop."
+          "en": "Slow down and stop if necessary so the bus can leave its stop."
         },
         {
-          "nl": "Doorrijden: de bus voert een maneuver uit en moet jou voorrang verlenen.",
-          "fr": "Continuer : l'autobus effectue une manœuvre et doit vous céder le passage.",
-          "en": "Drive on: the bus is performing a manoeuvre and must give way to you."
+          "nl": "Doorrijden: wie van een halte wegrijdt, voert een maneuver uit en verleent voorrang.",
+          "fr": "Continuer : celui qui quitte un arrêt effectue une manœuvre et cède le passage.",
+          "en": "Drive on: a driver leaving a stop performs a manoeuvre and gives way."
         },
         {
-          "nl": "Claxonneren en versnellen om vóór de bus voorbij te zijn.",
-          "fr": "Klaxonner et accélérer pour passer avant l'autobus.",
-          "en": "Sound your horn and accelerate to get past before the bus."
+          "nl": "Enkel stoppen wanneer de bus al gedeeltelijk op jouw rijstrook staat.",
+          "fr": "Ne vous arrêter que lorsque l'autobus se trouve déjà en partie sur votre bande.",
+          "en": "Only stop once the bus is already partly in your lane."
         }
       ],
       "correct": 0,
@@ -938,22 +938,22 @@
       },
       "options": [
         {
-          "nl": "Nee, je mag geen voertuig inhalen dat een oversteekplaats nadert waar het verkeer niet geregeld wordt.",
-          "fr": "Non, vous ne pouvez pas dépasser un véhicule qui approche d'un passage où la circulation n'est pas réglée.",
-          "en": "No, you may not overtake a vehicle approaching a crossing where traffic is not controlled."
+          "nl": "Ja, buiten de bebouwde kom geldt het inhaalverbod aan oversteekplaatsen niet.",
+          "fr": "Oui, hors agglomération l'interdiction de dépasser aux passages ne s'applique pas.",
+          "en": "Yes, outside built-up areas the overtaking ban at crossings does not apply."
         },
         {
-          "nl": "Ja, een landbouwvoertuig mag je altijd inhalen omdat het zo traag rijdt.",
-          "fr": "Oui, vous pouvez toujours dépasser un véhicule agricole parce qu'il roule très lentement.",
-          "en": "Yes, you may always overtake an agricultural vehicle because it travels so slowly."
+          "nl": "Nee, het inhaalverbod geldt er voor het inhalen van elk voertuig, ook een traag voertuig.",
+          "fr": "Non, l'interdiction de dépasser y vaut pour le dépassement de tout véhicule, même lent.",
+          "en": "No, the overtaking ban there covers overtaking any vehicle, even a slow one."
         },
         {
-          "nl": "Ja, als er op dat ogenblik geen voetgangers op de oversteekplaats staan.",
-          "fr": "Oui, s'il n'y a pas de piétons sur le passage à ce moment-là.",
-          "en": "Yes, if there are no pedestrians on the crossing at that moment."
+          "nl": "Ja, voertuigen die trager dan 40 km/u rijden mag je er voorzichtig inhalen.",
+          "fr": "Oui, vous pouvez y dépasser prudemment les véhicules roulant à moins de 40 km/h.",
+          "en": "Yes, vehicles travelling slower than 40 km/h may be overtaken there with care."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Het inhaalverbod bij het naderen van een niet-geregelde oversteekplaats geldt voor het inhalen van elk voertuig, ook een traag landbouwvoertuig: de hoge trekker ontneemt je net het zicht op voetgangers. Wacht tot voorbij de oversteekplaats. Dit is een overtreding van de derde graad.",
         "fr": "L'interdiction de dépasser à l'approche d'un passage non réglé vaut pour le dépassement de tout véhicule, même un véhicule agricole lent : le tracteur haut vous masque justement la vue sur les piétons. Attendez d'avoir franchi le passage. C'est une infraction du troisième degré.",
@@ -984,22 +984,22 @@
       },
       "options": [
         {
-          "nl": "Fietser B: wie van richting verandert, moet voorrang verlenen aan de weggebruikers die de andere delen van dezelfde openbare weg volgen.",
-          "fr": "Le cycliste B : le conducteur qui change de direction doit céder le passage aux usagers qui suivent les autres parties de la même voie publique.",
-          "en": "Cyclist B: a driver changing direction must give way to road users following the other parts of the same public road."
+          "nl": "Auto A: aan een gemarkeerde oversteekplaats voor fietsers moet de fietser die wil oversteken voorrang verlenen.",
+          "fr": "La voiture A : à un passage pour cyclistes marqué, le cycliste qui veut traverser doit céder le passage.",
+          "en": "Car A: at a marked cycle crossing the cyclist wanting to cross must give way to the car."
         },
         {
-          "nl": "Auto A: fietsers moeten afslaand verkeer altijd voor laten gaan.",
-          "fr": "La voiture A : les cyclistes doivent toujours laisser passer les véhicules qui tournent.",
-          "en": "Car A: cyclists must always let turning traffic go first."
+          "nl": "Fietser B: wie van richting verandert, verleent voorrang aan wie rechtdoor rijdt.",
+          "fr": "Le cycliste B : le conducteur qui change de direction cède le passage à qui continue tout droit.",
+          "en": "Cyclist B: a driver changing direction gives way to users going straight ahead."
         },
         {
-          "nl": "Niemand: wie het kruispunt het eerst oprijdt, gaat voor.",
-          "fr": "Personne : le premier arrivé sur le carrefour passe en premier.",
-          "en": "No one: whoever enters the intersection first goes first."
+          "nl": "Auto A: een maneuver dat al ingezet is, mag eerst voltooid worden.",
+          "fr": "La voiture A : une manœuvre déjà entamée peut d'abord être achevée avant le passage des autres.",
+          "en": "Car A: a manoeuvre that has already been started may be completed before others pass."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Bij het rechts afslaan kruis je het fietspad. Als bestuurder die van richting verandert, moet je voorrang verlenen aan de fietser die rechtdoor rijdt op het fietspad van dezelfde openbare weg. Controleer je dode hoek voor je afslaat.",
         "fr": "En tournant à droite, vous coupez la piste cyclable. En tant que conducteur qui change de direction, vous devez céder le passage au cycliste qui continue tout droit sur la piste cyclable de la même voie publique. Contrôlez votre angle mort avant de tourner.",
@@ -1030,22 +1030,22 @@
       },
       "options": [
         {
-          "nl": "Fietser B: wie links afslaat, moet voorrang verlenen aan de tegemoetkomende bestuurders, dus ook aan fietsers.",
-          "fr": "Le cycliste B : le conducteur qui tourne à gauche doit céder le passage aux conducteurs venant en sens inverse, donc aussi aux cyclistes.",
-          "en": "Cyclist B: a driver turning left must give way to oncoming drivers, thus also to cyclists."
+          "nl": "Auto A: jij bereikt het kruispunt het eerst en mag het dus het eerst vrijmaken.",
+          "fr": "La voiture A : vous atteignez le carrefour en premier et pouvez donc le libérer en premier.",
+          "en": "Car A: you reach the intersection first and may therefore clear it first."
         },
         {
-          "nl": "Auto A: een auto gaat voor een fietser.",
-          "fr": "La voiture A : une voiture passe avant un cycliste.",
-          "en": "Car A: a car goes before a cyclist."
+          "nl": "Auto A: wie zijn afslagbeweging al ingezet heeft, mag ze eerst voltooien.",
+          "fr": "La voiture A : celui qui a déjà entamé son mouvement de virage peut d'abord l'achever.",
+          "en": "Car A: a driver who has already begun the turning movement may complete it first."
         },
         {
-          "nl": "Auto A: de fietser komt voor jou van links.",
-          "fr": "La voiture A : le cycliste vient de votre gauche.",
-          "en": "Car A: the cyclist comes from your left."
+          "nl": "Fietser B: wie links afslaat, verleent voorrang aan de tegemoetkomende bestuurders.",
+          "fr": "Le cycliste B : le conducteur qui tourne à gauche cède le passage aux conducteurs venant en sens inverse.",
+          "en": "Cyclist B: a driver turning left gives way to the oncoming drivers."
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "nl": "Een bestuurder die naar links afslaat, moet voorrang verlenen aan de tegemoetkomende bestuurders op de rijbaan die hij gaat verlaten. Fietsers zijn ook bestuurders: wacht tot fietser B voorbij is en let op zijn werkelijke snelheid, zeker bij elektrische fietsen.",
         "fr": "Un conducteur qui tourne à gauche doit céder le passage aux conducteurs venant en sens inverse sur la chaussée qu'il va quitter. Les cyclistes sont aussi des conducteurs : attendez que le cycliste B soit passé et faites attention à sa vitesse réelle, surtout pour les vélos électriques.",
@@ -1076,22 +1076,22 @@
       },
       "options": [
         {
-          "nl": "Bromfietser B: hij komt voor jou van rechts en de voorrang van rechts geldt ook voor bromfietsers.",
-          "fr": "Le cyclomotoriste B : il vient de votre droite et la priorité de droite vaut aussi pour les cyclomotoristes.",
-          "en": "Moped rider B: he comes from your right and priority to the right also applies to moped riders."
+          "nl": "Auto A: de voorrang van rechts geldt enkel tussen voertuigen van dezelfde categorie.",
+          "fr": "La voiture A : la priorité de droite ne vaut qu'entre véhicules de la même catégorie.",
+          "en": "Car A: priority to the right only applies between vehicles of the same category."
         },
         {
-          "nl": "Auto A: auto's hebben voorrang op bromfietsen.",
-          "fr": "La voiture A : les voitures ont priorité sur les cyclomoteurs.",
-          "en": "Car A: cars have priority over mopeds."
+          "nl": "Bromfietser B: hij komt van rechts en die regel geldt ook voor bromfietsers.",
+          "fr": "Le cyclomotoriste B : il vient de la droite et cette règle vaut aussi pour les cyclomotoristes.",
+          "en": "Moped rider B: he comes from the right, and that rule also applies to moped riders."
         },
         {
-          "nl": "Auto A: wie het snelst rijdt, mag eerst het kruispunt over.",
-          "fr": "La voiture A : le plus rapide franchit le carrefour en premier.",
-          "en": "Car A: whoever is faster crosses the intersection first."
+          "nl": "Auto A: tweewielers verlenen aan ongeregelde kruispunten voorrang aan het overige verkeer.",
+          "fr": "La voiture A : aux carrefours non réglés, les deux-roues cèdent le passage au reste de la circulation.",
+          "en": "Car A: at unregulated intersections two-wheelers give way to the rest of the traffic."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Op een kruispunt waar de voorrang niet geregeld is, geldt de voorrang van rechts. Bromfietsers en fietsers zijn bestuurders: bromfietser B komt van rechts en heeft dus voorrang op auto A.",
         "fr": "À un carrefour où la priorité n'est pas réglée, la priorité de droite s'applique. Les cyclomotoristes et cyclistes sont des conducteurs : le cyclomotoriste B vient de droite et a donc priorité sur la voiture A.",
@@ -1124,22 +1124,22 @@
       },
       "options": [
         {
-          "nl": "Auto A: het bord 'voorrang verlenen' verplicht ook fietsers voorrang te verlenen; blijf toch voorzichtig en houd rekening met een fout van de fietser.",
-          "fr": "La voiture A : le signal « cédez le passage » oblige aussi les cyclistes à céder le passage ; restez néanmoins prudent et anticipez une erreur du cycliste.",
-          "en": "Car A: the give-way sign also obliges cyclists to give way; still remain careful and anticipate a mistake by the cyclist."
+          "nl": "Fietser B: hij komt voor jou van rechts en de voorrang van rechts blijft gelden.",
+          "fr": "Le cycliste B : il vient de votre droite et la priorité de droite continue de s'appliquer.",
+          "en": "Cyclist B: he comes from your right and priority to the right continues to apply."
         },
         {
-          "nl": "Fietser B: fietsers hebben als kwetsbare weggebruikers altijd voorrang.",
-          "fr": "Le cycliste B : en tant qu'usagers plus vulnérables, les cyclistes ont toujours la priorité.",
-          "en": "Cyclist B: as vulnerable road users, cyclists always have priority."
+          "nl": "Fietser B: als kwetsbare weggebruiker behoudt hij voorrang op het gemotoriseerde verkeer.",
+          "fr": "Le cycliste B : en tant qu'usager vulnérable, il garde la priorité sur la circulation motorisée.",
+          "en": "Cyclist B: as a vulnerable road user he keeps priority over the motorised traffic."
         },
         {
-          "nl": "Fietser B: hij komt voor jou van rechts.",
-          "fr": "Le cycliste B : il vient de votre droite.",
-          "en": "Cyclist B: he comes from your right."
+          "nl": "Auto A: het bord geldt ook voor fietsers, dus fietser B moet voorrang verlenen.",
+          "fr": "La voiture A : le signal s'applique aussi aux cyclistes, donc le cycliste B doit céder le passage.",
+          "en": "Car A: the sign also applies to cyclists, so cyclist B must give way."
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "nl": "Het bord B1 (voorrang verlenen) geldt voor alle bestuurders, dus ook voor fietsers: fietser B moet jou voorrang verlenen en de voorrang van rechts geldt hier niet. Kwetsbare weggebruikers hebben geen automatische voorrang, maar je moet wel extra voorzichtig blijven.",
         "fr": "Le signal B1 (céder le passage) s'applique à tous les conducteurs, donc aussi aux cyclistes : le cycliste B doit vous céder le passage et la priorité de droite ne s'applique pas ici. Les usagers plus vulnérables n'ont pas de priorité automatique, mais vous devez rester particulièrement prudent.",
@@ -1161,14 +1161,14 @@
       },
       "options": [
         {
-          "nl": "Ongeveer 20 meter.",
-          "fr": "Environ 20 mètres.",
-          "en": "About 20 metres."
-        },
-        {
           "nl": "Ongeveer 10 meter.",
           "fr": "Environ 10 mètres.",
           "en": "About 10 metres."
+        },
+        {
+          "nl": "Ongeveer 20 meter.",
+          "fr": "Environ 20 mètres.",
+          "en": "About 20 metres."
         },
         {
           "nl": "Ongeveer 30 meter.",
@@ -1176,7 +1176,7 @@
           "en": "About 30 metres."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Wanneer er op minder dan ongeveer 20 meter afstand een oversteekplaats voor voetgangers is, moeten voetgangers die volgen. Zij moeten de rijbaan bovendien haaks op haar aslijn oversteken en mogen er niet slenteren of zonder noodzaak blijven staan.",
         "fr": "Lorsqu'il existe un passage pour piétons à une distance de moins de 20 mètres environ, les piétons doivent l'emprunter. Ils doivent en outre traverser la chaussée perpendiculairement à son axe et ne peuvent ni y flâner ni s'y arrêter sans nécessité.",
@@ -1198,22 +1198,22 @@
       },
       "options": [
         {
+          "nl": "1 meter; kan dat niet, dan mag u slechts stapvoets voorbijrijden.",
+          "fr": "1 mètre ; si ce n'est pas possible, vous ne pouvez passer qu'à l'allure du pas.",
+          "en": "1 metre; if that is not possible, you may only pass at walking pace."
+        },
+        {
           "nl": "1,5 meter; kan dat niet, dan mag u slechts stapvoets voorbijrijden.",
           "fr": "1,5 mètre ; si ce n'est pas possible, vous ne pouvez passer qu'à l'allure du pas.",
           "en": "1.5 metres; if that is not possible, you may only pass at walking pace."
         },
         {
-          "nl": "1 meter, dezelfde afstand als binnen de bebouwde kom.",
-          "fr": "1 mètre, la même distance qu'en agglomération.",
-          "en": "1 metre, the same distance as inside a built-up area."
-        },
-        {
-          "nl": "Er geldt geen minimumafstand voor voetgangers; uw snelheid matigen volstaat.",
-          "fr": "Aucune distance minimale ne s'applique aux piétons ; il suffit de modérer votre vitesse.",
-          "en": "No minimum distance applies to pedestrians; moderating your speed is enough."
+          "nl": "1,5 meter; kan dat niet, dan mag u de voetganger helemaal niet voorbijrijden.",
+          "fr": "1,5 mètre ; si ce n'est pas possible, vous ne pouvez pas dépasser le piéton du tout.",
+          "en": "1.5 metres; if that is not possible, you may not pass the pedestrian at all."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Net als tegenover fietsers moet u tegenover voetgangers op de rijbaan een zijdelingse afstand laten van minstens 1 meter binnen de bebouwde kom en minstens 1,5 meter erbuiten. Kan die minimumafstand niet nageleefd worden, dan mag u slechts stapvoets rijden en moet u zo nodig stoppen.",
         "fr": "Comme envers les cyclistes, vous devez laisser envers les piétons qui se trouvent sur la chaussée une distance latérale d'au moins 1 mètre en agglomération et d'au moins 1,5 mètre en dehors. Si cette distance minimale ne peut pas être respectée, vous ne pouvez rouler qu'à l'allure du pas et devez au besoin vous arrêter.",
@@ -1240,14 +1240,14 @@
           "en": "You let them finish crossing at a normal pace, even though your light is green."
         },
         {
-          "nl": "U rijdt aan: zodra uw licht groen is, moeten de voetgangers plaatsmaken.",
-          "fr": "Vous démarrez : dès que votre feu est vert, les piétons doivent libérer le passage.",
-          "en": "You move off: as soon as your light is green, the pedestrians must clear the way."
+          "nl": "U mag traag optrekken zodra de doorgang vlak vóór uw wagen vrij is.",
+          "fr": "Vous pouvez démarrer lentement dès que le passage juste devant votre voiture est libre.",
+          "en": "You may pull away slowly as soon as the space right in front of your car is clear."
         },
         {
-          "nl": "U claxonneert kort zodat zij zich haasten.",
-          "fr": "Vous klaxonnez brièvement pour qu'ils se dépêchent.",
-          "en": "You sound your horn briefly so they hurry up."
+          "nl": "U wacht enkel voor voetgangers die nog vóór het midden van de rijbaan zijn.",
+          "fr": "Vous n'attendez que pour les piétons qui n'ont pas encore atteint le milieu de la chaussée.",
+          "en": "You only wait for pedestrians who have not yet reached the middle of the carriageway."
         }
       ],
       "correct": 0,
@@ -1275,12 +1275,12 @@
         {
           "nl": "U wacht vóór de oversteekplaats en rijdt ze pas op wanneer u ze volledig kan vrijmaken.",
           "fr": "Vous attendez avant le passage et ne vous y engagez que lorsque vous pouvez le franchir complètement.",
-          "en": "You wait before the crossing and only drive onto it once you can clear it completely."
+          "en": "You wait before the crossing and only enter it once you can clear it completely."
         },
         {
-          "nl": "U sluit aan tot op de oversteekplaats, zodat andere bestuurders niet kunnen voordringen.",
-          "fr": "Vous avancez jusque sur le passage, pour que d'autres conducteurs ne puissent pas s'intercaler.",
-          "en": "You close up onto the crossing so other drivers cannot cut in."
+          "nl": "U sluit aan tot op de oversteekplaats, zodat andere bestuurders niet vóór u kunnen invoegen.",
+          "fr": "Vous avancez jusque sur le passage, pour que d'autres conducteurs ne puissent pas s'insérer devant vous.",
+          "en": "You close up onto the crossing so that other drivers cannot cut in ahead of you."
         },
         {
           "nl": "U mag op de oversteekplaats aanschuiven zolang er geen voetganger staat te wachten.",
@@ -1310,19 +1310,19 @@
       },
       "options": [
         {
-          "nl": "Links ten opzichte van de richting die u volgt, zo dicht mogelijk bij de rand van de rijbaan.",
-          "fr": "À gauche par rapport au sens de votre marche, le plus près possible du bord de la chaussée.",
-          "en": "On the left relative to your direction of travel, as close as possible to the edge of the carriageway."
+          "nl": "Links ten opzichte van uw looprichting, zo dicht mogelijk bij de rand.",
+          "fr": "À gauche par rapport à votre sens de marche, le plus près possible du bord.",
+          "en": "On the left relative to your direction, as close as possible to the edge."
         },
         {
-          "nl": "Rechts, in dezelfde richting als het verkeer, zoals de bestuurders.",
-          "fr": "À droite, dans le même sens que la circulation, comme les conducteurs.",
-          "en": "On the right, in the same direction as the traffic, like drivers."
+          "nl": "Rechts, in de richting van het verkeer, zoals stoeten en groepen met een leider.",
+          "fr": "À droite, dans le sens de la circulation, comme les cortèges et les groupes accompagnés d'un guide.",
+          "en": "On the right, in the direction of the traffic, like parades and groups with a leader."
         },
         {
-          "nl": "Om het even welke kant, zolang u dicht bij de rand van de rijbaan blijft.",
-          "fr": "N'importe quel côté, pourvu que vous restiez près du bord de la chaussée.",
-          "en": "Either side, as long as you stay close to the edge of the carriageway."
+          "nl": "Links binnen de bebouwde kom en rechts erbuiten, waar het verkeer sneller rijdt.",
+          "fr": "À gauche en agglomération et à droite en dehors, là où la circulation est plus rapide.",
+          "en": "On the left in built-up areas and on the right outside, where traffic moves faster."
         }
       ],
       "correct": 0,
@@ -1348,22 +1348,22 @@
       },
       "options": [
         {
-          "nl": "De helft van de breedte langs de rechterzijde; alleen op een rijbaan die enkel in zijn rijrichting opengesteld is, mag hij de ganse breedte gebruiken.",
-          "fr": "La moitié de la largeur du côté droit ; il ne peut utiliser toute la largeur que sur une chaussée ouverte uniquement dans son sens de circulation.",
-          "en": "Half of the width along the right-hand side; only on a carriageway open solely in their direction may they use the full width."
+          "nl": "De ganse breedte van de rijbaan, ook wanneer die in beide richtingen opengesteld is.",
+          "fr": "Toute la largeur de la chaussée, même lorsqu'elle est ouverte aux deux sens.",
+          "en": "The full width of the carriageway, even when it is open in both directions."
         },
         {
-          "nl": "Altijd de ganse breedte van de rijbaan, ook bij tweerichtingsverkeer.",
-          "fr": "Toujours toute la largeur de la chaussée, même à double sens.",
-          "en": "Always the full width of the carriageway, even with two-way traffic."
+          "nl": "De helft van de breedte van de rijbaan, langs de rechterzijde.",
+          "fr": "La moitié de la largeur de la chaussée, du côté droit.",
+          "en": "Half of the width of the carriageway, along the right-hand side."
         },
         {
-          "nl": "Enkel een strook van één meter langs de rechterrand van de rijbaan.",
-          "fr": "Seulement une bande d'un mètre le long du bord droit de la chaussée.",
-          "en": "Only a one-metre strip along the right edge of the carriageway."
+          "nl": "Een strook van één meter langs de rechterrand van de rijbaan.",
+          "fr": "Une bande d'un mètre le long du bord droit de la chaussée.",
+          "en": "A strip of one metre along the right-hand edge of the carriageway."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "In een fietszone mogen fietsers en bestuurders van speed pedelecs de ganse breedte van de rijbaan gebruiken wanneer die alleen in hun rijrichting opengesteld is, en de helft van de breedte langs de rechterzijde wanneer ze in beide richtingen opengesteld is. U mag hen er als autobestuurder niet inhalen en rijdt er nooit sneller dan 30 km/u.",
         "fr": "Dans une zone cyclable, les cyclistes et les conducteurs de speed pedelecs peuvent utiliser toute la largeur de la chaussée lorsqu'elle n'est ouverte que dans leur sens de circulation, et la moitié de la largeur du côté droit lorsqu'elle est ouverte aux deux sens. En tant qu'automobiliste, vous ne pouvez pas les y dépasser et ne roulez jamais à plus de 30 km/h.",
@@ -1385,22 +1385,17 @@
       },
       "options": [
         {
-          "nl": "Nee: wanneer een aanhangwagen aan een fiets gekoppeld is, moeten fietsers achter elkaar rijden.",
-          "fr": "Non : lorsqu'une remorque est attelée à une bicyclette, les cyclistes doivent rouler l'un derrière l'autre.",
-          "en": "No: when a trailer is attached to a bicycle, cyclists must ride one behind the other."
+          "nl": "Ja: op de rijbaan mogen fietsers met twee naast elkaar blijven rijden zolang kruisen mogelijk blijft.",
+          "fr": "Oui : sur la chaussée, les cyclistes peuvent rester à deux de front tant que le croisement reste possible.",
+          "en": "Yes: on the carriageway cyclists may keep riding two abreast as long as passing oncoming traffic remains possible."
         },
         {
-          "nl": "Ja: fietsers mogen op de rijbaan steeds met twee naast elkaar rijden.",
-          "fr": "Oui : sur la chaussée, les cyclistes peuvent toujours rouler à deux de front.",
-          "en": "Yes: on the carriageway cyclists may always ride two abreast."
-        },
-        {
-          "nl": "Ja, behalve wanneer een achteropkomend voertuig nadert.",
-          "fr": "Oui, sauf à l'approche d'un véhicule venant de l'arrière.",
-          "en": "Yes, except when a vehicle approaches from behind."
+          "nl": "Nee: zodra een aanhangwagen aan een fiets gekoppeld is, rijden fietsers achter elkaar.",
+          "fr": "Non : dès qu'une remorque est attelée à une bicyclette, les cyclistes roulent l'un derrière l'autre.",
+          "en": "No: as soon as a trailer is attached to a bicycle, cyclists ride one behind the other."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Fietsers mogen in principe met twee naast elkaar op de rijbaan rijden, maar zodra een aanhangwagen aan een fiets gekoppeld is, moeten zij achter elkaar rijden. Ook wanneer kruisen niet mogelijk is en, buiten de bebouwde kom, bij het naderen van een achteropkomend voertuig moeten zij achter elkaar gaan rijden.",
         "fr": "Les cyclistes peuvent en principe rouler à deux de front sur la chaussée, mais dès qu'une remorque est attelée à une bicyclette, ils doivent rouler l'un derrière l'autre. Ils doivent aussi se remettre en file lorsque le croisement n'est pas possible et, hors agglomération, à l'approche d'un véhicule venant de l'arrière.",
@@ -1422,22 +1417,22 @@
       },
       "options": [
         {
-          "nl": "De rijbaan volgen: wie met een fiets aan de hand de andere voetgangers in aanzienlijke mate hindert, moet de rijbaan gebruiken.",
-          "fr": "Suivre la chaussée : celui qui, avec une bicyclette à la main, gêne considérablement les autres piétons doit emprunter la chaussée.",
-          "en": "Follow the carriageway: anyone pushing a bicycle who considerably obstructs the other pedestrians must use the carriageway."
+          "nl": "Op het trottoir blijven: wie een fiets aan de hand leidt, is en blijft een voetganger.",
+          "fr": "Rester sur le trottoir : celui qui conduit une bicyclette à la main est et reste un piéton.",
+          "en": "Stay on the sidewalk: anyone pushing a bicycle is and remains a pedestrian."
         },
         {
-          "nl": "Op het trottoir blijven: wie een fiets aan de hand leidt, moet altijd het trottoir gebruiken.",
-          "fr": "Rester sur le trottoir : celui qui conduit une bicyclette à la main doit toujours utiliser le trottoir.",
-          "en": "Stay on the sidewalk: anyone pushing a bicycle must always use the sidewalk."
+          "nl": "De rijbaan volgen, omdat u de andere voetgangers in aanzienlijke mate hindert.",
+          "fr": "Emprunter la chaussée, parce que vous gênez considérablement les autres piétons.",
+          "en": "Use the carriageway, because you are considerably obstructing the other pedestrians."
         },
         {
-          "nl": "Opstappen en stapvoets over het trottoir fietsen.",
-          "fr": "Enfourcher le vélo et rouler à l'allure du pas sur le trottoir.",
-          "en": "Get on the bicycle and ride along the sidewalk at walking pace."
+          "nl": "Opstappen en stapvoets over het trottoir fietsen zolang u niemand hindert.",
+          "fr": "Enfourcher le vélo et rouler au pas sur le trottoir tant que vous ne gênez personne.",
+          "en": "Get on the bike and ride along the sidewalk at walking pace as long as you hinder no one."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Wie een rijwiel, een gemotoriseerd rijwiel, een voortbewegingstoestel of een tweewielige bromfiets aan de hand leidt of voorwerpen vervoert die veel plaats innemen, wordt als voetganger beschouwd, maar moet de rijbaan volgen zodra hij de andere voetgangers in aanzienlijke mate hindert. Op het trottoir fietsen is voor volwassenen niet toegelaten.",
         "fr": "Celui qui conduit à la main un cycle, un cycle motorisé, un engin de déplacement ou un cyclomoteur à deux roues, ou qui transporte des objets encombrants, est considéré comme un piéton, mais doit emprunter la chaussée dès qu'il gêne considérablement les autres piétons. Rouler à vélo sur le trottoir n'est pas permis aux adultes.",
@@ -1496,22 +1491,22 @@
       },
       "options": [
         {
-          "nl": "U laat langs de hindernis minstens één meter vrije ruimte; kan dat niet en gaat er een voetganger ter hoogte van de hindernis, dan rijdt u er hoogstens stapvoets voorbij.",
-          "fr": "Vous laissez au moins un mètre d'espace libre le long de l'obstacle ; si ce n'est pas possible et qu'un piéton marche à hauteur de l'obstacle, vous ne le dépassez qu'à l'allure du pas au maximum.",
-          "en": "You leave at least one metre of free space alongside the obstacle; if that is not possible and a pedestrian is walking level with the obstacle, you pass it at no more than walking pace."
+          "nl": "U stopt volledig zolang er voetgangers ter hoogte van de hindernis lopen.",
+          "fr": "Vous vous arrêtez complètement tant que des piétons marchent à hauteur de l'obstacle.",
+          "en": "You stop completely for as long as pedestrians are walking level with the obstacle."
         },
         {
-          "nl": "U claxonneert en rijdt gewoon door: voetgangers horen niet op de rijbaan.",
-          "fr": "Vous klaxonnez et poursuivez simplement votre route : les piétons n'ont pas leur place sur la chaussée.",
-          "en": "You sound your horn and simply drive on: pedestrians do not belong on the carriageway."
+          "nl": "U laat minstens één meter vrije ruimte; kan dat niet, dan rijdt u er hoogstens stapvoets voorbij.",
+          "fr": "Vous laissez au moins un mètre d'espace libre ; sinon, vous ne passez qu'à l'allure du pas au maximum.",
+          "en": "You leave at least one metre of free space; if you cannot, you pass at most at walking pace."
         },
         {
-          "nl": "U moet er altijd volledig stoppen tot het trottoir opnieuw vrij is.",
-          "fr": "Vous devez toujours vous arrêter complètement jusqu'à ce que le trottoir soit à nouveau libre.",
-          "en": "You must always come to a complete stop until the sidewalk is clear again."
+          "nl": "U laat minstens anderhalve meter vrije ruimte; kan dat niet, dan wacht u tot de voetganger voorbij is.",
+          "fr": "Vous laissez au moins un mètre et demi d'espace libre ; sinon, vous attendez que le piéton soit passé.",
+          "en": "You leave at least one and a half metres of free space; if you cannot, you wait until the pedestrian has passed."
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Bij het voorbijrijden van een hindernis waar voetgangers op de rijbaan omheen moeten gaan, moet u langs die hindernis een vrije ruimte van ten minste één meter laten. Kan dat niet en loopt een voetganger ter hoogte van de hindernis, dan mag u die hindernis niet sneller dan stapvoets voorbijrijden.",
         "fr": "En passant devant un obstacle que les piétons doivent contourner sur la chaussée, vous devez laisser le long de cet obstacle un espace libre d'au moins un mètre. Si ce n'est pas possible et qu'un piéton marche à hauteur de l'obstacle, vous ne pouvez dépasser cet obstacle qu'à l'allure du pas.",

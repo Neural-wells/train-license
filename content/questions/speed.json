@@ -111,9 +111,9 @@
       },
       "options": [
         {
-          "nl": "50 km/u",
-          "fr": "50 km/h",
-          "en": "50 km/h"
+          "nl": "20 km/u",
+          "fr": "20 km/h",
+          "en": "20 km/h"
         },
         {
           "nl": "30 km/u",
@@ -121,9 +121,9 @@
           "en": "30 km/h"
         },
         {
-          "nl": "20 km/u",
-          "fr": "20 km/h",
-          "en": "20 km/h"
+          "nl": "50 km/u",
+          "fr": "50 km/h",
+          "en": "50 km/h"
         }
       ],
       "correct": 1,
@@ -161,19 +161,19 @@
       },
       "options": [
         {
-          "nl": "Alleen waar dit verkeersbord dat toelaat",
-          "fr": "Uniquement là où ce panneau l'autorise",
-          "en": "Only where this sign allows it"
+          "nl": "Alleen waar dit verkeersbord dat uitdrukkelijk toelaat",
+          "fr": "Uniquement là où ce panneau l'autorise expressément",
+          "en": "Only where this sign expressly allows it"
         },
         {
-          "nl": "Altijd, want buiten de bebouwde kom geldt overal 90 km/u",
-          "fr": "Toujours, car hors agglomération le 90 km/h s'applique partout",
-          "en": "Always, because 90 km/h applies everywhere outside built-up areas"
+          "nl": "Altijd, want daar geldt 90 km/u nog als algemene regel",
+          "fr": "Toujours, car le 90 km/h y reste la règle générale",
+          "en": "Always, as 90 km/h is still the default there"
         },
         {
-          "nl": "Nooit, 90 km/u bestaat niet meer in Vlaanderen",
-          "fr": "Jamais, le 90 km/h n'existe plus en Flandre",
-          "en": "Never, 90 km/h no longer exists in Flanders"
+          "nl": "Nergens, want 90 km/u is in Vlaanderen afgeschaft",
+          "fr": "Nulle part, car le 90 km/h a été supprimé en Flandre",
+          "en": "Nowhere, as 90 km/h has been abolished in Flanders"
         }
       ],
       "correct": 0,
@@ -253,14 +253,14 @@
       },
       "options": [
         {
-          "nl": "30 km/u, want in Brussel geldt altijd de stadslimiet",
-          "fr": "30 km/h, car à Bruxelles la limite urbaine s'applique toujours",
-          "en": "30 km/h, because the city limit always applies in Brussels"
+          "nl": "30 km/u",
+          "fr": "30 km/h",
+          "en": "30 km/h"
         },
         {
-          "nl": "50 km/u, zoals het bord aangeeft",
-          "fr": "50 km/h, comme l'indique le signal",
-          "en": "50 km/h, as the sign indicates"
+          "nl": "50 km/u",
+          "fr": "50 km/h",
+          "en": "50 km/h"
         },
         {
           "nl": "70 km/u",
@@ -432,6 +432,11 @@
       },
       "options": [
         {
+          "nl": "100 km/u",
+          "fr": "100 km/h",
+          "en": "100 km/h"
+        },
+        {
           "nl": "120 km/u",
           "fr": "120 km/h",
           "en": "120 km/h"
@@ -440,14 +445,9 @@
           "nl": "130 km/u",
           "fr": "130 km/h",
           "en": "130 km/h"
-        },
-        {
-          "nl": "100 km/u",
-          "fr": "100 km/h",
-          "en": "100 km/h"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Op Belgische autosnelwegen geldt voor personenauto's een maximum van 120 km/u — in alle drie de gewesten. De Franse 130 km/u geldt in België niet.",
         "fr": "Sur les autoroutes belges, le maximum pour les voitures est de 120 km/h — dans les trois régions. Le 130 km/h français ne s'applique pas en Belgique.",
@@ -563,17 +563,17 @@
           "en": "30 km/h"
         },
         {
-          "nl": "50 km/u",
-          "fr": "50 km/h",
-          "en": "50 km/h"
-        },
-        {
           "nl": "20 km/u",
           "fr": "20 km/h",
           "en": "20 km/h"
+        },
+        {
+          "nl": "Stapvoets",
+          "fr": "À l'allure du pas",
+          "en": "Walking pace"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "nl": "In woonerven en erven is de snelheid beperkt tot 20 km/u — niet 30, zoals vaak gedacht. Voetgangers mogen er de volledige breedte van de weg gebruiken en kinderen mogen er spelen.",
         "fr": "Dans les zones résidentielles et de rencontre, la vitesse est limitée à 20 km/h — et non 30, comme on le croit souvent. Les piétons peuvent y utiliser toute la largeur de la voie et les enfants peuvent y jouer.",
@@ -611,9 +611,9 @@
           "en": "A maximum of 20 km/h"
         },
         {
-          "nl": "Stapvoets, en u moet voetgangers voorrang verlenen",
-          "fr": "À l'allure du pas, en cédant le passage aux piétons",
-          "en": "At walking pace, giving way to pedestrians"
+          "nl": "Stapvoets",
+          "fr": "À l'allure du pas",
+          "en": "At walking pace"
         }
       ],
       "correct": 2,
@@ -649,14 +649,14 @@
           "en": "Until the next intersection"
         },
         {
-          "nl": "Tot het bord dat het einde van de zone aanduidt",
-          "fr": "Jusqu'au signal qui indique la fin de la zone",
-          "en": "Until the sign marking the end of the zone"
+          "nl": "Tot het eindebord van de zone",
+          "fr": "Jusqu'au signal de fin de la zone",
+          "en": "Until the end-of-zone sign"
         },
         {
-          "nl": "Alleen tijdens de schooluren",
-          "fr": "Uniquement pendant les heures de classe",
-          "en": "Only during school hours"
+          "nl": "Tot het einde van de bebouwde kom",
+          "fr": "Jusqu'à la fin de l'agglomération",
+          "en": "Until the end of the built-up area"
         }
       ],
       "correct": 1,
@@ -700,9 +700,9 @@
           "en": "50 km/h, because you are inside the built-up area"
         },
         {
-          "nl": "20 km/u",
-          "fr": "20 km/h",
-          "en": "20 km/h"
+          "nl": "20 km/u, zoals in een woonerf",
+          "fr": "20 km/h, comme dans une zone résidentielle",
+          "en": "20 km/h, as in a residential zone (woonerf)"
         }
       ],
       "correct": 0,
@@ -741,9 +741,9 @@
       },
       "options": [
         {
-          "nl": "70 km/u, tot het bord dat het einde van de bebouwde kom aanduidt",
-          "fr": "70 km/h, jusqu'au signal de fin d'agglomération",
-          "en": "70 km/h, until the sign marking the end of the built-up area"
+          "nl": "70 km/u",
+          "fr": "70 km/h",
+          "en": "70 km/h"
         },
         {
           "nl": "50 km/u",
@@ -790,9 +790,9 @@
           "en": "Yes, the maximum speed remains 120 km/h"
         },
         {
-          "nl": "Ja, als u uw grootlicht gebruikt",
-          "fr": "Oui, si vous utilisez vos feux de route",
-          "en": "Yes, if you use your main-beam headlights"
+          "nl": "Ja, op voorwaarde dat u uw grootlicht gebruikt",
+          "fr": "Oui, à condition d'utiliser vos feux de route",
+          "en": "Yes, provided you switch on your main-beam headlights"
         },
         {
           "nl": "Nee, u moet uw snelheid aanpassen aan het zicht",
@@ -865,19 +865,19 @@
       },
       "options": [
         {
-          "nl": "Dat is verboden: u mag het normale verkeer niet hinderen door abnormaal traag te rijden zonder geldige reden",
-          "fr": "C'est interdit : vous ne pouvez pas gêner la marche normale du trafic en roulant anormalement lentement sans raison valable",
-          "en": "It is forbidden: you may not hinder normal traffic by driving abnormally slowly without a valid reason"
+          "nl": "Abnormaal traag rijden zonder geldige reden is verboden",
+          "fr": "Rouler anormalement lentement sans raison valable est interdit",
+          "en": "Driving abnormally slowly without a valid reason is forbidden"
         },
         {
-          "nl": "Dat mag altijd: traag rijden is altijd veilig",
-          "fr": "C'est toujours permis : rouler lentement est toujours sûr",
-          "en": "It is always allowed: driving slowly is always safe"
+          "nl": "Traag rijden mag altijd, want het is nooit gevaarlijk",
+          "fr": "Rouler lentement est toujours permis, car ce n'est jamais dangereux",
+          "en": "Driving slowly is always allowed, because it is never dangerous"
         },
         {
-          "nl": "Dat is enkel op de autosnelweg verboden",
-          "fr": "Ce n'est interdit que sur autoroute",
-          "en": "It is only forbidden on the motorway"
+          "nl": "Abnormaal traag rijden is alleen op de autosnelweg verboden",
+          "fr": "Rouler anormalement lentement n'est interdit que sur autoroute",
+          "en": "Driving abnormally slowly is only forbidden on the motorway"
         }
       ],
       "correct": 0,
@@ -905,19 +905,19 @@
       },
       "options": [
         {
-          "nl": "U houdt altijd precies één wagenlengte afstand",
-          "fr": "Vous gardez toujours exactement une longueur de voiture",
-          "en": "You always keep exactly one car length"
+          "nl": "Door per 10 km/u snelheid één wagenlengte afstand te houden",
+          "fr": "En gardant une longueur de voiture par tranche de 10 km/h",
+          "en": "By keeping one car length for every 10 km/h of speed"
         },
         {
-          "nl": "U kijkt of u de nummerplaat van uw voorligger nog kunt lezen",
-          "fr": "Vous vérifiez si vous pouvez encore lire la plaque du véhicule qui précède",
-          "en": "You check whether you can still read the front vehicle's number plate"
+          "nl": "Door te controleren of u de nummerplaat van uw voorligger nog kunt lezen",
+          "fr": "En vérifiant si vous pouvez encore lire la plaque du véhicule qui précède",
+          "en": "By checking whether you can still read the number plate of the vehicle in front"
         },
         {
-          "nl": "Met de tweesecondenregel: u passeert een vast punt minstens twee seconden na uw voorligger",
-          "fr": "Avec la règle des deux secondes : vous passez un point fixe au moins deux secondes après le véhicule qui précède",
-          "en": "With the two-second rule: you pass a fixed point at least two seconds after the vehicle in front"
+          "nl": "Door een vast punt minstens twee seconden na uw voorligger voorbij te rijden",
+          "fr": "En passant un point fixe au moins deux secondes après le véhicule qui précède",
+          "en": "By passing a fixed point at least two seconds after the vehicle in front"
         }
       ],
       "correct": 2,
@@ -1025,9 +1025,9 @@
       },
       "options": [
         {
-          "nl": "Hij verdubbelt",
-          "fr": "Elle double",
-          "en": "It doubles"
+          "nl": "Hij wordt ongeveer twee keer zo lang",
+          "fr": "Elle devient environ deux fois plus longue",
+          "en": "It becomes about twice as long"
         },
         {
           "nl": "Hij wordt ongeveer vier keer zo lang",
@@ -1035,9 +1035,9 @@
           "en": "It becomes about four times as long"
         },
         {
-          "nl": "Hij blijft gelijk als u hard genoeg remt",
-          "fr": "Elle reste identique si vous freinez assez fort",
-          "en": "It stays the same if you brake hard enough"
+          "nl": "Hij wordt ongeveer drie keer zo lang",
+          "fr": "Elle devient environ trois fois plus longue",
+          "en": "It becomes about three times as long"
         }
       ],
       "correct": 1,
@@ -1065,9 +1065,9 @@
       },
       "options": [
         {
-          "nl": "Alleen uit de remweg",
-          "fr": "Uniquement de la distance de freinage",
-          "en": "Only the braking distance"
+          "nl": "Uit de volgafstand plus de reactieweg",
+          "fr": "De la distance de suivi plus la distance de réaction",
+          "en": "The following distance plus the reaction distance"
         },
         {
           "nl": "Uit de reactieweg plus de remweg",
@@ -1105,9 +1105,9 @@
       },
       "options": [
         {
-          "nl": "Uw snelheid op één vast punt",
-          "fr": "Votre vitesse en un point fixe",
-          "en": "Your speed at one fixed point"
+          "nl": "Uw snelheid op het ogenblik dat u één vaste camera passeert",
+          "fr": "Votre vitesse au moment où vous passez devant une caméra fixe",
+          "en": "Your speed at the moment you pass one fixed camera"
         },
         {
           "nl": "Uw volgafstand tot de voorligger",
@@ -1145,9 +1145,9 @@
       },
       "options": [
         {
-          "nl": "120 km/u, zoals elke personenauto",
-          "fr": "120 km/h, comme toute voiture",
-          "en": "120 km/h, like any car"
+          "nl": "120 km/u",
+          "fr": "120 km/h",
+          "en": "120 km/h"
         },
         {
           "nl": "90 km/u",
@@ -1185,19 +1185,19 @@
       },
       "options": [
         {
-          "nl": "Aansporen of uitdagen tot overdreven snel rijden is uitdrukkelijk verboden",
-          "fr": "Inciter ou défier un conducteur à rouler à une vitesse excessive est expressément interdit",
-          "en": "Inciting or challenging a driver to drive at excessive speed is expressly forbidden"
+          "nl": "Een bestuurder aansporen tot overdreven snel rijden is verboden",
+          "fr": "Inciter un conducteur à rouler à une vitesse excessive est interdit",
+          "en": "Inciting a driver to drive at excessive speed is forbidden"
         },
         {
-          "nl": "Dat mag, zolang de bestuurder zelf beslist",
-          "fr": "C'est permis, tant que le conducteur décide lui-même",
-          "en": "That is allowed, as long as the driver decides for themselves"
+          "nl": "Dat mag, zolang de bestuurder zelf over zijn snelheid beslist",
+          "fr": "C'est permis, tant que le conducteur décide lui-même de sa vitesse",
+          "en": "It is allowed, as long as the driver decides for themselves"
         },
         {
-          "nl": "De Wegcode zegt daar niets over; alleen de bestuurder is verantwoordelijk",
-          "fr": "Le code n'en dit rien ; seul le conducteur est responsable",
-          "en": "The code says nothing about it; only the driver is responsible"
+          "nl": "De Wegcode zegt daar niets over; alleen de bestuurder is strafbaar",
+          "fr": "Le code n'en dit rien ; seul le conducteur est punissable",
+          "en": "The code says nothing about it; only the driver is punishable"
         }
       ],
       "correct": 0,
@@ -1231,9 +1231,9 @@
       },
       "options": [
         {
-          "nl": "120 km/u, zoals op de autosnelweg",
-          "fr": "120 km/h, comme sur l'autoroute",
-          "en": "120 km/h, as on the motorway"
+          "nl": "120 km/u",
+          "fr": "120 km/h",
+          "en": "120 km/h"
         },
         {
           "nl": "70 km/u",
@@ -1286,9 +1286,9 @@
           "en": "90 km/h"
         },
         {
-          "nl": "120 km/u, want het is een autoweg",
-          "fr": "120 km/h, puisque c'est une route pour automobiles",
-          "en": "120 km/h, because it is a motor road"
+          "nl": "120 km/u",
+          "fr": "120 km/h",
+          "en": "120 km/h"
         },
         {
           "nl": "70 km/u",
@@ -1324,19 +1324,19 @@
       },
       "options": [
         {
-          "nl": "Ja, ook hier mag u niet trager rijden dan 70 km/u",
-          "fr": "Oui, ici non plus vous ne pouvez pas rouler à moins de 70 km/h",
-          "en": "Yes, here too you may not drive slower than 70 km/h"
+          "nl": "Ja, ook hier geldt de minimumsnelheid van 70 km/u",
+          "fr": "Oui, le minimum de 70 km/h s'applique ici aussi",
+          "en": "Yes, the 70 km/h minimum applies here as well"
         },
         {
-          "nl": "Ja, u mag niet trager rijden dan 50 km/u",
-          "fr": "Oui, vous ne pouvez pas rouler à moins de 50 km/h",
-          "en": "Yes, you may not drive slower than 50 km/h"
+          "nl": "Ja, hier geldt een lagere minimumsnelheid van 50 km/u",
+          "fr": "Oui, un minimum plus bas de 50 km/h s'applique ici",
+          "en": "Yes, a lower minimum of 50 km/h applies here"
         },
         {
-          "nl": "Nee, maar abnormaal traag rijden zonder geldige reden blijft overal verboden",
-          "fr": "Non, mais rouler anormalement lentement sans raison valable reste interdit partout",
-          "en": "No, but driving abnormally slowly without a valid reason remains forbidden everywhere"
+          "nl": "Nee, op een autoweg geldt geen minimumsnelheid",
+          "fr": "Non, aucune vitesse minimale ne s'applique sur une route pour automobiles",
+          "en": "No, on a motor road no minimum speed applies"
         }
       ],
       "correct": 2,
@@ -1579,9 +1579,9 @@
       },
       "options": [
         {
-          "nl": "30 km/u, een schoolomgeving blijft altijd zone 30",
-          "fr": "30 km/h, les abords d'école restent toujours une zone 30",
-          "en": "30 km/h, a school environment always remains a 30 zone"
+          "nl": "30 km/u",
+          "fr": "30 km/h",
+          "en": "30 km/h"
         },
         {
           "nl": "50 km/u",

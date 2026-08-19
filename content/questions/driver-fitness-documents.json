@@ -12,11 +12,11 @@
         "en": "What is the general alcohol limit for drivers in Belgium?"
       },
       "options": [
+        { "nl": "0,2 promille (0,2 g/l bloed)", "fr": "0,2 pour mille (0,2 g/l de sang)", "en": "0.2 per mille (0.2 g/l of blood)" },
         { "nl": "0,5 promille (0,5 g/l bloed)", "fr": "0,5 pour mille (0,5 g/l de sang)", "en": "0.5 per mille (0.5 g/l of blood)" },
-        { "nl": "0,8 promille", "fr": "0,8 pour mille", "en": "0.8 per mille" },
-        { "nl": "1,0 promille", "fr": "1,0 pour mille", "en": "1.0 per mille" }
+        { "nl": "0,8 promille (0,8 g/l bloed)", "fr": "0,8 pour mille (0,8 g/l de sang)", "en": "0.8 per mille (0.8 g/l of blood)" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "De algemene limiet bedraagt 0,5 promille alcohol in het bloed. Vanaf die waarde bent u strafbaar wegens alcoholopname, ook als u zich nog nuchter voelt.",
         "fr": "La limite générale est de 0,5 pour mille d'alcool dans le sang. À partir de cette valeur, vous êtes punissable pour imprégnation alcoolique, même si vous vous sentez encore sobre.",
@@ -37,11 +37,11 @@
         "en": "Which breath-test value corresponds to the general limit of 0.5 per mille?"
       },
       "options": [
+        { "nl": "0,09 mg/l uitgeademde alveolaire lucht", "fr": "0,09 mg/l d'air alvéolaire expiré", "en": "0.09 mg/l of exhaled alveolar air" },
         { "nl": "0,22 mg/l uitgeademde alveolaire lucht", "fr": "0,22 mg/l d'air alvéolaire expiré", "en": "0.22 mg/l of exhaled alveolar air" },
-        { "nl": "0,5 mg/l uitgeademde alveolaire lucht", "fr": "0,5 mg/l d'air alvéolaire expiré", "en": "0.5 mg/l of exhaled alveolar air" },
-        { "nl": "0,09 mg/l uitgeademde alveolaire lucht", "fr": "0,09 mg/l d'air alvéolaire expiré", "en": "0.09 mg/l of exhaled alveolar air" }
+        { "nl": "0,35 mg/l uitgeademde alveolaire lucht", "fr": "0,35 mg/l d'air alvéolaire expiré", "en": "0.35 mg/l of exhaled alveolar air" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "0,5 promille in het bloed komt overeen met 0,22 mg/l uitgeademde alveolaire lucht bij de ademtest. 0,09 mg/l is het equivalent van de strengere limiet van 0,2 promille voor professionele bestuurders.",
         "fr": "0,5 pour mille dans le sang correspond à 0,22 mg/l d'air alvéolaire expiré au test de l'haleine. 0,09 mg/l est l'équivalent de la limite plus stricte de 0,2 pour mille pour les conducteurs professionnels.",
@@ -62,11 +62,11 @@
         "en": "Which alcohol limit applies to a bus driver during paid transport of passengers?"
       },
       "options": [
-        { "nl": "0,2 promille (0,09 mg/l) — in de praktijk een nultolerantie", "fr": "0,2 pour mille (0,09 mg/l) — en pratique une tolérance zéro", "en": "0.2 per mille (0.09 mg/l) — in practice zero tolerance" },
-        { "nl": "0,5 promille, zoals voor iedereen", "fr": "0,5 pour mille, comme pour tout le monde", "en": "0.5 per mille, as for everyone" },
-        { "nl": "0,8 promille, omdat hij een ervaren beroepschauffeur is", "fr": "0,8 pour mille, parce que c'est un conducteur professionnel expérimenté", "en": "0.8 per mille, because he is an experienced professional driver" }
+        { "nl": "0,0 promille: een absolute nultolerantie zonder enige marge", "fr": "0,0 pour mille : une tolérance zéro absolue sans aucune marge", "en": "0.0 per mille: an absolute zero tolerance without any margin" },
+        { "nl": "0,2 promille (0,09 mg/l uitgeademde lucht)", "fr": "0,2 pour mille (0,09 mg/l d'air expiré)", "en": "0.2 per mille (0.09 mg/l of exhaled air)" },
+        { "nl": "0,5 promille (0,22 mg/l), zoals voor elke bestuurder", "fr": "0,5 pour mille (0,22 mg/l), comme pour tout conducteur", "en": "0.5 per mille (0.22 mg/l), as for every driver" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Voor professionele bestuurders (vrachtwagen, bus, taxi en ander bezoldigd vervoer) geldt een strengere limiet van 0,2 promille, wat overeenkomt met 0,09 mg/l uitgeademde alveolaire lucht.",
         "fr": "Pour les conducteurs professionnels (camion, bus, taxi et autre transport rémunéré), une limite plus stricte de 0,2 pour mille s'applique, soit 0,09 mg/l d'air alvéolaire expiré.",
@@ -87,11 +87,11 @@
         "en": "Is there, in 2026, a separate lower alcohol limit for novice drivers?"
       },
       "options": [
-        { "nl": "Nee, ook voor hen geldt de algemene limiet van 0,5 promille", "fr": "Non, la limite générale de 0,5 pour mille s'applique aussi à eux", "en": "No, the general limit of 0.5 per mille applies to them as well" },
-        { "nl": "Ja, voor hen geldt 0,2 promille", "fr": "Oui, 0,2 pour mille s'applique à eux", "en": "Yes, 0.2 per mille applies to them" },
-        { "nl": "Ja, voor hen geldt een absolute nultolerantie", "fr": "Oui, une tolérance zéro absolue s'applique à eux", "en": "Yes, an absolute zero tolerance applies to them" }
+        { "nl": "Ja, voor hen geldt 0,2 promille, zoals voor professionele bestuurders", "fr": "Oui, 0,2 pour mille s'applique à eux, comme aux conducteurs professionnels", "en": "Yes, 0.2 per mille applies to them, as it does to professional drivers" },
+        { "nl": "Nee, ook voor hen geldt de algemene grens van 0,5 promille", "fr": "Non, la limite générale de 0,5 pour mille s'applique aussi à eux", "en": "No, the general limit of 0.5 per mille applies to them as well" },
+        { "nl": "Ja, voor hen geldt een nultolerantie tijdens de eerste twee jaar", "fr": "Oui, une tolérance zéro s'applique à eux pendant les deux premières années", "en": "Yes, a zero tolerance applies to them during their first two years" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "In 2026 bestaat er geen aparte alcohollimiet voor beginnende bestuurders: ook zij vallen onder de algemene grens van 0,5 promille. Een verlaging naar 0,2 promille is aangekondigd maar nog niet van kracht; wel gelden voor beginners strengere gevolgen bij zware overtredingen.",
         "fr": "En 2026, il n'existe pas de limite d'alcool distincte pour les conducteurs novices : ils relèvent aussi de la limite générale de 0,5 pour mille. Un abaissement à 0,2 pour mille a été annoncé mais n'est pas encore en vigueur ; les novices subissent toutefois des conséquences plus sévères en cas d'infraction grave.",
@@ -113,11 +113,11 @@
         "en": "What happens if you refuse to take the breath test at an alcohol check?"
       },
       "options": [
-        { "nl": "Weigeren is strafbaar en wordt behandeld zoals een zware alcoholopname", "fr": "Le refus est punissable et est traité comme une imprégnation alcoolique grave", "en": "Refusing is punishable and is treated like serious alcohol intoxication" },
-        { "nl": "U mag weigeren zonder enig gevolg", "fr": "Vous pouvez refuser sans aucune conséquence", "en": "You may refuse without any consequence" },
-        { "nl": "U krijgt alleen een mondelinge waarschuwing", "fr": "Vous recevez seulement un avertissement verbal", "en": "You only receive a verbal warning" }
+        { "nl": "U mag weigeren, maar de politie kan dan een bloedproef laten afnemen", "fr": "Vous pouvez refuser, mais la police peut alors faire procéder à une prise de sang", "en": "You may refuse, but the police can then have a blood sample taken" },
+        { "nl": "Weigeren is strafbaar en wordt bestraft zoals een zware alcoholopname", "fr": "Le refus est punissable et est sanctionné comme une imprégnation alcoolique grave", "en": "Refusing is punishable and is penalised like serious alcohol intoxication" },
+        { "nl": "Weigeren is enkel strafbaar als u nadien toch boven de limiet blijkt te zitten", "fr": "Le refus n'est punissable que si vous vous révélez ensuite au-dessus de la limite", "en": "Refusing is only punishable if you afterwards turn out to be over the limit" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "De ademtest weigeren is een misdrijf dat wordt bestraft zoals een zware alcoholopname. Bovendien volgt bij weigering sinds 1 juli 2026 een tijdelijk rijverbod van 12 uur.",
         "fr": "Refuser le test de l'haleine est une infraction punie comme une imprégnation alcoolique grave. De plus, depuis le 1er juillet 2026, tout refus entraîne une interdiction temporaire de conduire de 12 heures.",
@@ -140,8 +140,8 @@
       },
       "options": [
         { "nl": "Vanaf 0,22 mg/l (0,5 promille): 12 uur rijverbod", "fr": "À partir de 0,22 mg/l (0,5 pour mille) : 12 heures d'interdiction", "en": "From 0.22 mg/l (0.5 per mille): a 12-hour ban" },
-        { "nl": "Alleen vanaf 0,8 promille: 6 uur rijverbod", "fr": "Seulement à partir de 0,8 pour mille : 6 heures d'interdiction", "en": "Only from 0.8 per mille: a 6-hour ban" },
-        { "nl": "Alleen vanaf 1,2 promille: 24 uur rijverbod", "fr": "Seulement à partir de 1,2 pour mille : 24 heures d'interdiction", "en": "Only from 1.2 per mille: a 24-hour ban" }
+        { "nl": "Vanaf 0,22 mg/l (0,5 promille): 6 uur rijverbod", "fr": "À partir de 0,22 mg/l (0,5 pour mille) : 6 heures d'interdiction", "en": "From 0.22 mg/l (0.5 per mille): a 6-hour ban" },
+        { "nl": "Vanaf 0,35 mg/l (0,8 promille): 12 uur rijverbod", "fr": "À partir de 0,35 mg/l (0,8 pour mille) : 12 heures d'interdiction", "en": "From 0.35 mg/l (0.8 per mille): a 12-hour ban" }
       ],
       "correct": 0,
       "explanation": {
@@ -165,11 +165,11 @@
         "en": "Your breath analysis shows an alcohol level between 0.5 and 0.8 per mille. Which on-the-spot fine applies since 1 July 2026?"
       },
       "options": [
+        { "nl": "191 euro", "fr": "191 euros", "en": "191 euros" },
         { "nl": "197 euro", "fr": "197 euros", "en": "197 euros" },
-        { "nl": "520 euro", "fr": "520 euros", "en": "520 euros" },
-        { "nl": "Er is geen onmiddellijke inning; u krijgt enkel een waarschuwing", "fr": "Il n'y a pas de perception immédiate ; vous recevez seulement un avertissement", "en": "There is no on-the-spot fine; you only receive a warning" }
+        { "nl": "520 euro", "fr": "520 euros", "en": "520 euros" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Tussen 0,5 en 0,8 promille bedraagt de onmiddellijke inning sinds 1 juli 2026 197 euro. Vanaf 0,8 promille is een onmiddellijke inning niet meer mogelijk en riskeert u dagvaarding, hogere boetes en een verval van het recht tot sturen.",
         "fr": "Entre 0,5 et 0,8 pour mille, la perception immédiate s'élève à 197 euros depuis le 1er juillet 2026. À partir de 0,8 pour mille, la perception immédiate n'est plus possible et vous risquez une citation, des amendes plus élevées et une déchéance du droit de conduire.",
@@ -191,11 +191,11 @@
         "en": "A driver is caught with 1.4 per mille. The prosecutor orders the immediate withdrawal of the licence. How long does that withdrawal last in principle?"
       },
       "options": [
+        { "nl": "8 dagen, éénmaal verlengbaar door de procureur", "fr": "8 jours, prolongeables une fois par le procureur", "en": "8 days, extendable once by the prosecutor" },
         { "nl": "15 dagen, verlengbaar door de rechter", "fr": "15 jours, prolongeables par le juge", "en": "15 days, extendable by a judge" },
-        { "nl": "3 dagen, niet verlengbaar", "fr": "3 jours, non prolongeables", "en": "3 days, not extendable" },
-        { "nl": "De intrekking is altijd definitief", "fr": "Le retrait est toujours définitif", "en": "The withdrawal is always permanent" }
+        { "nl": "30 dagen, niet verlengbaar", "fr": "30 jours, non prolongeables", "en": "30 days, not extendable" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Vanaf 1,2 promille is dagvaarding de regel en kan de procureur des Konings het rijbewijs onmiddellijk laten intrekken (art. 55 Wegverkeerswet). Die intrekking duurt in principe 15 dagen en kan door de rechter worden verlengd.",
         "fr": "À partir de 1,2 pour mille, la citation est la règle et le procureur du Roi peut faire procéder au retrait immédiat du permis (art. 55 de la loi). Ce retrait dure en principe 15 jours et peut être prolongé par le juge.",
@@ -216,9 +216,9 @@
         "en": "How much illegal drugs may a driver have used and still be allowed to drive?"
       },
       "options": [
-        { "nl": "Geen enkele hoeveelheid: er geldt een nultolerantie", "fr": "Aucune quantité : une tolérance zéro s'applique", "en": "No amount at all: zero tolerance applies" },
-        { "nl": "Een kleine hoeveelheid, vergelijkbaar met 0,5 promille alcohol", "fr": "Une petite quantité, comparable à 0,5 pour mille d'alcool", "en": "A small amount, comparable to 0.5 per mille of alcohol" },
-        { "nl": "Alleen cannabis wordt gedoogd", "fr": "Seul le cannabis est toléré", "en": "Only cannabis is tolerated" }
+        { "nl": "Geen enkele hoeveelheid: in het verkeer geldt voor drugs een nultolerantie", "fr": "Aucune quantité : au volant, une tolérance zéro s'applique aux drogues", "en": "No amount at all: in traffic a zero tolerance applies to drugs" },
+        { "nl": "Een beperkte hoeveelheid, vergelijkbaar met de alcoholgrens van 0,5 promille", "fr": "Une quantité limitée, comparable à la limite d'alcool de 0,5 pour mille", "en": "A limited amount, comparable to the 0.5 per mille alcohol limit" },
+        { "nl": "Enkel cannabis wordt gedoogd, zoals bij het bezit van kleine hoeveelheden", "fr": "Seul le cannabis est toléré, comme pour la possession de petites quantités", "en": "Only cannabis is tolerated, as with possession of small amounts" }
       ],
       "correct": 0,
       "explanation": {
@@ -241,11 +241,11 @@
         "en": "Your saliva test at a drug check is positive. What follows?"
       },
       "options": [
-        { "nl": "Een speekselanalyse of bloedproef en een onmiddellijk rijverbod van 12 uur", "fr": "Une analyse de salive ou une prise de sang et une interdiction immédiate de conduire de 12 heures", "en": "A saliva analysis or blood test and an immediate 12-hour driving ban" },
-        { "nl": "Alleen een boete; u mag meteen verder rijden", "fr": "Seulement une amende ; vous pouvez repartir immédiatement", "en": "Only a fine; you may drive on immediately" },
-        { "nl": "Niets, zolang u voorzichtig rijdt", "fr": "Rien, tant que vous conduisez prudemment", "en": "Nothing, as long as you drive carefully" }
+        { "nl": "Een rijverbod van 6 uur, zoals bij een gewone alcoholopname", "fr": "Une interdiction de conduire de 6 heures, comme pour une imprégnation alcoolique ordinaire", "en": "A 6-hour driving ban, as for ordinary alcohol intoxication" },
+        { "nl": "Een speekselanalyse of bloedproef en een rijverbod van 12 uur", "fr": "Une analyse de salive ou une prise de sang et une interdiction de conduire de 12 heures", "en": "A saliva analysis or blood test and a 12-hour driving ban" },
+        { "nl": "Een onmiddellijke inning, waarna u meteen verder mag rijden", "fr": "Une perception immédiate, après quoi vous pouvez repartir immédiatement", "en": "An on-the-spot fine, after which you may drive on immediately" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Een positieve speekseltest leidt tot een speekselanalyse of bloedproef en een onmiddellijk rijverbod van 12 uur. De test weigeren wordt bestraft zoals een positief resultaat.",
         "fr": "Un test salivaire positif entraîne une analyse de salive ou une prise de sang et une interdiction immédiate de conduire de 12 heures. Refuser le test est puni comme un résultat positif.",
@@ -266,11 +266,11 @@
         "en": "You take sleeping pills that, according to the leaflet, cause drowsiness. What does the law say about driving in that state?"
       },
       "options": [
-        { "nl": "Wie door geneesmiddelen niet meer in staat is te sturen, kan vervolgd worden voor sturen in een aan dronkenschap soortgelijke staat", "fr": "Celui qui n'est plus en état de conduire à cause de médicaments peut être poursuivi pour conduite dans un état analogue à l'ivresse", "en": "A driver rendered unfit by medication can be prosecuted for driving in a state similar to drunkenness" },
-        { "nl": "Met een doktersvoorschrift mag u altijd rijden", "fr": "Avec une ordonnance médicale, vous pouvez toujours conduire", "en": "With a doctor's prescription you may always drive" },
-        { "nl": "Geneesmiddelen vallen volledig buiten de verkeerswetgeving", "fr": "Les médicaments échappent totalement à la législation routière", "en": "Medication falls entirely outside traffic law" }
+        { "nl": "Met een doktersvoorschrift mag u rijden, zolang u zich fit voelt", "fr": "Avec une ordonnance médicale, vous pouvez conduire tant que vous vous sentez apte", "en": "With a doctor's prescription you may drive, as long as you feel fit" },
+        { "nl": "Wie door geneesmiddelen niet meer kan sturen, riskeert vervolging zoals bij dronkenschap", "fr": "Celui qui ne peut plus conduire à cause de médicaments risque des poursuites comme pour l'ivresse", "en": "A driver rendered unfit by medication risks prosecution as for drunkenness" },
+        { "nl": "Enkel illegale drugs zijn strafbaar; geneesmiddelen vallen buiten de verkeerswet", "fr": "Seules les drogues illégales sont punissables ; les médicaments échappent à la loi routière", "en": "Only illegal drugs are punishable; medication falls outside traffic law" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Elke bestuurder moet in staat zijn te sturen (art. 8.3 Wegcode). Wie door kalmeer- of slaapmiddelen niet meer rijgeschikt is, kan vervolgd worden voor sturen in een aan dronkenschap soortgelijke staat (art. 35 Wegverkeerswet); lees dus altijd de bijsluiter en vraag advies aan arts of apotheker.",
         "fr": "Tout conducteur doit être en état de conduire (art. 8.3 du code de la route). Celui qui n'est plus apte à conduire à cause de calmants ou de somnifères peut être poursuivi pour conduite dans un état analogue à l'ivresse (art. 35 de la loi) ; lisez donc toujours la notice et demandez conseil à votre médecin ou pharmacien.",
@@ -292,11 +292,11 @@
         "en": "On a long drive you feel very tired: you are yawning and drifting out of your lane. What actually helps?"
       },
       "options": [
-        { "nl": "Stoppen en rusten, bijvoorbeeld met een powernap van 15 à 20 minuten", "fr": "S'arrêter et se reposer, par exemple avec une sieste de 15 à 20 minutes", "en": "Stopping and resting, for example with a 15 to 20 minute power nap" },
-        { "nl": "De radio luider zetten en het raam openen", "fr": "Monter le volume de la radio et ouvrir la fenêtre", "en": "Turning up the radio and opening the window" },
-        { "nl": "Sneller rijden om vlugger thuis te zijn", "fr": "Rouler plus vite pour arriver plus tôt", "en": "Driving faster to get home sooner" }
+        { "nl": "Een sterke koffie drinken en het raam op een kier zetten", "fr": "Boire un café fort et entrouvrir la fenêtre", "en": "Drinking a strong coffee and opening the window a crack" },
+        { "nl": "De airco kouder zetten en de radio wat luider", "fr": "Régler la climatisation plus froid et monter un peu la radio", "en": "Turning the air conditioning colder and the radio up a little" },
+        { "nl": "Stoppen en rusten, bijvoorbeeld met een dutje van een kwartier", "fr": "S'arrêter et se reposer, par exemple avec une sieste d'un quart d'heure", "en": "Stopping and resting, for example with a quarter-hour nap" }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "nl": "Vermoeidheid is even gevaarlijk als alcohol: uw reacties zijn vergelijkbaar met die van iemand boven de limiet. Het enige dat helpt is stoppen en rusten; radio of frisse lucht verhelpen de slaperigheid niet.",
         "fr": "La fatigue est aussi dangereuse que l'alcool : vos réactions sont comparables à celles d'une personne au-dessus de la limite. La seule solution est de s'arrêter et de se reposer ; la radio ou l'air frais ne suppriment pas la somnolence.",
@@ -318,8 +318,8 @@
       },
       "options": [
         { "nl": "Alleen als het toestel vastzit in een daartoe bestemde houder aan het voertuig", "fr": "Uniquement si l'appareil est fixé dans un support prévu à cet effet attaché au véhicule", "en": "Only if the device is fixed in a holder intended for that purpose attached to the vehicle" },
-        { "nl": "Als u het toestel tussen oor en schouder klemt", "fr": "Si vous coincez l'appareil entre l'oreille et l'épaule", "en": "If you wedge the device between your ear and shoulder" },
-        { "nl": "Als u trager dan 30 km/u rijdt", "fr": "Si vous roulez à moins de 30 km/h", "en": "If you drive slower than 30 km/h" }
+        { "nl": "Ook handenvrij bellen mag, met het toestel los op de passagiersstoel of op uw schoot", "fr": "Téléphoner en mains libres est aussi permis, l'appareil posé sur le siège passager ou sur vos genoux", "en": "Hands-free calling is also allowed, with the device lying loose on the passenger seat or your lap" },
+        { "nl": "Zodra u stilstaat in de file of wacht voor een verkeerslicht", "fr": "Dès que vous êtes à l'arrêt dans une file ou que vous attendez à un feu", "en": "As soon as you are stationary in a queue or waiting at a traffic light" }
       ],
       "correct": 0,
       "explanation": {
@@ -342,11 +342,10 @@
         "en": "You are stopped at a red light. May you then take your smartphone in your hand to read a message?"
       },
       "options": [
-        { "nl": "Nee, wachten voor een rood licht geldt niet als stilstaand of geparkeerd voertuig", "fr": "Non, attendre au feu rouge ne compte pas comme véhicule à l'arrêt ou en stationnement", "en": "No, waiting at a red light does not count as a stopped or parked vehicle" },
-        { "nl": "Ja, zodra het voertuig volledig stilstaat", "fr": "Oui, dès que le véhicule est complètement immobilisé", "en": "Yes, as soon as the vehicle is completely stationary" },
-        { "nl": "Ja, maar alleen om te bellen, niet om te lezen", "fr": "Oui, mais seulement pour téléphoner, pas pour lire", "en": "Yes, but only to make a call, not to read" }
+        { "nl": "Ja: zodra het voertuig volledig stilstaat, mag u het toestel even in de hand nemen", "fr": "Oui : dès que le véhicule est complètement immobilisé, vous pouvez prendre l'appareil en main un instant", "en": "Yes: as soon as the vehicle is completely stationary, you may briefly take the device in your hand" },
+        { "nl": "Nee: wachten voor een rood licht geldt niet als stilstaand of geparkeerd voertuig", "fr": "Non : attendre au feu rouge ne compte pas comme véhicule à l'arrêt ou en stationnement", "en": "No: waiting at a red light does not count as a stopped or parked vehicle" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Het verbod van artikel 8.4 geldt ook wanneer u stilstaat voor een rood licht of in de file: dat telt niet als stilstaand of geparkeerd voertuig. Het toestel in de hand nemen is een overtreding van de derde graad.",
         "fr": "L'interdiction de l'article 8.4 s'applique aussi à l'arrêt au feu rouge ou dans un embouteillage : cela ne compte pas comme véhicule à l'arrêt ou en stationnement. Prendre l'appareil en main est une infraction du troisième degré.",
@@ -368,11 +367,11 @@
         "en": "A driver drives with his phone in his hand. Which offence is that, and how much is the on-the-spot fine since 1 July 2026?"
       },
       "options": [
+        { "nl": "Een overtreding van de tweede graad — 128 euro", "fr": "Une infraction du deuxième degré — 128 euros", "en": "A second-degree offence — 128 euros" },
         { "nl": "Een overtreding van de derde graad — 191 euro", "fr": "Une infraction du troisième degré — 191 euros", "en": "A third-degree offence — 191 euros" },
-        { "nl": "Een overtreding van de eerste graad — 64 euro", "fr": "Une infraction du premier degré — 64 euros", "en": "A first-degree offence — 64 euros" },
-        { "nl": "Een overtreding van de tweede graad — 128 euro", "fr": "Une infraction du deuxième degré — 128 euros", "en": "A second-degree offence — 128 euros" }
+        { "nl": "Een overtreding van de vierde graad — 520 euro", "fr": "Une infraction du quatrième degré — 520 euros", "en": "A fourth-degree offence — 520 euros" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Een gsm in de hand achter het stuur is een overtreding van de derde graad; sinds 1 juli 2026 bedraagt de onmiddellijke inning daarvoor 191 euro (plus administratieve toeslag). De politierechter kan bovendien een rijverbod opleggen.",
         "fr": "Tenir un GSM en main au volant est une infraction du troisième degré ; depuis le 1er juillet 2026, la perception immédiate s'élève à 191 euros (plus les frais administratifs). Le tribunal de police peut en outre prononcer une déchéance du droit de conduire.",
@@ -394,11 +393,11 @@
         "en": "Which on-board documents must be present in the car?"
       },
       "options": [
-        { "nl": "Het inschrijvingsbewijs, het verzekeringsbewijs en het keuringsbewijs (zodra het voertuig keuringsplichtig is)", "fr": "Le certificat d'immatriculation, le certificat d'assurance et le certificat de visite (dès que le véhicule est soumis au contrôle)", "en": "The registration certificate, the insurance certificate and the inspection certificate (once the vehicle is subject to testing)" },
-        { "nl": "Alleen het rijbewijs van de bestuurder", "fr": "Uniquement le permis de conduire du conducteur", "en": "Only the driver's driving licence" },
-        { "nl": "De aankoopfactuur en het onderhoudsboekje", "fr": "La facture d'achat et le carnet d'entretien", "en": "The purchase invoice and the maintenance booklet" }
+        { "nl": "Het rijbewijs, de identiteitskaart en de groene verzekeringskaart van de bestuurder", "fr": "Le permis de conduire, la carte d'identité et la carte verte d'assurance du conducteur", "en": "The driver's licence, identity card and green insurance card of the driver" },
+        { "nl": "Het inschrijvingsbewijs, het verzekeringsbewijs en het keuringsbewijs van het voertuig", "fr": "Le certificat d'immatriculation, le certificat d'assurance et le certificat de visite du véhicule", "en": "The registration, insurance and inspection certificates of the vehicle" },
+        { "nl": "Beide delen van het inschrijvingsbewijs, samen met het gelijkvormigheidsattest", "fr": "Les deux parties du certificat d'immatriculation, avec le certificat de conformité", "en": "Both parts of the registration certificate, together with the certificate of conformity" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "In het voertuig horen de originele boorddocumenten: het inschrijvingsbewijs (deel 1), het verzekeringsbewijs en het keuringsbewijs zodra het voertuig aan de periodieke keuring onderworpen is. Uw rijbewijs en identiteitskaart draagt u daarnaast als bestuurder altijd bij u.",
         "fr": "Le véhicule doit contenir les documents de bord originaux : le certificat d'immatriculation (partie 1), le certificat d'assurance et le certificat de visite dès que le véhicule est soumis au contrôle périodique. En tant que conducteur, vous portez en outre toujours sur vous votre permis de conduire et votre carte d'identité.",
@@ -444,9 +443,9 @@
         "en": "Which car insurance is legally required to take a motor vehicle onto the public road?"
       },
       "options": [
-        { "nl": "De verzekering burgerlijke aansprakelijkheid (BA), die schade aan anderen vergoedt", "fr": "L'assurance responsabilité civile (RC), qui indemnise les dommages causés à autrui", "en": "Third-party liability insurance (BA/RC), which compensates damage caused to others" },
-        { "nl": "Een omniumverzekering", "fr": "Une assurance omnium", "en": "Comprehensive (omnium) insurance" },
-        { "nl": "Een rechtsbijstandsverzekering", "fr": "Une assurance protection juridique", "en": "Legal-assistance insurance" }
+        { "nl": "De verzekering burgerlijke aansprakelijkheid (BA)", "fr": "L'assurance responsabilité civile (RC)", "en": "Third-party liability insurance (BA/RC)" },
+        { "nl": "Een omniumverzekering die ook de eigen schade dekt", "fr": "Une assurance omnium couvrant aussi vos propres dommages", "en": "Comprehensive (omnium) insurance that also covers your own damage" },
+        { "nl": "Een rechtsbijstandsverzekering voor geschillen na een ongeval", "fr": "Une assurance protection juridique pour les litiges après un accident", "en": "Legal-assistance insurance for disputes after an accident" }
       ],
       "correct": 0,
       "explanation": {
@@ -469,11 +468,11 @@
         "en": "What do you risk when you drive a car without third-party liability insurance?"
       },
       "options": [
-        { "nl": "Het is een misdrijf: het voertuig kan aan de kant gezet of in beslag genomen worden en u riskeert zware straffen", "fr": "C'est une infraction pénale : le véhicule peut être immobilisé ou saisi et vous risquez de lourdes sanctions", "en": "It is a criminal offence: the vehicle can be immobilised or seized and you face heavy penalties" },
-        { "nl": "Alleen een kleine administratieve boete", "fr": "Seulement une petite amende administrative", "en": "Only a small administrative fine" },
-        { "nl": "Niets, zolang u geen ongeval veroorzaakt", "fr": "Rien, tant que vous ne causez pas d'accident", "en": "Nothing, as long as you do not cause an accident" }
+        { "nl": "Enkel een administratieve boete; uw verzekeraar wordt automatisch verwittigd", "fr": "Seulement une amende administrative ; votre assureur est automatiquement averti", "en": "Only an administrative fine; your insurer is automatically notified" },
+        { "nl": "Het is een misdrijf: het voertuig kan aan de kant gezet of in beslag genomen worden", "fr": "C'est une infraction pénale : le véhicule peut être immobilisé ou saisi", "en": "It is a criminal offence: the vehicle can be immobilised or seized" },
+        { "nl": "Enkel bij een ongeval: het Gemeenschappelijk Waarborgfonds dekt dan de schade", "fr": "Seulement en cas d'accident : le Fonds commun de garantie couvre alors les dommages", "en": "Only in an accident: the joint Guarantee Fund then covers the damage" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Rijden zonder verplichte BA-verzekering is een misdrijf. Het voertuig kan worden geïmmobiliseerd of in beslag genomen en u riskeert zware straffen; bij een ongeval draait u bovendien zelf op voor de schade aan anderen.",
         "fr": "Conduire sans l'assurance RC obligatoire est une infraction pénale. Le véhicule peut être immobilisé ou saisi et vous risquez de lourdes sanctions ; en cas d'accident, vous supportez en outre vous-même les dommages causés à autrui.",
@@ -494,11 +493,11 @@
         "en": "When must a new passenger car undergo its first roadworthiness test?"
       },
       "options": [
+        { "nl": "Uiterlijk op de dag dat de wagen 3 jaar oud wordt", "fr": "Au plus tard le jour de ses 3 ans", "en": "At the latest on the day the car turns 3 years old" },
         { "nl": "Uiterlijk op de dag dat de wagen 4 jaar oud wordt", "fr": "Au plus tard le jour de ses 4 ans", "en": "At the latest on the day the car turns 4 years old" },
-        { "nl": "Al na 1 jaar", "fr": "Dès 1 an", "en": "Already after 1 year" },
-        { "nl": "Pas na 10 jaar", "fr": "Seulement après 10 ans", "en": "Only after 10 years" }
+        { "nl": "Uiterlijk op de dag dat de wagen 6 jaar oud wordt", "fr": "Au plus tard le jour de ses 6 ans", "en": "At the latest on the day the car turns 6 years old" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Personenwagens moeten voor het eerst naar de technische keuring uiterlijk op de dag dat ze 4 jaar oud worden. Daarna geldt in principe een periodieke keuring, waarvan de frequentie geregionaliseerd is.",
         "fr": "Les voitures doivent passer leur premier contrôle technique au plus tard le jour de leurs 4 ans. Ensuite, un contrôle périodique s'applique en principe, dont la fréquence est régionalisée.",
@@ -520,11 +519,11 @@
         "en": "In Flanders your car with under 160,000 km passes the test without remarks. How often must it be tested after that?"
       },
       "options": [
+        { "nl": "Elk jaar, zoals dat vóór de hervorming overal de regel was", "fr": "Chaque année, comme c'était la règle partout avant la réforme", "en": "Every year, as was the rule everywhere before the reform" },
         { "nl": "Om de twee jaar", "fr": "Tous les deux ans", "en": "Every two years" },
-        { "nl": "Elk jaar, zoals overal in België", "fr": "Chaque année, comme partout en Belgique", "en": "Every year, as everywhere in Belgium" },
-        { "nl": "Om de vijf jaar", "fr": "Tous les cinq ans", "en": "Every five years" }
+        { "nl": "Om de vier jaar, tot de wagen 160.000 km bereikt", "fr": "Tous les quatre ans, jusqu'à ce que la voiture atteigne 160 000 km", "en": "Every four years, until the car reaches 160,000 km" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "In Vlaanderen geldt sinds 1 juli 2024 een tweejaarlijkse keuring voor wagens met minder dan 160.000 km die zonder opmerkingen worden goedgekeurd; de maatregel wordt stapsgewijs uitgebreid. In Wallonië en Brussel blijft de jaarlijkse keuring na 4 jaar de regel.",
         "fr": "En Flandre, depuis le 1er juillet 2024, le contrôle devient bisannuel pour les voitures de moins de 160 000 km approuvées sans remarques ; la mesure est étendue par étapes. En Wallonie et à Bruxelles, le contrôle annuel après 4 ans reste la règle.",
@@ -546,8 +545,8 @@
       },
       "options": [
         { "nl": "De bestuurder en alle passagiers, voorin én achterin, op zitplaatsen die ermee zijn uitgerust", "fr": "Le conducteur et tous les passagers, à l'avant comme à l'arrière, aux places qui en sont équipées", "en": "The driver and all passengers, front and back, on seats fitted with one" },
-        { "nl": "Alleen de bestuurder en de passagier voorin", "fr": "Uniquement le conducteur et le passager avant", "en": "Only the driver and the front passenger" },
-        { "nl": "Alleen op de autosnelweg", "fr": "Uniquement sur autoroute", "en": "Only on the motorway" }
+        { "nl": "Alleen de bestuurder en de passagier voorin; achterin is de gordel aanbevolen", "fr": "Uniquement le conducteur et le passager avant ; à l'arrière, la ceinture est recommandée", "en": "Only the driver and the front passenger; in the back the belt is recommended" },
+        { "nl": "De bestuurder en de passagiers vanaf 18 jaar; jongeren vallen onder de regels voor kinderzitjes", "fr": "Le conducteur et les passagers dès 18 ans ; les plus jeunes relèvent des règles des sièges enfants", "en": "The driver and passengers aged 18 or over; younger ones fall under the child-seat rules" }
       ],
       "correct": 0,
       "explanation": {
@@ -570,11 +569,11 @@
         "en": "Your 16-year-old passenger is not wearing the seat belt. Who is fined for that?"
       },
       "options": [
-        { "nl": "De bestuurder: hij is verantwoordelijk voor passagiers jonger dan 18 jaar", "fr": "Le conducteur : il est responsable des passagers de moins de 18 ans", "en": "The driver: he is responsible for passengers under 18" },
-        { "nl": "De passagier zelf, ongeacht zijn leeftijd", "fr": "Le passager lui-même, quel que soit son âge", "en": "The passenger himself, whatever his age" },
-        { "nl": "Niemand, achterin is de gordel niet verplicht", "fr": "Personne, la ceinture n'est pas obligatoire à l'arrière", "en": "Nobody, the belt is not compulsory in the back" }
+        { "nl": "De passagier zelf: vanaf 16 jaar is hij daarvoor persoonlijk verantwoordelijk", "fr": "Le passager lui-même : à partir de 16 ans, il en est personnellement responsable", "en": "The passenger himself: from age 16 he is personally responsible for it" },
+        { "nl": "De bestuurder: hij is verantwoordelijk voor passagiers jonger dan 18 jaar", "fr": "Le conducteur : il est responsable des passagers de moins de 18 ans", "en": "The driver: he is responsible for passengers under the age of 18" },
+        { "nl": "Allebei: de bestuurder én de passagier krijgen elk een boete", "fr": "Tous les deux : le conducteur et le passager reçoivent chacun une amende", "en": "Both of you: the driver and the passenger each receive a fine" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Wie de gordel niet draagt, wordt in principe persoonlijk beboet, maar voor passagiers jonger dan 18 jaar is de bestuurder verantwoordelijk. De gordel is op alle uitgeruste zitplaatsen verplicht, ook achterin.",
         "fr": "Qui ne porte pas la ceinture est en principe verbalisé personnellement, mais pour les passagers de moins de 18 ans, c'est le conducteur qui est responsable. La ceinture est obligatoire à toutes les places équipées, aussi à l'arrière.",
@@ -596,8 +595,8 @@
       },
       "options": [
         { "nl": "Tijdens het achteruitrijden", "fr": "Pendant une marche arrière", "en": "While reversing" },
-        { "nl": "Zodra hij trager dan 30 km/u rijdt", "fr": "Dès qu'il roule à moins de 30 km/h", "en": "As soon as he drives slower than 30 km/h" },
-        { "nl": "Bij warm weer op korte trajecten", "fr": "Par temps chaud sur de courts trajets", "en": "In hot weather on short journeys" }
+        { "nl": "In een woonerf, waar hoogstens 20 km/u gereden wordt", "fr": "Dans une zone résidentielle, où l'on roule à 20 km/h au plus", "en": "In a residential zone, where at most 20 km/h is driven" },
+        { "nl": "Op trajecten van minder dan 500 meter", "fr": "Sur les trajets de moins de 500 mètres", "en": "On journeys of less than 500 metres" }
       ],
       "correct": 0,
       "explanation": {
@@ -620,11 +619,11 @@
         "en": "You are carrying an 8-year-old child who is 120 cm tall. How must the child be seated in the car?"
       },
       "options": [
-        { "nl": "In een geschikt kinderbeveiligingssysteem, zoals een kinderzitje of verhogingskussen", "fr": "Dans un dispositif de retenue pour enfants adapté, comme un siège enfant ou un rehausseur", "en": "In a suitable child restraint system, such as a child seat or booster" },
-        { "nl": "Gewoon met de veiligheidsgordel, zonder zitje", "fr": "Simplement avec la ceinture de sécurité, sans siège", "en": "Simply with the seat belt, without a seat" },
-        { "nl": "Los op de achterbank, als u traag rijdt", "fr": "Librement sur la banquette arrière, si vous roulez lentement", "en": "Loose on the back seat, if you drive slowly" }
+        { "nl": "Gewoon met de gordel: vanaf de leeftijd van 6 jaar is een kinderzitje niet meer verplicht", "fr": "Simplement avec la ceinture : dès l'âge de 6 ans, un siège enfant n'est plus obligatoire", "en": "Simply with the seat belt: from the age of 6 a child seat is no longer compulsory" },
+        { "nl": "In een kinderzitje of op een verhogingskussen dat past bij zijn lengte en gewicht", "fr": "Dans un siège enfant ou sur un rehausseur adapté à sa taille et à son poids", "en": "In a child seat or on a booster cushion suited to the child's height and weight" },
+        { "nl": "Gewoon met de gordel, maar dan verplicht op de achterbank", "fr": "Simplement avec la ceinture, mais alors obligatoirement sur la banquette arrière", "en": "Simply with the seat belt, but in that case compulsorily on the back seat" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Kinderen die jonger zijn dan 18 jaar én kleiner dan 135 cm moeten worden vervoerd in een kinderbeveiligingssysteem dat is aangepast aan hun lengte en gewicht (art. 35.1.1 Wegcode). Een kind van 120 cm heeft dus nog een zitje of verhogingskussen nodig.",
         "fr": "Les enfants de moins de 18 ans et mesurant moins de 135 cm doivent être transportés dans un dispositif de retenue pour enfants adapté à leur taille et à leur poids (art. 35.1.1 du code de la route). Un enfant de 120 cm a donc encore besoin d'un siège ou d'un rehausseur.",
@@ -670,11 +669,11 @@
         "en": "You are carrying ladders that protrude 1.5 metres beyond the rear of your vehicle. What must you do?"
       },
       "options": [
+        { "nl": "Overdag volstaat een rode lap aan het uiteinde; het paneel is enkel 's nachts verplicht", "fr": "De jour, un chiffon rouge à l'extrémité suffit ; le panneau n'est obligatoire que la nuit", "en": "In daytime a red cloth at the end suffices; the panel is only compulsory at night" },
         { "nl": "Het uiteinde signaleren met het voorgeschreven paneel; bij nacht ook een rood licht en een rode reflector", "fr": "Signaler l'extrémité avec le panneau prescrit ; la nuit, ajouter un feu rouge et un catadioptre rouge", "en": "Mark the end with the prescribed panel; at night also add a red light and a red reflector" },
-        { "nl": "Niets: pas vanaf 2 meter uitsteek is signalisatie verplicht", "fr": "Rien : la signalisation n'est obligatoire qu'à partir de 2 mètres de dépassement", "en": "Nothing: marking is only compulsory from a 2-metre overhang" },
-        { "nl": "Volstaat: een witte doek aan het uiteinde knopen", "fr": "Il suffit de nouer un chiffon blanc à l'extrémité", "en": "It is enough to tie a white cloth to the end" }
+        { "nl": "Niets: signalisatie is pas verplicht wanneer de lading meer dan 2 meter uitsteekt", "fr": "Rien : la signalisation n'est obligatoire que lorsque le chargement dépasse de plus de 2 mètres", "en": "Nothing: marking is only compulsory when the load protrudes more than 2 metres" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Steekt de lading meer dan 1 meter achter het voertuig uit, dan moet het uiteinde gesignaleerd worden met het voorgeschreven paneel; bij nacht en bij slechte zichtbaarheid komen daar een rood licht en een rode reflector bij (art. 45-46 Wegcode).",
         "fr": "Si le chargement dépasse de plus d'un mètre l'arrière du véhicule, son extrémité doit être signalée par le panneau prescrit ; la nuit et par mauvaise visibilité s'y ajoutent un feu rouge et un catadioptre rouge (art. 45-46 du code de la route).",
@@ -695,11 +694,11 @@
         "en": "You only hold a category B licence. Your car has a MAM of 2,400 kg. May you tow a trailer with a MAM of 1,000 kg?"
       },
       "options": [
-        { "nl": "Ja, want de MTM van auto en aanhangwagen samen blijft onder 3.500 kg", "fr": "Oui, car la MMA de l'ensemble voiture + remorque reste sous 3 500 kg", "en": "Yes, because the combined MAM of car and trailer stays under 3,500 kg" },
         { "nl": "Nee, met rijbewijs B mag de aanhangwagen nooit zwaarder zijn dan 750 kg", "fr": "Non, avec le permis B la remorque ne peut jamais dépasser 750 kg", "en": "No, with a category B licence the trailer may never exceed 750 kg" },
-        { "nl": "Nee, daarvoor is altijd rijbewijs BE nodig", "fr": "Non, le permis BE est toujours requis pour cela", "en": "No, licence BE is always required for that" }
+        { "nl": "Ja, want de MTM van auto en aanhangwagen samen blijft onder 3.500 kg", "fr": "Oui, car la MMA de l'ensemble voiture + remorque reste sous 3 500 kg", "en": "Yes, because the combined MAM of car and trailer stays under 3,500 kg" },
+        { "nl": "Nee, vanaf een aanhangwagen van meer dan 750 kg hebt u minstens de code 96 nodig", "fr": "Non, dès que la remorque dépasse 750 kg, il vous faut au moins le code 96", "en": "No, as soon as the trailer exceeds 750 kg you need at least code 96 on your licence" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Met rijbewijs B trekt u een aanhangwagen tot 750 kg MTM, of een zwaardere zolang de MTM van auto en aanhangwagen samen niet meer dan 3.500 kg bedraagt. Hier is dat 2.400 + 1.000 = 3.400 kg, dus toegelaten; tussen 3.500 en 4.250 kg hebt u code B96 nodig, daarboven rijbewijs BE.",
         "fr": "Avec le permis B, vous tractez une remorque jusqu'à 750 kg de MMA, ou une remorque plus lourde tant que la MMA de l'ensemble ne dépasse pas 3 500 kg. Ici, 2 400 + 1 000 = 3 400 kg : c'est donc permis ; entre 3 500 et 4 250 kg il faut le code B96, au-delà le permis BE.",
@@ -720,11 +719,10 @@
         "en": "You have an accident with material damage only and you agree with the other driver on the facts. Must the police come?"
       },
       "options": [
-        { "nl": "Nee: vul samen het Europees aanrijdingsformulier in en maak de rijbaan zo snel mogelijk vrij", "fr": "Non : remplissez ensemble le constat européen d'accident et dégagez la chaussée au plus vite", "en": "No: fill in the European accident statement form together and clear the carriageway as soon as possible" },
-        { "nl": "Ja, de politie moet elk ongeval vaststellen", "fr": "Oui, la police doit constater chaque accident", "en": "Yes, the police must record every accident" },
-        { "nl": "Nee, u mag gewoon doorrijden zonder gegevens uit te wisselen", "fr": "Non, vous pouvez repartir sans échanger vos coordonnées", "en": "No, you may simply drive on without exchanging details" }
+        { "nl": "Ja: de politie moet elk ongeval vaststellen waarbij meer dan één voertuig betrokken is", "fr": "Oui : la police doit constater tout accident impliquant plus d'un véhicule", "en": "Yes: the police must record every accident involving more than one vehicle" },
+        { "nl": "Nee: vul samen het Europees aanrijdingsformulier in en maak de rijbaan zo snel mogelijk vrij", "fr": "Non : remplissez ensemble le constat européen d'accident et dégagez la chaussée au plus vite", "en": "No: fill in the European accident statement form together and clear the carriageway promptly" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Bij een ongeval met alleen stoffelijke schade wisselen de betrokken bestuurders hun gegevens uit — het handigst via het Europees aanrijdingsformulier — en verplaatsen ze de voertuigen zo snel mogelijk. De politie is alleen nodig als u het niet eens raakt over de feiten (of bij gewonden).",
         "fr": "En cas d'accident avec dégâts matériels uniquement, les conducteurs impliqués échangent leurs coordonnées — le plus simple via le constat européen d'accident — et déplacent les véhicules au plus vite. La police n'est nécessaire que si vous n'êtes pas d'accord sur les faits (ou en cas de blessés).",
@@ -746,11 +744,11 @@
         "en": "While parking you hit a parked car; the owner is nowhere to be found. What must you do?"
       },
       "options": [
-        { "nl": "Uw gegevens ter plaatse achterlaten én de politie zo snel mogelijk verwittigen", "fr": "Laisser vos coordonnées sur place et avertir la police au plus vite", "en": "Leave your details at the scene and notify the police as soon as possible" },
-        { "nl": "Alleen een briefje met uw telefoonnummer achterlaten volstaat", "fr": "Laisser seulement un mot avec votre numéro de téléphone suffit", "en": "Just leaving a note with your phone number is enough" },
-        { "nl": "Niets, als de schade beperkt is", "fr": "Rien, si les dégâts sont limités", "en": "Nothing, if the damage is minor" }
+        { "nl": "Een briefje met uw naam en telefoonnummer achter de ruitenwisser leggen volstaat", "fr": "Laisser un mot avec votre nom et votre numéro sous l'essuie-glace suffit", "en": "Leaving a note with your name and phone number under the wiper is enough" },
+        { "nl": "Het volstaat uw verzekeraar binnen de 24 uur over de schade in te lichten", "fr": "Il suffit d'informer votre assureur des dégâts dans les 24 heures", "en": "It is enough to inform your insurer of the damage within 24 hours" },
+        { "nl": "Uw gegevens ter plaatse achterlaten én de politie zo snel mogelijk verwittigen", "fr": "Laisser vos coordonnées sur place et avertir la police au plus vite", "en": "Leave your details at the scene and notify the police as soon as possible" }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "nl": "Beschadigt u een geparkeerd voertuig en is de benadeelde afwezig, dan moet u uw gegevens ter plaatse achterlaten én de politie zo snel mogelijk verwittigen (art. 52 Wegcode). Gewoon doorrijden is vluchtmisdrijf, ook bij kleine schade.",
         "fr": "Si vous endommagez un véhicule en stationnement et que la personne lésée est absente, vous devez laisser vos coordonnées sur place et avertir la police au plus vite (art. 52 du code de la route). Repartir sans rien faire constitue un délit de fuite, même pour de petits dégâts.",
@@ -772,11 +770,11 @@
         "en": "You are first at the scene of an accident with an injured person. What is the correct order of action?"
       },
       "options": [
-        { "nl": "Beveiligen, alarmeren via 112, dan helpen; de betrokken voertuigen blijven in principe staan", "fr": "Sécuriser, alerter via le 112, puis secourir ; les véhicules impliqués restent en principe sur place", "en": "Secure the scene, alert 112, then assist; the vehicles involved in principle stay where they are" },
-        { "nl": "De gewonde meteen verplaatsen en de voertuigen aan de kant zetten", "fr": "Déplacer immédiatement le blessé et ranger les véhicules sur le côté", "en": "Move the injured person immediately and get the vehicles out of the way" },
-        { "nl": "Eerst uw verzekeraar bellen en foto's nemen", "fr": "D'abord appeler votre assureur et prendre des photos", "en": "First call your insurer and take photos" }
+        { "nl": "Eerst 112 bellen, daarna de plaats van het ongeval beveiligen en hulp verlenen", "fr": "Appeler d'abord le 112, puis sécuriser les lieux de l'accident et porter secours", "en": "First call 112, then secure the accident scene and give assistance" },
+        { "nl": "Eerst de plaats beveiligen, dan alarmeren via 112 en vervolgens hulp verlenen", "fr": "D'abord sécuriser les lieux, puis alerter le 112 et ensuite porter secours", "en": "First secure the scene, then alert 112 and after that give assistance" },
+        { "nl": "Eerst de gewonde bij het voertuig weghalen, dan de plaats beveiligen en 112 bellen", "fr": "D'abord éloigner le blessé du véhicule, puis sécuriser les lieux et appeler le 112", "en": "First move the injured person away from the vehicle, then secure the scene and call 112" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Bij gewonden geldt de volgorde beveiligen, alarmeren, helpen: beveilig de plaats, bel 112 en verleen hulp binnen uw mogelijkheden. Verplaats een gewonde niet tenzij er acuut gevaar dreigt, en laat de voertuigen in principe staan tot de vaststellingen zijn gebeurd.",
         "fr": "Face à des blessés, l'ordre est sécuriser, alerter, secourir : sécurisez les lieux, appelez le 112 et portez secours dans la mesure de vos moyens. Ne déplacez pas un blessé sauf danger imminent, et laissez en principe les véhicules sur place jusqu'aux constatations.",
@@ -798,9 +796,8 @@
         "en": "You cause an accident, stay at the scene, give your identity and cooperate with the findings. Are you committing hit-and-run?"
       },
       "options": [
-        { "nl": "Nee: wie ter plaatse blijft en meewerkt, pleegt per definitie geen vluchtmisdrijf, ook niet als hij schuld heeft", "fr": "Non : celui qui reste sur place et coopère ne commet par définition pas de délit de fuite, même s'il est responsable", "en": "No: anyone who stays and cooperates by definition does not commit hit-and-run, even if at fault" },
-        { "nl": "Ja, zodra u het ongeval zelf veroorzaakt hebt", "fr": "Oui, dès que vous avez causé l'accident vous-même", "en": "Yes, as soon as you caused the accident yourself" },
-        { "nl": "Ja, tenzij de schade beperkt blijft", "fr": "Oui, sauf si les dégâts restent limités", "en": "Yes, unless the damage remains minor" }
+        { "nl": "Nee: vluchtmisdrijf veronderstelt dat u de plaats verlaat om u aan de vaststellingen te onttrekken", "fr": "Non : le délit de fuite suppose que vous quittiez les lieux pour échapper aux constatations", "en": "No: hit-and-run presupposes that you leave the scene to evade the official findings" },
+        { "nl": "Ja: wie het ongeval zelf veroorzaakt heeft, kan zich niet op zijn medewerking beroepen", "fr": "Oui : celui qui a causé l'accident lui-même ne peut pas invoquer sa coopération", "en": "Yes: a driver who caused the accident himself cannot rely on his cooperation" }
       ],
       "correct": 0,
       "explanation": {
@@ -823,11 +820,11 @@
         "en": "At what distance before your vehicle do you place the warning triangle when broken down?"
       },
       "options": [
-        { "nl": "Ongeveer 30 m op gewone wegen en ongeveer 100 m op autosnelwegen", "fr": "Environ 30 m sur route ordinaire et environ 100 m sur autoroute", "en": "About 30 m on ordinary roads and about 100 m on motorways" },
         { "nl": "Ongeveer 10 m op gewone wegen en ongeveer 30 m op autosnelwegen", "fr": "Environ 10 m sur route ordinaire et environ 30 m sur autoroute", "en": "About 10 m on ordinary roads and about 30 m on motorways" },
-        { "nl": "Altijd vlak achter het voertuig", "fr": "Toujours juste derrière le véhicule", "en": "Always right behind the vehicle" }
+        { "nl": "Ongeveer 30 m op gewone wegen en ongeveer 100 m op autosnelwegen", "fr": "Environ 30 m sur route ordinaire et environ 100 m sur autoroute", "en": "About 30 m on ordinary roads and about 100 m on motorways" },
+        { "nl": "Ongeveer 50 m op gewone wegen en ongeveer 150 m op autosnelwegen", "fr": "Environ 50 m sur route ordinaire et environ 150 m sur autoroute", "en": "About 50 m on ordinary roads and about 150 m on motorways" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "De gevarendriehoek plaatst u goed zichtbaar voor het aankomende verkeer: op gewone wegen op ongeveer 30 m en op autosnelwegen op ongeveer 100 m vóór het voertuig (art. 51 Wegcode). Zet ook meteen uw waarschuwingsknipperlichten aan.",
         "fr": "Le triangle de danger se place bien visible pour le trafic qui approche : sur route ordinaire à environ 30 m et sur autoroute à environ 100 m avant le véhicule (art. 51 du code de la route). Allumez aussi immédiatement vos feux de détresse.",
@@ -848,11 +845,11 @@
         "en": "When must you wear a retro-reflective safety vest?"
       },
       "options": [
-        { "nl": "Zodra u op een autosnelweg of autoweg uw voertuig verlaat op een plaats waar stilstaan of parkeren verboden is, zoals de pechstrook", "fr": "Dès que, sur autoroute ou route pour automobiles, vous quittez votre véhicule à un endroit où l'arrêt et le stationnement sont interdits, comme la bande d'arrêt d'urgence", "en": "As soon as, on a motorway or motor road, you leave your vehicle at a place where stopping or parking is prohibited, such as the hard shoulder" },
-        { "nl": "Alleen 's nachts, op alle wegen", "fr": "Uniquement la nuit, sur toutes les routes", "en": "Only at night, on all roads" },
-        { "nl": "Nooit verplicht, alleen aangeraden", "fr": "Jamais obligatoire, seulement recommandé", "en": "Never compulsory, only recommended" }
+        { "nl": "Alleen tussen zonsondergang en zonsopgang, telkens u uw voertuig op de openbare weg verlaat", "fr": "Uniquement entre le coucher et le lever du soleil, chaque fois que vous quittez votre véhicule sur la voie publique", "en": "Only between sunset and sunrise, whenever you leave your vehicle on a public road" },
+        { "nl": "Zodra u op een autosnelweg of autoweg uitstapt waar stilstaan of parkeren verboden is", "fr": "Dès que, sur autoroute ou route pour automobiles, vous sortez du véhicule là où l'arrêt ou le stationnement est interdit", "en": "As soon as you get out on a motorway or motor road where stopping or parking is prohibited" },
+        { "nl": "Alleen wanneer u buiten de bebouwde kom de rijbaan te voet moet oversteken om hulp te halen", "fr": "Uniquement lorsque, hors agglomération, vous devez traverser la chaussée à pied pour chercher de l'aide", "en": "Only when, outside built-up areas, you must cross the carriageway on foot to reach assistance" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Op autosnelwegen en autowegen is de veiligheidsvest verplicht zodra u uw voertuig verlaat op een plaats waar stilstaan of parkeren verboden is, zoals de pechstrook (art. 51 Wegcode). Houd de vest daarom binnen handbereik in de passagiersruimte.",
         "fr": "Sur autoroute et route pour automobiles, le gilet est obligatoire dès que vous quittez votre véhicule à un endroit où l'arrêt et le stationnement sont interdits, comme la bande d'arrêt d'urgence (art. 51 du code de la route). Gardez-le donc à portée de main dans l'habitacle.",
@@ -873,11 +870,11 @@
         "en": "When may you not drive with a provisional category B licence (M36 or M18)?"
       },
       "options": [
+        { "nl": "Elke nacht van 22 uur tot 6 uur, op gewone weekdagen evengoed als in het weekend", "fr": "Chaque nuit de 22 heures à 6 heures, en semaine ordinaire comme le week-end", "en": "Every night from 22:00 to 06:00, on ordinary weekdays just as much as at the weekend" },
         { "nl": "Van 22 uur tot 6 uur op vrijdag, zaterdag, zondag en de vooravond en de dag van wettelijke feestdagen", "fr": "De 22 heures à 6 heures le vendredi, le samedi, le dimanche ainsi que la veille et le jour des jours fériés légaux", "en": "From 22:00 to 06:00 on Fridays, Saturdays, Sundays and on the eve and day of legal public holidays" },
-        { "nl": "Elke nacht van 22 uur tot 6 uur", "fr": "Chaque nuit de 22 heures à 6 heures", "en": "Every night from 22:00 to 06:00" },
-        { "nl": "Er geldt geen enkele tijdsbeperking", "fr": "Aucune restriction horaire ne s'applique", "en": "No time restriction applies" }
+        { "nl": "Van middernacht tot 6 uur in het weekend, en elke avond tijdens de schoolvakanties", "fr": "De minuit à 6 heures le week-end, et chaque soir pendant les vacances scolaires", "en": "From midnight to 06:00 at the weekend, and every evening during the school holidays" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Met een voorlopig rijbewijs B mag u niet rijden van 22 uur tot 6 uur 's anderendaags op vrijdag, zaterdag, zondag en op de vooravond en de dag van wettelijke feestdagen. Die beperking geldt zowel voor het model M36 (met begeleider, vanaf 17 jaar) als voor het model M18 (zonder begeleider, vanaf 18 jaar).",
         "fr": "Avec un permis provisoire B, vous ne pouvez pas conduire de 22 heures à 6 heures le lendemain, le vendredi, le samedi, le dimanche ainsi que la veille et le jour des jours fériés légaux. Cette restriction vaut tant pour le modèle M36 (avec guide, dès 17 ans) que pour le modèle M18 (sans guide, dès 18 ans).",
@@ -899,11 +896,11 @@
         "en": "Which habit is part of economical, environmentally aware driving?"
       },
       "options": [
+        { "nl": "Zo lang mogelijk in een lage versnelling rijden, zodat de motor vlot op toeren blijft", "fr": "Rouler le plus longtemps possible sur un petit rapport, pour garder le moteur bien en régime", "en": "Driving in a low gear for as long as possible so that the engine keeps revving freely" },
         { "nl": "Anticiperen, maandelijks de bandenspanning controleren en de motor afzetten bij lang stilstaan", "fr": "Anticiper, vérifier chaque mois la pression des pneus et couper le moteur lors d'arrêts prolongés", "en": "Anticipating, checking tyre pressure monthly and switching the engine off during long stops" },
-        { "nl": "Zo lang mogelijk in een lage versnelling met hoge toeren rijden", "fr": "Rouler le plus longtemps possible sur un petit rapport à haut régime", "en": "Driving as long as possible in a low gear at high revs" },
-        { "nl": "Fel optrekken en laat remmen om tijd te winnen", "fr": "Accélérer fort et freiner tard pour gagner du temps", "en": "Accelerating hard and braking late to save time" }
+        { "nl": "In vrijloop uitbollen en elke helling in neutraal afrijden om zoveel mogelijk brandstof te sparen", "fr": "Rouler en roue libre et descendre chaque pente au point mort pour économiser un maximum de carburant", "en": "Coasting in neutral and rolling down every slope out of gear to save as much fuel as possible" }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "nl": "Zuinig rijden betekent anticiperen en een gelijkmatige snelheid aanhouden, vroeg opschakelen, maandelijks de bandenspanning controleren en de motor afzetten bij lang stilstaan. Te zachte banden verhogen het verbruik en verlengen bovendien de remweg.",
         "fr": "Conduire économiquement signifie anticiper et maintenir une vitesse régulière, passer tôt au rapport supérieur, vérifier chaque mois la pression des pneus et couper le moteur lors d'arrêts prolongés. Des pneus sous-gonflés augmentent la consommation et allongent en outre la distance de freinage.",
@@ -951,9 +948,9 @@
         "en": "A driver drives against the direction of traffic on the motorway. Which degree of offence is that, and what does he risk?"
       },
       "options": [
-        { "nl": "Tweede graad — 128 euro onmiddellijke inning", "fr": "Deuxième degré — 128 euros de perception immédiate", "en": "Second degree — a 128-euro on-the-spot fine" },
-        { "nl": "Derde graad — 191 euro onmiddellijke inning", "fr": "Troisième degré — 191 euros de perception immédiate", "en": "Third degree — a 191-euro on-the-spot fine" },
-        { "nl": "Vierde graad — 520 euro; in principe dagvaarding voor de politierechtbank en mogelijk een rijverbod", "fr": "Quatrième degré — 520 euros ; en principe citation devant le tribunal de police et déchéance du droit de conduire possible", "en": "Fourth degree — 520 euros; in principle a summons before the police court and a possible driving ban" }
+        { "nl": "Tweede graad — 128 euro onmiddellijke inning en mogelijk een kort rijverbod", "fr": "Deuxième degré — 128 euros de perception immédiate et éventuellement une courte déchéance", "en": "Second degree — a 128-euro on-the-spot fine and possibly a short driving ban" },
+        { "nl": "Derde graad — 191 euro onmiddellijke inning en mogelijk een rijverbod", "fr": "Troisième degré — 191 euros de perception immédiate et éventuellement une déchéance", "en": "Third degree — a 191-euro on-the-spot fine and possibly a driving ban" },
+        { "nl": "Vierde graad — 520 euro en in principe dagvaarding voor de politierechtbank", "fr": "Quatrième degré — 520 euros et en principe citation devant le tribunal de police", "en": "Fourth degree — 520 euros and in principle a summons before the police court" }
       ],
       "correct": 2,
       "explanation": {
@@ -977,9 +974,9 @@
         "en": "Which equipment must be carried on board a car registered in Belgium?"
       },
       "options": [
-        { "nl": "Enkel een gevarendriehoek", "fr": "Uniquement un triangle de danger", "en": "Only a warning triangle" },
+        { "nl": "Een gevarendriehoek, een verbanddoos, reservelampen en een sleepkabel", "fr": "Un triangle de danger, une boîte de secours, des ampoules de rechange et un câble de remorquage", "en": "A warning triangle, a first-aid kit, spare bulbs and a tow rope" },
         { "nl": "Een gevarendriehoek, een verbanddoos, een brandblusser en een veiligheidsvest", "fr": "Un triangle de danger, une boîte de secours, un extincteur et un gilet de sécurité", "en": "A warning triangle, a first-aid kit, a fire extinguisher and a safety vest" },
-        { "nl": "Een gevarendriehoek, reservelampen en een sleepkabel", "fr": "Un triangle de danger, des ampoules de rechange et un câble de remorquage", "en": "A warning triangle, spare bulbs and a tow rope" }
+        { "nl": "Een gevarendriehoek, een brandblusser, een veiligheidsvest en een volwaardig reservewiel", "fr": "Un triangle de danger, un extincteur, un gilet de sécurité et une roue de secours complète", "en": "A warning triangle, a fire extinguisher, a safety vest and a full spare wheel" }
       ],
       "correct": 1,
       "explanation": {
@@ -1003,9 +1000,9 @@
         "en": "You are exceptionally carrying your own 6-year-old daughter (115 cm) over a short distance. No child seat is available. May she ride in the back with just the seat belt?"
       },
       "options": [
-        { "nl": "Ja, incidenteel vervoer over korte afstand mag altijd met enkel de gordel", "fr": "Oui, un transport occasionnel sur une courte distance est toujours permis avec la seule ceinture", "en": "Yes, occasional transport over a short distance is always allowed with just the belt" },
-        { "nl": "Neen, de uitzondering voor incidenteel vervoer geldt niet voor kinderen van wie een ouder het voertuig bestuurt", "fr": "Non, l'exception pour le transport occasionnel ne vaut pas pour les enfants dont un parent conduit le véhicule", "en": "No, the exception for occasional transport does not apply to children whose parent is driving the vehicle" },
-        { "nl": "Ja, want achterin is een kinderzitje nooit verplicht", "fr": "Oui, car à l'arrière un siège enfant n'est jamais obligatoire", "en": "Yes, because in the back a child seat is never compulsory" }
+        { "nl": "Ja: incidenteel vervoer over korte afstand mag achterin met enkel de gordel", "fr": "Oui : un transport occasionnel sur une courte distance est permis à l'arrière avec la seule ceinture", "en": "Yes: occasional transport over a short distance is allowed in the back with just the belt" },
+        { "nl": "Neen: die uitzondering geldt niet wanneer een ouder van het kind het voertuig bestuurt", "fr": "Non : cette exception ne vaut pas lorsqu'un parent de l'enfant conduit le véhicule", "en": "No: that exception does not apply when a parent of the child is driving the vehicle" },
+        { "nl": "Ja: vanaf 5 jaar mag een kind achterin altijd met enkel de gordel reizen", "fr": "Oui : dès 5 ans, un enfant peut toujours voyager à l'arrière avec la seule ceinture", "en": "Yes: from the age of 5 a child may always travel in the back with just the belt" }
       ],
       "correct": 1,
       "explanation": {
@@ -1029,9 +1026,9 @@
         "en": "How fast does the body break down alcohol on average, and can you speed that up?"
       },
       "options": [
-        { "nl": "Ongeveer 0,15 promille per uur; koffie, frisse lucht of een dutje veranderen daar niets aan", "fr": "Environ 0,15 pour mille par heure ; le café, l'air frais ou une sieste n'y changent rien", "en": "About 0.15 per mille per hour; coffee, fresh air or a nap change nothing about that" },
-        { "nl": "Ongeveer 0,5 promille per uur, en met sterke koffie gaat het nog sneller", "fr": "Environ 0,5 pour mille par heure, et plus vite encore avec un café fort", "en": "About 0.5 per mille per hour, and even faster with strong coffee" },
-        { "nl": "Ongeveer 0,15 promille per uur, maar een korte slaap halveert de wachttijd", "fr": "Environ 0,15 pour mille par heure, mais une courte sieste réduit l'attente de moitié", "en": "About 0.15 per mille per hour, but a short sleep halves the waiting time" }
+        { "nl": "Ongeveer 0,15 promille per uur; koffie of frisse lucht veranderen daar niets aan", "fr": "Environ 0,15 pour mille par heure ; le café ou l'air frais n'y changent rien", "en": "About 0.15 per mille per hour; coffee or fresh air change nothing about that" },
+        { "nl": "Ongeveer 0,5 promille per uur, en nog sneller na een sterke kop koffie", "fr": "Environ 0,5 pour mille par heure, et plus vite encore après un café fort", "en": "About 0.5 per mille per hour, and even faster after a strong cup of coffee" },
+        { "nl": "Ongeveer 0,15 promille per uur, maar een korte slaap halveert de wachttijd wel", "fr": "Environ 0,15 pour mille par heure, mais un bref sommeil réduit bien l'attente de moitié", "en": "About 0.15 per mille per hour, but a short sleep cuts the waiting time in half" }
       ],
       "correct": 0,
       "explanation": {
@@ -1055,9 +1052,9 @@
         "en": "What changes for a driver once his alcohol level reaches 0.8 per mille or more, compared with a level between 0.5 and 0.8 per mille?"
       },
       "options": [
-        { "nl": "Niets wezenlijks; alleen het bedrag van de onmiddellijke inning stijgt licht", "fr": "Rien d'essentiel ; seul le montant de la perception immédiate augmente légèrement", "en": "Nothing essential; only the amount of the on-the-spot fine rises slightly" },
-        { "nl": "Een onmiddellijke inning is niet meer mogelijk: hij riskeert dagvaarding, hogere geldboetes en een verval van het recht tot sturen", "fr": "Une perception immédiate n'est plus possible : il risque une citation, des amendes plus élevées et une déchéance du droit de conduire", "en": "An on-the-spot settlement is no longer possible: he risks a summons, higher fines and disqualification from driving" },
-        { "nl": "Hij betaalt 197 euro ter plaatse en mag daarna meteen verder rijden", "fr": "Il paie 197 euros sur place et peut ensuite reprendre la route immédiatement", "en": "He pays 197 euros on the spot and may then drive on immediately" }
+        { "nl": "Alleen het bedrag van de onmiddellijke inning stijgt licht, van 197 naar hoogstens 520 euro", "fr": "Seul le montant de la perception immédiate augmente légèrement, de 197 à 520 euros au plus", "en": "Only the amount of the on-the-spot fine rises slightly, from 197 to a maximum of 520 euros" },
+        { "nl": "Een onmiddellijke inning kan niet meer: dagvaarding en verval van het recht tot sturen dreigen", "fr": "Une perception immédiate n'est plus possible : citation et déchéance du droit de conduire menacent", "en": "An on-the-spot settlement is no longer possible: a summons and disqualification loom" },
+        { "nl": "Hij betaalt 197 euro ter plaatse en daarmee is het dossier volledig afgesloten", "fr": "Il paie 197 euros sur place et le dossier est ainsi entièrement clos", "en": "He pays 197 euros on the spot and the case is thereby completely closed" }
       ],
       "correct": 1,
       "explanation": {
@@ -1081,11 +1078,11 @@
         "en": "A taxi driver is driving without a seat belt. When is that legally allowed?"
       },
       "options": [
-        { "nl": "Nooit; de gordel geldt voor iedereen zonder uitzondering", "fr": "Jamais ; la ceinture s'impose à tous sans exception", "en": "Never; the belt applies to everyone without exception" },
-        { "nl": "Altijd; taxichauffeurs zijn volledig vrijgesteld", "fr": "Toujours ; les conducteurs de taxi sont totalement exemptés", "en": "Always; taxi drivers are fully exempt" },
-        { "nl": "Enkel terwijl hij een klant vervoert; rijdt hij zonder klant, dan moet hij de gordel dragen", "fr": "Uniquement lorsqu'il transporte un client ; sans client, il doit porter la ceinture", "en": "Only while carrying a passenger; when driving without a passenger he must wear the belt" }
+        { "nl": "Nooit: de gordelplicht geldt voor elke bestuurder zonder uitzondering", "fr": "Jamais : l'obligation de la ceinture vaut pour chaque conducteur sans exception", "en": "Never: the seat-belt obligation applies to every driver without exception" },
+        { "nl": "Enkel terwijl hij een klant vervoert; zonder klant draagt hij de gordel", "fr": "Uniquement lorsqu'il transporte un client ; sans client, il porte la ceinture", "en": "Only while carrying a customer; when driving without one he wears the belt" },
+        { "nl": "Enkel binnen de bebouwde kom, waar de snelheden aanzienlijk lager liggen", "fr": "Uniquement en agglomération, où les vitesses sont nettement plus basses", "en": "Only inside built-up areas, where driving speeds are considerably lower" }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "nl": "Artikel 35.2.1 stelt taxibestuurders enkel vrij van de gordelplicht wanneer ze een klant vervoeren. Zonder klant geldt de gewone gordelplicht. Andere vrijstellingen zijn onder meer achteruitrijden en een medische vrijstelling op basis van een attest.",
         "fr": "L'article 35.2.1 n'exempte les conducteurs de taxi du port de la ceinture que lorsqu'ils transportent un client. Sans client, l'obligation ordinaire s'applique. Les autres exemptions comprennent notamment la marche arrière et la dérogation médicale fondée sur un certificat.",
@@ -1108,7 +1105,7 @@
       "options": [
         { "nl": "2,50 m breed en 3,50 m hoog", "fr": "2,50 m de large et 3,50 m de haut", "en": "2.50 m wide and 3.50 m high" },
         { "nl": "2,55 m breed en 4 m hoog", "fr": "2,55 m de large et 4 m de haut", "en": "2.55 m wide and 4 m high" },
-        { "nl": "3 m breed en 4,25 m hoog", "fr": "3 m de large et 4,25 m de haut", "en": "3 m wide and 4.25 m high" }
+        { "nl": "2,60 m breed en 4,25 m hoog", "fr": "2,60 m de large et 4,25 m de haut", "en": "2.60 m wide and 4.25 m high" }
       ],
       "correct": 1,
       "explanation": {
@@ -1131,9 +1128,9 @@
         "en": "Your car has a MAM of 2,900 kg, your trailer a MAM of 1,100 kg. The trailer is empty today. What do you need to tow this combination?"
       },
       "options": [
-        { "nl": "Niets extra: leeg weegt het geheel minder dan 3.500 kg", "fr": "Rien de plus : à vide, l'ensemble pèse moins de 3 500 kg", "en": "Nothing extra: empty, the combination weighs less than 3,500 kg" },
-        { "nl": "De code 96 op je rijbewijs, want de som van de MTM's ligt tussen 3.500 en 4.250 kg — ook met een lege aanhangwagen", "fr": "Le code 96 sur votre permis, car la somme des MMA se situe entre 3 500 et 4 250 kg — même avec une remorque vide", "en": "Code 96 on your licence, because the sum of the MAMs is between 3,500 and 4,250 kg — even with an empty trailer" },
-        { "nl": "Altijd een rijbewijs van de categorie voor zware aanhangwagens, welke massa het gespan ook heeft", "fr": "Toujours un permis de la catégorie pour remorques lourdes, quelle que soit la masse de l'ensemble", "en": "Always a licence of the heavy-trailer category, whatever the mass of the combination" }
+        { "nl": "Niets extra: met de lege aanhangwagen weegt het gespan vandaag minder dan 3.500 kg", "fr": "Rien de plus : avec la remorque vide, l'ensemble pèse aujourd'hui moins de 3 500 kg", "en": "Nothing extra: with the empty trailer the combination weighs less than 3,500 kg today" },
+        { "nl": "De code 96 op je rijbewijs, want de som van de MTM's bedraagt 4.000 kg", "fr": "Le code 96 sur votre permis, car la somme des MMA s'élève à 4 000 kg", "en": "Code 96 on your licence, because the sum of the MAMs comes to 4,000 kg" },
+        { "nl": "Het rijbewijs BE, want de som van de MTM's overschrijdt 3.500 kg", "fr": "Le permis BE, car la somme des MMA dépasse 3 500 kg", "en": "Licence BE, because the sum of the MAMs exceeds 3,500 kg" }
       ],
       "correct": 1,
       "explanation": {
@@ -1156,9 +1153,9 @@
         "en": "You are driving on a provisional licence without a guide. Two 19-year-old friends who have just obtained their licences ask to ride along. Is that allowed?"
       },
       "options": [
-        { "nl": "Ja, je mag altijd maximaal twee passagiers meenemen", "fr": "Oui, vous pouvez toujours prendre deux passagers au maximum", "en": "Yes, you may always take up to two passengers" },
-        { "nl": "Neen: je mag hoogstens twee passagiers meenemen en die moeten zelf al minstens acht jaar een rijbewijs B hebben", "fr": "Non : vous pouvez prendre au maximum deux passagers, qui doivent eux-mêmes être titulaires d'un permis B depuis au moins huit ans", "en": "No: you may take at most two passengers, and they must themselves have held a category B licence for at least eight years" },
-        { "nl": "Ja, zolang zij achterin plaatsnemen", "fr": "Oui, pour autant qu'ils s'installent à l'arrière", "en": "Yes, as long as they sit in the back" }
+        { "nl": "Ja, met een voorlopig rijbewijs mag je altijd hoogstens twee passagiers meenemen", "fr": "Oui, avec un permis provisoire vous pouvez toujours emmener au maximum deux passagers", "en": "Yes, with a provisional licence you may always take along a maximum of two passengers" },
+        { "nl": "Neen: je passagiers moeten zelf al minstens acht jaar een rijbewijs B hebben", "fr": "Non : vos passagers doivent eux-mêmes être titulaires d'un permis B depuis au moins huit ans", "en": "No: your passengers must have held a category B licence for at least eight years" },
+        { "nl": "Ja, op voorwaarde dat ze allebei achterin plaatsnemen en de gordel dragen", "fr": "Oui, à condition qu'ils s'installent tous les deux à l'arrière et portent la ceinture", "en": "Yes, provided that they both sit in the back seats and wear their seat belts" }
       ],
       "correct": 1,
       "explanation": {
@@ -1182,9 +1179,9 @@
         "en": "A holder of a provisional driving licence commits a serious traffic offence. What applies to him since 1 July 2026?"
       },
       "options": [
-        { "nl": "Hij valt onder het strengere regime voor beginnende bestuurders: de rechter moet het verval uitspreken en hij moet eerst opnieuw slagen voor examens", "fr": "Il relève du régime renforcé des conducteurs novices : le juge doit prononcer la déchéance et il doit d'abord réussir à nouveau des examens", "en": "He falls under the stricter novice-driver regime: the judge must impose a disqualification and he must first pass exams again" },
-        { "nl": "Er verandert niets zolang hij nog geen definitief rijbewijs heeft", "fr": "Rien ne change tant qu'il n'a pas encore de permis définitif", "en": "Nothing changes as long as he does not yet hold a full licence" },
-        { "nl": "Hij krijgt enkel een waarschuwing, omdat hij nog aan het leren is", "fr": "Il ne reçoit qu'un avertissement, puisqu'il est encore en apprentissage", "en": "He only receives a warning, because he is still learning" }
+        { "nl": "De rechter moet het verval uitspreken en hij moet eerst opnieuw slagen voor examens", "fr": "Le juge doit prononcer la déchéance et il doit d'abord réussir à nouveau des examens", "en": "The judge must impose a disqualification and he must first pass exams again" },
+        { "nl": "Er verandert niets: het strengere regime geldt pas vanaf het definitieve rijbewijs", "fr": "Rien ne change : le régime renforcé ne s'applique qu'à partir du permis définitif", "en": "Nothing changes: the stricter regime only applies from the full licence onward" },
+        { "nl": "Zijn voorlopig rijbewijs wordt geschorst tot het einde van de oefenperiode", "fr": "Son permis provisoire est suspendu jusqu'à la fin de la période d'apprentissage", "en": "His provisional licence is suspended until the end of the practice period" }
       ],
       "correct": 0,
       "explanation": {
@@ -1195,6 +1192,265 @@
       "citations": [
         { "source": "Wegverkeerswet (wet 16/03/1968), Art. 38", "url": "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel" },
         { "source": "GOCA Vlaanderen — Wijziging van de wet betreffende de politie over het wegverkeer (01/07/2026)", "url": "https://www.gocavlaanderen.be/news-item/wijziging-van-de-wet-betreffende-de-politie-over-het-wegverkeer" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-048",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Op een droge weg houd je twee seconden afstand van je voorligger. Het begint stevig te regenen. Welke volgafstand houd je nu aan?",
+        "fr": "Sur route sèche, vous gardez deux secondes de distance avec le véhicule qui vous précède. Il commence à pleuvoir fort. Quelle distance gardez-vous maintenant ?",
+        "en": "On a dry road you keep a two-second gap to the vehicle ahead. It starts raining hard. What following distance do you keep now?"
+      },
+      "options": [
+        { "nl": "Ongeveer twee seconden: nat of droog wegdek maakt daarvoor geen verschil", "fr": "Environ deux secondes : chaussée sèche ou mouillée, cela ne change rien", "en": "About two seconds: a wet or dry surface makes no difference to the rule" },
+        { "nl": "Ongeveer vier seconden: het dubbele van bij droog weer", "fr": "Environ quatre secondes : le double du temps sec", "en": "About four seconds: double the dry-weather gap" },
+        { "nl": "Ongeveer één seconde, want iedereen rijdt nu trager", "fr": "Environ une seconde, car tout le monde roule maintenant plus lentement", "en": "About one second, since everyone is driving slower now" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Op een nat wegdek wordt je remweg veel langer en heb je minder grip. De tweesecondenregel is een minimum voor droog weer; bij regen verdubbel je naar ongeveer vier seconden. Zo voldoe je aan de plicht om voldoende afstand te houden om niet te moeten remmen als je voorligger vertraagt (art. 10.1, 2°).",
+        "fr": "Sur chaussée mouillée, votre distance de freinage s'allonge fortement et vous avez moins d'adhérence. La règle des deux secondes est un minimum par temps sec ; sous la pluie, doublez à environ quatre secondes. Vous respectez ainsi l'obligation de garder une distance suffisante pour ne pas devoir freiner si le véhicule qui vous précède ralentit (art. 10.1, 2°).",
+        "en": "On a wet surface your braking distance becomes much longer and you have less grip. The two-second rule is a minimum for dry weather; in rain you double it to about four seconds. That way you meet the duty to keep enough distance so you do not have to brake when the vehicle ahead slows down (Art. 10.1, 2°)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 10.1, 2°", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "VSV — afstand houden", "url": "https://www.veiligverkeer.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-049",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je wil op de autosnelweg van rijstrook veranderen. In je binnen- en buitenspiegel zie je niemand. Wat doe je vóór je van rijstrook verandert?",
+        "fr": "Sur autoroute, vous voulez changer de bande de circulation. Dans vos rétroviseurs intérieur et extérieur, vous ne voyez personne. Que faites-vous avant de changer de bande ?",
+        "en": "On the motorway you want to change lanes. In your interior and exterior mirrors you see no one. What do you do before changing lanes?"
+      },
+      "options": [
+        { "nl": "Je kijkt ook nog over je schouder: er kan iemand in je dode hoek rijden", "fr": "Vous jetez encore un coup d'œil par-dessus l'épaule : quelqu'un peut se trouver dans votre angle mort", "en": "You also glance over your shoulder: someone may be riding in your blind spot" },
+        { "nl": "Je verandert van rijstrook: je spiegels tonen dat de strook vrij is", "fr": "Vous changez de bande : vos rétroviseurs montrent que la bande est libre", "en": "You change lanes: your mirrors show that the lane is clear" },
+        { "nl": "Je zet tijdig je richtingaanwijzer aan en wisselt heel geleidelijk, zodat de anderen kunnen reageren", "fr": "Vous mettez votre clignotant à temps et changez très progressivement, pour que les autres puissent réagir", "en": "You switch your indicator on in time and change very gradually, so that the others can react" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Naast en schuin achter je auto blijft een dode hoek die je spiegels niet tonen; dat je in je spiegels niets ziet, bewijst dus niet dat de strook vrij is. De schouderblik is de laatste controle. Van rijstrook veranderen is bovendien een maneuver: je moet voorrang verlenen aan de bestuurders die zich al op die strook bevinden (art. 12.4) — een richtingaanwijzer alleen geeft je dat recht niet.",
+        "fr": "À côté et en oblique derrière votre voiture subsiste un angle mort que vos rétroviseurs ne montrent pas ; ne rien voir dans les rétroviseurs ne prouve donc pas que la bande est libre. Le coup d'œil par-dessus l'épaule est le dernier contrôle. Changer de bande est en outre une manœuvre : vous devez céder le passage aux conducteurs qui se trouvent déjà sur cette bande (art. 12.4) — le clignotant seul ne vous en donne pas le droit.",
+        "en": "Beside and diagonally behind your car remains a blind spot your mirrors do not show; seeing nothing in your mirrors therefore does not prove the lane is clear. The shoulder check is the final verification. Changing lanes is moreover a maneuver: you must give way to the drivers already on that lane (Art. 12.4) — an indicator alone does not give you that right."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 12.4", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "VSV — de dode hoek", "url": "https://www.veiligverkeer.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-050",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je nadert een rood verkeerslicht. Hoe rijd je het zuinigst?",
+        "fr": "Vous approchez d'un feu rouge. Comment conduisez-vous le plus économiquement ?",
+        "en": "You are approaching a red traffic light. What is the most economical way to drive?"
+      },
+      "options": [
+        { "nl": "Je schakelt naar neutraal en laat de wagen in vrijloop naar het licht bollen", "fr": "Vous passez au point mort et laissez la voiture rouler en roue libre jusqu'au feu", "en": "You shift into neutral and let the car coast in freewheel up to the light" },
+        { "nl": "Je houdt je snelheid aan en remt pas vlak vóór het licht", "fr": "Vous maintenez votre vitesse et ne freinez que juste avant le feu", "en": "You keep your speed up and only brake just before the light" },
+        { "nl": "Je lost tijdig het gaspedaal en laat de wagen op de versnelling uitbollen", "fr": "Vous relâchez l'accélérateur à temps et laissez la voiture ralentir sur le rapport engagé", "en": "You release the accelerator early and let the car slow down in gear" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Als je het gaspedaal lost terwijl de wagen op de versnelling blijft, sluit een moderne motor de brandstoftoevoer volledig af: je verbruikt dan niets. In neutraal blijft de motor stationair brandstof verbruiken én heb je minder controle over het voertuig. Laat aankomen en pas vlak voor het licht remmen vernietigt bewegingsenergie die je gratis had kunnen gebruiken.",
+        "fr": "Si vous relâchez l'accélérateur en laissant le rapport engagé, un moteur moderne coupe complètement l'alimentation en carburant : vous ne consommez alors rien. Au point mort, le moteur continue de consommer au ralenti et vous avez moins de contrôle sur le véhicule. Arriver vite et ne freiner qu'au dernier moment détruit une énergie de mouvement que vous auriez pu utiliser gratuitement.",
+        "en": "If you release the accelerator while the car stays in gear, a modern engine cuts the fuel supply completely: you then consume nothing. In neutral the engine keeps burning fuel at idle and you have less control over the vehicle. Arriving fast and braking only at the last moment destroys kinetic energy you could have used for free."
+      },
+      "citations": [
+        { "source": "FOD Mobiliteit en Vervoer — zuinig rijden (ecodriving)", "url": "https://mobilit.belgium.be" },
+        { "source": "VSV — milieuvriendelijk rijden", "url": "https://www.veiligverkeer.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-051",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Hoe vaak en in welke omstandigheden controleer je best de bandenspanning van je auto?",
+        "fr": "À quelle fréquence et dans quelles conditions vérifiez-vous de préférence la pression des pneus de votre voiture ?",
+        "en": "How often and under what conditions should you check your car's tire pressure?"
+      },
+      "options": [
+        { "nl": "Ongeveer maandelijks, wanneer de banden koud zijn", "fr": "Environ une fois par mois, quand les pneus sont froids", "en": "About once a month, when the tires are cold" },
+        { "nl": "Eén keer per jaar, bij het jaarlijkse onderhoud van de wagen", "fr": "Une fois par an, lors de l'entretien annuel de la voiture", "en": "Once a year, during the car's annual service" },
+        { "nl": "Wekelijks, en het best meteen na een lange rit op de autosnelweg", "fr": "Chaque semaine, et de préférence juste après un long trajet sur autoroute", "en": "Weekly, and preferably right after a long motorway drive" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Controleer de bandenspanning ongeveer één keer per maand en vóór een lange rit, altijd op koude banden: warme banden geven een te hoge meetwaarde. Een te lage spanning verlengt de remweg, verslechtert de wegligging én verhoogt het brandstofverbruik.",
+        "fr": "Vérifiez la pression des pneus environ une fois par mois et avant un long trajet, toujours à froid : des pneus chauds donnent une valeur trop élevée. Une pression trop basse allonge la distance de freinage, dégrade la tenue de route et augmente la consommation de carburant.",
+        "en": "Check the tire pressure about once a month and before a long trip, always on cold tires: warm tires give a reading that is too high. Underinflation lengthens the braking distance, worsens road holding and raises fuel consumption."
+      },
+      "citations": [
+        { "source": "VSV — veilige voertuigen en banden", "url": "https://www.veiligverkeer.be" },
+        { "source": "FOD Mobiliteit en Vervoer — zuinig rijden (ecodriving)", "url": "https://mobilit.belgium.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-052",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je staat met je auto te wachten aan een gesloten overweg. Het wachten zal enkele minuten duren. Wat doe je met de motor?",
+        "fr": "Vous attendez en voiture devant un passage à niveau fermé. L'attente durera quelques minutes. Que faites-vous du moteur ?",
+        "en": "You are waiting in your car at a closed level crossing. The wait will take several minutes. What do you do with the engine?"
+      },
+      "options": [
+        { "nl": "Je laat hem stationair draaien: telkens opnieuw starten verbruikt meer", "fr": "Vous le laissez tourner au ralenti : redémarrer à chaque fois consomme davantage", "en": "You let it idle: restarting every time uses more fuel" },
+        { "nl": "Je zet hem af zolang je stilstaat", "fr": "Vous le coupez tant que vous êtes à l'arrêt", "en": "You switch it off while you are stationary" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Je mag de motor niet in vrijloop laten draaien terwijl je stilstaat, behalve in geval van noodzaak (art. 8.6). Dat een herstart meer verbruikt dan stationair draaien is bovendien een misvatting: bij een moderne motor loont afzetten al na enkele tientallen seconden stilstand.",
+        "fr": "Vous ne pouvez pas laisser tourner le moteur au ralenti pendant un arrêt, sauf en cas de nécessité (art. 8.6). L'idée qu'un redémarrage consomme plus que le ralenti est d'ailleurs une idée reçue : avec un moteur moderne, couper le contact est déjà rentable après quelques dizaines de secondes d'arrêt.",
+        "en": "You may not let the engine run at idle while stationary, except in case of necessity (Art. 8.6). The idea that restarting uses more fuel than idling is moreover a misconception: with a modern engine, switching off already pays after a few dozen seconds of standstill."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 8.6", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "FOD Mobiliteit en Vervoer — zuinig rijden (ecodriving)", "url": "https://mobilit.belgium.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-053",
+      "difficulty": 2,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Na je vakantie laat je de lege dakkoffer op je auto zitten. Wat is het gevolg voor het brandstofverbruik?",
+        "fr": "Après vos vacances, vous laissez le coffre de toit vide sur votre voiture. Quelle est la conséquence pour la consommation de carburant ?",
+        "en": "After your holiday you leave the empty roof box on your car. What is the effect on fuel consumption?"
+      },
+      "options": [
+        { "nl": "Geen gevolg: een lege dakkoffer weegt bijna niets en telt dus nauwelijks mee", "fr": "Aucune conséquence : un coffre de toit vide ne pèse presque rien et ne compte donc guère", "en": "No effect: an empty roof box weighs almost nothing and therefore hardly counts" },
+        { "nl": "Het verbruik daalt licht doordat de wagen gestroomlijnder wordt", "fr": "La consommation baisse légèrement car la voiture est plus profilée", "en": "Consumption drops slightly because the car becomes more streamlined" },
+        { "nl": "Het verbruik stijgt door de extra luchtweerstand, vooral bij hoge snelheid", "fr": "La consommation augmente à cause de la résistance à l'air accrue, surtout à haute vitesse", "en": "Consumption rises because of the extra air resistance, especially at high speed" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Bij een dakkoffer is niet het gewicht maar de luchtweerstand de grote boosdoener: op autosnelwegsnelheid kan het verbruik ruwweg tien tot twintig procent hoger liggen, ook met een lege koffer. Haal dakkoffer en fietsenrek er dus af zodra je ze niet meer gebruikt.",
+        "fr": "Avec un coffre de toit, le grand coupable n'est pas le poids mais la résistance à l'air : à vitesse d'autoroute, la consommation peut être supérieure d'environ dix à vingt pour cent, même avec un coffre vide. Retirez donc coffre de toit et porte-vélos dès que vous ne les utilisez plus.",
+        "en": "With a roof box the main culprit is not the weight but the air resistance: at motorway speed, consumption can be roughly ten to twenty percent higher, even with an empty box. So remove the roof box and bicycle carrier as soon as you no longer use them."
+      },
+      "citations": [
+        { "source": "FOD Mobiliteit en Vervoer — zuinig rijden (ecodriving)", "url": "https://mobilit.belgium.be" },
+        { "source": "VSV — milieuvriendelijk rijden", "url": "https://www.veiligverkeer.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-054",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je rijdt op de autosnelweg achter een vrachtwagen. Sommige bestuurders rijden vlak achter hem, 'in zijn zog', om brandstof te sparen. Wat doe jij?",
+        "fr": "Sur autoroute, vous roulez derrière un camion. Certains conducteurs se collent juste derrière lui, « dans son sillage », pour économiser du carburant. Que faites-vous ?",
+        "en": "On the motorway you are driving behind a truck. Some drivers tuck in right behind it, 'in its slipstream', to save fuel. What do you do?"
+      },
+      "options": [
+        { "nl": "Je volgt dichter dan twee seconden: in het zog zijn luchtweerstand en verbruik het laagst", "fr": "Vous suivez à moins de deux secondes : dans le sillage, la résistance à l'air et la consommation sont les plus faibles", "en": "You follow closer than two seconds: in the slipstream, air resistance and consumption are lowest" },
+        { "nl": "Je vergroot je afstand: zo zie je meer van de weg en blijf je zichtbaar", "fr": "Vous augmentez votre distance : vous voyez mieux la route et vous restez visible", "en": "You increase your distance: you see more of the road and you stay visible" },
+        { "nl": "Je houdt exact twee seconden aan: de regel is dezelfde achter elk voertuig", "fr": "Vous gardez exactement deux secondes : la règle est la même derrière chaque véhicule", "en": "You keep exactly two seconds: the rule is the same behind every vehicle" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Achter een vrachtwagen neem je juist méér afstand dan de minimale twee seconden: zijn hoge, brede laadbak ontneemt je elk zicht op de weg vóór hem, en wie zo dicht volgt dat hij de spiegels van de vrachtwagen niet meer ziet, zit in de dode hoek van de chauffeur. De volgafstand moet altijd volstaan om een aanrijding te vermijden als je voorligger plots vertraagt (art. 10.1, 2°) — een besparing rechtvaardigt dat risico nooit.",
+        "fr": "Derrière un camion, prenez justement plus que les deux secondes minimales : sa caisse haute et large vous masque toute la route devant lui, et celui qui suit de si près qu'il ne voit plus les rétroviseurs du camion se trouve dans l'angle mort du chauffeur. La distance de sécurité doit toujours suffire pour éviter une collision si le véhicule qui précède ralentit soudainement (art. 10.1, 2°) — une économie ne justifie jamais ce risque.",
+        "en": "Behind a truck you should allow more than the minimum two seconds: its high, wide body hides the entire road ahead of it, and anyone following so closely that they can no longer see the truck's mirrors is sitting in the driver's blind spot. Your following distance must always be enough to avoid a collision if the vehicle ahead suddenly slows (Art. 10.1, 2°) — a fuel saving never justifies that risk."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 10.1, 2°", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "VSV — afstand houden en de dode hoek", "url": "https://www.veiligverkeer.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-055",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Je rijdt in dichte mist en ziet minder dan 100 meter ver. Hoe rijd je?",
+        "fr": "Vous roulez dans un brouillard dense et voyez à moins de 100 mètres. Comment roulez-vous ?",
+        "en": "You are driving in dense fog and can see less than 100 metres ahead. How do you drive?"
+      },
+      "options": [
+        { "nl": "Met grootlichten aan, zodat je in de mist zo ver mogelijk vóór je uit ziet", "fr": "Avec les feux de route allumés, pour voir le plus loin possible devant vous dans le brouillard", "en": "With main beam on, so that you can see as far ahead as possible in the fog" },
+        { "nl": "Met de waarschuwingsknipperlichten aan, zodat anderen je eerder opmerken", "fr": "Avec les feux de détresse allumés, pour que les autres vous remarquent plus tôt", "en": "With your hazard lights on, so that others notice you sooner" },
+        { "nl": "Met dimlichten en achtermistlicht, trager en met extra afstand", "fr": "Avec les feux de croisement et le feu arrière de brouillard, plus lentement et de plus loin", "en": "With dipped beam and rear fog light, slower and at a greater distance" }
+      ],
+      "correct": 2,
+      "explanation": {
+        "nl": "Bij mist die de zichtbaarheid tot minder dan ongeveer 100 meter beperkt, moet je het achtermistlicht gebruiken; mistlichten vooraan mogen dan ook (art. 30.3). Grootlichten zijn in mist contraproductief: het licht weerkaatst op de druppels en verblindt jezelf. Pas bovendien je snelheid en afstand aan het beperkte zicht aan (art. 10.1).",
+        "fr": "Quand le brouillard réduit la visibilité à moins d'environ 100 mètres, vous devez utiliser le feu arrière de brouillard ; les feux de brouillard avant sont alors également permis (art. 30.3). Les feux de route sont contre-productifs dans le brouillard : la lumière se réfléchit sur les gouttelettes et vous éblouit vous-même. Adaptez en outre votre vitesse et votre distance à la visibilité réduite (art. 10.1).",
+        "en": "When fog limits visibility to less than about 100 metres, you must use the rear fog light; front fog lights are then also permitted (Art. 30.3). Main beam is counterproductive in fog: the light reflects off the droplets and dazzles you. Also adapt your speed and distance to the reduced visibility (Art. 10.1)."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 30.3", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "Wegcode (KB 01/12/1975), Art. 10.1", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-056",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Bij hevige regen op de autosnelweg voelt je stuur plots heel licht aan: je banden verliezen contact met het wegdek (aquaplaning). Wat doe je?",
+        "fr": "Sous une pluie battante sur l'autoroute, votre volant devient soudain très léger : vos pneus perdent le contact avec la chaussée (aquaplanage). Que faites-vous ?",
+        "en": "In heavy rain on the motorway your steering suddenly feels very light: your tires are losing contact with the road surface (aquaplaning). What do you do?"
+      },
+      "options": [
+        { "nl": "Je lost het gaspedaal en houdt het stuur recht, zonder bruuske bewegingen", "fr": "Vous relâchez l'accélérateur et gardez le volant droit, sans gestes brusques", "en": "You ease off the accelerator and keep the steering wheel straight, without abrupt movements" },
+        { "nl": "Je remt meteen krachtig om zo snel mogelijk opnieuw grip op het wegdek te krijgen", "fr": "Vous freinez immédiatement et fermement pour retrouver au plus vite l'adhérence sur la chaussée", "en": "You brake hard at once to regain grip on the road surface as quickly as possible" },
+        { "nl": "Je stuurt kordaat naar de rechterrijstrook, waar minder water ligt", "fr": "Vous braquez fermement vers la bande de droite, où il y a moins d'eau", "en": "You steer firmly to the right-hand lane, where there is less water" }
+      ],
+      "correct": 0,
+      "explanation": {
+        "nl": "Bij aquaplaning drijven je banden op een waterlaag: remmen of sturen heeft dan geen effect en maakt het voertuig onbestuurbaar zodra de grip terugkeert. Los daarom rustig het gaspedaal, houd het stuur recht en wacht tot de banden opnieuw contact maken. Voorkomen doe je door je snelheid aan het weer aan te passen (art. 10.1) en je bandenspanning op peil te houden.",
+        "fr": "En cas d'aquaplanage, vos pneus flottent sur une couche d'eau : freiner ou braquer n'a alors aucun effet et rend le véhicule incontrôlable dès que l'adhérence revient. Relâchez donc calmement l'accélérateur, gardez le volant droit et attendez que les pneus reprennent contact. On le prévient en adaptant sa vitesse aux conditions météo (art. 10.1) et en maintenant la bonne pression des pneus.",
+        "en": "During aquaplaning your tires float on a layer of water: braking or steering then has no effect and makes the vehicle uncontrollable the moment grip returns. So calmly release the accelerator, keep the steering wheel straight and wait until the tires regain contact. You prevent it by adapting your speed to the weather (Art. 10.1) and keeping your tires properly inflated."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 10.1", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "AWSR — conduire sous la pluie", "url": "https://www.awsr.be" }
+      ]
+    },
+    {
+      "id": "driver-fitness-documents-057",
+      "difficulty": 3,
+      "severity": "standard",
+      "image": null,
+      "text": {
+        "nl": "Tijdens een lange avondrit worden je oogleden zwaar, je gaapt en je schrikt op omdat je even naar de rand van je rijstrook afdreef. Wat doe je?",
+        "fr": "Lors d'un long trajet en soirée, vos paupières deviennent lourdes, vous bâillez et vous sursautez parce que vous avez dérivé vers le bord de votre bande. Que faites-vous ?",
+        "en": "During a long evening drive your eyelids grow heavy, you yawn, and you startle because you briefly drifted toward the edge of your lane. What do you do?"
+      },
+      "options": [
+        { "nl": "Je zet het raam open en de radio luider tot aan de volgende afrit", "fr": "Vous ouvrez la fenêtre et montez le son de la radio jusqu'à la prochaine sortie", "en": "You open the window and turn the radio up until the next exit" },
+        { "nl": "Je stopt op de eerstvolgende veilige plaats en rust eerst uit", "fr": "Vous vous arrêtez au premier endroit sûr et vous vous reposez d'abord", "en": "You stop at the next safe place and rest first" },
+        { "nl": "Je vertraagt en vergroot je volgafstand om het risico te compenseren", "fr": "Vous ralentissez et augmentez votre distance de sécurité pour compenser le risque", "en": "You slow down and increase your following distance to compensate for the risk" }
+      ],
+      "correct": 1,
+      "explanation": {
+        "nl": "Zware oogleden, gapen en afdrijven binnen de rijstrook zijn typische voortekenen van een microslaap: enkele seconden bewusteloosheid, aan 120 km/u goed voor honderden meters blind rijden. Frisse lucht of muziek helpt hooguit enkele minuten en trager rijden neemt het risico niet weg — een bestuurder moet voortdurend in staat zijn om te sturen (art. 8.3). Alleen stoppen en rusten (een powernap) helpt echt.",
+        "fr": "Paupières lourdes, bâillements et dérive dans la bande sont les signes typiques d'un micro-sommeil imminent : quelques secondes d'inconscience, soit des centaines de mètres en aveugle à 120 km/h. L'air frais ou la musique n'aide que quelques minutes et ralentir ne supprime pas le risque — un conducteur doit être constamment en état de conduire (art. 8.3). Seuls l'arrêt et le repos (une courte sieste) aident vraiment.",
+        "en": "Heavy eyelids, yawning and drifting within your lane are the typical warning signs of a microsleep: a few seconds of unconsciousness, which at 120 km/h means hundreds of metres driven blind. Fresh air or music helps for a few minutes at most and slowing down does not remove the risk — a driver must be constantly able to drive (Art. 8.3). Only stopping and resting (a power nap) really helps."
+      },
+      "citations": [
+        { "source": "Wegcode (KB 01/12/1975), Art. 8.3", "url": "https://www.ejustice.just.fgov.be/eli/besluit/1975/12/01/1975120109/justel" },
+        { "source": "VSV — vermoeidheid achter het stuur", "url": "https://www.veiligverkeer.be" }
       ]
     }
   ]

@@ -3,7 +3,7 @@ import type { CategoryMeta } from "./types";
 export const CATEGORIES: CategoryMeta[] = [
   {
     slug: "signs-danger-priority",
-    reading: ["traffic-signs"],
+    reading: ["signs-danger-priority"],
     icon: "⚠️",
     title: {
       nl: "Gevaarsborden & voorrangsborden",
@@ -13,7 +13,7 @@ export const CATEGORIES: CategoryMeta[] = [
   },
   {
     slug: "signs-prohibition-obligation",
-    reading: ["traffic-signs"],
+    reading: ["signs-prohibition-obligation"],
     icon: "🚫",
     title: {
       nl: "Verbodsborden & gebodsborden",
@@ -23,7 +23,7 @@ export const CATEGORIES: CategoryMeta[] = [
   },
   {
     slug: "signs-parking-indication",
-    reading: ["traffic-signs"],
+    reading: ["signs-parking-indication"],
     icon: "🅿️",
     title: {
       nl: "Parkeerborden, aanwijzingsborden & markeringen",
@@ -93,7 +93,7 @@ export const CATEGORIES: CategoryMeta[] = [
   },
   {
     slug: "driver-fitness-documents",
-    reading: ["driver-vehicle","fitness-alcohol","accidents-emergencies"],
+    reading: ["driver-vehicle","fitness-alcohol","accidents-emergencies","eco-defensive"],
     icon: "🪪",
     title: {
       nl: "Rijgeschiktheid, documenten & voertuig",
