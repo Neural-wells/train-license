@@ -7,3 +7,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
 
 <!-- END:nextjs-agent-rules -->
+
+## Never again (Sam, 2026-11-13)
+- **No Auto-fix, no "watch CI?" question, anywhere.** Delivering a PR includes watching every check to its end myself and fixing what is red before I report. Never offer, ask about, mention or button Auto-fix or CI watching.
+- **No choice boxes.** No AskUserQuestion, no question/buttons in the wrap-up box, no Yes/No buttons of any kind. A question to Sam is written in the message with: description (what is undecided), context (what I found, with evidence), impact (what each answer changes, costs, risks) and proposals (the options, with my recommendation).
